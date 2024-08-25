@@ -1,0 +1,1712 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH QUẢN LÝ VÀ VẬN HÀNH HẠ TẦNG
+(Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: QUẢN LÝ VÀ VẬN HÀNH HẠ TẦNG
+Ngành đào tạo: QUẢN LÝ VÀ VẬN HÀNH HẠ TẦNG
+Tên tiếng Anh: INFRASTRUCTURE ENGINEERING AND
+MANAGEMENT
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7840110
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2021
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: QUẢN LÝ VÀ VẬN HÀNH HẠ TẦNG
+Trình độ đào tạo: Đại học
+Ngành đào tạo: QUẢN LÝ VÀ VẬN HÀNH HẠ TẦNG
+Mã ngành: 7840110
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kỹ sư
+(Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ
+ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có khả năng phát triển toàn diện về kiến thức, kỹ năng, thái độ, năng
+lực thực tiễn và ý thức trách nhiệm với xã hội. Khả năng thích ứng nhanh với môi trường làm
+việc luôn thay đổi cũng là mục đích xuyên suốt trong quá trình đào tạo sinh viên chuyên ngành
+Quản lý và vận hành hạ tầng.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+1. Kiến thức và lập luận kỹ thuật
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+4. Hình thành ý tưởng, thiết kế, triển khai và vận hành trong bối cảnh doanh nghiệp, xã hội
+và môi trường – quá trình sáng tạo
+Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra
+hiệu năng lực
+1. Kiến thức và lập luận kỹ thuật
+Giải thích các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên (chủ
+1.1. 2
+nghĩa xã hội khoa học, toán học, vật lý học,…)
+Áp dụng các kiến thức nền tảng kỹ thuật cốt lõi như vẽ kỹ thuật, cơ học vật
+1.2. liệu, cấp thoát nước công trình, kỹ thuật điện công trình và kỹ thuật nhiệt 3
+công trình vào lĩnh vực quản lý và vận hành hạ tầng
+Đề xuất phương án tính toán thiết kế, thi công và quản lý vận hành hệ thống
+1.3. điện, nước và nhiệt công trình xây dựng dựa vào kiến thức nền tảng kỹ thuật 5
+nâng cao.
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Đề xuất được những giải pháp giải quyết vấn đề thực tế trong các lĩnh vực
+2.1. 5
+thiết kế, thi công, quản lý và vận hành hạ tầng
+Phân tích và đánh giá kết quả khảo sát, thử nghiệm các vấn đề liên quan đến
+2.2. 4
+quản lý và vận hành hạ tầng
+Chọn lựa các giải pháp công nghệ liên quan đến quản lý và vận hành hạ tầng
+2.3. 5
+dựa vào các yếu tố xã hội, kinh tế và kỹ thuật
+Lập kế hoạch tự học nhằm đề xuất các giải pháp sáng tạo giải quyết các vấn
+2.4. 5
+đề chuyên ngành
+Phát triển thái độ và đạo đức nghề nghiệp đúng đắn, ý thức kỷ luật và tác
+2.5. 5
+phong công nghiệp
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+Tổ chức làm việc nhóm dựa trên đặc tính từng thành viên của nhóm để giải
+3.1. 5
+quyết hiệu quả mục tiêu dự án
+Tổng hợp các kỹ năng giao tiếp khác nhau như viết báo cáo, thể hiện bản vẽ,
+3.2. 5
+thuyết trình nhằm đáp ứng nhu cầu và đặc tính của người nghe
+3.3. Sử dụng kiến thức ngoại ngữ để giao tiếp trong hoạt động nghề nghiệp 3
+Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+4.
+doanh nghiệp, xã hội và môi trường – quá trình sáng tạo
+Đánh giá được sự tác động của việc quản lý và vận hành hạ tầng đối với sự
+4.1. 5
+phát triển kinh tế, xã hội, môi trường và ngược lại
+Phát triển nghề nghiệp phù hợp với hình thái tổ chức và văn hóa doanh
+4.2. 5
+nghiệp để làm việc thành công
+Chọn lựa mô hình thiết kế, quản lý và vận hành hạ tầng thỏa mãn các yêu cầu
+4.3. 5
+kỹ thuật, kinh tế, môi trường, xã hội và bền vững
+Ký
+hiệu	Chuẩn đầu ra	Trình độ
+năng lực
+1.	Kiến thức và lập luận kỹ thuật	
+1.1.	Giải thích các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên (chủ
+nghĩa xã hội khoa học, toán học, vật lý học,…)	2
+1.2.	Áp dụng các kiến thức nền tảng kỹ thuật cốt lõi như vẽ kỹ thuật, cơ học vật
+liệu, cấp thoát nước công trình, kỹ thuật điện công trình và kỹ thuật nhiệt
+công trình vào lĩnh vực quản lý và vận hành hạ tầng	3
+1.3.	Đề xuất phương án tính toán thiết kế, thi công và quản lý vận hành hệ thống
+điện, nước và nhiệt công trình xây dựng dựa vào kiến thức nền tảng kỹ thuật
+nâng cao.	5
+2.	Kỹ năng và tố chất cá nhân và chuyên nghiệp	
+2.1.	Đề xuất được những giải pháp giải quyết vấn đề thực tế trong các lĩnh vực
+thiết kế, thi công, quản lý và vận hành hạ tầng	5
+2.2.	Phân tích và đánh giá kết quả khảo sát, thử nghiệm các vấn đề liên quan đến
+quản lý và vận hành hạ tầng	4
+2.3.	Chọn lựa các giải pháp công nghệ liên quan đến quản lý và vận hành hạ tầng
+dựa vào các yếu tố xã hội, kinh tế và kỹ thuật	5
+2.4.	Lập kế hoạch tự học nhằm đề xuất các giải pháp sáng tạo giải quyết các vấn
+đề chuyên ngành	5
+2.5.	Phát triển thái độ và đạo đức nghề nghiệp đúng đắn, ý thức kỷ luật và tác
+phong công nghiệp	5
+3.	Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp	
+3.1.	Tổ chức làm việc nhóm dựa trên đặc tính từng thành viên của nhóm để giải
+quyết hiệu quả mục tiêu dự án	5
+3.2.	Tổng hợp các kỹ năng giao tiếp khác nhau như viết báo cáo, thể hiện bản vẽ,
+thuyết trình nhằm đáp ứng nhu cầu và đặc tính của người nghe	5
+3.3.	Sử dụng kiến thức ngoại ngữ để giao tiếp trong hoạt động nghề nghiệp	3
+4.	Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+doanh nghiệp, xã hội và môi trường – quá trình sáng tạo	
+4.1.	Đánh giá được sự tác động của việc quản lý và vận hành hạ tầng đối với sự
+phát triển kinh tế, xã hội, môi trường và ngược lại	5
+4.2.	Phát triển nghề nghiệp phù hợp với hình thái tổ chức và văn hóa doanh
+nghiệp để làm việc thành công	5
+4.3.	Chọn lựa mô hình thiết kế, quản lý và vận hành hạ tầng thỏa mãn các yêu cầu
+kỹ thuật, kinh tế, môi trường, xã hội và bền vững	5
+Thiết kế một phần hoặc toàn bộ công tác quản lý và vận hành hạ tầng dựa
+4.4. 5
+trên kiến thức và kỹ năng tích lũy được trong quá trình học
+4.5. Đề xuất các giải pháp chủ đạo thi công hạ tầng, giám sát xây dựng 5
+Chọn lựa giải pháp phù hợp để vận hành hạ tầng như giám sát, bảo trì, sửa
+4.6. 5
+chữa hoặc nâng cấp
+Tổ chức lãnh đạo và quản lý nhóm làm việc trong hoạt động quản lý và
+4.7. 5
+vận hành hạ tầng
+Phân tích các sản phẩm xây dựng để vận dụng và phát triển kinh doanh
+4.8. 4
+trong lĩnh vực quản lý và vận hành hạ tầng
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+Đạt yêu
+2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+5. Khối lượng kiến thức toàn khoá: 150 tín chỉ
+(không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+4.4.	Thiết kế một phần hoặc toàn bộ công tác quản lý và vận hành hạ tầng dựa
+trên kiến thức và kỹ năng tích lũy được trong quá trình học	5
+4.5.	Đề xuất các giải pháp chủ đạo thi công hạ tầng, giám sát xây dựng	5
+4.6.	Chọn lựa giải pháp phù hợp để vận hành hạ tầng như giám sát, bảo trì, sửa
+chữa hoặc nâng cấp	5
+4.7.	Tổ chức lãnh đạo và quản lý nhóm làm việc trong hoạt động quản lý và
+vận hành hạ tầng	5
+4.8.	Phân tích các sản phẩm xây dựng để vận dụng và phát triển kinh doanh
+trong lĩnh vực quản lý và vận hành hạ tầng	4
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất
+sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+TT	TÊN HỌC PHẦN	Số tín chỉ
+		
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 62
+A. Khối kiến thức bắt buộc 58
+I. Lý luận chính trị + Pháp luật 13
+1 Kinh tế chính trị Mác-LêNin 2
+2 Triết học Mác-LêNin 3
+3 Chủ nghĩa xã hội khoa học 2
+4 Lịch sử Đảng CSVN 2
+3 Tư tưởng Hồ Chí Minh 2
+4 Pháp luật đại cương 2
+II. Toán học và KHTN 22
+1 Toán 1 3
+2 Toán 2 3
+3 Toán 3 3
+6 Xác suất thống kê ứng dụng 3
+7 Vật lý 1 3
+8 Vật lý 2 3
+9 Thí nghiệm vật lý 1 1
+10 Hóa đại cương 3
+III. Nhập môn ngành 3 (2+1)
+IV. Tin học 3 (2+1)
+1 Lập trình ứng dụng trong XD 3 (2+1)
+V. Khác 17
+1 Toán ứng dụng trong XD 3
+2 Dự toán xây dựng hạ tầng 2
+3 Anh văn 1 3
+4 Anh văn 2 3
+5 Anh văn 3 3
+6 Anh văn 4 3
+B. Khối kiến thức tự chọn 4
+VI. Khoa học xã hội nhân văn (theo danh mục) 4
+C. Khối kiến thức GDTC + GDQP
+VII. Giáo dục thể chất
+1 Giáo dục thể chất 1 1
+2 Giáo dục thể chất 2 1
+3 Tư chọn Giáo dục thể chất 3 3
+VIII. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 88
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 67
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành 10
+Thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7
+7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG		62
+A. Khối kiến thức bắt buộc		58
+I. Lý luận chính trị + Pháp luật		13
+1	Kinh tế chính trị Mác-LêNin	2
+2	Triết học Mác-LêNin	3
+3	Chủ nghĩa xã hội khoa học	2
+4	Lịch sử Đảng CSVN	2
+3	Tư tưởng Hồ Chí Minh	2
+4	Pháp luật đại cương	2
+II. Toán học và KHTN		22
+1	Toán 1	3
+2	Toán 2	3
+3	Toán 3	3
+6	Xác suất thống kê ứng dụng	3
+7	Vật lý 1	3
+8	Vật lý 2	3
+9	Thí nghiệm vật lý 1	1
+10	Hóa đại cương	3
+III. Nhập môn ngành		3 (2+1)
+IV. Tin học		3 (2+1)
+1	Lập trình ứng dụng trong XD	3 (2+1)
+V. Khác		17
+1	Toán ứng dụng trong XD	3
+2	Dự toán xây dựng hạ tầng	2
+3	Anh văn 1	3
+4	Anh văn 2	3
+5	Anh văn 3	3
+6	Anh văn 4	3
+B. Khối kiến thức tự chọn		4
+VI. Khoa học xã hội nhân văn (theo danh mục)		4
+C. Khối kiến thức GDTC + GDQP		
+VII. Giáo dục thể chất		
+1	Giáo dục thể chất 1	1
+2	Giáo dục thể chất 2	1
+3	Tư chọn Giáo dục thể chất 3	3
+VIII. Giáo dục quốc phòng		165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP		88
+Cơ sở nhóm ngành và ngành		67
+Cơ sở ngành		
+Chuyên ngành		
+Thí nghiệm, thực tập, thực hành
+Thực tập tốt nghiệp		10
+Khóa luận tốt nghiệp		7
+A – Phần bắt buộc
+7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. LLCT130105 Triết học Mác-LêNin 3
+2. LLCT120205 Kinh tế chính trị Mác-LêNin 2 HT_(LLCT130105)
+3. LLCT120405 Chủ nghĩa xã hội khoa học 2 HT_(LLCT130105)
+4. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT130105)
+5. HT_(LLCT120205)
+HT_(LLCT130105)
+LLCT220514 Lịch sử Đảng CSVN 2
+HT_( LLCT120405)
+HT_( LLCT120314)
+6. GELA220405 Pháp luật đại cương 2
+7. MATH132401 Toán 1 3
+8. MATH132501 Toán 2 3 HT_(MATH132401)
+HT_(MATH132401)
+9. MATH132601 Toán 3 3
+HT_(MATH132501)
+10. MATH132901 Xác suất thống kê ứng dụng 3 HT_(MATH132401)
+11. PHYS130902 Vật lý 1 3 HT_(MATH132401)
+HT_(PHYS130902)
+12. PHYS131002 Vật lý 2 3 HT_(MATH132401)
+HT_(MATH132501)
+HT_(MATH132401)
+13. PHYS111202 Thí nghiệm vật lý 1 1
+HT_(PHYS130902)
+14. GCHE130603 Hóa đại cương 3
+15. IIEM130122
+=> Nhập môn ngành QLVHHT 3(2+1)
+ITIM130122
+16. APCO131621 Lập trình ứng dụng trong XD 3(2+1)
+17. AMCO131421 Toán ứng dụng trong XD 3 HT_(MATH132501)
+18. CEOI420922 Dự toán xây dựng hạ tầng 2 HT_(INEN340222)
+19. ENGL130137 Anh văn 1 3
+20. ENGL230237 Anh văn 2 3
+21. ENGL330337 Anh văn 3 3
+22. ENGL430437 Anh văn 4 3
+23. Khoa học XH & NV 1 (Tự chọn) 2
+24. Khoa học XH & NV 1 (Tự chọn) 2
+25. PHED110513 Giáo dục thể chất 1 1
+26. PHED110613 Giáo dục thể chất 2 1
+27. PHED130715 Giáo dục thể chất 3 3
+28. - Giáo dục quốc phòng 165
+tiết
+Tổng 62
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. DGED125716 Hình họa, vẽ kỹ thuật XD 2
+STT		Mã môn học			Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.		LLCT130105			Triết học Mác-LêNin	3	
+2.		LLCT120205			Kinh tế chính trị Mác-LêNin	2	HT_(LLCT130105)
+3.		LLCT120405			Chủ nghĩa xã hội khoa học	2	HT_(LLCT130105)
+4.		LLCT120314			Tư tưởng Hồ Chí Minh	2	HT_(LLCT130105)
+5.		LLCT220514			Lịch sử Đảng CSVN	2	HT_(LLCT120205)
+HT_(LLCT130105)
+HT_( LLCT120405)
+HT_( LLCT120314)
+6.		GELA220405			Pháp luật đại cương	2	
+7.		MATH132401			Toán 1	3	
+8.		MATH132501			Toán 2	3	HT_(MATH132401)
+9.		MATH132601			Toán 3	3	HT_(MATH132401)
+HT_(MATH132501)
+10.		MATH132901			Xác suất thống kê ứng dụng	3	HT_(MATH132401)
+11.		PHYS130902			Vật lý 1	3	HT_(MATH132401)
+12.		PHYS131002			Vật lý 2	3	HT_(PHYS130902)
+HT_(MATH132401)
+HT_(MATH132501)
+13.		PHYS111202			Thí nghiệm vật lý 1	1	HT_(MATH132401)
+HT_(PHYS130902)
+14.		GCHE130603			Hóa đại cương	3	
+15.	15.		IIEM130122		Nhập môn ngành QLVHHT	3(2+1)	
+			=>				
+			ITIM130122				
+16.		APCO131621			Lập trình ứng dụng trong XD	3(2+1)	
+17.			AMCO131421		Toán ứng dụng trong XD	3	HT_(MATH132501)
+18.		CEOI420922			Dự toán xây dựng hạ tầng	2	HT_(INEN340222)
+19.		ENGL130137			Anh văn 1	3	
+20.		ENGL230237			Anh văn 2	3	
+21.		ENGL330337			Anh văn 3	3	
+22.		ENGL430437			Anh văn 4	3	
+23.					Khoa học XH & NV 1 (Tự chọn)	2	
+24.					Khoa học XH & NV 1 (Tự chọn)	2	
+25.		PHED110513			Giáo dục thể chất 1	1	
+26.		PHED110613			Giáo dục thể chất 2	1	
+27.		PHED130715			Giáo dục thể chất 3	3	
+28.		-			Giáo dục quốc phòng	165
+tiết	
+Tổng						62	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	DGED125716	Hình họa, vẽ kỹ thuật XD	2	
+2. SOME240118 Cơ học đất 4
+3. BUME234817 Cơ học công trình 3
+4. STBU245617 Kết cấu công trình 4 HT_(BUME234817)
+5. COMA220717 Vật liệu xây dựng 2
+TQ_(PHYS131002)
+6. COET232144 Kỹ thuật điện công trình 3
+HT_(MATH132601)
+7. TREN341032 Kỹ thuật nhiệt – lạnh 4
+Tổng 22
+7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết bắt buộc)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. INEN340222 Cơ sở hạ tầng 4
+2. POIE310322 ĐA cơ sở hạ tầng 1 HT_(INEN340222)
+UTSP421122 Quy hoạch hệ thống giao thông đô
+3. 2 -
+thị
+IPMA330422 Quản lý dự án đầu tư xây dựng hạ
+4. 3 HT_(INEN340222)
+tầng
+PIPM310522 ĐA quản lý dự án đầu tư xây dựng 1
+5. HT_(IPMA330422)
+hạ tầng
+6. OMIC330822 Tổ chức và quản lý thi công hạ tầng 3 HT_(INEN340222)
+POMI310922 ĐA tổ chức và quản lý thi công hạ 1
+7. HT_(OMIC330822)
+tầng
+8. ITSM420722 ITS trong quản lý giao thông 2
+9. INMA420622 Duy tu và bảo dưỡng hạ tầng 2
+SSSY427545
+(Đã kiểm tra
+lại mã khoa
+10. Điện – mã Hệ thống kiểm soát an ninh an toàn 2 HT_(CEPE340345)
+dành riêng cho
+CTĐT khoa
+XD)
+11. CEPE340345 Hệ thống điện công trình 4 -
+12. CEPP411045 ĐA hệ thống điện công trình 1 HT_(CEPE340345)
+Hệ thống cấp nước và xử lý nước
+13. WSWT341022 4
+thải
+HT_(COET232144)
+14. ASCT340146 Hệ thống tự động hóa công trình 4
+HT_(TREN341032)
+15. ASCP410146 ĐA hệ thống tự động hóa công trình 1 HT_(ASCT340146)
+16. VSNC322810 Kỹ thuật thông gió và xử lý tiếng ồn 2
+SCIC421422 Chuyên đề Doanh nghiệp
+17. 2
+(QLVHHT)
+BLIE327217 Lãnh đạo và kinh doanh trong kỹ
+18. 2 -
+BLIE323322 thuật (QLVHHT)
+Tổng 39
+7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập công nghiệp)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. ENDP114617 TT Vẽ kỹ thuật trong xây dựng 1 HT_(DGED121023)
+2.	SOME240118	Cơ học đất	4	
+3.	BUME234817	Cơ học công trình	3	
+4.	STBU245617	Kết cấu công trình	4	HT_(BUME234817)
+5.	COMA220717	Vật liệu xây dựng	2	
+6.	COET232144	Kỹ thuật điện công trình	3	TQ_(PHYS131002)
+HT_(MATH132601)
+7.	TREN341032	Kỹ thuật nhiệt – lạnh	4	
+Tổng			22	
+STT	Mã môn học		Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	INEN340222		Cơ sở hạ tầng	4	
+2.	POIE310322		ĐA cơ sở hạ tầng	1	HT_(INEN340222)
+3.	UTSP421122		Quy hoạch hệ thống giao thông đô
+thị	2	-
+4.	IPMA330422		Quản lý dự án đầu tư xây dựng hạ
+tầng	3	HT_(INEN340222)
+5.	PIPM310522		ĐA quản lý dự án đầu tư xây dựng
+hạ tầng	1	HT_(IPMA330422)
+6.	OMIC330822		Tổ chức và quản lý thi công hạ tầng	3	HT_(INEN340222)
+7.	POMI310922		ĐA tổ chức và quản lý thi công hạ
+tầng	1	HT_(OMIC330822)
+8.	ITSM420722		ITS trong quản lý giao thông	2	
+9.	INMA420622		Duy tu và bảo dưỡng hạ tầng	2	
+10.		SSSY42754	Hệ thống kiểm soát an ninh an toàn	2	HT_(CEPE340345)
+		(Đã kiểm tra			
+		Điện – mã			
+		dành riêng cho			
+		CTĐT khoa			
+		XD)			
+11.	CEPE340345		Hệ thống điện công trình	4	-
+12.	CEPP411045		ĐA hệ thống điện công trình	1	HT_(CEPE340345)
+13.	WSWT341022		Hệ thống cấp nước và xử lý nước
+thải	4	
+14.	ASCT340146		Hệ thống tự động hóa công trình	4	HT_(COET232144)
+HT_(TREN341032)
+15.	ASCP410146		ĐA hệ thống tự động hóa công trình	1	HT_(ASCT340146)
+16.	VSNC322810		Kỹ thuật thông gió và xử lý tiếng ồn	2	
+17.	SCIC421422		Chuyên đề Doanh nghiệp
+(QLVHHT)	2	
+18.	BLIE327217
+BLIE323322		Lãnh đạo và kinh doanh trong kỹ
+thuật (QLVHHT)	2	-
+Tổng				39	
+BLIE327217
+
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	ENDP114617	TT Vẽ kỹ thuật trong xây dựng	1	HT_(DGED121023)
+2. SURP222819 TT Trắc địa 2
+3. PETP412919 TT đấu thầu 1 HT_(CEOI420922)
+4. SOIT220218 Khảo sát và Thí nghiệm đất 2 HT_(SOME240118)
+5. COMP211117 TT Vật liệu xây dựng 1 HT_(COMA220717)
+6. ROAT311122 Thí nghiệm cầu đường 1 HT_(SOME240118)
+HT_(ENDP114617)
+7. BIMP323019 TT BIM trong xây dựng 2 HT_(BUME234817)
+HT_(INEN340222)
+TQ_(PIPM310522)
+8. ENPR441522 TT Tốt nghiệp (QLVHHT) 4
+TQ_(POIE310322)
+Tổng 14
+7.2.3. Tốt nghiệp
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+Không nợ môn và
+Đạt kỳ thi kiểm tra
+1. THSI471622 Khóa luận tốt nghiệp 7
+năng lực “Qualified
+exam”
+Tổng 7
+Điều kiện thực hiện Khóa luận tốt nghiệp: Không nợ môn và Đạt kỳ thi kiểm tra năng lực
+“Qualified exam”.
+B – Phần tự chọn:
+7.3 Kiến thức giáo dục đại cương
+Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 4 tín
+chỉtrong các môn học sau):
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. GEFC220105 Kinh tế học đại cương 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. INMA220305 Nhập môn Quản trị học 2
+4. INLO220405 Nhập môn Logic học 2
+5. IVNC320905 Cơ sở văn hoá Việt Nam 2
+6. INSO321005 Nhập môn Xã hội học 2
+7. ENPS220591 Tâm lý học kỹ sư 2
+8. SYTH220491 Tư duy hệ thống 2
+9. LESK120190 Kỹ năng học tập đại học 2
+10. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+Kỹ năng làm việc trong môi trường
+11. WOPS120390 2
+kỹ thuật
+12. REME320690 Phương pháp nghiên cứu khoa học 2
+Tổng 4
+7.4 Kiến thức chuyên ngành (Sinh viên chọn 6 tín chỉ)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+2.		SURP222819		TT Trắc địa	2	
+3.	PETP412919			TT đấu thầu	1	HT_(CEOI420922)
+4.	SOIT220218			Khảo sát và Thí nghiệm đất	2	HT_(SOME240118)
+5.	COMP211117			TT Vật liệu xây dựng	1	HT_(COMA220717)
+6.	ROAT311122			Thí nghiệm cầu đường	1	HT_(SOME240118)
+7.	BIMP323019			TT BIM trong xây dựng	2	HT_(ENDP114617)
+HT_(BUME234817)
+HT_(INEN340222)
+8.	ENPR441522			TT Tốt nghiệp (QLVHHT)	4	TQ_(PIPM310522)
+TQ_(POIE310322)
+Tổng					14	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	THSI471622	Khóa luận tốt nghiệp	7	Không nợ môn và
+Đạt kỳ thi kiểm tra
+năng lực “Qualified
+exam”
+Tổng			7	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	GEFC220105	Kinh tế học đại cương	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	INMA220305	Nhập môn Quản trị học	2	
+4.	INLO220405	Nhập môn Logic học	2	
+5.	IVNC320905	Cơ sở văn hoá Việt Nam	2	
+6.	INSO321005	Nhập môn Xã hội học	2	
+7.	ENPS220591	Tâm lý học kỹ sư	2	
+8.	SYTH220491	Tư duy hệ thống	2	
+9.	LESK120190	Kỹ năng học tập đại học	2	
+10.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+11.	WOPS120390	Kỹ năng làm việc trong môi trường
+kỹ thuật	2	
+12.	REME320690	Phương pháp nghiên cứu khoa học	2	
+Tổng			4	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1. GICI422322 Đô thị xanh và thông minh 2
+2. ARCT422422 Kiến trúc – cảnh quan cầu đường 2
+3. METR421422 Đường mêtrô – đường sắt 2
+4. OPEB422022 Kiểm định và khai thác cầu đường 2
+5. ROWS422122 Nền đường trên đất yếu 2 HT_(SOME240118)
+6. LOSY421722 Hệ thống Logistics 2
+7. SSAS322045 Nguồn dự phòng và hệ thống ATS 2 3 -
+8. BMSY322045 Hệ thống BMS 2 3 -
+Nguyên lý tự động hóa quá trình
+9. PTPA321632 2 -
+nhiệt
+10. STRT321732 Chuyên đề lạnh 2 -
+11. STTT321832 Chuyên đề nhiệt 2 -
+12. STRE321932 Chuyên đề năng lượng tái tạo 2 -
+13. IMAS320525 Bảo trì và bảo dưỡng công nghiệp 2 -
+14. SWTR331610 Kỹ thuật xử lý nước cấp 3 -
+15. WWTR331910 Kỹ thuật xử lý nước thải 3 -
+16. APCT332310 Kỹ thuật xử lý khí thải 3 -
+17. SHWM321810 Quản lý chất thải rắn và nguy hại 2 -
+VSNC322810
+Kỹ thuật thông gió và xử lý tiếng
+18. Đã có ở phần 2 -
+ồn
+bắt buộc
+Tổng 6
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành
+trong phần tự chọn:
+- Xem danh sách các môn học được đề xuất trong phần Phụ lục, hoặc
+- Sinh viên có thể tự chọn các môn học nằm ngoài danh sách được đề xuất trên tinh
+thần các môn học hỗ trợ hướng phát triển nghề nghiệp sau này. SV nên nhờ tư vấn
+thêm từ Ban tư vấn để có sự lựa chọn phù hợp.
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn
+học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học
+chỉ MOOC (đường link đăng ký)
+Construction Cost Estimating and Cost
+Dự toán xây dựng hạ Control
+1. CEOI420922 2
+tầng https://www.coursera.org/learn/constructi
+on-cost-estimating
+BIM: Building Information Modeling
+TT BIM trong xây
+2. BIMP323019 2 http://au.autodesk.com/au-online/classes-
+dựng
+on-demand/bim
+Railway Engineering: An Integral
+Đường mêtrô – Approach
+3. METR421422 2
+đường sắt https://www.edx.org/course/railway-
+engineering-an-integral-approach
+1.	GICI422322		Đô thị xanh và thông minh	2			
+2.	ARCT422422		Kiến trúc – cảnh quan cầu đường	2			
+3.	METR421422		Đường mêtrô – đường sắt	2			
+4.	OPEB422022		Kiểm định và khai thác cầu đường	2			
+5.	ROWS422122		Nền đường trên đất yếu	2			HT_(SOME240118)
+6.	LOSY421722		Hệ thống Logistics	2			
+7.	SSAS322045		Nguồn dự phòng và hệ thống ATS	2	3		-
+							
+8.	BMSY322045		Hệ thống BMS	2	3		-
+							
+9.	PTPA321632		Nguyên lý tự động hóa quá trình
+nhiệt	2			-
+10.	STRT321732		Chuyên đề lạnh	2			-
+11.	STTT321832		Chuyên đề nhiệt	2			-
+12.	STRE321932		Chuyên đề năng lượng tái tạo	2			-
+13.	IMAS320525		Bảo trì và bảo dưỡng công nghiệp	2			-
+14.	SWTR331610		Kỹ thuật xử lý nước cấp	3			-
+15.	WWTR331910		Kỹ thuật xử lý nước thải	3			-
+16.	APCT332310		Kỹ thuật xử lý khí thải	3			-
+17.	SHWM321810		Quản lý chất thải rắn và nguy hại	2			-
+18.		VSNC322810	Kỹ thuật thông gió và xử lý tiếng
+ồn	2			-
+							
+		Đã có ở phần					
+		bắt buộc					
+Tổng				6			
+
+Kỹ thuật thông gió và xử lý tiếng
+
+ồn
+
+-
+
+STT	Mã môn học	Tên môn học	Số tín
+chỉ	Môn học được xét tương đương
+MOOC (đường link đăng ký)
+1.	CEOI420922	Dự toán xây dựng hạ
+tầng	2	Construction Cost Estimating and Cost
+Control
+https://www.coursera.org/learn/constructi
+on-cost-estimating
+2.	BIMP323019	TT BIM trong xây
+dựng	2	BIM: Building Information Modeling
+http://au.autodesk.com/au-online/classes-
+on-demand/bim
+3.	METR421422	Đường mêtrô –
+đường sắt	2	Railway Engineering: An Integral
+Approach
+https://www.edx.org/course/railway-
+engineering-an-integral-approach
+8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ
+để sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+1. LLCT120205 Kinh tế chính trị Mác-LêNin 2 HT_(LLCT130105)
+2. LLCT120405 Chủ nghĩa xã hội khoa học 2 HT_(LLCT130105)
+3. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT130105)
+4. HT_(LLCT120205)
+HT_(LLCT130105)
+LLCT220514 Lịch sử Đảng CSVN 2
+HT_( LLCT120405)
+HT_( LLCT120314)
+5. GELA220405 Pháp luật đại cương 2
+6. ENGL130137 Anh văn 1 3
+7. ENGL230237 Anh văn 2 3
+8. ENGL330337 Anh văn 3 3
+9. ENGL430437 Anh văn 4 3
+10. PHED110613 Giáo dục thể chất 2 1
+11. PHED130715 Giáo dục thể chất 3 3
+Tổng 22
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. MATH132401 Toán 1 3
+2. ITIM130122 Nhập môn ngành QLVHHT 3(2+1)
+3. BUME234817 Cơ học công trình 3
+4. DGED125716 Hình họa, vẽ kỹ thuật XD 2
+5. GCHE130603 Hóa đại cương 3
+6. LLCT130105 Triết học Mác-LêNin 3
+7. PHED110513 Giáo dục thể chất 1 1
+Tổng 17
+Học kỳ 2:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. MATH132501 Toán 2 3 HT_(MATH132401)
+2. MATH132901 Xác suất thống kê ứng dụng 3 HT_(MATH132401)
+3. PHYS130902 Vật lý 1 3 HT_(MATH132401)
+4. STBU245617 Kết cấu công trình 4 HT_(BUME234817)
+5. ENDP114617 TT. Vẽ kỹ thuật trong xây dựng 1 HT_(DGED121023)
+6. SURP222819 TT Trắc địa 2
+7. APCO131621 Lập trình ứng dụng trong XD 3(2+1)
+Tổng 19
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+HT_(MATH132401)
+1. MATH132601 Toán 3 3
+HT_(MATH132501)
+2. PHYS131002 Vật lý 2 3 HT_(PHYS130902)
+STT	Mã môn học	Tên môn học	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	LLCT120205	Kinh tế chính trị Mác-LêNin	2	HT_(LLCT130105)
+2.	LLCT120405	Chủ nghĩa xã hội khoa học	2	HT_(LLCT130105)
+3.	LLCT120314	Tư tưởng Hồ Chí Minh	2	HT_(LLCT130105)
+4.	LLCT220514	Lịch sử Đảng CSVN	2	HT_(LLCT120205)
+HT_(LLCT130105)
+HT_( LLCT120405)
+HT_( LLCT120314)
+5.	GELA220405	Pháp luật đại cương	2	
+6.	ENGL130137	Anh văn 1	3	
+7.	ENGL230237	Anh văn 2	3	
+8.	ENGL330337	Anh văn 3	3	
+9.	ENGL430437	Anh văn 4	3	
+10.	PHED110613	Giáo dục thể chất 2	1	
+11.	PHED130715	Giáo dục thể chất 3	3	
+	Tổng		22	
+TT	Mã MH	Tên MH	Số TC			Mã MH trước,
+MH tiên quyết
+1.	MATH132401	Toán 1	3			
+2.	ITIM130122	Nhập môn ngành QLVHHT	3(2+1)			
+3.	BUME234817	Cơ học công trình	3			
+4.	DGED125716	Hình họa, vẽ kỹ thuật XD	2			
+5.	GCHE130603	Hóa đại cương	3			
+6.	LLCT130105	Triết học Mác-LêNin	3			
+7.	PHED110513	Giáo dục thể chất 1	1			
+Tổng				17		
+TT	Mã MH			Tên MH			Số TC					Mã MH trước,
+MH tiên quyết
+1.	MATH132501			Toán 2			3					HT_(MATH132401)
+2.	MATH132901			Xác suất thống kê ứng dụng			3					HT_(MATH132401)
+3.	PHYS130902			Vật lý 1			3					HT_(MATH132401)
+4.	STBU245617			Kết cấu công trình			4					HT_(BUME234817)
+5.	ENDP114617			TT. Vẽ kỹ thuật trong xây dựng			1					HT_(DGED121023)
+6.		SURP222819		TT Trắc địa			2					
+7.		APCO131621			Lập trình ứng dụng trong XD			3(2+1)				
+Tổng									19			
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	MATH132601	Toán 3	3	HT_(MATH132401)
+HT_(MATH132501)
+2.	PHYS131002	Vật lý 2	3	HT_(PHYS130902)
+HT_(MATH132401)
+HT_(MATH132501)
+HT_(MATH132401)
+3. PHYS111202 Thí nghiệm vật lý 1 1
+HT_(PHYS130902)
+4. COMA220717 Vật liệu xây dựng 2
+5. SOME240118 Cơ học đất 4
+TQ_(PHYS131002)
+6. COET232144 Kỹ thuật điện công trình 3
+HT_(MATH132601)
+7. INEN340222 Cơ sở hạ tầng 4
+Tổng 20
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+Quản lý dự án đầu tư xây dựng hạ
+1. IPMA330422 3 HT_(INEN340222)
+tầng
+2. TREN341032 Kỹ thuật nhiệt – lạnh 4
+3. SOIT220218 Khảo sát và thí nghiệm đất 2 HT_(SOME240118)
+4. CEOI420922 Dự toán xây dựng hạ tầng 2 HT_(INEN340222)
+5. CEPE340345 Hệ thống điện công trình 4 -
+6. WSWT341022 Hệ thống cấp nước và xử lý nước thải 4
+7. POIE310322 Đồ án cơ sở hạ tầng 1 HT_(INEN340222)
+Tổng 20
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. AMCO131421 Toán ứng dụng trong XD 3 HT_(MATH132501)
+2. INMA420622 Duy tu và bảo dưỡng hạ tầng 2
+3. UTSP421122 Quy hoạch hệ thống giao thông đô thị 2
+4. OMIC330822 Tổ chức và quản lý thi công hạ tầng 3 HT_(INEN340222)
+ASCT340146 Hệ thống tự động hóa công trình 4 HT_(COET232144)
+5.
+HT_(TREN341032)
+HT_(CEPE330345
+6. CEPP411045 ĐA hệ thống điện công trình 1
+=> CEPE340345)
+Đồ án quản lý dự án đầu tư xây dựng
+7. PIPM310522 1 HT_(IPMA330422)
+hạ tầng
+8. ITSM420722 ITS trong quản lý giao thông 2
+9. COMP211117 TT. Vật liệu xây dựng 1 HT_(COMA220717)
+KHXHNV 1 (SV tự chọn khi
+10. x 2
+ĐKMH)
+Tổng 21
+Học kỳ 6
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+SSSY427545
+(Đã kiểm tra
+1. lại mã khoa Hệ thống kiểm soát an ninh an toàn 2 HT_(CEPE340345)
+Điện – mã
+dành riêng
+				HT_(MATH132401)
+HT_(MATH132501)
+3.	PHYS111202	Thí nghiệm vật lý 1	1	HT_(MATH132401)
+HT_(PHYS130902)
+4.	COMA220717	Vật liệu xây dựng	2	
+5.	SOME240118	Cơ học đất	4	
+6.	COET232144	Kỹ thuật điện công trình	3	TQ_(PHYS131002)
+HT_(MATH132601)
+7.	INEN340222	Cơ sở hạ tầng	4	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC			Mã MH trước,
+MH tiên quyết
+1.	IPMA330422	Quản lý dự án đầu tư xây dựng hạ
+tầng	3			HT_(INEN340222)
+2.	TREN341032	Kỹ thuật nhiệt – lạnh	4			
+3.	SOIT220218	Khảo sát và thí nghiệm đất	2			HT_(SOME240118)
+4.	CEOI420922	Dự toán xây dựng hạ tầng	2			HT_(INEN340222)
+5.	CEPE340345	Hệ thống điện công trình	4			-
+6.	WSWT341022	Hệ thống cấp nước và xử lý nước thải	4			
+7.	POIE310322	Đồ án cơ sở hạ tầng	1			HT_(INEN340222)
+Tổng				20		
+TT	Mã MH				Tên MH			Số TC			Mã MH trước,
+MH tiên quyết		
+1.		AMCO131421			Toán ứng dụng trong XD			3			HT_(MATH132501)		
+2.	INMA420622				Duy tu và bảo dưỡng hạ tầng			2					
+3.	UTSP421122				Quy hoạch hệ thống giao thông đô thị			2					
+4.	OMIC330822				Tổ chức và quản lý thi công hạ tầng			3			HT_(INEN340222)		
+5.	ASCT340146				Hệ thống tự động hóa công trình			4			HT_(COET232144)
+HT_(TREN341032)		
+6.	CEPP411045				ĐA hệ thống điện công trình			1			HT_(CEPE330345
+=> CEPE340345)		
+7.	PIPM310522				Đồ án quản lý dự án đầu tư xây dựng
+hạ tầng			1			HT_(IPMA330422)		
+8.	ITSM420722				ITS trong quản lý giao thông			2					
+9.		COMP211117				TT. Vật liệu xây dựng			1			HT_(COMA220717)	
+10.	x					KHXHNV 1 (SV tự chọn khi		2					
+						ĐKMH)							
+Tổng									21				
+TT	Mã MH		Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.		SSSY427545	Hệ thống kiểm soát an ninh an toàn	2	HT_(CEPE340345)
+		(Đã kiểm tra			
+		lại mã khoa			
+		Điện – mã			
+		dành riêng			
+cho CTĐT
+khoa XD)
+2. VSNC322810 Kỹ thuật thông gió và xử lý tiếng ồn 2
+Đồ án tổ chức và quản lý thi công hạ
+3. POMI310922 1 HT_(OMIC330822)
+tầng
+Đồ án hệ thống tự động hóa công
+4. ASCP410146 1 HT_(ASCT340146)
+trình
+5. PETP412919 TT đấu thầu 1 HT_(CEOI420922)
+6. ROAT311122 Thí nghiệm cầu đường 1 HT_(SOME240118)
+HT_(ENDP114617)
+7. BIMP323019 TT BIM trong xây dựng 2 HT_(BUME234817)
+HT_(INEN340222)
+Kiến thức chuyên ngành 1 (SV tự
+8. 2 hay 3
+chọn khi ĐKMH)
+Kiến thức chuyên ngành 2(SV tự
+9. 2 hay 3 Tổng tối thiểu 6 TC
+chọn khi ĐKMH)
+Kiến thức chuyên ngành 3(SV tự
+10. 2 hay 3
+chọn khi ĐKMH)
+Lãnh đạo và kinh doanh trong kỹ
+11. BLIE323322 2
+thuật (QLVHHT)
+KHXHNV 2 (SV tự chọn khi
+12. x 2
+ĐKMH)
+Tổng 18
+Học kỳ 7
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. SCIC421422 Chuyên đề Doanh nghiệp (QLVHHT) 2
+TQ_(PIPM310522)
+2. ENPR441522 TT Tốt nghiệp (QLVHHT) 4
+TQ_(POIE310322)
+Tổng 6
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+Đạt kỳ thi kiểm tra
+1. THSI471622 Khóa luận tốt nghiệp 7 năng lực “Qualified
+exam”
+Tổng 7
+9. Mô tả vắn tắt nội dung và khối lượng các học phần
+9.1. Triết học Mác - Lênin 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần gồm 3 chương, cung cấp cho sinh viên kiến thức: Chương
+1trình bày những nét khái quát nhất về triết học, triết học Mác - Lênin, và vai trò của triết học
+Mác - Lênin trong đời sống xã hội. Chương 2 trình bày những nội dung cơ bản của chủ nghĩa
+		cho CTĐT				
+		khoa XD)				
+2.	VSNC322810		Kỹ thuật thông gió và xử lý tiếng ồn		2	
+3.	POMI310922		Đồ án tổ chức và quản lý thi công hạ
+tầng		1	HT_(OMIC330822)
+4.	ASCP410146		Đồ án hệ thống tự động hóa công
+trình		1	HT_(ASCT340146)
+5.	PETP412919		TT đấu thầu		1	HT_(CEOI420922)
+6.	ROAT311122		Thí nghiệm cầu đường		1	HT_(SOME240118)
+7.	BIMP323019		TT BIM trong xây dựng		2	HT_(ENDP114617)
+HT_(BUME234817)
+HT_(INEN340222)
+8.			Kiến thức chuyên ngành 1 (SV tự
+chọn khi ĐKMH)		2 hay 3	Tổng tối thiểu 6 TC
+9.			Kiến thức chuyên ngành 2(SV tự
+chọn khi ĐKMH)		2 hay 3	
+10.			Kiến thức chuyên ngành 3(SV tự
+chọn khi ĐKMH)		2 hay 3	
+11.	BLIE323322		Lãnh đạo và kinh doanh trong kỹ
+thuật (QLVHHT)		2	
+12.	x			KHXHNV 2 (SV tự chọn khi	2	
+				ĐKMH)		
+Tổng					18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	SCIC421422	Chuyên đề Doanh nghiệp (QLVHHT)	2	
+2.	ENPR441522	TT Tốt nghiệp (QLVHHT)	4	TQ_(PIPM310522)
+TQ_(POIE310322)
+Tổng			6	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	THSI471622	Khóa luận tốt nghiệp	7	Đạt kỳ thi kiểm tra
+năng lực “Qualified
+exam”
+Tổng			7	
+duy vật biện chứng, gồm vấn đề vật chất và ý thức; phép biện chứng duy vật; lý luận nhận thức
+của chủ nghĩa duy vật biện chứng. Chương 3 trình bày những nội dung cơ bản của chủ nghĩa duy
+vật lịch sử, gồm vấn đề hình thái kinh tế xã hội; giai cấp và dân tộc; nhà nước và cách mạng xã
+hội; ý thức xã hội; triết học về con người.
+9.2. Kinh tế chính trị Mác – Lênin 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Triết học Mác - Lênin
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần gồm 6 chương,cung cấp cho sinh viên kiến thức: Chương
+1 trình bày về đối tượng, phương pháp nghiên cứu và chức năng của kinh tế chính trị Mác - Lênin.
+Từ chương 2 đến chương 6 trình bày nội dung cốt lõi của kinh tế chính trị Mác - Lênin theo mục
+tiêu của môn học. Cụ thể các vấn đề như: Hàng hóa, thị trường và vai trò của các chủ thể trong
+nền kinh tế thị trường; Sản xuất giá trị thặng dư trong nền kinh tế thị trường; Cạnh tranh và độc
+quyền trong nền kinh tế thị trường; Kinh tế thị trường định hướng xã hội chủ nghĩa và các quan
+hệ lợi ích kinh tế ở Việt Nam; Công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt
+Nam.
+9.3. Tư tưởng Hồ Chí Minh 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Triết học Mác - Lênin
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần gồm 6 chương, cung cấp cho sinh viên kiến thức: Khái
+niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa học tập môn tư tưởng Hồ Chí Minh; về cơ
+sở, quá trình hình thành và phát triển tư tưởng Hồ Chí Minh; Tư tưởng Hồ Chí Minh về: Độc lập
+dân tộc và chủ nghĩa xã hội; Đảng Cộng sản Việt Nam và Nhà nước của nhân dân, do nhân dân,
+vì nhân dân; Đại đoàn kết dân tộc và đoàn kết quốc tế; Văn hóa, con người; Đạo đức.
+9.4. Chủ nghĩa xã hội khoa học 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Triết học Mác - Lênin
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần gồm 7 chương, cung cấp cho sinh viên kiến thức: Chương
+1, trình bày những vấn đề cơ bản có tính nhập môn của Chủ nghĩa xã hội khoa học (quá trình
+hình thành, phát triển của Chủ nghĩa xã hội khoa học); từ chương 2 đến chương 7 trình bày những
+nội dung cơ bản của Chủ nghĩa xã hội khoa học theo mục tiêu môn học.
+9.5. Lịch sử Đảng CSVN 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Triết học Mác – Lênin, Kinh tế chính trị Mác – Lênin, Chủ nghĩa xã hội khoa
+học, Tư tưởng Hồ Chí Minh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần gồm 3 chương, cung cấp cho sinh viên sự hiểu biết về đối
+tượng, mục đích, nhiệm vụ, phương pháp nghiên cứu, học tập môn Lịch sử Đảng và những kiến
+thức cơ bản, cốt lõi, hệ thống về sự ra đời của Đảng (1920-1930), quá trình Đảng lãnh đạo cuộc
+đấu tranh giành chính quyền (1930-1945), lãnh đạo hai cuộc kháng chiến chông thực dân Pháp
+và đế quốc Mỹ xâm lược, hoàn thành giải phóng dân tộc, thống nhất đất nước (1945-1975), lãnh
+đạo cả nước quá độ lên chủ nghĩa xã hội và tiến hành công cuộc đổi mới (1975-2018). Qua đó
+khẳng định các thành công, nêu lên các hạn chế, tổng kết những kinh nghiệm về sự lãnh đạo cách
+mạng của Đảng để giúp người học nâng cao nhận thức, niềm tin đối với Đảng và khả năng vận
+dụng kiến thức đã học vào thực tiễn công tác, góp phần xây dựng và bảo vệ Tổ quốc Việt Nam
+xã hội chủ nghĩa.
+9.6. Pháp luật đại cương 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên các kiến thức cơ bản nhất về nhà
+nước và pháp luật, bao gồm: lý luận chung về nhà nước và pháp luật (nguồn gốc, bản chất, chức
+năng, đặc trưng cơ bản của nhà nước; nguồn gốc, hình thức, khái niệm, thuộc tính của pháp luật);
+hệ thống pháp luật và quan hệ pháp luật, vi phạm pháp luật và trách nhiệm pháp lý; các chế định
+luật cơ bản của một số ngành luật quan trọng.
+9.7. Toán 1 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần Toán 1 cung cấp các kiến thức cơ bản về giới hạn, tính liên
+tục và phép tính vi tích phân của hàm một biến.
+9.8. Toán 2 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1
+Môn học tiên quyết: Toán 1
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần Toán 2 cung cấp các kiến thức cơ bản về phép tính tích
+phân của hàm một biến, chuỗi số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong không gian.
+9.9. Toán 3 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1, Toán 2
+Môn học tiên quyết: Toán 1, Toán 2
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp các kiến thức cơ bản về hàm vectơ, hàm
+nhiều biến, đạo hàm riêng, tích phân bội, tích phân đường, tích phân mặt và giải tích vectơ. Ứng
+dụng và định hướng giải quyết trong một số mô hình bài toán thực tế.
+9.10. Xác suất thống kê ứng dụng 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 2
+Môn học tiên quyết: Toán 2
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này bao gồm thống kê mô tả, xác suất sơ cấp, biến ngẫu
+nhiên và luật phân phối xác suất, các số đặc trưng của biến ngẫu nhiên, ước lượng tham số, kiểm
+định giả thuyết, tương quan và hồi qui tuyến tính.
+9.11. Vật lý 1 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1
+Môn học tiên quyết: Toán 1
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật
+lý bao gồm các phần cơ học và nhiệt học làm cơ sở cho việc tiếp cận các môn học chuyên ngành
+trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị các kiến
+thức về vật lý để khảo sát sự chuyển động, năng lượng và các hiện tượng vật lý liên quan đến các
+đối tượng trong tự nhiên có kích thước từ phân tử đến cỡ hành tinh. Sau khi học xong học phần
+sinh viên sẽ có khả năng ứng dụng những kiến thức đã học trong nghiên cứu khoa học cũng như
+trong phát triển kỹ thuật và công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 1 đến 22 trong sách Physics for Scientists and
+Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W. Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học,
+các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập
+luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong
+chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung
+cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở
+cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các
+kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình
+dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm
+khác. Đồng thời, sinh viên sẽ biết được giới hạn của mô hình và có thể sử dụng chúng trong việc
+phán đoán.
+9.12. Vật lý 2 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vật lý 1, Thí nghiệm Vật lý 1, Toán 1, Toán 2
+Môn học tiên quyết: Vật lý 1, Toán 1, Toán 2
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật
+lý gồm các phần điện từ học và quang học làm cơ sở cho việc tiếp cận với các môn học chuyên
+ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị
+những kiến thức về các hiện tượng trong thế giới tự nhiên và ứng dụng những kiến thức đó trong
+nghiên cứu khoa học, trong phát triển kỹ thuật và công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 23 đến 38 trong sách Physics for Scientists and
+Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W. Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học,
+các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập
+luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong
+chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung
+cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở
+cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các
+kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình
+dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm
+khác. Đồng thời, sinh viên sẽ biết được giới hạn của mô hình và có thể sử dụng chúng trong việc
+phán đoán.
+9.13. Thí nghiệm vật lý 1 1 TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Toán 1, Vật lý 1
+Môn học tiên quyết: Toán 1
+Môn học song hành: không
+Tóm tắt nội dung học phần:Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về
+động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là môn học bổ sung
+cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất
+các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong
+chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo
+đạc và tính toán, phân tích, xử lý số liệu.
+9.14. Hóa học đại cương 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này trang bị cho sinh viên kiến thức cơ bản về hóa học
+nhằm đặt nền tảng cho sinh viên khả năng đọc hiểu các tài liệu trong các những lĩnh vực khoa
+học, kỹ thuật có liên quan đến hóa học.
+Học phần này giúp sinh viên (i) hiểu được bản chất nguyên tử và phân tử, từ đó giải thích
+các tính chất của vật chất; (ii) phát triển khả năng giải quyết vấn đề định lượng cơ bản liên quan
+đến nhiệt động lực học, động học phản ứng, cân bằng hóa học, tính chất dung dịch và các quá
+trình điện hóa.
+Học phần này là nền tảng để sinh viên có những hiểu biết cần thiết về thế giới vật chất xung
+quanh, nhận thức mối liên hệ giữa hóa học và các ngành kỹ thuật. Bên cạnh đó, học phần này
+còn đáp ứng cho khả năng học tập của sinh viên ở trình độ cao hơn hoặc đại học văn bằng hai.
+9.15. Nhập môn ngành Quản lý và vận hành hạ tầng 3TC
+Phân bố thời gian học tập: 3(2/1/6)
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Giới thiệu về ngành kỹ thuật xây dựng công trình giao thông, đặc
+biệt là xây dựng cầu đường, mục tiêu học tập, các chuẩn cần đạt và định hướng nghề nghiệp cho
+sinh viên, bước đầu trau dồi các kiến thức tổng quát về các kỹ năng cần có cũng như thái độ về
+nghề nghiệp sau này.
+9.16. Lập trình ứng dụng trong XD 3 TC
+Phân bố thời gian học tập: 3(2/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp các kiến thức mở đầu, cơ bản về lập trình để giải một số
+bài toán thông thường.
+9.17. Toán ứng dụng trong XD 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp kiến thức các phương pháp tính toán áp dụng cho các bài
+toán kỹ thuật (xây dựng).
+9.18. Dự toán xây dựng hạ tầng 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học dự toán xây dựng hạ tầng nhằm giới thiệu cho sinh viên
+kiến thức cơ bản, kiến thức chuyên sâu về phương pháp thành lập giá toàn bộ công trình bao gồm
+xây dựng, cơ điện, hệ thống cấp thoát nước…. Ngoài ra, môn học còn cung cấp cho sinh viên
+kiến thức pháp luật: luật, nghị định, thông tư chính phủ, sở ban hành liên quan để sinh viên có
+thể ứng dụng ngay trong công tác dự toán xây dựng hạ tầng. Môn học cũng cung cấp kiến thức
+cơ bản để sinh viên đánh giá hiệu quả kinh tế của dự án đầu tư…
+9.19. Hình họa, vẽ kỹ thuật XD 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp các kiến thức cơ bản về phương pháp các hình chiếu vuông
+góc, quy định trình bày bản vẽ kỹ thuật cũng như rèn luyện tính kỷ luật, kỹ năng tư duy sáng tạo.
+9.20. Cơ học công trình 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Là học phần cơ bản thuộc nhóm môn học kỹ thuật cơ sở nhằm cung
+cấp kiến thức và kỹ năng tính toán ngoại lực, nội lực, chuyển vị trong kết cấu xây dựng; trang bị
+khả năng tính toán các loại cấu kiện cơ bản về độ bền, độ cứng và độ ổn định; học phần còn trang
+bị kiến thức về quy luật hình thành các công trình để chúng có khả năng chịu lực.
+9.21. Kỹ thuật điện công trình 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Toán 3
+Môn học tiên quyết: Vật lý 2
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên các kiến thức cơ bản về lý
+thuyết mạch điện và những ứng dụng trong lĩnh vực điện công trình. Môn học cũng cung cấp
+những kiến thức nền tảng về các loại máy điện thường sử dụng trong các công trình thực tế..
+9.22. Kỹ thuật nhiệt – lạnh 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Môn học Kỹ Thuật Nhiệt Lạnh là môn học thuộc ngành hệ thống
+kỹ thuật công trình xây dựng, môn học này giới thiệu cho người học các kiến thức cơ bản về
+chu trình nhiệt, lạnh nội dung, đặc điểm, tính chất và sự biến đổi năng lượng của các quá trình
+nhiệt động, trang bị cho người học các kiến thức về cơ bản về môi chất lạnh, môi chất tải lạnh,
+các phương pháp làm lạnh nhân tạo và các chu trình máy lạnh lạnh nén hơi, các khái niệm cơ
+bản về không khí và tính chất của không khí.
+9.23. Cơ học đất 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần trang bị cho người học những kiến thức cơ bản, nền tảng
+về cơ học đất. Cung cấp cho người học các nguyên lý và các kiến thức về bản chất của đất, các
+giả thuyết lý thuyết và thực nghiệm, các quá trình cơ học xảy ra trong đất khi chịu tác động bên
+ngoài và bên trong. Đưa người học tiếp cận với các vấn đề ứng dụng và là cơ sở để hình thành tố
+chất người Kỹ sư xây dựng. Đây là học phần cơ sở ngành trong khối kiến thức chuyên ngành kỹ
+thuật xây dựng, giúp người học vận dụng để giải quyết các vấn đề liên quan đến việc sử dụng
+các tính chất cơ lý của đất trong tính toán thiết kế.
+9.24. Kết cấu công trình 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Cơ học công trình
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học kết cấu công trình là môn học thuộc kiến thức chuyên
+ngành, nhằm giới thiệu cho sinh viên ngành hệ thống kỹ thuật công trình xây dựng những kiến
+thức cơ bản về nguyên lý thiết kế kết cấu theo trạng thái giới hạn (TTGH); cung cấp khái niệm
+về đặc điểm chịu lực và giải pháp kết cấu của kết cấu BTCT và kết cấu thép; cung cấp các kiến
+thức cơ bản về thiết kế các cấu kiện, cấu tạo cốt thép trong kết cấu BTCT; các loại liên kết và
+thiết kế các cấu kiện cơ bản trong kết cấu thép.
+9.25. Vật liệu xây dựng 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học vật liệu xây dựng là môn kỹ thuật cơ sở nhằm giới thiệu
+cho sinh viên những kiến thức cơ bản về đặc trưng cơ lý, các phương pháp kiểm tra đánh giá chất
+lượng và yêu cầu kỹ thuật của các loại vật liệu xây dựng phổ biến dùng trong xây dựng.
+9.26. Cơ sở hạ tầng 4TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học song hành: không
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Cung cấp kiến thức cho sinh viên về các nguyên tắc, phương pháp
+và các giải pháp kỹ thuật cũng như các tiêu chuẩn kỹ thuật để khảo sát, thiết kế hạ tầng: mặt
+bằng, trắc dọc, trắc ngang; thiết kế nền đường, mặt đường, các công trình thoát nước, công trình
+phòng hộ cho đường ôtô hoặc đường nội bộ khu công nghiệp, khu dân cư.
+9.27. Quy hoạch hệ thống giao thông đô thị 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên những kiến thức ở tầm vĩ mô về hệ thống
+giao thông đô thị bao gồm cả đường bộ, đường sắt, đường thủy, hàng không..., từ đó đưa ra
+những đề xuất có tầm chiến lược khi có kế hoạch xây dựng các công trình hạ tầng.
+9.28. Đồ án cơ sở hạ tầng 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Giúp sinh viên vận dụng một cách có hệ thống và tổng hợp kiến thức
+đã học của môn cơ sở hạ tầng để thiết kế cụ thể mặt bằng tuyến, nền, mặt đường, các công trình
+thoát nước, công trình phòng hộ cho đường ôtô hoặc đường nội bộ khu công nghiệp, khu dân cư.
+Qua đồ án môn học này, sinh viên nắm được trình tự và nội dung cơ bản của bước thiết kế thiết
+kế cơ sở hạ tầng.
+9.29. Tổ chức và quản lý thi công hạ tầng 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học Tổ chức và Quản lý thi công hạ tầng là môn học thuộc lĩnh
+vực quản lý hiện trường thi công hạ tầng bao gồm cả công tác cơ khí, điện, thông gió, cấp thoát
+nước và nhiệt lạnh nhằm giới thiệu cho sinh viên các kiến thức về: chuẩn bị gói thầu, các vấn đề
+trong giai đoạn xây dựng, hợp đồng xây dựng, lập kế hoạch dự án, lập tiến độ dự án, dòng tiền
+dự án, tài trợ dự án, quá trình ước lượng, kiểm soát chi phí, cung ứng nhân vật lực.... Ngoài ra,
+sinh viên cũng được trang bị các kiến thức liên quan đến việc lập kế hoạch bố trí tổng mặt bằng
+xây dựng hạ tầng trên công trường đạt hiệu quả.
+9.30. Đồ án Tổ chức và quản lý thi công hạ tầng 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Tổ chức và quản lý thi công hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Đây là học phần đồ án giúp sinh viên hiểu và biết cách áp dụng các
+kiến thức cơ bản đã học được từ môn học Tổ chức và quản lý thi công hạ tầng vào việc tổ chức
+xây dựng một công trình giao thông hay hạ tầng khu dân cư, khu công nghiệp. Sinh viên có thể
+lập và điều chỉnh tiến độ thi công, lập biểu đồ nhân lực, lựa chọn máy xây dựng, bố trí mặt bằng
+công trường và tổ chức các hoạt động trên công trường.
+9.31. Quản lý dự án đầu tư xây dựng hạ tầng 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học Quản lý dự án đầu tư xây dựng hạ tầng là môn học lý thuyết
+thuộc nhóm kiến thức kinh tế và quản lý. Môn học này trang bị cho người học những kiến thức
+căn bản về quản lý dự án bao gồm các khái niệm về quản lý dự án, tính toán sơ bộ chi phí dự án,
+phân tích tài chính dự án, đánh giá, so sánh lựa chọn dự án, ra quyết định đa mục tiêu, cấu trúc
+tổ chức dự án, việc lập kế hoạch tiến độ và kiểm soát dự án. Ngoài ra môn học còn trang bị các
+kiến thức về quản lý nhà nước trong hoạt động quản lý xây dựng tại Việt Nam, bao gồm cả những
+kiến thức liên quan đến việc thẩm tra, thẩm định dự án đầu tư xây dựng
+9.32. ĐA Quản lý dự án đầu tư xây dựng hạ tầng 1 TC
+Phân bố thời gian học tập: 1(0/0/2)
+Môn học trước: Quản lý dự án đầu tư xây dựng hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho sinh viên những kiến thức liên
+quan đến việc lập một dự án đầu tư xây dựng hạ tầng từ khâu thiết kế, lập dự toán, lập biện pháp
+thi công, tổ chức thi công và đánh giá hiệu quả của dự án dựa vào các chỉ tiêu về kinh tế, kỹ thuật
+và xã hội. Ngoài ra những kiến thức liên quan đến việc thẩm tra, thẩm định dự án đầu tư xây
+dựng hạ tầng cũng được trang bị cho sinh viên.
+9.33. Hệ thống điện công trình 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên những kiến thức về các biện pháp
+bảo vệ an toàn cho người và thiết bị, các công cụ an toàn điện, quản lý an toàn điện và các phương
+pháp cấp cứu người bị điện giật; các biện pháp chống sét trực tiếp và lan truyền trên đường nguồn
+và tín hiệu; kiến thức thiết kế chiếu sáng hạ tầng; các phương pháp xác định phụ tải tính toán,
+tính toán tổn thất điện áp, tính toán tổn thất điện năng, tính toán ngắn mạch, chọn số lượng, dung
+lượng máy biến áp, sơ đồ trạm biến áp phân phối và nguồn dự phòng, chức năng và nguyên lý
+hoạt động của các thiết bị đóng cắt, bảo vệ trung và hạ áp, các phương pháp chọn dây dẫn, cáp,
+thiết bị đóng cắt- bảo vệ- đo lường, tủ phân phối trung và hạ áp, các biện pháp nâng cao chất
+lượng điện năng và các loại đèn, phạm vi ứng dụng.
+9.34. ĐA Hệ thống điện công trình 1 TC
+Phân bố thời gian học tập: 1(0/0/2)
+Môn học trước: Hệ thống điện công trình
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên phương pháp thiết kế mạng điện
+phân phối trên tuyến đường hay trong đường hầm gồm các nội dung về đặc điểm hạ tầng, thiết
+kế chiếu sáng hạ tầng, số liệu phụ tải, phân nhóm phụ tải, vạch sơ đồ nối dây, xác định phụ tải
+tính toán ở từng cấp, chọn số trạm biến áp, chọn công suất máy phát dự phòng, chọn công suất
+bù và phương án bù, chọn dây dẫn/cáp, chọn thiết bị đóng cắt/ bảo vệ/đo lường, chọn tủ phân
+phối điện, tính toán chống sét, tính toán nối đất và lập bản dự toán.
+9.35. Hệ thống tự động hóa công trình 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Kỹ thuật điện công trình, Kỹ thuật nhiệt – lạnh.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Môn hệ thống tự động hóa công trình nhằm trang bị cho người học
+các nội dung về các thành phần của một hệ thống điều khiển tự động tuyến tính liên tục, các
+phương pháp xây dựng mô hình toán học của hệ thống điều khiển tự động, vấn đề điều khiển
+được và quan sát được, các phương pháp khảo sát ổn định của hệ thống điều khiển tự động, các
+phương pháp khảo sát chất lượng của hệ thống điều khiển. Ngoài ra, môn học còn cung cấp cho
+người học kiến thức về cảm biến, cơ cấu chấp hành, phần cứng và hoạt động của bộ điều khiển
+PLC (Programmable Logic Controller). Sinh viên sẽ học các ngôn ngữ lập trình PLC, cách thiết
+kế sơ đồ cho hệ thống điều khiển, bao gồm kết nối phần cứng và lập trình phần mềm cho một số
+hệ thống tự động trong công trình xây dựng như hệ thống điều khiển nhiệt độ, cần trục, thang
+máy, máy nghiền, máy định lượng….
+9.36. ĐA Hệ thống tự động hóa công trình 1 TC
+Phân bố thời gian học tập: 1(0/0/2)
+Môn học trước: Hệ thống tự động hóa công trình
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Môn học này là học phần ứng dụng của môn học hệ thống tự động
+hóa công trình, nhằm trang bị cho sinh viên kiến thức về cảm biến, lập trình, thiết kế phần cứng
+và thiết kế phần mềm của một hệ thống điều khiển lập trình và giám sát bằng PLC, cho một số
+ứng dụng trong công trình xây dựng như hệ thống điều khiển nhiệt độ, cần trục, thang máy, máy
+nghiền, máy định lượng.
+9.37. Hệ thống cấp nước và xử lý nước thải 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này là môn học tích hợp các lĩnh vực cấp nước để vận hành
+công trình, trạm bơm nước, phòng cháy chữa cháy, công tác xử lý nước thải hạ tầng. Môn học
+giới thiệu cho sinh viên các kiến thức cơ bản về nguồn cung cấp nước, trạm bơm nước, hệ thống
+cấp nước chữa cháy trong công trình, các công nghệ - kỹ thuật xử lý nước thải để từ đó có thể
+tính toán và thiết kế các công trình xử lý nước thải cho hạ tầng.
+9.38. Kỹ thuật thông gió và xử lý tiếng ồn 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về các thông gió,
+trang bị kỹ năng, tính toán, thiết kế các hệ thống thông gió. Kiến thức về ô nhiễm tiếng ồn công
+nghiệp và các biện pháp giảm thiểu tiếng ồn.
+9.39. ITS trong quản lý giao thông 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về hệ thống điều
+khiển giao thông thông minh trong các công trình hạ tầng phức tạp như hầm, metro, cao tốc…
+9.40. Duy tu và bảo dưỡng hạ tầng 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về công tác duy
+tu và bảo dưỡng hạ tầng…
+9.41. Hệ thống kiểm soát an ninh an toàn 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về hệ thống giám
+sát và an ninh cho công trình …
+9.42. Khởi nghiệp và sáng tạo trong XD 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Đây là học phần xây dựng khả năng sáng tạo trong khởi nghiệp
+liên quan đến ngành xây dựng, giúp cho sinh viên hình thành ý tưởng mới mang tính đột phá.
+9.43. Lãnh đạo và kinh doanh trong kỹ thuật 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên kến thức tổng hợp về phương pháp quản lý
+và kinh doanh trong kỹ thuật.
+9.44. Chuyên đề Doanh nghiệp (QLVHHT) 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Đây là học phần xây dựng khả năng sáng tạo trong khởi nghiệp liên
+quan đến ngành Quản lý và vận hành hạ tầng, giúp cho sinh viên hình thành ý tưởng mới mang
+tính đột phá.
+9.45. TT Vẽ kỹ thuật trong xây dựng 1 TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Hình họa, vẽ kỹ thuật
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ bản về
+việc đọc các bản vẽ kiến trúc và kỹ thuật trong xây dựng, trang bị cho người học khả năng thể
+hiện các bản vẽ kiến trúc và kỹ thuật bằng phần mềm đồ họa (CAD). Ngoài ra môn học giới
+thiệu về các thuật ngữ cơ bản trong ngành xây dựng (tên các cấu kiện, các bộ phận công trình,
+tên gọi các loại bản vẽ kỹ thuật trong xây dựng…), giới thiệu cấu tạo và cách thể hiện bản vẽ
+của một số cấu kiện cơ bản trong lĩnh vực xây dựng (Kết cấu bê tông cốt thép: Móng, cột, dầm,
+sàn, cầu thang, bể nước…; Kết cấu thép: cột, vì kèo, hệ giằng, các chi tiết liên kết).
+9.46. TT Trắc địa 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này kết hợp và vận dụng các kiến thức của môn trắc địa
+đại cương để từ đó thực hành các thao tác đo đạc và bố trí cơ bản bằng máy kinh vĩ và máy thủy
+bình. Gồm: Làm quen với máy kinh vĩ quang học; Đo góc bằng theo phương pháp cung và toàn
+vòng; Đo góc đứng bằng máy kinh vĩ; Đo dài trực tiếp bằng thước dây và đo dài gián tiếp bằng
+máy kinh vĩ và mia; Đo cao lượng giác; Hướng dẫn sử dụng máy thủy bình; Đo chênh cao từ
+giữa bằng máy thủy bình (đo cao kỹ thuật); Lập lưới đường chuyền tọa độ và độ cao.
+9.47. Khảo sát và thí nghiệm đất 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Cơ học đất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này cung cấp cho người học kiến thức về khoan khảo sát
+địa chất cho các công trình và các phương pháp thí nghiệm trong phòng nhằm xác định các chỉ
+tiêu cơ lý của đất. Trang bị cho người học về phuơng pháp thu thập và xử lý số liệu thí nghiệm
+để lập báo cáo khảo sát địa chất phục vụ cho công tác tính toán - thiết kế nền móng công trình.
+9.48. TT Vật liệu xây dựng 1 TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Vật liệu xây dựng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học nhằm trang bị các kiến thức rộng để làm các thí nghiệm về
+tính chất cơ lý của một số vật liệu xây dựng cơ bản như: gạch đất sét nung, gạch không nung,
+cát, đá ,xi măng, bê tông.
+9.49. Thí nghiệm cầu đường 1TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Cơ học đất
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Môn học trang bị những kiến thức cơ bản, hiện đại và thực tế về tính
+chất vật liệu nhựa đường, các phương pháp kiểm tra nhựa đường, thiết kế cấp phối, kiểm tra các
+thông số kỹ thuật của kết cấu áo đường cứng và mềm.
+9.50. TT BIM trong xây dựng 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: TT Vẽ kỹ thuật trong xây dựng, Kết cấu công trình, Cơ sở hạ tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Đây là môn học nhằm cung cấp cho sinh viên một quy trình liên
+quan đến việc tạo lập và quản lý những thông tin kỹ thuật trong các khâu thiết kế, thi công và
+vận hành công trình nhờ sự hỗ trợ của các phần mềm: Revit, Tekla...
+9.51. Thực tập đấu thầu 1TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Dự toán xây dựng hạ tầng
+Môn học tiên quyết: Không
+Tóm tắt nội dung học phần: Là học phần thuộc nhóm các môn thực tập nhằm hệ thống lại những
+kiến thức của các môn Tổ chức thi công và quản lý xây dựng, môn Quản lý dự án đầu tư xây
+dựng hạ tầng. Môn học trang bị khả năng thực hiện công việc tư vấn mời thầu cũng như kỹ năng
+thực hiện thành công bộ hồ sơ dự thầu hiệu quả. Qua đây, giúp người học bổ sung kiến thức thực
+tế, cập nhật các quy định hiện hành trong công tác đấu thầu xây dựng.
+9.52. TT Tốt nghiệp (QLVHHT) 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học tiên quyết: Đồ án cơ sở hạ tầng, Đồ án quản lý dự án đầu tư xây dựng hạ tầng
+Môn học trước: không
+Tóm tắt nội dung học phần: Sau khi đã được trang bị những kiến thức lý thuyết, sinh viên được
+đưa tới các đơn vị vận hành giao thông (Tập đoàn Đèo Cả, Trung tâm Quản lý giao thông Tp.
+HCM, Ban Quản lý đường sắt đô thị, các Ban QLDA hạ tầng giao thông …) học tập thực tế, liên
+hệ giữa lý thuyết đã học với thực tiễn nhằm hoàn thiện kiến thức trước khi tốt nghiệp. Tại các
+đơn vị thực tập, sinh viên sẽ tìm hiểu các tài liệu, thu thập các số liệu để chuẩn bị cho việc làm
+báo cáo thực tập.
+9.53. Nền đường trên đất yếu 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Cơ học đất
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Giúp sinh viên biết kiểm toán một nền đường đắp cao trên đất yếu
+theo điều kiện ổn định trượt tròn, ổn định lún, đảm bảo cường độ. Trang bị cho sinh viên kiến
+thức về các biện pháp xử lý nền đường trên đất yếu thông dụng hiện nay.
+9.54. Đường mêtrô – đường sắt 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên những kiến thức về thiết kế, quản lý, khai
+thác và vận hành hệ thống đường metrô, đường sắt đô thị.
+9.55. Hệ thống logistics 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: cung cấp cho sinh viên kiến thức về hệ thống logistics…
+9.56. Kiểm định và khai thác cầu 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Trang bị cho sinh viên những kiến thức cơ bản về khai thác, bảo
+dưỡng và sửa chữa các lọai cầu. Các kiến thức về kiểm định và các giải pháp kỹ thuật gia cố
+cầu cũ đang khai thác sử dụng
+9.57. Kiến trúc – cảnh quan cầu đường 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên một số kiến thức căn bản liên quan đến kiến
+trúc cầu, cảnh quan tuyến đường.
+9.58. Đô thị xanh và thông minh 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên kến thức tổng hợp về một đô thị xanh, thông
+minh, phát triển bền vững.
+9.59. Nguồn dự phòng và hệ thống ATS 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung
+- Tổng quan về hệ thống nguồn dự phòng; đặc điểm kỹ thuật của hệ thống nguồn dự phòng;
+Thiết kế hệ thống nguồn dự phòng.
+- Cấu tạo, nguyên lý hoạt động, tính năng và các thông số kỹ thuật của nguồn dự phòng; Lựa
+chọn cấu hình và công suất các nguồn dự phòng; Cấu tạo, nguyên lý hoạt động, tính năng và
+các thông số kỹ thuật của hệ thống ATS; Lựa chọn hệ thống ATS.
+9.60. Hệ thống BMS 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần trang bị các kiến thức tổng quan về hệ thống BMS, các
+chức năng cơ bản, đặc điểm kỹ thuật, giải pháp công nghệ hệ thống BMS.
+9.61. Nguyên lý tự động hóa quá trình nhiệt 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học những kiến thức cơ bản về lý
+thuyết tự động điều chỉnh và điều khiển nói chung và quá trình nhiệt nói riêng. Giúp người học
+hiểu được nguyên lý hoạt động và cấu tạo của các hệ thống và thiết bị tự động trong điều khiển
+hệ thống nhiệt – lạnh như nồi hơi, tuabin, hệ thống lạnh…
+9.62. Chuyên đề lạnh 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức nâng cao về
+vận hành, chẩn đoán và sửa chữa các hỏng hóc của hệ thống lạnh, phương pháp tự động điều
+khiển hệ thống lạnh và kỹ thuật lạnh nâng cao. Trang bị cho người học các kỹ năng về phân
+tích nguyên nhân và khắc phục các sự cố trên hệ thống lạnh.
+9.63. Chuyên đề nhiệt 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức mới, những
+chuyên đề mới trong lĩnh vực nhiệt. Đây là môn chuyên ngành, nó cung cấp cho người học các
+kiến thức nâng cao về thiết kế, vận hành, chẩn đoán và sửa chữa các hỏng hóc của hệ thống
+nhiệt, phương pháp tự động điều khiển hệ thống nhiệt nâng cao. Trang bị cho người học các kỹ
+năng về phân tích nguyên nhân và khắc phục các sự cố trên hệ thống nhiệt.
+9.64. Chuyên đề năng lượng tái tạo 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ bản về
+các nguồn năng lượng tái tạo như năng lượng mặt trời, năng lượng gió, sinh khối, địa nhiệt...
+Giúp người học có cái nhìn tổng quan, có sự hiểu biết cơ bản về tầm quan trọng các nguồn
+năng lượng trên thế giới và Việt Nam. Đồng thời, biết cách khai thác và sử dụng hiệu quả các
+nguồn năng lượng tái tạo để bảo vệ môi trường và tiết kiệm năng lượng.
+9.65. Bảo trì và bảo dưỡng công nghiệp 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức, kỹ năng để có thể
+thực hiện các hoạt động bảo trì, bảo dưỡng kết cấu, phụ tùng máy móc với các nội dung:
+- Tổ chức và quản lý bảo trì công nghiệp
+- Kỹ thuật bảo trì công nghiệp
+- Lập kế hoạch bảo trì cho một thiết bị công nghiệp cụ thể
+- Lập quy trình bảo trì bảo dưỡng và Điều chỉnh hệ thống thiết bị công nghiệp.
+9.66. Kỹ thuật xử lý nước cấp 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về các công
+nghệ xử lý nước cấp, trang bị kỹ năng, tính toán, thiết kế hoặc thi công, giám sát thi công, vận
+hành các hệ thống xử lý nước cấp.
+9.67. Kỹ thuật xử lý nước thải 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên những kiến thức cơ bản cần thiết
+về kỹ thuật xử lý nước thải sinh họat và công nghiệp. Các bước tính toán thiết kế công trình xử
+lý nước thải.
+9.68. Kỹ thuật xử lý khí thải 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về các công
+nghệ xử lý khí thải, trang bị kỹ năng, tính toán, thiết kế hoặc thi công, giám sát thi công, vận
+hành các hệ thống xử lý bụi, khí thải, kỹ thuật giảm thiểu và phát tán khí thải để bảo vệ không
+khí xung quanh.
+9.69. Quản lý chất thải rắn và nguy hại 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần tập trung làm rõ 5 quá trình quản lý chất thải rắn và chất
+thải nguy hại: kiểm soát phát thải, thu gom - vận chuyển, công nghệ xử lý, giá trị năng lượng
+của chất thải, quản lý theo quy định pháp luật.
+9.70. Kỹ thuật thông gió và xử lý tiếng ồn 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức cơ bản về các thông
+gió, trang bị kỹ năng, tính toán, thiết kế các hệ thống thông gió. Kiến thức về ô nhiễm tiếng ồn
+công nghiệp và các biện pháp giảm thiểu tiếng ồn.
+9.71. Khóa luận tốt nghiệp 7TC
+Phân bố thời gian học tập: 7(7/0/14)
+Môn học tiên quyết: theo quy chế của khoa XD
+Tóm tắt nội dung học phần: Đồ án tốt nghiệp trang bị cho người học những kiến thức cơ bản về
+việc thiết kế một công trình thực tế. Môn đồ án tốt nghiệp kiểm tra việc nắm vững toàn bộ những
+kiến thức, kỹ năng tích lũy trong suốt quá trình học, và vận dụng vào: lựa chọn sử dụng vật liệu,
+lên sơ đồ phân tích sơ bộ, tính toán thiết kế kích thước và vật liệu cho một công trình theo một
+nhiệm vụ thiết kế định trước, sao cho đảm bảo các yêu cầu về kinh tế và kỹ thuật. Sinh viên có
+thể lựa chọn một trong các phương án làm đồ án như sau: (1) làm 100% về quản lý dự án hạ tầng,
+(2) 100% về vận hành hạ tầng (có thể là đường hầm, metro, đường cao tốc, hệ thống đường đô
+thị...), (3) 50% về quản lý dự án hạ tầng và 50% về vận hành hạ tầng hoặc (4) làm chuyên đề
+nghiên cứu về xây dựng hạ tầng. Đồ án dưới dạng một công trình có kích thước và điều kiện
+hoàn toàn thực tế, yêu cầu (nhiệm vụ thiết kế) đặt ra cho thí sinh phải thực hiện những công việc
+tính toán cụ thể theo quy định của quản ngành.
+Riêng đối với những đồ án làm về chuyên đề, yêu cầu trước hết là phải nắm vững nguyên tắc
+thiết kế các công trình hạ tầng. Các đề tài chuyên đề khuyến khích có tính ứng dụng thực tiễn
+cao, nhằm giải quyết các vấn đề về thi công, thiết kế cũng như khai thác, vận hành hạ tầng. Đề
+tài yêu cầu phải có tối thiểu các cấu thành như đặt vấn đề, cơ sở lý thuyết, cơ sở dữ liệu phân tích
+và phương pháp nghiên cứu, kết quả và ứng dụng.
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+- Phòng thí nghiệm Cơ học
+- Phòng thí nghiệm Cơ học đất
+- Phòng thí nghiệm Vật liệu xây dựng
+- Phòng thí nghiệm Công trình
+- Phòng thí nghiệm Cầu đường
+10.2. Thư viện, trang Web
+- Thư viện trường
+- Trang web khoa: www.fca.hcmute.edu.vn
+11. Hướng dẫn thực hiện chương trình
+a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ
+thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau:
+1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm hoặc thực hành
+= 45 giờ tự học
+= 45  90 giờ thực tập tại cơ sở.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15.
+b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu các
+khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển trình độ
+ngoại ngữcủa sinh viên qua từng năm học để quyết định số tín chỉ các môn học trong học
+kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học chương trình phát
+triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa
+PHỤ LỤC CÁC MÔN HỌC LIÊN NGÀNH
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+1. COMA323119 Marketing trong xây dựng 2 HT_(COLA322519)
+2. GEIS223419 GIS 2 HT_(SURP222819)
+HT_(COMA220717)
+HT_(RCST240617)
+3. COIP424717 TT Kiểm định công trình 2
+HT_(STST240917)
+HT_(FOEN330518)
+STT	Mã môn học	Tên môn học	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	COMA323119	Marketing trong xây dựng	2	HT_(COLA322519)
+2.	GEIS223419	GIS	2	HT_(SURP222819)
+3.	COIP424717	TT Kiểm định công trình	2	HT_(COMA220717)
+HT_(RCST240617)
+HT_(STST240917)
+HT_(FOEN330518)

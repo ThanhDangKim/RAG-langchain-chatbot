@@ -1,0 +1,19 @@
+ctransformers
+transformers
+langchain
+langchain-community
+torch
+pypdf
+sentence-transformers
+gpt4all
+faiss-cpu
+openai
+pinecone
+unidecode 
+PyPDF2
+re
+pdfplumber
+bitsandbytes==0.40.2
+trl
+peft
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121

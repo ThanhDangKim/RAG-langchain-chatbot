@@ -1,0 +1,1051 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH KIẾN TRÚC (Ban hành tại Quyết định số……ngày………………………………….. của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: KIẾN TRÚC
+Ngành đào tạo: KIẾN TRÚC
+Tên tiếng Anh: ARCHITECTURE
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7580101
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: KIẾN TRÚC
+Trình độ đào tạo: Đại học
+Ngành đào tạo: KIẾN TRÚC
+Mã ngành: 7580101
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kiến trúc sư (Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo: 4,5 năm 2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Đào tạo người Kiến trúc sư có năng lực chuyên môn, phẩm chức chính trị và đạo đức nghề nghiệp, có sức khỏe đáp ứng nhu cầu lao động sáng tạo kỹ thuật cao của đất nước theo triết lý định hướng CDIO (Hình thành Ý tưởng-Thiết kế - Triển khai – Vận hành)
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực: 1. Kiến thức và lập luận kỹ thuật 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp 3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp 4. Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh doanh nghiệp, xã hội và môi trường – quá trình sáng tạo
+Chuẩn đầu ra (Program outcomes)
+Ký Chuẩn đầu ra Trình độ
+Ký Chuẩn đầu ra Trình độ hiệu năng lực 1. Kiến thức và lập luận kỹ thuật
+Giải thích các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên (chủ 1.1. 3 nghĩa xã hội khoa học, toán học, vật lý kiến trúc,…)
+Phân tích các kiến thức nền tảng kiến trúc cốt lõi như mỹ học, xã hội đô 1.2. thị, văn hóa và lịch sử kiến trúc đô thị, vật liệu, cơ học kết cấu để áp dụng 4 vào thiết kế kiến trúc
+Đề xuất phương án thiết kế kiến trúc dựa vào kiến thức kiến trúc nâng 1.3. 5 cao 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Đề xuất được những giải pháp kiến trúc giải quyết vấn đề thực tế trong các 2.1. 5 lĩnh vực tư vấn và thiết kế kiến trúc công trình xây dựng 2.2. Đánh giá các vấn đề thiết kế các đồ án kiến trúc xây dựng 5
+Phân tích các phương án thiết kế kiến trúc dựa vào các yếu tố xã hội, kinh 2.3. 5 tế và kỹ thuật
+Lập kế hoạch tự học nhằm đề xuất các giải pháp sáng tạo giải quyết các 2.4. 5 vấn đề chuyên ngành
+Phát triển thái độ và đạo đức nghề nghiệp đúng đắn, ý thức kỷ luật và tác 2.5. 5 phong công nghiệp 3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+Tổ chức làm việc nhóm dựa trên đặc tính từng thành viên của nhóm để 3.1. 5 giải quyết hiệu quả trong sáng tác thiết kế kiến trúc
+Tổng hợp các kỹ năng giao tiếp khác nhau như viết báo cáo, thể hiện bản 3.2. vẽ, thuyết trình để trình bày thuyết phục phương án thiết kế kiến trúc 5 công trình đáp ứng nhu cầu và đặc tính của người nghe 3.3. Sử dụng kiến thức ngoại ngữ để giao tiếp trong hoạt động nghề nghiệp 3
+Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, và vận 4. hành trong bối cảnh doanh nghiệp và xã hội
+Đánh giá được sự tác động của dự án quy hoạch và kiến trúc đối với sự 4.1. 5 phát triển kinh tế, xã hội, môi trường và ngược lại
+Phân tích các hình thái tổ chức và văn hóa doanh nghiệp để làm việc thành 4.2. 4 công
+Chọn lựa mô hình kiến trúc thỏa mãn các yêu cầu kỹ thuật, kinh tế, môi 4.3. 5 trường, xã hội và bền vững
+Thiết kế kiến trúc một phần hoặc toàn bộ dự án nhằm đảm bảo mục tiêu 4.4. 5 cần đạt dựa trên kiến thức và kỹ năng tích lũy được trong quá trình học hiệu năng lực 1. Kiến thức và lập luận kỹ thuật 1.1. Giải thích các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên (chủ nghĩa xã hội khoa học, toán học, vật lý kiến trúc,…) 3 1.2. Phân tích các kiến thức nền tảng kiến trúc cốt lõi như mỹ học, xã hội đô thị, văn hóa và lịch sử kiến trúc đô thị, vật liệu, cơ học kết cấu để áp dụng vào thiết kế kiến trúc 4 1.3. Đề xuất phương án thiết kế kiến trúc dựa vào kiến thức kiến trúc nâng cao 5 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp 2.1. Đề xuất được những giải pháp kiến trúc giải quyết vấn đề thực tế trong các lĩnh vực tư vấn và thiết kế kiến trúc công trình xây dựng 5 2.2. Đánh giá các vấn đề thiết kế các đồ án kiến trúc xây dựng 5 2.3. Phân tích các phương án thiết kế kiến trúc dựa vào các yếu tố xã hội, kinh tế và kỹ thuật 5 2.4. Lập kế hoạch tự học nhằm đề xuất các giải pháp sáng tạo giải quyết các vấn đề chuyên ngành 5 2.5. Phát triển thái độ và đạo đức nghề nghiệp đúng đắn, ý thức kỷ luật và tác phong công nghiệp 5 3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp 3.1. Tổ chức làm việc nhóm dựa trên đặc tính từng thành viên của nhóm để giải quyết hiệu quả trong sáng tác thiết kế kiến trúc 5 3.2. Tổng hợp các kỹ năng giao tiếp khác nhau như viết báo cáo, thể hiện bản vẽ, thuyết trình để trình bày thuyết phục phương án thiết kế kiến trúc công trình đáp ứng nhu cầu và đặc tính của người nghe 5 3.3. Sử dụng kiến thức ngoại ngữ để giao tiếp trong hoạt động nghề nghiệp 3 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh doanh nghiệp và xã hội 4.1. Đánh giá được sự tác động của dự án quy hoạch và kiến trúc đối với sự phát triển kinh tế, xã hội, môi trường và ngược lại 5 4.2. Phân tích các hình thái tổ chức và văn hóa doanh nghiệp để làm việc thành công 4 4.3. Chọn lựa mô hình kiến trúc thỏa mãn các yêu cầu kỹ thuật, kinh tế, môi trường, xã hội và bền vững 5 4.4. Thiết kế kiến trúc một phần hoặc toàn bộ dự án nhằm đảm bảo mục tiêu cần đạt dựa trên kiến thức và kỹ năng tích lũy được trong quá trình học 5
+Đề xuất các giải pháp thi công một phần hoặc toàn bộ phần kiến trúc công 4.5. 5 trình xây dựng
+Xác định giải pháp phù hợp để quản lý kiến trúc công trình xây dựng như 4.6. 4 giám sát, bảo trì, sửa chữa hoặc nâng cấp
+Tổ chức lãnh đạo và quản lý nhóm làm việc trong hoạt động thiết kế và 4.7. 5 tư vấn kiến trúc
+Phân tích các sản phẩm xây dựng để vận dụng và phát triển kinh doanh 4.8. 4 trong lĩnh vực kiến trúc xây dựng
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ...
+Đạt yêu 2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,...
+Thành thạo 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 5. Khối lượng kiến thức toàn khoá: 155 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng) 6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN KT
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 33
+A. Khối kiến thức bắt buộc 31 4.5. Đề xuất các giải pháp thi công một phần hoặc toàn bộ phần kiến trúc công trình xây dựng 5 4.6. Xác định giải pháp phù hợp để quản lý kiến trúc công trình xây dựng như giám sát, bảo trì, sửa chữa hoặc nâng cấp 4 4.7. Tổ chức lãnh đạo và quản lý nhóm làm việc trong hoạt động thiết kế và tư vấn kiến trúc 5 4.8. Phân tích các sản phẩm xây dựng để vận dụng và phát triển kinh doanh trong lĩnh vực kiến trúc xây dựng 4
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Đạt yêu cầu Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ... 2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Thành thạo Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,... 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới.
+TT TÊN HỌC PHẦN KT
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 33
+A. Khối kiến thức bắt buộc 31
+I. Lý luận chính trị + Pháp luật 12 1 Những NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 3 1 Toán 1 3
+III. Nhập môn ngành 3
+IV. Tin học 5 1 Thực tập tin học chuyên ngành Kiến trúc 1 2 2 Thực tập tin học chuyên ngành Kiến trúc 2 2 3 Thực tập tin học chuyên ngành Kiến trúc 3 1
+V. Khác 4 1 Hình học họa hình 1: giao - hình chiếu thẳng góc 2(1+1) 2 Hình học hoạ hình 2: hình chiếu phối cảnh 2(1+1)
+VI. Khoa học xã hội nhân văn 4 1 Cơ sở văn hóa Việt Nam 2 2 Cây xanh, môi trường & Con người 2
+B. Khối kiến thức KHXH&NV tự chọn 2
+C. Khối kiến thức GDTC + GDQP
+VII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+VIII. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 122
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 71
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành, đồ án 39
+Thực tập tốt nghiệp
+Khóa luận tốt nghiệp 10 7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần chỉ MH tiên quyết
+Những NLCB của CN Mác– 1 LLCT150105 5
+Lênin
+TQ_(LLCT150105) 2 LLCT230214 Đường lối cách mạng của ĐCSVN 3
+HT_(LLCT120314) 3 LLCT120314 Tư tưởng Hồ Chí Minh 2 TQ_(LLCT150105) 4 GELA220405 Pháp luật đại cương 2 5 MATH132401 Toán 1 3
+I. Lý luận chính trị + Pháp luật 12 1 Những NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 3 1 Toán 1 3
+III. Nhập môn ngành 3
+IV. Tin học 5 1 Thực tập tin học chuyên ngành Kiến trúc 1 2 2 Thực tập tin học chuyên ngành Kiến trúc 2 2 3 Thực tập tin học chuyên ngành Kiến trúc 3 1
+V. Khác 4 1 Hình học họa hình 1: giao - hình chiếu thẳng góc 2(1+1) 2 Hình học hoạ hình 2: hình chiếu phối cảnh 2(1+1)
+VI. Khoa học xã hội nhân văn 4 1 Cơ sở văn hóa Việt Nam 2 2 Cây xanh, môi trường & Con người 2
+B. Khối kiến thức KHXH&NV tự chọn 2
+C. Khối kiến thức GDTC + GDQP
+VII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+VIII. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 122
+Cơ sở nhóm ngành và ngành 71
+Cơ sở ngành
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành, đồ án
+Thực tập tốt nghiệp 39
+Khóa luận tốt nghiệp 10
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1 LLCT150105 Những NLCB của CN Mác–
+Lênin 5 2 LLCT230214 Đường lối cách mạng của ĐCSVN 3 TQ_(LLCT150105)
+HT_(LLCT120314) 3 LLCT120314 Tư tưởng Hồ Chí Minh 2 TQ_(LLCT150105) 4 GELA220405 Pháp luật đại cương 2 5 MATH132401 Toán 1 3 6 INAR130116 Nhập môn Kiến trúc 3(2+1)
+Thực tập tin học chuyên ngành 7 ACAD121216 Kiến trúc 1: 2 (AUTOCAD+SKETCHUP)
+Thực tập tin học chuyên ngành 8 REVT122616 Kiến trúc 2: 2 HT_(ACAD121216) (REVIT+3DMAX)
+Thực tập tin học chuyên ngành HT_(ACAD121216) 9 BIMA112716 1
+Kiến trúc 3: (B.I.M) HT_(REVT122616)
+Hình học họa hình 1: giao - hình 10 DGSP120216 2(1+1) chiếu thẳng góc
+Hình học họa hình 2: hình chiếu 11 DGSP120316 2(1+1) HT_(DGSP120216) phối cảnh 12 IVNC320905 Cơ sở văn hóa Việt Nam 2
+Cây xanh, môi trường & Con 13 TEHU122916 2 người 14 Khoa học XH & NV (Tự chọn) 2 15 PHED110513 Giáo dục thể chất 1 1 16 PHED110613 Giáo dục thể chất 2 1 17 PHED130715 Giáo dục thể chất 3 3 18 - Giáo dục quốc phòng 165 tiết
+Tổng 33 7.2. Kiến thức giáo dục chuyên nghiệp 7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần chỉ MH tiên quyết
+Vật lý kiến trúc (Quang học-thông 1 APHY242416 4(3+1) HT_(PCIA341616) gió- âm học)
+Thực hành Hội họa 1: Hình họa 2 SASL220416 2 (Tượng tròn, Tĩnh vật)
+Thực hành Hội họa 2: Phong cảnh - 3 WCSP220516 2 màu nước
+ĐA Cơ sở kiến trúc 1: Đường nét- 4 INAP320616 2 chữ số 5 INAP320716 ĐA Cơ sở kiến trúc 2: Vẽ mẫu nhà 2
+ĐA Cơ sở kiến trúc 3: Diễn họa – 6 INAP320816 2 HT_(INAP320716)
+KT nhỏ 7 INAP320916 ĐA Cơ sở kiến trúc 4: Vẽ ghi 2 HT_(INAP320816)
+Thực hành Điêu khắc: Tổ hợp hình 8 SCPA231116 3 khối kiến trúc 9 MEBU244817 Cơ học công trình 4 HT_(MATH132401)
+Kết cấu công trình 10 STBU245217 4 TH_(MEBU244817) (BTCT+Thép+Gỗ)
+Nguyên lý bố cục tạo hình kiến 11 LAPA221016 2(1+1) SS_(SCPA231116) trúc
+HT_(LAPA221016) 12 LAPA221516 ĐA bố cục tạo hình kiến trúc 2
+HT_(SCPA231116) 13 PMTA222516 ĐA kỹ thuật mô hình kiến trúc 2 HT_(LAPA221516) 6 INAR130116 Nhập môn Kiến trúc 3(2+1) 7 ACAD121216 Thực tập tin học chuyên ngành
+Kiến trúc 1: (AUTOCAD+SKETCHUP) 2 8 REVT122616 Thực tập tin học chuyên ngành
+Kiến trúc 2: (REVIT+3DMAX) 2 HT_(ACAD121216) 9 BIMA112716 Thực tập tin học chuyên ngành
+Kiến trúc 3: (B.I.M) 1 HT_(ACAD121216)
+HT_(REVT122616) 10 DGSP120216 Hình học họa hình 1: giao - hình chiếu thẳng góc 2(1+1) 11 DGSP120316 Hình học họa hình 2: hình chiếu phối cảnh 2(1+1) HT_(DGSP120216) 12 IVNC320905 Cơ sở văn hóa Việt Nam 2 13 TEHU122916 Cây xanh, môi trường & Con người 2 14 Khoa học XH & NV (Tự chọn) 2 15 PHED110513 Giáo dục thể chất 1 1 16 PHED110613 Giáo dục thể chất 2 1 17 PHED130715 Giáo dục thể chất 3 3 18 - Giáo dục quốc phòng 165 tiết
+Tổng 33
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1 APHY242416 Vật lý kiến trúc (Quang học-thông gió- âm học) 4(3+1) HT_(PCIA341616) 2 SASL220416 Thực hành Hội họa 1: Hình họa (Tượng tròn, Tĩnh vật) 2 3 WCSP220516 Thực hành Hội họa 2: Phong cảnh - màu nước 2 4 INAP320616 ĐA Cơ sở kiến trúc 1: Đường nét- chữ số 2 5 INAP320716 ĐA Cơ sở kiến trúc 2: Vẽ mẫu nhà 2 6 INAP320816 ĐA Cơ sở kiến trúc 3: Diễn họa –
+KT nhỏ 2 HT_(INAP320716) 7 INAP320916 ĐA Cơ sở kiến trúc 4: Vẽ ghi 2 HT_(INAP320816) 8 SCPA231116 Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc 3 9 MEBU244817 Cơ học công trình 4 HT_(MATH132401) 10 STBU245217 Kết cấu công trình (BTCT+Thép+Gỗ) 4 TH_(MEBU244817) 11 LAPA221016 Nguyên lý bố cục tạo hình kiến trúc 2(1+1) SS_(SCPA231116) 12 LAPA221516 ĐA bố cục tạo hình kiến trúc 2 HT_(LAPA221016)
+HT_(SCPA231116) 13 PMTA222516 ĐA kỹ thuật mô hình kiến trúc 2 HT_(LAPA221516)
+Cấu tạo kiến trúc công trình DD & 14 PCIN341316 4(1+3)
+CN– BTL 15 SURP222819 Thực tập Trắc địa 2
+Kỹ thuật hạ tầng Công trình (Điện HT_(UPLA323116) 16 TEIN423022 3 + Nước) HT_(PCIN341316)
+Tổng 42 7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết và thí nghiệm)
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần chỉ MH tiên quyết
+Nguyên lý thiết kế kiến trúc công HT_(LAPA221016) 1 PCIA341616 4 trình DD HT_(SCPA231116) 2 PCIA322316 Nguyên lý thiết kế kiến trúc CN 2 HT_(PCIA341616)
+HT_(PCIA341616) 3 UPLA323116 Nguyên lý Quy hoạch đô thị 2
+HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(PCIA322316) 4 PLAR324316 Kiến trúc cảnh quan 2(1+1)
+HT_(UPLA323116)
+SS_(UDES324216)
+HT_(PCIA341616)
+HT_(PCIA322316) 5 UDES324216 Thiết kế đô thị 2(1+1)
+HT_(UPLA323116)
+SS_(PLAR324316) 6 WARH323016 Lịch sử kiến trúc phương Tây 2
+Lịch sử kiến trúc phương Đông HT_(UPLA323116) 7 EARH333816 3 &VN HT_(WARH323016)
+HT_(UDES324216) 8 PREA324916 Bảo tồn & Trùng tu di sản 2 HT_(WARH323016)
+HT_(EARH333816)
+HT_(PCIA341616) 9 EQUB324116 Trang thiết bị công trình 2 HT_(PCIA322316)
+HT_(PCIN341316)
+HT_(PCIA341616)
+HT_(PCIA322316)
+Thiết kế Kiến trúc và Môi trường 10 EASU324816 2(1+1) HT_(APHY242416) bền vững
+HT_(TEHU122916)
+HT_(PLAR324316)
+HT_(PCIA322316)
+HT_(PCIA341616) 11 GISP422922 GIS trong kiến trúc & quy hoạch 2
+HT_(APHY242416)
+HT_(UPLA323116)
+SCIC425716 Chuyên đề Doanh nghiệp (Kiến 2 trúc)
+Lãnh đạo và kinh doanh trong kỹ 13 BLIE325816 2 thuật (Kiến trúc)
+Tổng 27 7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập công nghiệp)
+Mã MH trước,
+STT Mã học phần Tên học phần Số TC
+MH tiên quyết 1 SAPP421716 ĐA thiết kế kiến trúc: quán hoa, 2 HT_(LAPA221016) 14 PCIN341316 Cấu tạo kiến trúc công trình DD &
+CN– BTL 4(1+3) 15 SURP222819 Thực tập Trắc địa 2 16 TEIN423022 Kỹ thuật hạ tầng Công trình (Điện + Nước) 3 HT_(UPLA323116)
+HT_(PCIN341316)
+Tổng 42
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1 PCIA341616 Nguyên lý thiết kế kiến trúc công trình DD 4 HT_(LAPA221016)
+HT_(SCPA231116) 2 PCIA322316 Nguyên lý thiết kế kiến trúc CN 2 HT_(PCIA341616) 3 UPLA323116 Nguyên lý Quy hoạch đô thị 2 HT_(PCIA341616)
+HT_(PCIA322316) 4 PLAR324316 Kiến trúc cảnh quan 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(UPLA323116)
+SS_(UDES324216) 5 UDES324216 Thiết kế đô thị 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(UPLA323116)
+SS_(PLAR324316) 6 WARH323016 Lịch sử kiến trúc phương Tây 2 7 EARH333816 Lịch sử kiến trúc phương Đông &VN 3 HT_(UPLA323116)
+HT_(WARH323016) 8 PREA324916 Bảo tồn & Trùng tu di sản 2 HT_(UDES324216)
+HT_(WARH323016)
+HT_(EARH333816) 9 EQUB324116 Trang thiết bị công trình 2 HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(PCIN341316) 10 EASU324816 Thiết kế Kiến trúc và Môi trường bền vững 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(APHY242416)
+HT_(TEHU122916)
+HT_(PLAR324316) 11 GISP422922 GIS trong kiến trúc & quy hoạch 2 HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(APHY242416)
+HT_(UPLA323116) 12 SCIC425716 Chuyên đề Doanh nghiệp (Kiến trúc) 2 13 BLIE325816 Lãnh đạo và kinh doanh trong kỹ thuật (Kiến trúc) 2
+Tổng 27
+STT Mã học phần Tên học phần Số TC Mã MH trước,
+MH tiên quyết 1 SAPP421716 ĐA thiết kế kiến trúc: quán hoa, 2 HT_(LAPA221016) quán sách, bến xe bus, bến tàu HT_(SCPA231116) thủy SS_(PCIA341616)
+HT_(SAPP421716)
+ĐA thiết kế kiến trúc: Nhà ở riêng 2 APSH422016 2 HT_(PCIN341316) lẻ
+HT_(PCIA341616)
+HT_(APSH422016)
+ĐA thiết kế kiến trúc: Nhà ở thấp 3 APLH433316 3 HT_(PCIA341616) tầng
+HT_(PCIN341316)
+ĐA thiết kế kiến trúc CTCC 1: HT_(PCIN341316) 4 SAPP421816 2 quy mô nhỏ SS_(PCIA341616)
+HT_(SAPP421816)
+ĐA thiết kế kiến trúc CTCC 2: 5 SAPP431916 3 HT_(PCIN341316) quy mô vừa
+HT_(PCIA341616)
+HT_(SAPP431916)
+ĐA thiết kế kiến trúc CTCC 3: 6 SAPP433716 3 HT_(PMTA222516) quy mô lớn
+HT_(PCIA341616)
+HT_(SAPP433716)
+ĐA thiết kế kiến trúc CTCC 4: 7 SAPP434516 3 HT_(PCIN341316)
+Bệnh viện, TTTM văn phòng
+HT_(PCIA341616)
+HT_(SAPP434516)
+HT_(APID434416) 8 SYNP444616 ĐA thiết kế kiến trúc Tổng Hợp 4 HT_(APID423516)
+HT_(PPNP433616)
+HT_(APLH433316)
+HT_(PCIN341316) 9 APIA433216 ĐA thiết kế kiến trúc Công nghiệp 3 HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(APHY242416) 10 PPNP433616 ĐA Quy hoạch chi tiết Đơn Vị Ở 3 HT_(TEHU122916)
+HT_(UPLA323116)
+HT_(INAP320916)
+HT_(PCIA322316) 11 APID423416 ĐA thiết kế nội thất 1 2 HT_(PCIN341316)
+HT_(SAPP431916)
+HT_(REVT122616)
+HT_(APID423416) 12 APID423516 ĐA thiết kế nội thất 2 2 HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(EARH333816)
+ĐA thiết kế cải tạo+bảo tồn CT HT_(WARH323016) 13 APID434416 3 quy mô vừa HT_(SAPP431916)
+HT_(APID423416)
+HT_(EQUB324116)
+ĐA thiết kế ngoại thất: cảnh quan 14 ARPE424716 2 HT_(PLAR324316) sân vườn, công viên
+HT_(UDES324216)
+HT_(INAP320916) 15 TPRA312216 Thực tập kỹ thuật 1 HT_(PCIA341616)
+HT_(PCIN341316)
+HT_(PCIN341316)
+HT_(PCIA322316) 16 VIST315216 Thực tập - Tham quan 1
+HT_(UPLA323116)
+HT_(APID434416) quán sách, bến xe bus, bến tàu thủy HT_(SCPA231116)
+SS_(PCIA341616) 2 APSH422016 ĐA thiết kế kiến trúc: Nhà ở riêng lẻ 2 HT_(SAPP421716)
+HT_(PCIN341316)
+HT_(PCIA341616) 3 APLH433316 ĐA thiết kế kiến trúc: Nhà ở thấp tầng 3 HT_(APSH422016)
+HT_(PCIA341616)
+HT_(PCIN341316) 4 SAPP421816 ĐA thiết kế kiến trúc CTCC 1: quy mô nhỏ 2 HT_(PCIN341316)
+SS_(PCIA341616) 5 SAPP431916 ĐA thiết kế kiến trúc CTCC 2: quy mô vừa 3 HT_(SAPP421816)
+HT_(PCIN341316)
+HT_(PCIA341616) 6 SAPP433716 ĐA thiết kế kiến trúc CTCC 3: quy mô lớn 3 HT_(SAPP431916)
+HT_(PMTA222516)
+HT_(PCIA341616) 7 SAPP434516 ĐA thiết kế kiến trúc CTCC 4:
+Bệnh viện, TTTM văn phòng 3 HT_(SAPP433716)
+HT_(PCIN341316)
+HT_(PCIA341616) 8 SYNP444616 ĐA thiết kế kiến trúc Tổng Hợp 4 HT_(SAPP434516)
+HT_(APID434416)
+HT_(APID423516)
+HT_(PPNP433616)
+HT_(APLH433316) 9 APIA433216 ĐA thiết kế kiến trúc Công nghiệp 3 HT_(PCIN341316)
+HT_(PCIA322316)
+HT_(PCIA341616) 10 PPNP433616 ĐA Quy hoạch chi tiết Đơn Vị Ở 3 HT_(APHY242416)
+HT_(TEHU122916)
+HT_(UPLA323116) 11 APID423416 ĐA thiết kế nội thất 1 2 HT_(INAP320916)
+HT_(PCIA322316)
+HT_(PCIN341316)
+HT_(SAPP431916)
+HT_(REVT122616) 12 APID423516 ĐA thiết kế nội thất 2 2 HT_(APID423416)
+HT_(PCIA322316)
+HT_(PCIA341616) 13 APID434416 ĐA thiết kế cải tạo+bảo tồn CT quy mô vừa 3 HT_(EARH333816)
+HT_(WARH323016)
+HT_(SAPP431916)
+HT_(APID423416) 14 ARPE424716 ĐA thiết kế ngoại thất: cảnh quan sân vườn, công viên 2 HT_(EQUB324116)
+HT_(PLAR324316)
+HT_(UDES324216) 15 TPRA312216 Thực tập kỹ thuật 1 HT_(INAP320916)
+HT_(PCIA341616)
+HT_(PCIN341316) 16 VIST315216 Thực tập - Tham quan 1 HT_(PCIN341316)
+HT_(PCIA322316)
+HT_(UPLA323116)
+HT_(APID434416)
+HT_(APID423516) 17 GRAP325316 TT Tốt nghiệp (Kiến trúc) 2
+Tổng 41 7.2.3. Tốt nghiệp
+Mã MH trước,
+STT Mã học phần Tên học phần Số TC
+MH tiên quyết
+TQ_Tất cả các học 1 FINP405516 Khóa luận tốt nghiệp 10 phần tự bắt buộc và tự chọn
+Tổng 10
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương
+Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 2 tín chỉ trong các môn học sau):
+Mã MH trước,
+STT Mã học phần Tên học phần Số TC
+MH tiên quyết 1 GEFC220105 Kinh tế học đại cương 2 2 IQMA220205 Nhập môn quản trị chất lượng 2 3 INMA220305 Nhập môn Quản trị học 2 4 INLO220405 Nhập môn Logic học 2 5 INSO321005 Nhập môn Xã hội học 2 6 ENPS220591 Tâm lý học kỹ sư 2 7 LESK120190 Kỹ năng học tập đại học 2 8 PLSK120290 Kỹ năng xây dựng kế hoạch 2
+Kỹ năng làm việc trong môi trường 9 WOPS120390 2
+KT 10 REME320690 Phương pháp nghiên cứu khoa học 2 11 ARAP125116 Tư duy biện luận ứng dụng 2(1+1) 12 AEST125416 Mỹ học 2
+Tổng 2
+Kiến thức chuyên ngành (Sinh viên chọn 2 tín chỉ)
+Số tín Mã MH trước,
+STT Mã học phần Tên học phần chỉ MH tiên quyết 1 TRAV321416 Kiến trúc truyền thống Việt Nam 2
+Qui hoạch hệ thống giao thông đô 2 UTSP322116 2 thị 3 COTE323219 Kỹ thuật thi công 2 4 COEC321119 Kinh tế Xây dựng 2 5 PRMA420819 Quản lý dự án 2 6 UHIS322816 Lịch sử đô thị 2 7 THEH323916 Chuyên đề kiến trúc Nhà Ở 2 8 THEP324016 Chuyên đề kiến trúc CTCC 2 9 THED325016 Chuyên đề kiến trúc CTCN 2
+HT_(APID423516) 17 GRAP325316 TT Tốt nghiệp (Kiến trúc) 2
+Tổng 41
+STT Mã học phần Tên học phần Số TC Mã MH trước,
+MH tiên quyết 1 FINP405516 Khóa luận tốt nghiệp 10 TQ_Tất cả các học phần tự bắt buộc và tự chọn
+Tổng 10
+STT Mã học phần Tên học phần Số TC Mã MH trước,
+MH tiên quyết 1 GEFC220105 Kinh tế học đại cương 2 2 IQMA220205 Nhập môn quản trị chất lượng 2 3 INMA220305 Nhập môn Quản trị học 2 4 INLO220405 Nhập môn Logic học 2 5 INSO321005 Nhập môn Xã hội học 2 6 ENPS220591 Tâm lý học kỹ sư 2 7 LESK120190 Kỹ năng học tập đại học 2 8 PLSK120290 Kỹ năng xây dựng kế hoạch 2 9 WOPS120390 Kỹ năng làm việc trong môi trường
+KT 2 10 REME320690 Phương pháp nghiên cứu khoa học 2 11 ARAP125116 Tư duy biện luận ứng dụng 2(1+1) 12 AEST125416 Mỹ học 2
+Tổng 2
+STT Mã học phần Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1 TRAV321416 Kiến trúc truyền thống Việt Nam 2 2 UTSP322116 Qui hoạch hệ thống giao thông đô thị 2 3 COTE323219 Kỹ thuật thi công 2 4 COEC321119 Kinh tế Xây dựng 2 5 PRMA420819 Quản lý dự án 2 6 UHIS322816 Lịch sử đô thị 2 7 THEH323916 Chuyên đề kiến trúc Nhà Ở 2 8 THEP324016 Chuyên đề kiến trúc CTCC 2 9 THED325016 Chuyên đề kiến trúc CTCN 2
+Tổng 2
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 2 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành trong phần tự chọn: - Xem danh sách các môn học được đề xuất trong phần Phụ lục, hoặc - Sinh viên có thể tự chọn các môn học nằm ngoài danh sách được đề xuất trên tinh thần các môn học hỗ trợ hướng phát triển nghề nghiệp sau này. SV nên nhờ tư vấn thêm từ Ban tư vấn để có sự lựa chọn phù hợp.
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học chỉ MOOC (đường link đăng ký)
+Urban Design for the Public Good:
+Dutch Urbanism 1. UDES324216 Thiết kế đô thị 2 https://www.edx.org/course/urban- design-public-good-dutch-urbanism- delftx-urbanismx-0
+Smart Cities
+Cây xanh, Môi 2. TEHU122916 2 https://www.edx.org/course/smart- trường & Con người cities-ethx-ethx-fc-03x-1
+Ecodesign for Cities and Suburbs https://www.edx.org/course/ecodesi gn-cities-suburbs-ubcx-ecodesignx-
+Thiết kế Kiến trúc và 0 3. EASU324816 Môi trường bền 2 Quality of Life: Livability in Future vững Cities https://www.edx.org/course/quality- life-livability-future-cities-ethx-fc- 02x-1
+A Global History of Architecture
+Lịch sử Kiến trúc 4. WARH323016 2 https://www.edx.org/course/a- phương Tây global-history-of-architecture
+Models in Architecture – design through physical & digital models
+Nguyên lý bố cục 5. LAPA221016 2 https://www.edx.org/course/models- tạo hình kiến trúc architecture-design-through-delftx- spatial101x-0 8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để sinh viên tự lên kế hoạch học tập:
+Số tín Mã MH trước,
+STT Mã môn học Tên môn học chỉ MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+TQ_(LLCT150105) 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3
+HT_(LLCT120314)
+Tổng 2
+STT Mã môn học Tên môn học Số tín chỉ Môn học được xét tương đương
+MOOC (đường link đăng ký) 1. UDES324216 Thiết kế đô thị 2 Urban Design for the Public Good:
+Dutch Urbanism https://www.edx.org/course/urban- design-public-good-dutch-urbanism- delftx-urbanismx-0 2. TEHU122916 Cây xanh, Môi trường & Con người 2 Smart Cities https://www.edx.org/course/smart- cities-ethx-ethx-fc-03x-1 3. EASU324816 Thiết kế Kiến trúc và
+Môi trường bền vững 2 Ecodesign for Cities and Suburbs https://www.edx.org/course/ecodesi gn-cities-suburbs-ubcx-ecodesignx-
+Quality of Life: Livability in Future
+Cities https://www.edx.org/course/quality- life-livability-future-cities-ethx-fc- 02x-1 4. WARH323016 Lịch sử Kiến trúc phương Tây 2 A Global History of Architecture https://www.edx.org/course/a- global-history-of-architecture 5. LAPA221016 Nguyên lý bố cục tạo hình kiến trúc 2 Models in Architecture – design through physical & digital models https://www.edx.org/course/models- architecture-design-through-delftx- spatial101x-0
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 TQ_(LLCT150105)
+HT_(LLCT120314) 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 TQ_(LLCT150105) 4. PHED110613 Giáo dục thể chất 2 1 5. PHED130715 Giáo dục thể chất 3 3
+Tổng 10
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 MATH132401 Toán 1 3 2 GELA220405 Pháp luật đại cương 2
+Hình học họa hình 1: giao - hình 3 DGSP120216 2(1+1) chiếu thẳng góc
+Thực hành Hội họa 1: Hình họa 4 SASL220416 2 (Tượng tròn, Tĩnh vật)
+Thực hành Hội họa 2: Phong cảnh - 5 WCSP220516 2 màu nước
+ĐA Cơ sở kiến trúc 1: Đường nét- 6 INAP320616 2 chữ số 7 INAP320716 ĐA Cơ sở kiến trúc 2: Vẽ mẫu nhà 2 8 INAR130116 Nhập môn Kiến trúc 3(2+1) 9 PHED110513 Giáo dục thể chất 1 1
+Tổng 18
+Học kỳ 2:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 IVNC320905 Cơ sở văn hóa Việt Nam 2
+Thực tập tin học chuyên ngành Kiến 2 ACAD121216 2 trúc 1 (AUTOCAD+SKETCHUP)
+Hình học họa hình 2: hình chiếu 3 DGSP120316 2(1+1) HT_(DGSP120216) phối cảnh
+Cấu tạo kiến trúc công trình DD & 4 PCIN341316 4(1+3)
+CN – BTL
+ĐA Cơ sở kiến trúc 3: Diễn họa – 5 INAP320816 2 HT_(INAP320716)
+KT nhỏ 6 LAPA221016 Nguyên lý bố cục tạo hình kiến trúc 2(1+1) SS_(SCPA231116)
+Thực hành Điêu khắc: Tổ hợp hình 7 SCPA231116 3 khối kiến trúc
+Tổng 17
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+Thực tập tin học chuyên ngành 1 REVT122616 2 HT_(ACAD121216)
+Kiến trúc 2: (REVIT+3DMAX) 2 TEHU122916 Cây xanh, môi trường & Con người 2
+HT_(LAPA221016) 3 LAPA221516 ĐA bố cục tạo hình kiến trúc 2
+HT_(SCPA231116) 4 INAP320916 ĐA Cơ sở kiến trúc 4: Vẽ ghi 2 HT_(INAP320816)
+Nguyên lý thiết kế kiến trúc công HT_(LAPA221016) 5 PCIA341616 4 trình Dân dụng HT_(SCPA231116) 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 TQ_(LLCT150105) 4. PHED110613 Giáo dục thể chất 2 1 5. PHED130715 Giáo dục thể chất 3 3
+Tổng 10
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 MATH132401 Toán 1 3 2 GELA220405 Pháp luật đại cương 2 3 DGSP120216 Hình học họa hình 1: giao - hình chiếu thẳng góc 2(1+1) 4 SASL220416 Thực hành Hội họa 1: Hình họa (Tượng tròn, Tĩnh vật) 2 5 WCSP220516 Thực hành Hội họa 2: Phong cảnh - màu nước 2 6 INAP320616 ĐA Cơ sở kiến trúc 1: Đường nét- chữ số 2 7 INAP320716 ĐA Cơ sở kiến trúc 2: Vẽ mẫu nhà 2 8 INAR130116 Nhập môn Kiến trúc 3(2+1) 9 PHED110513 Giáo dục thể chất 1 1
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 IVNC320905 Cơ sở văn hóa Việt Nam 2 2 ACAD121216 Thực tập tin học chuyên ngành Kiến trúc 1 (AUTOCAD+SKETCHUP) 2 3 DGSP120316 Hình học họa hình 2: hình chiếu phối cảnh 2(1+1) HT_(DGSP120216) 4 PCIN341316 Cấu tạo kiến trúc công trình DD &
+CN – BTL 4(1+3) 5 INAP320816 ĐA Cơ sở kiến trúc 3: Diễn họa –
+KT nhỏ 2 HT_(INAP320716) 6 LAPA221016 Nguyên lý bố cục tạo hình kiến trúc 2(1+1) SS_(SCPA231116) 7 SCPA231116 Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc 3
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 REVT122616 Thực tập tin học chuyên ngành
+Kiến trúc 2: (REVIT+3DMAX) 2 HT_(ACAD121216) 2 TEHU122916 Cây xanh, môi trường & Con người 2 3 LAPA221516 ĐA bố cục tạo hình kiến trúc 2 HT_(LAPA221016)
+HT_(SCPA231116) 4 INAP320916 ĐA Cơ sở kiến trúc 4: Vẽ ghi 2 HT_(INAP320816) 5 PCIA341616 Nguyên lý thiết kế kiến trúc công trình Dân dụng 4 HT_(LAPA221016)
+HT_(SCPA231116)
+HT_(LAPA221016)
+ĐA thiết kế kiến trúc: quán hoa, 6 SAPP421716 2 HT_(SCPA231116) quán sách, bến xe bus, bến tàu thủy
+SS_(PCIA341616)
+ĐA thiết kế kiến trúc CTCC 1: quy HT_(PCIN341316) 7 SAPP421816 2 mô nhỏ SS_(PCIA341616)
+Tổng 16
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 MEBU244817 Cơ học công trình 4 HT_(MATH132401)
+Vật lý kiến trúc (Quang học-thông 2 APHY242416 4(3+1) HT_(PCIA341616) gió, âm học)
+Nguyên lý thiết kế kiến trúc Công 3 PCIA322316 2 HT_(PCIA341616) nghiệp
+HT_(SAPP421716)
+ĐA thiết kế kiến trúc: Nhà ở riêng 4 APSH422016 2 HT_(PCIN341316) lẻ
+HT_(PCIA341616)
+HT_(SAPP421816)
+ĐA thiết kế kiến trúc CTCC 2: quy 5 SAPP431916 3 HT_(PCIN341316) mô vừa
+HT_(PCIA341616) 6 PMTA222516 ĐA kỹ thuật mô hình kiến trúc 2 HT_(LAPA221516)
+HT_(INAP320916) 7 TPRA312216 Thực tập kỹ thuật 1 HT_(PCIA341616)
+HT_(PCIN341316)
+Tổng 18
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+Thực tập tin học chuyên ngành HT_(ACAD121216) 1 BIMA112716 1
+Kiến trúc 3: B.I.M HT_(REVT122616) 2 WARH323016 Lịch sử kiến trúc phương Tây 2
+Kết cấu công trình 3 STBU245217 4 TH_(MEBU244817) (BTCT+Thép+Gỗ)
+HT_(PCIA341616) 4 UPLA323116 Nguyên lý Quy hoạch đô thị 2
+HT_(PCIA322316)
+HT_(APSH422016)
+ĐA thiết kế kiến trúc: Nhà ở thấp 5 APLH433316 3 HT_(PCIA341616) tầng
+HT_(PCIN341316)
+HT_(PCIN341316) 6 APIA433216 ĐA thiết kế kiến trúc công nghiệp 3 HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(INAP320916)
+HT_(PCIA322316) 7 APID423416 ĐA Thiết kế nội thất 1 2 HT_(PCIN341316)
+HT_(SAPP431916)
+HT_(REVT122616)
+Tổng 17
+Học kỳ 6:
+TT Mã MH Tên MH Số TC Mã MH trước, 6 SAPP421716 ĐA thiết kế kiến trúc: quán hoa, quán sách, bến xe bus, bến tàu thủy 2 HT_(LAPA221016)
+HT_(SCPA231116)
+SS_(PCIA341616) 7 SAPP421816 ĐA thiết kế kiến trúc CTCC 1: quy mô nhỏ 2 HT_(PCIN341316)
+SS_(PCIA341616)
+Tổng 16
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 MEBU244817 Cơ học công trình 4 HT_(MATH132401) 2 APHY242416 Vật lý kiến trúc (Quang học-thông gió, âm học) 4(3+1) HT_(PCIA341616) 3 PCIA322316 Nguyên lý thiết kế kiến trúc Công nghiệp 2 HT_(PCIA341616) 4 APSH422016 ĐA thiết kế kiến trúc: Nhà ở riêng lẻ 2 HT_(SAPP421716)
+HT_(PCIN341316)
+HT_(PCIA341616) 5 SAPP431916 ĐA thiết kế kiến trúc CTCC 2: quy mô vừa 3 HT_(SAPP421816)
+HT_(PCIN341316)
+HT_(PCIA341616) 6 PMTA222516 ĐA kỹ thuật mô hình kiến trúc 2 HT_(LAPA221516) 7 TPRA312216 Thực tập kỹ thuật 1 HT_(INAP320916)
+HT_(PCIA341616)
+HT_(PCIN341316)
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 BIMA112716 Thực tập tin học chuyên ngành
+Kiến trúc 3: B.I.M 1 HT_(ACAD121216)
+HT_(REVT122616) 2 WARH323016 Lịch sử kiến trúc phương Tây 2 3 STBU245217 Kết cấu công trình (BTCT+Thép+Gỗ) 4 TH_(MEBU244817) 4 UPLA323116 Nguyên lý Quy hoạch đô thị 2 HT_(PCIA341616)
+HT_(PCIA322316) 5 APLH433316 ĐA thiết kế kiến trúc: Nhà ở thấp tầng 3 HT_(APSH422016)
+HT_(PCIA341616)
+HT_(PCIN341316) 6 APIA433216 ĐA thiết kế kiến trúc công nghiệp 3 HT_(PCIN341316)
+HT_(PCIA322316)
+HT_(PCIA341616) 7 APID423416 ĐA Thiết kế nội thất 1 2 HT_(INAP320916)
+HT_(PCIA322316)
+HT_(PCIN341316)
+HT_(SAPP431916)
+HT_(REVT122616)
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết
+HT_(PCIA322316)
+HT_(PCIA341616) 1 GISP422922 GIS trong kiến trúc & quy hoạch 2
+HT_(APHY242416)
+HT_(UPLA323116)
+HT_(PCIA341616) 2 EQUB324116 Trang thiết bị công trình 2 HT_(PCIA322316)
+HT_(PCIN341316)
+Lịch sử kiến trúc phương Đông & HT_(UPLA323116) 3 EARH333816 3
+Việt Nam HT_(WARH323016)
+HT_(SAPP431916)
+ĐA thiết kế kiến trúc CTCC 3: 4 SAPP433716 3 HT_(PMTA222516)
+Quy mô lớn
+HT_(PCIA341616)
+HT_(APHY242416) 5 PPNP433616 ĐA Quy hoạch chi tiết Đơn Vị Ở 3 HT_(TEHU122916)
+HT_(UPLA323116)
+HT_(APID423416) 6 APID423516 ĐA Thiết kế nội thất 2 2 HT_(PCIA322316)
+HT_(PCIA341616)
+KHXH&NV (SV tự chọn khi 7 x 2
+ĐKMH)
+Tổng 17
+Học kỳ 7:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+Kỹ thuật hạ tầng Công trình HT_(UPLA323116) 1 TEIN433022 3 (Điện+Nước) HT_(PCIN341316) 2 SURP222819 TT. Trắc địa 2
+SS_(UDES324216) 3 PREA324916 Bảo tồn & Trùng tu di sản 2 HT_(WARH323016)
+HT_(EARH333816)
+HT_(PCIA341616)
+HT_(PCIA322316) 4 UDES324216 Thiết kế đô thị 2(1+1)
+HT_(UPLA323116)
+SS_(PLAR324316)
+HT_(PCIA341616)
+HT_(PCIA322316) 5 PLAR324316 Kiến trúc cảnh quan 2(1+1)
+HT_(UPLA323116)
+SS_(UDES324216)
+HT_(EARH333816)
+ĐA thiết kế cải tạo+bảo tồn CT HT_(WARH323016) 6 APID434416 3 quy mô vừa HT_(SAPP431916)
+HT_(APID423416)
+HT_(SAPP433716)
+ĐA thiết kế kiến trúc CTCC 4: 7 SAPP434516 3 HT_(PCIN341316)
+Bệnh viện, TTTM văn phòng
+HT_(PCIA341616)
+Tổng 17
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+MH tiên quyết 1 GISP422922 GIS trong kiến trúc & quy hoạch 2 HT_(PCIA322316)
+HT_(PCIA341616)
+HT_(APHY242416)
+HT_(UPLA323116) 2 EQUB324116 Trang thiết bị công trình 2 HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(PCIN341316) 3 EARH333816 Lịch sử kiến trúc phương Đông &
+Việt Nam 3 HT_(UPLA323116)
+HT_(WARH323016) 4 SAPP433716 ĐA thiết kế kiến trúc CTCC 3:
+Quy mô lớn 3 HT_(SAPP431916)
+HT_(PMTA222516)
+HT_(PCIA341616) 5 PPNP433616 ĐA Quy hoạch chi tiết Đơn Vị Ở 3 HT_(APHY242416)
+HT_(TEHU122916)
+HT_(UPLA323116) 6 APID423516 ĐA Thiết kế nội thất 2 2 HT_(APID423416)
+HT_(PCIA322316)
+HT_(PCIA341616) 7 x KHXH&NV (SV tự chọn khi
+ĐKMH) 2
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 TEIN433022 Kỹ thuật hạ tầng Công trình (Điện+Nước) 3 HT_(UPLA323116)
+HT_(PCIN341316) 2 SURP222819 TT. Trắc địa 2 3 PREA324916 Bảo tồn & Trùng tu di sản 2 SS_(UDES324216)
+HT_(WARH323016)
+HT_(EARH333816) 4 UDES324216 Thiết kế đô thị 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(UPLA323116)
+SS_(PLAR324316) 5 PLAR324316 Kiến trúc cảnh quan 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(UPLA323116)
+SS_(UDES324216) 6 APID434416 ĐA thiết kế cải tạo+bảo tồn CT quy mô vừa 3 HT_(EARH333816)
+HT_(WARH323016)
+HT_(SAPP431916)
+HT_(APID423416) 7 SAPP434516 ĐA thiết kế kiến trúc CTCC 4:
+Bệnh viện, TTTM văn phòng 3 HT_(SAPP433716)
+HT_(PCIN341316)
+HT_(PCIA341616)
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết
+HT_(PCIA341616)
+HT_(PCIA322316)
+Thiết kế Kiến trúc & Môi trường 1 EASU324816 2(1+1) HT_(APHY242416) bền vững
+HT_(TEHU122916)
+HT_(PLAR324316)
+HT_(EQUB324116)
+ĐA thiết kế ngoại thất: cảnh quan 2 ARPE424716 2 HT_(PLAR324316) sân vườn, công viên
+HT_(UDES324216)
+HT_(SAPP434516)
+HT_(APID434416) 3 SYNP444616 ĐA thiết kế kiến trúc Tổng Hợp 4 HT_(APID423516)
+HT_(PPNP433616)
+HT_(APLH433316)
+Tự chọn môn chuyên ngành (SV 4 x 2 tự chọn khi ĐKMH)
+HT_(PCIN341316)
+HT_(PCIA322316) 5 VIST315216 Thực tập - Tham quan 1 HT_(UPLA323116)
+HT_(APID434416)
+HT_(APID423516) 6 GRAP325316 TT Tốt nghiệp (Kiến trúc) 2
+Chuyên đề Doanh nghiệp (Kiến 7 SCIC425716 2 trúc)
+Lãnh đạo và kinh doanh trong kỹ 8 BLIE325816 2 thuật (Kiến trúc)
+Tổng 17
+Học kỳ 9:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+TQ_Tất cả các học 1. FINP405516 Khóa luận tốt nghiệp 10 phần tự bắt buộc và tự chọn
+Tổng 10 9. Mô tả vắn tắt nội dung và khối lượng các học phần 9.1. Những NLCB của CN Mác – Lênin 5 TC
+Phân bố thời gian học tập: 5(5/0/10)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Ngoài chương mở đầu nhằm giới thiệu khái lược về CN Mác –
+Lênin và một số vấn đề chung của môn học. Căn cứ vào mục tiêu môn học, nội dung chương trình môn học được cấu trúc thành 3 phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương pháp luận triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN
+Mác – Lênin về phương thức sản xuất tư bản chủ nghĩa. 1 EASU324816 Thiết kế Kiến trúc & Môi trường bền vững 2(1+1) HT_(PCIA341616)
+HT_(PCIA322316)
+HT_(APHY242416)
+HT_(TEHU122916)
+HT_(PLAR324316) 2 ARPE424716 ĐA thiết kế ngoại thất: cảnh quan sân vườn, công viên 2 HT_(EQUB324116)
+HT_(PLAR324316)
+HT_(UDES324216) 3 SYNP444616 ĐA thiết kế kiến trúc Tổng Hợp 4 HT_(SAPP434516)
+HT_(APID434416)
+HT_(APID423516)
+HT_(PPNP433616)
+HT_(APLH433316) 4 x Tự chọn môn chuyên ngành (SV tự chọn khi ĐKMH) 2 5 VIST315216 Thực tập - Tham quan 1 HT_(PCIN341316)
+HT_(PCIA322316)
+HT_(UPLA323116)
+HT_(APID434416)
+HT_(APID423516) 6 GRAP325316 TT Tốt nghiệp (Kiến trúc) 2 7 SCIC425716 Chuyên đề Doanh nghiệp (Kiến trúc) 2 8 BLIE325816 Lãnh đạo và kinh doanh trong kỹ thuật (Kiến trúc) 2
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. FINP405516 Khóa luận tốt nghiệp 10 TQ_Tất cả các học phần tự bắt buộc và tự chọn
+Tổng 10
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý luận của CN Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội hiện thực và triển vọng. 9.2. Đường lối cách mạng của ĐCSVN 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Tư tưởng Hồ Chí Minh
+Môn học tiên quyết: Những NLCB của CN Mác– Lênin
+Môn học song hành: không
+Tóm tắt nội dung học phần: Nội dung chủ yếu của học phần là cung cấp, trang bị cho sinh viên những hiểu biết cơ bản có hệ thống về đường lối của Đảng, đặc biệt là đường lối trong thời kỳ đổi mới, trên một số lĩnh vực cơ bản của đời sống xã hội. 9.3. Tư tưởng Hồ Chí Minh 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: Những NLCB của CN Mác– Lênin
+Môn học song hành: không
+Tóm tắt nội dung học phần: Ngoài chương mở đầu, nội dung môn học gồm 7 chương: Chương
+I, trình bày về cơ sở, quá trình hình thành và phát triển Tư tưởng Hồ Chí Minh; Từ Chương II đến Chương VII trình bày những nội dung cơ bản của Tư tưởng Hồ Chí Minh theo mục tiêu của môn học. 9.4. Pháp luật đại cương 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên tất cả các ngành những kiến thức cơ bản về những kiến thức lý luận cơ bản nhất về Nhà nước và pháp luật nói chung, nhà nước và pháp luật xã hội chủ nghĩa nói riêng. Từ đó giúp cho sinh viên có nhận thức, quan điểm đúng đắn về đường lối, chính sách của Đảng và pháp luật của Nhà nước ta. Đồng thời trang bị cho sinh viên những kiến thức cơ bản về hệ thống pháp luật Việt Nam và một số ngành luật cụ thể, giúp cho sinh viên hiểu biết hơn về pháp luật để vận dụng vào thực tiễn cuộc sống. 9.5. Toán 1 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần Toán 1 cung cấp các kiến thức cơ bản về giới hạn, tính liên tục và phép tính vi tích phân của hàm một biến. 9.6. Nhập môn Kiến trúc 3 TC
+Phân bố thời gian học tập: 3(2/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Kiến trúc nhập môn là một trong những môn học tiên quyết nhằm cung cung cấp cho sinh viên các khái niệm về kiến trúc, các yếu tố tạo thành công trình kiến trúc, những lý thuyết cơ bản về không gian, kích thước, tỷ lệ và cơ sở tạo hình kiến trúc. Giới thiệu qui trình làm việc, phương pháp nghiên cứu và tư duy sáng tạo của người kiến trúc sư.
+Qua đó, giúp sinh viên hiểu được ngành nghề mình bắt đầu học, có thềm kiến thức căn bản để tiếp tục học các môn học chuyên sâu. 9.7. Thực tập tin học chuyên ngành Kiến trúc 1 (AUTOCAD+SKETCHUP) 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp cho sinh viên những hiểu biết về CAD (Computer Aided Design) và cách thể hiện theo đúng quy cách trên một bản vẽ kỹ thuật thông qua các kiến thức về: tỉ lệ, kích thước, các hình chiếu, hình cắt, mặt cắt…
+SKETCHUP sẽ hỗ trợ thực hiện ứng dụng từ 2D sang 3D dữ liệu đồng bộ, và dựng hình ảnh diễn họa kiến trúc. Sinh viên kiến trúc ứng dụng công nghệ này để thực hiện concept và đề xuất các giải pháp kiến trúc, cảnh quan, nội thất cho công trình. 9.8. Thực tập tin học chuyên ngành Kiến trúc 2 (REVIT + 3DMAX) 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Thực tập tin học chuyên ngành Kiến trúc 1 (AUTOCAD+SKETCHUP)
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này hướng dẫn cho sinh viên các ngành kiến trúc - đô thị, nội thất, cảnh quan, xây dựng, ngành điện - điện tử, ngành cơ khí... nắm vững được những kiến thức, kỹ năng vẽ trên máy tính khi mô phỏng vật thể trong không gian 3 chiều, sinh viên kiến trúc ứng dụng công nghệ này để thực hiện concept và nâng cao khả năng diễn họa sử dụng ánh sáng, vật liệu để đề xuất các giải pháp kiến trúc, cảnh quan, nội thất CT.
+REVIT sẽ hỗ trợ thực hiện ứng dụng từ 2D sang 3D dữ liệu đồng bộ, và dựng hình ảnh diễn họa kiến trúc, và cấu trúc thực tế 3D có thể chuyển tiếp sang B.I.M sau này, và có thể thực hiện trong 03 giai đoạn chính: Thiết kế kiến trúc (architecture), thiết kế kết cấu (structure), thiết kế cơ điện (MEP) 9.9. Thực tập tin học chuyên ngành Kiến trúc 3 (B.I.M) 1 TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Thực tập tin học chuyên ngành Kiến trúc 1 (AUTOCAD+SKETCHUP), Thực tập tin học chuyên ngành Kiến trúc 2 (REVIT+3DMAX)
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp cho sinh viên hiểu biết và ứng dụng được
+B.I.M trong ngành xây dựng dựa trên các mô hình 3D kỹ thuật số được sử dụng xuyên suốt vòng đời của một dự án thiết kế, hạ tầng & xây dựng. Mô hình B.I.M kèm theo rất nhiều thông tin được thay đổi và cập nhật xuyên suốt bởi quá trình phát triển dự án. Học phần giúp sinh viên cập nhật những công nghệ tin học ứng dụng hiện đại trong thiết kế và quản lý xây dựng tiến tới làm chủ công việc hành nghề KTS trong thời đại CN 4.0. 9.10. Hình học họa hình 1: Giao - hình chiếu thẳng góc 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Hình học họa hình là môn học nghiên cứu cách thức biểu diễn một không gian hình học lên một không gian hình học khác (thường có chiều thấp hơn) rồi dùng các hình biểu diễn ấy để nghiên cứu không gian hình học ban đầu. 9.11. Hình học họa hình 2: Hình chiếu phối cảnh 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: Hình học họa hình 1: giao - hình chiếu thẳng góc
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Hình học họa hình 2 là môn học nghiên cứu cách thức biểu diễn một không gian hình học 2 chiều lên không gian hình học 3 chiều 9.12. Cơ sở văn hóa Việt Nam 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp cho sinh viên những nội dung kiến thức cơ bản và thiết thực nhất về văn hóa Việt Nam (VHVN): cấu trúc, định vị, diễn trình, các phân vùng
+VHVN. Tổ chức cho sinh viên tìm hiểu, thuyết trình, thực hiện các nghi thức, tham gia các trò chơi, mô phỏng các lễ hội, thảo luận về VHVN trên các lĩnh vực: nhận thức (văn hóa nhận thức); tổ chức đời sống (văn hóa tổ chức đời sống); ứng xử với môi trường tự nhiên, xã hội (văn hóa ứng xử với môi trường tự nhiên, xã hội). 9.13. Cây xanh, Môi trường & Con người 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Vật lý kiến trúc (Quang học-thông gió- âm học)
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cây xanh trong hệ sinh thái tự nhiên và vai trò thiết kế cây xanh trong quy hoạch đô thị
+Cây xanh kết hợp với các yếu tố tạo cảnh khác như địa hình, mặt nước, kiến trúc.... là nhân tố cấu thành cảnh quan đô thị
+Tạo sự liên kết hài hoà giữa công trình kiến trúc với bao cảnh tự nhiên.
+Nâng cao chất lượng, số lượng cây xanh như là yếu tố quan trọng và cần thiết trong môi trường đô thị. 9.14. Vật lý Kiến trúc (quang học – thông gió, âm học) 4 TC
+Phân bố thời gian học tập: 4(3/1/8)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Phần quang học:
+Những khái niệm cơ bản về quang học.
+Phương pháp thiết kế và tính toán chiếu sang tự nhiên, nhân tạo, sử dụng năng lượng hiệu quả. - Phần thông gió:
+Nêu đặc điểm khí hậu Việt Nam, mối quan hệ giữa Khí hậu – Kiến trúc – Con người.
+Tính toán truyền nhiệt qua cấu trúc & thiết kế cách nhiệt cho công trình kiến trúc.
+Giải pháp thiết kế kiến trúc thích ứng với điều kiện khí hậu nhiệt đới nóng ẩm & thông gió tự nhiên trong công trình kiến trúc. - Phần âm học:
+Những khái niệm cơ bản về âm thanh. Vật liệu và khoảng cách hút âm.
+Giải pháp tính toán trang âm phòng khan giả, chống tiếng ồn trong thành phố, cách âm cho kết cấu. 9.15. Thực hành Hội họa 1: Hình họa 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần Hội họa 1 cung cấp kiến thức và kỹ năng nghiên cứu hình hoạ, bao gồm hai phần lớn: - Phần 1: Hướng dẫn nghiên cứu hình hoạ cơ thể người bằng chất liệu chì (trắng đen) trên tượng thạch cao.
+Cung cấp kiến thức khái quát về cấu trúc, tỉ lệ của cơ thể người. Nắm được tiến trình các bước thực hành bài vẽ tượng từ chân dung đến toàn thân bằng chất liệu chì, đạt yêu cầu về bố cục, đúng về cấu trúc, tỉ lệ đầu – thân người như đã được học và đúng về hệ thống sáng tối của toàn bộ khối mẫu đặt trong không gian không gian. - Phần 2: Hướng dẫn nghiên cứu hình họa màu cơ bản bằng chất liệu màu nước trên mẫu tĩnh vật.
+Rèn luyện kiến thức cơ bản về hình. Trang bị cho sinh viên các nguyên lý cơ bản về màu trong diễn tả không gian, diễn tả hòa sắc nóng hoặc lạnh và diễn tả không gian trong tối – ngoài sáng thông qua nóng lạnh của màu. 9.16. Thực hành Hội họa 2: Phong cảnh – màu nước 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần Hội họa 2 cung cấp kiến thức và kỹ năng nghiên cứu phong cảnh trên chất liệu màu nước. Giúp sinh viên nắm được nội dung tiến trình các bước thực hành bài vẽ màu nước thể loại phong cảnh đạt yêu cầu về bố cục và đặc trưng của chất liệu thể hiện là màu nước. Nắm được kỹ năng thể hiện bài vẽ phong cảnh với các loại cây và các khối kiến trúc có đặc điểm khác nhau. 9.17. Đồ án Cơ sở kiến trúc 1: Đường nét - chữ số 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Trang bị những kiến thức và kỹ năng cơ bản cho sinh viên từ việc nắm bắt các tiêu chuẩn cơ bản về trình bày một bản vẽ kỹ thuật
+Sinh viên phải nắm được các phương pháp sử dụng các họa cụ thường dùng trong bản vẽ kỹ thuật… cho đến qui cách thiết lập các hình chiếu cơ bản của một công trình kiến trúc. 9.18. Đồ án Cơ sở kiến trúc 2: Vẽ mẫu nhà 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Hướng dẫn phương pháp trình bày ý tưởng sơ bộ một phương án kiến trúc, kỹ năng thể hiện các nội dung thiết kế của một công trình kiến trúc (mặt bằng tổng thể, mặt bằng, mặt cắt, mặt đứng, phối cảnh); kỹ năng sử dụng các chất liệu vẽ để mô tả nhanh các nội dung thiết kế.
+Hướng dẫn cách sắp xếp các nội dung thiết kế trên bản vẽ sao cho nêu bật được ý đồ và đặc điểm kiến trúc của công trình. 9.19. Đồ án Cơ sở kiến trúc 3: Diễn họa – Kiến trúc nhỏ 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA Cơ sở kiến trúc 2: Vẽ mẫu nhà
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp những kiến thức cơ bản về:
+Các loại họa cụ dùng để thực hiện bản vẽ kim trong ngành Kiến trúc công trình.
+Giải thích các khái niệm các cấu kiện kiến trúc, ý nghĩa, mục đích và phạm vi sử dụng của các loại bản vẽ kiến trúc.
+Giải thích các tiêu chuẩn, qui định, qui ước thành lập bản vẽ kiến trúc.
+Qui cách trình bày bản vẽ kỹ thuật kiến trúc. 9.20. Đồ án Cơ sở kiến trúc 4: Vẽ ghi 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA Cơ sở kiến trúc 3: Diễn họa – KT nhỏ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Sinh viên tự thiết kế một công trình qui mô nhỏ theo sự hướng dẫn của giảng viên.
+Diễn họa công trình bằng bút kim, màu. Phù hợp với cách trình bày một bảng vẽ kiến trúc. 9.21. Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc 3TC
+Phân bố thời gian học tập: 3(0/3/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Phần I : Tượng tròn
+Học phần cung cấp và trang bị những kiến thức cơ bản của ngành Điêu khắc bao gồm: Ngôn ngữ, chất liệu và quy ước về điêu khắc, cấu trúc, bố cục và phương pháp thể hiện tượng tròn.
+Giúp sinh viên hiểu được vai trò thẩm mỹ của hình khối trong kiến trúc và mối quan hệ giữa điêu khắc và không gian kiến trúc (nội thất và ngoại thất).
+Phần II: Phù điêu
+Rèn luyện khả năng phân tích, so sánh, bao quát tổng thể về hình, khối, tỉ lệ, ngôn ngữ thể hiện của phù điêu trong điêu khắc.
+Sinh viên được tiếp cận phương pháp thực hành cơ bản, bố cục sáng tác phù điêu.
+Giúp sinh viên hiểu được vai trò thẩm mỹ của phù điêu trong các công trình kiến trúc và mối quan hệ gắn kết phù điêu - kiến trúc (nội thất và ngoại thất). 9.22. Cơ học công trình 4TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Toán 1
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Tính toán nội lực của hệ thanh tĩnh định làm việc trong giai đoạn đàn hồi đàn hồi tuyến tính. - Tĩnh học: các khái niệm cơ bản và hệ tiên đề tĩnh học, thu gọn hệ lực, điều kiện cân bằng của hệ lực, bài toán cân bằng của vật rắn – hệ vật rắn, ma sát, trọng tâm. - Sức bền vật liệu: Nêu cách tính nội lực của cấu kiện chịu kéo , nén đúng tâm , uốn ngang phẳng , thanh chịu lực phức tạp , ổn định của thanh chịu nén đúng tâm. 9.26. Kết cấu công trình (BTCT+Thép+Gỗ) 4TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Kết cấu công trình (BTCT+Thép+Gỗ)
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Với kết cấu bê tông cốt thép, sinh viên có thể tính toán những cấu kiện đơn giản, chọn tiết diện dầm bê tông, tiết diện cột, chiều dày sàn chịu lực cho công trình.
+Với kết cấu gỗ, sinh viên có thể tính toán những cấu kiện đơn giản, cũng như tính toán được các liên kết, chọn tiết diện gỗ hay liên kết mềm và một số dạng kết cấu gỗ chịu lực khác
+Với kết cấu gạch – đá phần này sẽ giới thiệu tóm tắt về tính năng cơ lý của khối xây gạch và gạch đá, có cốt thép hay không có cốt thép, cách tính toán những khối xây chịu các trạng thái ứng suất khác nhau. 9.27. Nguyên lý bố cục tạo hình kiến trúc 2TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc
+Tóm tắt nội dung học phần:
+Phần một: Nguyên lý thị giác và Bố cục tạo hình căn bản. Bài tập thực hành 1 & 2: Tạo hình căn bản và bố cục tạo hình bình diện.
+Phần hai: Khối - không gian và Bố cục tạo hình hình khối không gian. Bài tập thực hành 3 & 4:
+Tạo hình lập thể và bố cục tạo hình hình khối không gian.
+Phần ba: Bố cục tạo hình một không gian phản ánh chủ đề sáng tác; Tạo hình biểu tượng trọng tâm của không gian. 9.28. Đồ án bố cục tạo hình kiến trúc 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý bố cục tạo hình kiến trúc, Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Mô tả nội dung - Bố cục tạo hình một không gian phản ánh chủ đề sáng tác; - Tạo hình biểu tượng trọng tâm của không gian.
+Giới hạn phần trọng tâm - Tạo lập cấu trúc không gian; - Tổ hợp các yếu tố tạo hình tạo ra tác phẩm; - Trình tự nghiên cứu và sáng tác một tác phẩm BCTH. 9.29. Đồ án kỹ thuật mô hình kiến trúc 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA bố cục tạo hình kiến trúc
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần rèn luyện kỹ năng thực hành – thực hiện mô hình thủ công trong giai đoạn tìm ý thiết kế không gian kiến trúc-nội thất, đánh giá và khai thác các khả năng thiết kế khác nhau của một nhiệm vụ thiết kế.
+Phần lý thuyết (15 tiết) cung cấp kiến thức về: - Các hình thức mô hình được áp dụng cho quá trình nghiên cứu thiết kế kiến trúc-nội thất; - Các loại vật liệu làm mô hình cùng với đặc điểm gia công và đặc tính biểu hiện; - Các dụng cụ thực hiện, chất liên kết các loại vật liệu khác nhau. - Phần thực hành (45 tiết) giúp luyện tập làm mô hình qua 2 tập – theo nhóm 3-5 sinh viên. - Bài tập cơ sở: giúp sinh viên làm quen các vật liệu dụng cụ làm mô hình thủ công. - Bài tập chính: giúp sinh viên thực nghiệm các khả năng biểu diễn thiết kế kiến trúc-nội thất bằng mô hình thủ công (trong giai đoạn thiết kế sơ bộ). 9.30. Cấu tạo công trình kiến trúc dân dụng & Công nghiệp – BTL 4TC
+Phân bố thời gian học tập: 4(1/3/8)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trình bày về các bộ phận cấu tạo trong công trình kiến trúc và nguyên tắc liên kết giữa chúng để hình thành công trình; đảm bảo cho công trình kiến trúc ổn định, bền vững; đáp ứng yêu cầu tạo lập không gian kiến trúc và chống lại các tác động bất lợi từ môi trường tự nhiên, môi trường xã hội trong quá trình sử dụng công trình.
+Rèn luyện cho sinh viên kỹ năng thể hiện, trình bày các bản vẽ kỹ thuật đúng quy cách, phù hợp các tiêu chuẩn, quy phạm của ngành. Từ đó, sinh viên có đủ kiến thức và kỹ năng để nghiên cứu sáng tạo trong thiết kế sáng tác, đáp ứng các yêu cầu của kiến trúc. 9.31. TT Trắc địa 2 TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này kết hợp và vận dụng các kiến thức của môn trắc địa đại cương để từ đó thực hành các thao tác đo đạc và bố trí cơ bản bằng máy kinh vĩ và máy thủy bình. Gồm: Làm quen với máy kinh vĩ quang học; Đo góc bằng theo phương pháp cung và toàn vòng; Đo góc đứng bằng máy kinh vĩ; Đo dài trực tiếp bằng thước dây và đo dài gián tiếp bằng máy kinh vĩ và mia; Đo cao lượng giác; Hướng dẫn sử dụng máy thủy bình; Đo chênh cao từ giữa bằng máy thủy bình (đo cao kỹ thuật); Lập lưới đường chuyền tọa độ và độ cao. 9.32. Kỹ thuật hạ tầng Công trình (Điện + Nước) 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Nguyên lý thiết kế kiến trúc CN, Cấu tạo kiến trúc công trình DD & CN– BTL
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Phần I: CẤP THOÁT NƯỚC
+Môn học giới thiệu các vấn đề về cấp nước, thoát nước ở bên ngoài và bên trong nhà. Phần cấp nước sẽ đề cập đến các loại nguồn nước và các sơ đồ xử lý nước, hệ thống cấp nước cho khu vực và cho công trường xây dựng cũng như hệ thống cấp nước trong nhà, trong đó sẽ nhấn mạnh đến việc tính toán và thiết kế mạng lưới cấp nước. Phần thoát nước sẽ trình bày các vấn đề chủ yếu về hệ thống thoát nước cho khu vực và trong nhà cũng như các phương pháp cơ bản xử lý nước thải.
+Phần II: KỸ THUẬT ĐIỆN
+Cung cấp cho sinh viên các kiến thức cơ bản của về kỹ thuật chiếu sáng, có khả năng tính toán thiết kế hệ thống chiếu sáng trong mọi lĩnh vực công nghiệp, dân dụng, chiếu sáng công cộng.
+Các đại lượng kỹ thuật ánh sáng cơ bản: quang thông, hiệu suất phát sáng, cường độ ánh sáng, độ rọi, huy độ, độ trưng, nhiệt độ màu, chỉ số màu. Các nguồn sáng phát sáng đều. Các thiết bị đo ánh sáng.
+Các loại nguồn sáng: nhóm đèn nung sáng, nhóm đèn phóng điện cao áp và hạ áp, LED, đèn cảm ứng. Thiết bị khởi động: starter, ballast. Các mạch đèn huỳnh quang, các mạch đèn phóng điện.
+Các loại thiết bị chiếu sáng và các thông số kỹ thuật. Vật liệu kỹ thuật ánh sáng.
+Các nguyên tắc và tiêu chuẩn chiếu sáng nhân tạo. Các giải pháp sử dụng năng lượng điện hiệu quả trong hệ thống chiếu sáng. Thiết kế hệ thống chiếu sáng: lựa chọn các thông số kỹ thuật, cách bố trí hệ thống chiếu sáng, các phương pháp tính toán chiếu sáng. Kiểm tra chất lượng chiếu sáng. Hướng dẫn sử dụng các phần mềm thiết kế chiếu sáng.
+Chiếu sáng đường phố.
+Xác định phụ tải chiếu sáng, các ký hiệu và sơ đồ đi dây hệ thống chiếu sáng 9.33. Nguyên lý thiết kế kiến trúc Dân dụng 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Nguyên lý bố cục tạo hình kiến trúc, Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+PHẦN 1: Nguyên lý thiết kế kiến trúc Nhà ở - Khái niệm và phân lọai kiến trúc nhà ở. - Khái quát về kiến trúc nhà ở thấp tầng. - Phân khu chức năng trong nhà ở. - Yêu cầu thiết kế tiện nghi vật chất và tinh thần.
+PHẦN 2: Nguyên lý thiết kế kiến trúc Công cộng - Trang bị cho sinh viên những vấn đề cơ bản để sử dụng, vận dụng trong hoạt động nghề nghiệp thiết kế công trình kiến trúc. - Xây dựng những kiến thức cơ bản ban đầu cho sinh viên về các yếu tố tạo thành một tác phẩm kiến trúc: Môi trường – quy hoạch, chức năng – tiện nghi, kỹ thuật – vật liệu, hình thức – thẩm mỹ kiến trúc. 9.34. Nguyên lý thiết kế kiến trúc Công nghiệp 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Phần một: Khái niệm về công nghiệp và công trình công nghiệp. - Phần hai: Nguyên lý thiết kế kiến trúc công nghiệp. - Phần ba: Nguyên lý thiết kế cấu tạo kiến trúc nhà công nghiệp. 9.35. Nguyên lý Quy hoạch đô thị 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Khái niệm cơ bản về đô thị và công tác quy hoạch đô thị. - Quá trình hình thành phát triển của đô thị và đô thị hóa. - Thiết kế quy hoạch chung xây dựng đô thị. - Quy hoạch xây dựng các khu chức năng trong đô thị. - Thiết kế quy hoạch chi tiết xây dựng đô thị. - Quy hoạch cải tạo đô thị. - Quản lý quy hoạch và xây dựng đô thị.
+Trọng tâm các nguyên lý : - Thiết kế quy hoạch chung xây dựng đô thị. - Quy hoạch xây dựng các khu chức năng trong đô thị. - Thiết kế quy hoạch chi tiết xây dựng đô thị. - Quy hoạch cải tạo đô thị. 9.36. Kiến trúc cảnh quan 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Nguyên lý Quy hoạch đô thị
+Môn học tiên quyết: không
+Môn học song hành: Thiết kế đô thị
+Tóm tắt nội dung học phần:
+Các kiến thức cơ bản về cảnh quan, kiến trúc cảnh quan, phân loại đánh giá cảnh quan, mối quan hệ giữa cảnh quan tự nhiên và cảnh quan nhân tạo, phân tích những yếu tố cấu thành và những tác động trong việc hình thành kiến trúc cảnh, thiết kế cảnh quan đô thị. Tăng khả năng tư duy thiết kế quy hoạch xây dựng đô thị, đồng thời có thái độ tôn trọng cảnh quan hài hòa đô thị. 9.37. Thiết kế đô thị 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Nguyên lý Quy hoạch đô thị
+Môn học tiên quyết: không
+Môn học song hành: Kiến trúc cảnh quan
+Tóm tắt nội dung học phần:
+Đây là môn học chuyên ngành nâng cao, bắt buộc đào tạo tại ngành kiến trúc, kết nối chuyển tiếp từ quy hoạch đô thị sang thiết kế công trình kiến trúc, cung cấp kiến thức & kỹ năng thiết kế công trình có bản sắc hài hòa trong tổng thể quy hoạch, giúp sinh viên nâng cao khả năng nhận diện, phân tích, tổng hợp, đánh giá một đô thị, trình tự phương pháp thiết kế hay cải tạo chỉnh trang một đô thị.
+Nội dung cơ bản của môn học - Hình thức cấu trúc đặc điểm không gian – hình thái đô thị - Xu hướng phát triển đô thị - Nguyên tắc phân khu chức năng các không gian đô thị - Phương pháp bố cục tạo hình không gian đô thị - Phương pháp phân tích đánh giá hình thái & môi trường đô thị 9.38. Lịch sử kiến trúc phương Tây 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên những kiến thức về quá trình hình thành và phát triển của các nền kiến trúc phương Tây gồm: Bối cảnh tự nhiên – xã hội, phân kỳ lịch sử kiến trúc, loại hình và các đặc điểm kiến trúc… 9.39. Lịch sử kiến trúc phương Đông & Việt Nam 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Nguyên lý Quy hoạch đô thị, Lịch sử kiến trúc phương Tây
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên những kiến thức về quá trình hình thành và phát triển của các nền kiến trúc phương Đông & Việt Nam, có điểm giống nhau & khác nhau tương quan bối cảnh lịch sử - văn hóa xã hội dựa trên các nội dung học phần: Bối cảnh tự nhiên – xã hội, phân kỳ lịch sử kiến trúc, loại hình và các đặc điểm kiến trúc… 9.40. Bảo tồn & Trùng tu di sản 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Thiết kế đô thị, Lịch sử kiến trúc phương Tây, Lịch sử kiến trúc phương Đông &VN
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên ngành kiến trúc các kiến thức lý thuyết và thực hành về bảo tồn di sản kiến trúc và đô thị.
+Trang bị kiến thức và kỹ năng tư duy biện chứng nâng cao khả năng lý luận kiến trúc. 9.41. Trang thiết bị công trình 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Cấu tạo kiến trúc công trình DD & CN– BTL
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Tóm tắt nội dung học phần: Môn học Thiết bị kỹ thuật kiến trúc công trình là hệ thống nhiều ngành thiết bị kỹ thuật (Thiết bị cấp thoát nước công trình, điện chiếu sáng, điện trang trí, hệ thống PCCC, điều hòa, thông gió, thông tin, thang máy, ...). Mỗi ngành thuộc phạm trù kỹ thuật chuyên ngành riêng nhưng tựu trung là những thiết bị, công nghệ gắn kết hữu cơ để đáp ứng nhu cầu và hiệu quả sử dụng công trình tốt nhất. Toàn bộ hệ thống đó dựa trên công nghệ và cấu trúc thiết bị được thiết kế gắn kết với thiết kế kiến trúc tạo thành một mạng lưới hệ thống không gian kỹ thuật trong công trình sao cho đảm bảo quy trình lắp đặt, vận hành bảo dưỡng ...
+Đạt tiêu chuẩn, yêu cầu kiến trúc và kỹ thuật. 9.42. Thiết kế Kiến trúc & Môi trường bền vững 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Vật lý kiến trúc (Quang học-thông gió- âm học), Cây xanh, môi trường & Con người, Kiến trúc cảnh quan
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Những khái niệm cơ bản đến kỹ năng nâng cao về mối quan hệ giữa năng lượng / môi trường và thiết kế kiến trúc nhiệt đới phù hợp với môi trường, kiến trúc phát triển bền vững. - Các công nghệ xây dựng, vật liệu, trang thiết bị công trình, tiết kiệm năng lượng… trong kiến trúc phù hợp điều kiện môi trường - Cung cấp các phương pháp & công cụ thiết kế kiến trúc sử dụng năng lượng hiệu quả và thân thiện với môi trường; các phương pháp và công cụ kiểm soát môi trường. - Các bài học kinh nghiệm thực tế. 9.43. GIS trong kiến trúc & quy hoạch 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, Nguyên lý thiết kế kiến trúc CN,
+Vật lý kiến trúc (Quang học-thông gió- âm học), Nguyên lý Quy hoạch đô thị
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên các phương pháp sử dụng GIS phục vụ cho nghiên cứu về môi trường, và thiết kế cảnh quan kiến trúc, thiết kế & quản lý đô thị, qui hoạch đô thị. 9.44. Chuyên đề Doanh nghiệp (Kiến trúc) 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Đây là học phần xây dựng khả năng sáng tạo trong khởi nghiệp liên quan đến ngành xây dựng, giúp cho sinh viên hình thành ý tưởng mới mang tính đột phá. 9.45. Lãnh đạo và kinh doanh trong kỹ thuật (Kiến trúc) 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên kến thức tổng hợp về phương pháp quản lý và kinh doanh trong kỹ thuật. 9.46. Đồ án thiết kế kiến trúc: Quán hoa, Quán sách, Bến xe bus, Bến tàu thủy 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý bố cục tạo hình kiến trúc, Thực hành Điêu khắc: Tổ hợp hình khối kiến trúc
+Môn học tiên quyết: không
+Môn học song hành: Nguyên lý thiết kế kiến trúc công trình DD
+Tóm tắt nội dung học phần: - Đây là đồ án thuộc thể loại công cộng có quy mô nhỏ, có tính bố cục tạo hình và trang trí trong một không gian vui chơi giải trí, khu công cộng đông người. Đồ án này là môn học thiết kế kiến trúc đầu tiên hỗ trợ cho môn học Bố cục tạo hình Kiến trúc, bài tập thực hành về tổ chức hình khối tạo hình và không gian công năng, nâng cao khả năng tư duy về kiến trúc. - Công trình này thường được bố trí cặp song song với trục đường liên tỉnh hoặc đường liên xã, trên bờ tuyến sông lạch, (nếu là quán hoa, chòi nghỉ thì có thể ở trong các công viên) trong khu qui hoạch đô thị có chức năng giao thông, văn hóa, giải trí, công viên cây xanh… thuận tiện cho giao thông đi lại và tiếp cận đối tượng. - Thể loại đồ án các công trình này có hình thức trang trí không gian, tạo bộ mặt thẩm mỹ cho không gian đô thị. - Phân tích nội dung, yêu cầu của đề bài - Phương pháp nghiên cứu bố trí mặt bằng- mặt đứng tổng thể, tỷ lệ tầm vóc công trình - Phân tích mặt bằng (tính toán diện tích, luồng giao thông, sắp xếp bố cục mặt bằng...) - Phân tích mặt đứng, bố cục hình khối tỷ lệ với không gian tổng thể mặt đứng đô thị - Thể hiện bản vẽ kỹ thuật, kiến trúc 9.47. Đồ án thiết kế kiến trúc Nhà ở riêng lẻ 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA thiết kế kiến trúc: quán hoa, quán sách, bến xe bus, bến tàu thủy, Cấu tạo kiến trúc công trình DD & CN– BTL, Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Sinh viên nắm được cách thể hiện một đồ án sơ phác ý tưởng đến làm quen phương pháp thể hiện cũng như cách trình bày bố cục một bản vẽ kiến trúc trong giai đoạn thiết kế cơ sở trên khổ giấy quy định.
+Sinh viên tự thiết kế được loại nhà ở riêng lẻ dạng biệt thự có sân vườn hoặc biệt thự song lập với quy mô nhỏ. 9.48. Đồ án thiết kế kiến trúc Nhà ở thấp tầng 3 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA thiết kế kiến trúc: Nhà ở riêng lẻ, Nguyên lý thiết kế kiến trúc công trình
+DD, Cấu tạo kiến trúc công trình DD & CN– BTL
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này giúp sinh viên củng cố và vận dụng tốt lý thuyết vào thực tiễn, thể hiện trên bản vẽ; cung cấp thêm cho sinh viên những kiến thức và kỹ năng thực hiện một hồ sơ TKCS loại công trình chung cư thấp tầng; Phương pháp sử dụng tiêu chuẩn thiết kế chung cư thấp tầng của
+VN; Giải pháp kết hợp chức năng ở và các chức năng phục vụ công cộng cho khu dân cư đô thị gồm: dịch vụ thương mại, kinh doanh, giải trí; Cách bố cục mặt bằng tổng thể, tổ chức không gian bên trong công trình, ,thiết kế mặt cắt và mặt đứng công trình; Các giải pháp kiến trúc, kết cấu, vật lý kiến trúc… cho chung cư thấp tầng. 9.49. Đồ án thiết kế kiến trúc CTCC 1: Quy mô nhỏ 3 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Cấu tạo kiến trúc công trình DD & CN– BTL
+Môn học tiên quyết: không
+Môn học song hành: Nguyên lý thiết kế kiến trúc công trình DD
+Tóm tắt nội dung học phần:
+Giúp cho sinh viên hiểu rõ phương thức thiết kế một công trình công cộng quy mô nhỏ, ví dụ một Motal quy mô cấp Quận. - Motel có quy mô cấp Quận, thuộc thể loại công trình công cộng phục vụ cho nhu cầu nghỉ ngơi, sau chuyến hành trình dài để phục hồi sức khỏe, của khách vãng lai. - Công trình Motel được bố trí gần trạm xăng, cặp song song với trục đường Liên tỉnh hoặc đường Liên xã, trong khu qui hoạch đô thị có chức năng văn hóa, giải trí, công viên cây xanh để có không gian yên tĩnh, nghĩ ngơi nhưng đồng thời thuận tiện cho giao thông đi lại và tiếp cận đối tượng. - Công trình Motel có hình thức thẩm mỹ của thể loại công trình Khách sạn, mang tính đặc thù địa phương và địa hình, địa thế của khu vực xây dựng, đồng thời tạo bộ mặt thẩm mỹ cho không gian đô thị. - Phân tích nội dung, yêu cầu của đề bài - Phương pháp nghiên cứu bố trí mặt bằng tổng thể Motel - Phân tích mặt bằng (tính toán diện tích, quan hệ phòng ốc, giao thông, sắp xếp đồ đạc...) - Thể hiện bản vẽ kỹ thuật, kiến trúc. 9.50. Đồ án thiết kế kiến trúc CTCC 2: Quy mô vừa 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: ĐA thiết kế kiến trúc CTCC 1: quy mô nhỏ, Cấu tạo kiến trúc công trình DD &
+CN– BTL, Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Đồ án kiến trúc CC 2 trang bị cho sinh viên kiến thức Thiết kê công trình giáo dục, vận dụng nguyên lý thiết kế công trình công cộng, các tiêu chuẩn thiết kế, tiêu chuẩn phòng cháy chữa cháy, thoát nạn khi nghiên cứu - Đồ án Công cộng 2, quy mô nhỏ cao 1-3 tầng. - Thể loại công trình trường học. 9.51. Đồ án thiết kế kiến trúc CTCC 3: Quy mô lớn 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: ĐA thiết kế kiến trúc CTCC 2: quy mô vừa, ĐA kỹ thuật mô hình kiến trúc,
+Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Công trình thuộc thể loại kiến trúc công cộng có quy mô lớn, có chức năng giáo dục - đào tạo trình độ trung học phổ thông. Đồ án giúp cho sinh viên nắm rõ phương pháp và làm được một đồ án kiến trúc thể loại trường học. 9.52. Đồ án thiết kế kiến trúc CTCC 4: Bệnh viện & CTTM 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: ĐA thiết kế kiến trúc CTCC 3: quy mô lớn, Cấu tạo kiến trúc công trình DD &
+CN– BTL, Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Công trình thuộc thể loại kiến trúc công cộng có quy mô lớn, có dây truyền công năng hỗn hợp và phức tạp. Nếu đồ án là bệnh viện chuyên khoa hoặc đa khoa tuyến tỉnh có chức năng nghiên cứu phòng chống & điều trị bệnh, hoặc nhiệm vụ thiết kế đồ án là một tổ hợp thương mại kết hợp văn phòng cao tầng có nhiều công năng sử dụng chồng chéo hỗn hợp.
+Đồ án này giúp cho sinh viên nắm rõ phương pháp thực hiện một đồ án kiến trúc dưới dạng hồ sơ kỹ thuật thể loại công trình có cấu trúc công năng & giải pháp kỹ thuật phức tạp, đỏi hỏi sinh viên nhạy bén tìm tòi đề xuất ý tưởng sáng tạo từ dây truyền công năng tạo ra hình khối kiến trúc và giải pháp kỹ thuật cũng như cấu kiện kết cấu phù hợp. 9.53. Đồ án thiết kế kiến trúc tổng hợp 4 TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: ĐA thiết kế kiến trúc CTCC 4: Bệnh viện, TTTM văn phòng, ĐA thiết kế cải tạo+bảo tồn CT quy mô vừa, ĐA thiết kế nội thất 2, ĐA Quy hoạch chi tiết Đơn Vị Ở, ĐA thiết kế kiến trúc: Nhà ở thấp tầng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Nghiên cứu và lập đồ án thiết một công trình trên khu đất có quy mô trên khu đất tự chọn - Sinh viên chủ động sử dụng các cơ sở khoa học lý luận/thực tiễn / pháp lý (qua nghiên cứu các tài liệu liên quan trong và ngoài nước) từ đó đề xuất các phương pháp và cơ sở khoa học áp dụng cho giải pháp thiết kế - Lập đồ án thiết kế kiến trúc bao gồm bản vẽ và thuyết minh; - Nắm bắt các kỹ năng làm việc theo nhóm, lập báo cáo thuyết trình & bảo vệ đồ án. 9.54. Đồ án thiết kế kiến trúc công nghiệp 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Cấu tạo kiến trúc công trình DD & CN– BTL, Nguyên lý thiết kế kiến trúc CN,
+Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Đồ án kiến trúc công nghiệp nhẹ cung cấp kiến thức : - Quy hoạch mặt bằng chung XNCM; - Thiết kế kiến trúc nhà sản xuất chính trong XNCN; - Thiết kế cấu tạo nhà công nghiệp; 9.55. Đồ án qui hoạch chi tiết đơn vị ở 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vật lý kiến trúc (Quang học-thông gió- âm học), Cây xanh, môi trường & Con người, Nguyên lý Quy hoạch đô thị
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Dựa trên định hướng phát triển không gian của một đô thị, sinh viên sẽ được yêu cầu quy hoạch 1 khu vực với chức năng ở có quy mô diện tích khoảng 100 ha. - Sinh viên làm việc theo nhóm để nghiên cứu, tính toán các khu chức năng trong khu ở theo các tiêu chuẩn, quy chuẩn của Việt nam. Đề xuất các phương án quy hoạch, các chỉ tiêu quy hoạch, chỉ tiêu sử dụng đất cho toàn khu vực theo tỉ lệ 1/2000. - Dựa trên phương án này, các nhóm sẽ đề xuất Quy hoạch sử dụng đất của khu vực. 9.56. Đồ án thiết kế Nội thất 1: Nhà ở riêng lẻ 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ĐA Cơ sở kiến trúc 4: Vẽ ghi, Nguyên lý thiết kế kiến trúc CN, Cấu tạo kiến trúc công trình DD & CN– BTL, ĐA thiết kế kiến trúc CTCC 2: quy mô vừa, Thực tập tin học chuyên ngành Kiến trúc 2: (SKETCHUP+3DMAX)
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Đồ án kiến trúc nội thất 1 trang bị cho sinh viên kiến thức Thiết kế nội thất công trình nhà ở riêng lẻ (nhà ở ghép hộ, biệt thự, chung cư…), vận dụng nguyên lý thiết kế nội thất trong công trình, nắm được các tiêu chuẩn thiết kế nội thất - Cung cấp cho học viên những kiến thức từ bắt đầu đến chuyên sâu về các trang thiết bị cần thiết cho công trình kiến trúc nhà ở và nhà công cộng thông dụng. - Học viên nắm được ưu nhược điểm của từng trang thiết bị cách bố trí sao cho hợp lý nhất của tất cả các trang thiết bị. - Giúp học viên học viên hình thành phát huy các ý tưởng trong thiết kế nội thất 9.57. Đồ án thiết kế Nội thất 2: Nhà hàng, khách sạn, Văn phòng, Resort 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Nguyên lý thiết kế kiến trúc công trình DD, ĐA thiết kế nội thất 1, Nguyên lý thiết kế kiến trúc công trình DD
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên kiến thức Thiết kế nội thất 2 thể loại công trình công cộng, vận dụng nguyên lý thiết kế nội thất trong công trình, nắm được các tiêu chuẩn thiết kế nội thất - Cung cấp cho học viên những kiến thức từ bắt đầu đến chuyên sâu về các trang thiết bị cần thiết cho công trình. - Học viên nắm được ưu nhược điểm của từng trang thiết bị cách bố trí sao cho hợp lý nhất của tất cả các trang thiết bị. - Giúp học viên học viên hình thành phát huy các ý tưởng trong thiết kế nội thất 9.58. Đồ án thiết kế cải tạo - bảo tồn CT quy mô vừa 3 TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Lịch sử kiến trúc phương Đông &VN, Lịch sử kiến trúc phương Tây, ĐA thiết kế kiến trúc CTCC 2: quy mô vừa, ĐA thiết kế nội thất 1
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này giúp sinh viên nâng cao tư duy thiết kế giải pháp sáng tạo trong cải tạo nâng cấp các công trình XD đã có, có thể là công trình di sản có yếu tố bảo tồn nâng cao chức năng sử dụng hoặc chuyển đổi công năng sử dụng cho tính hiệu quả hơn và không hề làm mất những giá trị di sản đã tồn tại, phù hợp hài hòa với không gian đô thị. Học phần giúp sinh viên củng cố và vận dụng tốt các lý thuyết nguyên lý thiết kế kiến trúc dân dụng &CN với phương pháp luận từ nghiên cứu hiện trạng thực địa, những giá trị văn hóa lịch sử khu vực thực tiễn để đề xuất những ý tưởng thiết kế, giải pháp kỹ thuật kèm theo cũng như phương pháp thể hiện các bản vẽ cải tạo – bảo tồn kiến trúc di sản đô thị, cách khai thác nâng cao giá trị từ một công trình cũ trở thành công trình mới trong cũ có sự hòa quyện mới cũ. 9.59. Đồ án thiết kế ngoại thất: Cảnh quan, sân vườn, công viên 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Trang thiết bị công trình, Kiến trúc cảnh quan, Thiết kế đô thị
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này giúp sinh viên củng cố và vận dụng tốt lý thuyết vào thực tiễn, thể hiện trên bản vẽ; cung cấp thêm cho sinh viên những kiến thức và kỹ năng thực hiện một hồ sơ TKCS loại thiết kế công trình; Giải pháp kết hợp các chức năng phục vụ công cộng và cảnh quan xung quanh: dịch vụ thương mại, kinh doanh, giải trí; Cách bố cục mặt bằng tổng thể, tổ chức không gian bên ngoài công trình, ,thiết kế mặt cắt và mặt đứng công trình; Các giải pháp kiến trúc, kết cấu, vật lý kiến trúc… 9.60. Thực tập kỹ thuật 1 TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: ĐA Cơ sở kiến trúc 4: Vẽ ghi, Nguyên lý thiết kế kiến trúc công trình DD, Cấu tạo kiến trúc công trình DD & CN– BTL
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Sinh viên bắt đầu làm quen với nghề kiến trúc và hành nghề làm công việc xây dựng 9.61. Thực tập – Thăm quan 1 TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Cấu tạo kiến trúc công trình DD & CN– BTL, Nguyên lý thiết kế kiến trúc CN,
+Nguyên lý Quy hoạch đô thị, ĐA thiết kế cải tạo+bảo tồn CT quy mô vừa, ĐA thiết kế nội thất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+I/ Phần I: Thực tập – Thăm quan 1: (cuối HK 6)
+Sinh viên thăm quan tiếp cận các công trình kiến trúc thực tế để tích lũy kiến thức vào cơ sở lý thuyết đang học áp dụng vào đồ án thiết kế môn học.
+II/ Phần II: Thực tập – Thăm quan 2: (cuối HK 8)
+Sinh viên thăm quan tiếp cận hệ thống các công trình kiến trúc di sản đặc trưng, công trình kiến trúc có giá trị công năng và nghệ thuật thực tế, và các không gian đô thị (đô thị di sản & đô thị đặc trưng, đô thị mới), để tích lũy kiến thức vào cơ sở lý thuyết đang học, áp dụng vào đồ án thiết kế chủng tu bảo tồn di sản và nâng cao tư duy lý luận kiến trúc. 9.62. TT Tốt nghiệp (Kiến trúc) 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Thực tập tốt nghiệp là khóa học đặc thù của chương trình đào tạo kiến trúc sư THIẾT KẾ
+CÔNG TRÌNH, qua khóa học sinh viên sẽ được tiếp cận với công việc thực tế để thuận lợi trong hoạt động tư vấn sau khi ra trường, khóa học này sẽ cung cấp cho sinh viên một cách nhìn tổng quan về các công việc liên quan đến công việc hoạt động kiến trúc – Nội thất & kiến trúc cảnh quan, thiết kế & quản lý đô thị, quy hoạch, vai trò và trách nhiệm của kiến trúc sư trong công việc tư vấn, thiết kế, chủ trì hoặc tham gia dự án, quản lý quy trình lập đồ án thiết kế, triển khai hồ sơ thiết kế,.... - Các nội dung cần nghiên cứu khác bao gồm: Tổ chức quản lý công ty, kế hoạch kinh doanh, nguồn nhân lực, quản lý tài chính; các văn bản pháp quy về thiết kế, kiến trúc và quản lý xây dựng; tiếp cận và làm việc với khách hàng, đối tác, xây dựng tác phong chuyên nghiệp; - Các nội dung tham khảo bao gồm: quản lý dự án đầu tư xây dựng, quản lý các dịch vụ tư vấn thiết kế xây dựng. 9.63. Tư duy biện luận ứng dụng 2 TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần cung cấp cho sinh viên những nội dung kiến thức cơ bản và thiết thực nhất về biện luận khoa học, khả năng tư duy để hùng biện lý luận ứng dụng vào nghề nghiệp chuyên ngành: sự logic khoa học tương tác, cấu trúc, định vị, diễn trình. Tổ chức cho sinh viên tìm hiểu, thuyết trình, thực hiện các nghi thức, tham gia các trò chơi, mô phỏng, thảo luận trên các lĩnh vực nghề nghiệp và môi trường xã hội. 9.64. Mỹ học 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên những kiến thức tổng quát mỹ học, cảm thụ về vẻ đẹp không gian cảnh quan – hình thái đô thị, bố cục kiến trúc, hình khối đường nét màu sắc và đến tiểu cảnh trang trí không gian kiến trúc, cảm thụ nghệ thuật được tương tác chi phối với các ngành nghề khác cùng không gian và bối cảnh tạo gia giá trị thẩm mỹ nhất định.
+Trang bị nhận thức về các lý thuyết mĩ học kiến trúc & cảnh quan đô thị từ thời kỳ cách mạng công nghiệp đến giai đoạn hiện nay giúp sinh viên vận dụng được những kinh nghiệm thực tế và hiểu biết về lý thuyết mỹ học với kiến trúc đô thị. 9.65. Kiến trúc truyền thống Việt Nam 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Giúp cho sinh viên nắm vững tiến trình phát triển kiến thức kiến trúc Việt Nam gắn liền với các giai đoạn lịch sử. Thông qua đó hiểu được giá trị tinh hoa của nghệ thuật kiến trúc Việt Nam, nhằm kế thừa và phát huy trong sáng tác kiến trúc. Cung cấp cho sinh viên các kiến thức cơ bản để nhận biết, đánh giá được đặc điểm kiến thức các thời kỳ trong lịch sử kiến trúc Việt Nam và các Quốc gia phương Đông, cũng như các loại hình của kiến trúc truyền thống tương ứng. Qua đó sinh viên tìm hiểu được công năng, nghệ thuật của chất liệu gỗ và các vật liệu dân gian truyền thống Việt Nam và các nước. 9.66. Qui hoạch hệ thống giao thông đô thị 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Giới thiệu cho sinh viên một số kiến thức cơ bản về chức năng nhiệm vụ của hệ thống giao thông đô thị, các dạng sơ đồ hình học mạng lưới đường, quy hoạch mạng lưới đường, mặt cắt ngang đường, nút giao thông – quãng trường – bãi đỗ xe
+Vắn tắt nội dung học phần: - Giới thiệu chung về mục đích, yêu cầu và đối tượng môn học. - Giao thông đối ngoại đô thị - Quy hoạch mạng lưới đường đô thị - Một số tuyến giao thông đặc biệt trong đô thị 9.67. Kỹ thuật thi công 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này trang bị cho sinh viên những kiến thức về biện pháp thi công các công tác xây lắp chủ yếu trong xây dựng; học được các phương pháp kiểm tra, đánh giá chất lượng và nghiệm thu các khối lượng công tác xây lắp trong quá trình thi công xây dựng. 9.68. Kinh tế xây dựng 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức tổng quát về đặc điểm kinh tế của ngành xây dựng, cung cấp phương pháp xác định chi phí xây dựng cũng như những cơ sở lý luận về kinh tế, kỹ thuật nhằm đánh giá, so sánh, lựa chọn phương án kỹ thuật, các dự án đầu tư cũng như các giải pháp thiết kế tốt nhất. Ngoài ra còn giúp cho sinh viên thấy được sự tác động của các yếu tố kinh tế, xã hội lên các dự án xây dựng. 9.69. Quản lý dự án 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Là học phần lý thuyết thuộc nhóm kiến thức kinh tế và quản lý trong xây dựng. Học phần này trang bị cho người học những kiến thức căn bản về quản lý dự án bao gồm việc lập kế hoạch, tổ chức thực hiện và kiểm soát một dự án xây dựng từ giai đoạn hình thành dự án cho đến khi kết thúc dự án: Cách thức ra quyết định và thực hiện công việc trong điều kiện ràng buộc về thời gian, chi phí và nhân lực, các hình thức tổ chức quản lý dự, phương pháp lập kế hoạch, tiến độ , kiểm soát dự án và phân phối tài nguyên …. 9.70. Lịch sử Đô thị 2 TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên những kiến thức về quá trình hình thành và phát triển của các đô thị trong các thời kỳ cổ đại, trung đại, cận – hiện đại
+Trang bị nhận thức về các lý thuyết mô hình đô thị từ thời kỳ cách mạng công nghiệp đến giai đoạn hiện nay giúp sinh viên vận dụng được những kinh nghiệm và hiểu biết về lý thuyết đô thị học. 9.67. Khóa luận Tốt nghiệp 10 TC
+Phân bố thời gian học tập: 10(10/0/20)
+Môn học trước: không
+Môn học tiên quyết: Tất cả các học phần tự bắt buộc và tự chọn
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Đồ án tốt nghiệp là đồ án cuối cùng trong hệ thống đồ án của sinh viên ngành Kiền trúc. Quá trình nghiên cứu và thực hiện đồ án nhằm giúp sinh viên củng cố và tổng hợp lại toàn bộ kiến thức chuyên môn đã học trong suốt 4.5 năm học, đảm bảo sinh viên có đủ kiến thức cơ bản phục vụ cho công tác thiết kế. - Đối tượng thiết kế bao gồm: công trình kiến trúc công cộng, nhà ở, công nghiệp, nhóm đa chức năng… - Tạo cho sinh viên biết được các kỹ năng khi thực hiện dự án thiết kế, cách trình bày ý tưởng và các thành phần cần thể hiện trong 1 bộ hồ sơ thiết kế cơ sở. 10. Cơ sở vật chất phục vụ học tập 10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng - Xưởng thực hành mô hình - Xưởng thực hành đồ án 10.2. Thư viện, trang Web - Thư viện trường - Trang web khoa: www.fca.hcmute.edu.vn 11. Hướng dẫn thực hiện chương trình a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau: 1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp = 30 giờ thí nghiệm hoặc thực hành = 45 giờ tự học = 45  90 giờ thực tập tại cơ sở. = 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15. b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa
+PHỤ LỤC CÁC MÔN HỌC LIÊN NGÀNH
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. SKET241952 Ký họa 2 2. PRVI120652 Nguyên lý thị giác 2 3. HGRA130852 Hội họa nâng cao 2
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. SKET241952 Ký họa 2 2. PRVI120652 Nguyên lý thị giác 2 3. HGRA130852 Hội họa nâng cao 2

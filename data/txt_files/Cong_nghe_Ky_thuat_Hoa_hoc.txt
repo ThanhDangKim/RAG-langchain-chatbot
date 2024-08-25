@@ -1,0 +1,1700 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CÔNG NGHỆ KỸ THUẬT HOÁ HỌC
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng
+trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT HOÁ HỌC
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT HOÁ HỌC
+Tên tiếng Anh: Chemical Engineering Technology
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7510401
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT HOÁ HỌC
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT HOÁ HỌC
+Mã ngành: 7510401
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kỹ sư
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không có
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực
+1. Vận dụng các kiến thức khoa học công nghệ nền tảng và chuyên sâu để đạt được sự thành
+công về nghề nghiệp trong lĩnh vực công nghệ kỹ thuật hoá học hoặc lĩnh vực chuyên môn phù
+hợp với mục tiêu nghề nghiệp của họ.
+2. Trở thành những người kỹ sư công nghệ, người quản lý giỏi, giải quyết các thách thức thực
+tế của khoa học kỹ thuật.
+3. Có khả năng học tập và nghiên cứu nâng cao để phát triển nghề nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Expected
+Ký Trình độ
+learning Chuẩn đầu ra
+hiệu năng lực
+outcome
+Kiến thức, tư duy và khả năng lập luận các vấn đề kỹ thuật
+EO 1.
+Vận dụng các kiến thức nền tảng khoa học tự nhiên và khoa học xã
+ELO1
+1.1 hội trong lĩnh vực công nghệ kỹ thuật hoá học 3
+Ứng dụng các khái niệm, nguyên lý cơ bản và các kiến thức kỹ
+ELO2
+1.2 thuật cốt lõi trong lĩnh vực công nghệ kỹ thuật hóa học. 3
+Áp dụng được các kiến thức chuyên sâu về kỹ thuật liên quan đến
+ELO3
+lĩnh vực công nghệ kỹ thuật hóa học như: hoá hữu cơ, hoá vô cơ và
+1.3 5
+hoá polymer.
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Xác định, phân tích và giải quyết vấn đề.
+ELO4 2.1 5
+Thực nghiệm và đánh giá kết quả thực nghiệm.
+ELO5 2.2 5
+Tiếp cận và tư duy vấn đề ở tầm hệ thống.
+ELO6 2.3 5
+Nhận thức được nhu cầu và trách nhiệm học tập suốt đời.
+ELO7 2.4 5
+ELO8 2.5
+Xác định mục tiêu, định hướng nghề nghiệp, trung thực và có đạo
+đức nghề nghiệp.
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+Có khả năng làm việc nhóm.
+ELO9 3.1 4
+Có kỹ năng giao tiếp bằng văn bản, phương tiện điện tử, thuyết
+ELO10
+3.2 4
+trình.
+Có khả năng sử dụng tiếng Anh chuyên ngành
+ELO11 3.3 3
+Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối
+4.
+cảnh doanh nghiệp, xã hội và môi trường – quá trình sáng tạo
+Nhận thức được vai trò và trách nhiệm của nghề nghiệp đối với xã
+ELO12
+4.1 4
+hội.
+Hiểu biết văn hóa và cách thức làm việc trong doanh nghiệp.
+ELO13 4.2 3
+Thiết kế được quy trình công nghệ sản xuất liên quan đến công nghệ
+ELO14
+4.3 5
+kỹ thuật hóa học.
+Vận hành và giám sát các quy trình công nghệ vào điều kiện thực tế
+ELO15
+4.4 4
+tại các cơ sở sản xuất thuộc lĩnh vực công nghệ kỹ thuật hoá học.
+Lĩnh hội được kiến thức về khả năng sáng tạo và khởi nghiệp
+ELO16 4.5 2
+Thang trình độ năng lực
+Expected
+learning
+outcome	Ký
+hiệu	Chuẩn đầu ra	Trình độ
+năng lực
+EO	1.	Kiến thức, tư duy và khả năng lập luận các vấn đề kỹ thuật	
+ELO1	1.1	Vận dụng các kiến thức nền tảng khoa học tự nhiên và khoa học xã
+hội trong lĩnh vực công nghệ kỹ thuật hoá học	3
+ELO2	1.2	Ứng dụng các khái niệm, nguyên lý cơ bản và các kiến thức kỹ
+thuật cốt lõi trong lĩnh vực công nghệ kỹ thuật hóa học.	3
+ELO3	1.3	Áp dụng được các kiến thức chuyên sâu về kỹ thuật liên quan đến
+lĩnh vực công nghệ kỹ thuật hóa học như: hoá hữu cơ, hoá vô cơ và
+hoá polymer.	5
+	2.	Kỹ năng và tố chất cá nhân và chuyên nghiệp	
+ELO4	2.1	Xác định, phân tích và giải quyết vấn đề.	5
+ELO5	2.2	Thực nghiệm và đánh giá kết quả thực nghiệm.	5
+ELO6	2.3	Tiếp cận và tư duy vấn đề ở tầm hệ thống.	5
+ELO7	2.4	Nhận thức được nhu cầu và trách nhiệm học tập suốt đời.	5
+ELO8	2.5	Xác định mục tiêu, định hướng nghề nghiệp, trung thực và có đạo
+đức nghề nghiệp.	5
+	3.	Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp	
+ELO9	3.1	Có khả năng làm việc nhóm.	4
+ELO10	3.2	Có kỹ năng giao tiếp bằng văn bản, phương tiện điện tử, thuyết
+trình.	4
+ELO11	3.3	Có khả năng sử dụng tiếng Anh chuyên ngành	3
+	4.	Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối
+cảnh doanh nghiệp, xã hội và môi trường – quá trình sáng tạo	
+ELO12	4.1	Nhận thức được vai trò và trách nhiệm của nghề nghiệp đối với xã
+hội.	4
+ELO13	4.2	Hiểu biết văn hóa và cách thức làm việc trong doanh nghiệp.	3
+ELO14	4.3	Thiết kế được quy trình công nghệ sản xuất liên quan đến công nghệ
+kỹ thuật hóa học.	5
+ELO15	4.4	Vận hành và giám sát các quy trình công nghệ vào điều kiện thực tế
+tại các cơ sở sản xuất thuộc lĩnh vực công nghệ kỹ thuật hoá học.	4
+ELO16	4.5	Lĩnh hội được kiến thức về khả năng sáng tạo và khởi nghiệp	2
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+Đạt yêu
+2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+(Xem thêm văn bản hướng dẫn xây dựng CTĐT phần xác định trình độ năng lực)
+5. Khối lượng kiến thức toàn khoá: 132 tín chỉ
+(không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 51
+A. Khối kiến thức bắt buộc 36
+I. Lý luận chính trị + Pháp luật 12
+1 Các NL cơ bản của CN Mác-Lênin 5
+2 Đường lối CM của ĐCSVN 3
+3 Tư tưởng Hồ Chí Minh 2
+4 Pháp luật đại cương 2
+II. Toán học và KHTN 21
+1 Toán 1 3
+2 Toán 2 3
+3 Toán 3 3
+4 Hóa đại cương 3
+5 Thí nghiệm hoá đại cương 1
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất
+sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+TT	TÊN HỌC PHẦN	Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG		51
+A. Khối kiến thức bắt buộc		36
+I. Lý luận chính trị + Pháp luật		12
+1	Các NL cơ bản của CN Mác-Lênin	5
+2	Đường lối CM của ĐCSVN	3
+3	Tư tưởng Hồ Chí Minh	2
+4	Pháp luật đại cương	2
+II. Toán học và KHTN		21
+1	Toán 1	3
+2	Toán 2	3
+3	Toán 3	3
+4	Hóa đại cương	3
+5	Thí nghiệm hoá đại cương	1
+6 Phương pháp tính 2
+7 Vật lý 1 3
+8 Vật lý 2 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 15
+IV. Tin học 3
+1 Tin học văn phòng nâng cao 3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục) 4
+VII. Khác (các khoa đề xuất) 8
+1 Hoá vô cơ 3
+2 Hoá hữu cơ 3
+3 Kỹ thuật PTN và an toàn hóa chất 2
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất
+1 Giáo dục thể chất 1 1
+2 Giáo dục thể chất 2 1
+3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 81
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 60
+Chuyên ngành
+Thực hành 12
+Thực tập tốt nghiệp 2
+Khóa luận tốt nghiệp 7
+7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc
+7.1. Kiến thức giáo dục đại cương
+Số tín Mã MH trước
+STT Mã môn học Tên học phần
+chỉ
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2
+3. LLCT230214 Đường lối cách mạng của ĐCSVN 3
+4. GELA220405 Pháp luật đại cương 2
+5. MATH132401 Toán 1 3
+6. MATH132501 Toán 2 3
+7. MATH132601 Toán 3 3
+8. GCHE130603 Hóa đại cương 3
+9. EGCH110903 Thí nghiệm hoá đại cương 1
+10. MATH121101 Phương pháp tính 2
+11. PHYS130902 Vật lý 1 3
+12. PHYS131002 Vật lý 2 3
+13. ICHE130703 Nhập môn ngành CNKT Hoá học 2+1
+14. ADMO138685 Tin học văn phòng nâng cao 3(2+1)
+6	Phương pháp tính	2
+7	Vật lý 1	3
+8	Vật lý 2	3
+III. Nhập môn ngành		3 (2+1)
+B. Khối kiến thức tự chọn		15
+IV. Tin học		3
+1	Tin học văn phòng nâng cao	3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục)		4
+VII. Khác (các khoa đề xuất)		8
+1	Hoá vô cơ	3
+2	Hoá hữu cơ	3
+3	Kỹ thuật PTN và an toàn hóa chất	2
+C. Khối kiến thức GDTC + GDQP		
+VIII. Giáo dục thể chất		
+1	Giáo dục thể chất 1	1
+2	Giáo dục thể chất 2	1
+3	Tư chọn Giáo dục thể chất 3	3
+IX. Giáo dục quốc phòng		165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP		81
+Cơ sở nhóm ngành và ngành		60
+Cơ sở ngành		
+Chuyên ngành		
+Thực hành		12
+Thực tập tốt nghiệp		2
+Khóa luận tốt nghiệp		7
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	
+4.	GELA220405	Pháp luật đại cương	2	
+5.	MATH132401	Toán 1	3	
+6.	MATH132501	Toán 2	3	
+7.	MATH132601	Toán 3	3	
+8.	GCHE130603	Hóa đại cương	3	
+9.	EGCH110903	Thí nghiệm hoá đại cương	1	
+10.	MATH121101	Phương pháp tính	2	
+11.	PHYS130902	Vật lý 1	3	
+12.	PHYS131002	Vật lý 2	3	
+13.	ICHE130703	Nhập môn ngành CNKT Hoá học	2+1	
+14.	ADMO138685	Tin học văn phòng nâng cao	3(2+1)	
+15. ICHE231003 Hoá vô cơ 3 HT_GCHE130603
+16. OCHE231403 Hoá hữu cơ 3 HT_GCHE130603
+17. TSCL120803 Kỹ thuật PTN và an toàn hoá chất 2
+18. PHED110513 Giáo dục thể chất 1 1
+19. PHED110613 Giáo dục thể chất 2 1
+20. PHED130715 Giáo dục thể chất 3 3
+21. - Giáo dục quốc phòng 165 tiết
+Tổng 47
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Số tín Mã MH trước
+STT Mã môn học Tên học phần
+chỉ
+1. FLUI220132 Cơ học lưu chất ứng dụng 2
+2. APME221021 Cơ ứng dụng 2
+3. TEDG130120 Vẽ kỹ thuật 1 3(2+1)
+4. ACHE231203 Hóa phân tích 3 HT_GCHE 130603
+5. IANM323303 Các phương pháp phân tích công cụ 2
+6. PCHE221603 Hóa lý 1 2 HT_GCHE 130603
+7. PCHE221703 Hóa lý 2 2 HT_GCHE 130603
+8. HTPE231903 Quá trình thiết bị truyền nhiệt 3
+9. MTPE232003 Qúa trình thiết bị truyền khối 3
+10. MPRO232103 Quá trình và thiết bị cơ học 3
+11. CREN222203 Kỹ thuật phản ứng 2
+12. Thống kê và quy hoạch thực nghiệm 3
+SEPC232503
+trong CNKT hoá học
+13. TECE232403 Anh văn cho kỹ sư hoá học 2
+14. FDMF232603 Cơ sở thiết kế máy và nhà máy hóa chất 3
+15. ENTE227310 Công nghệ môi trường 2
+16. PWPD322703 Đồ án thiết kế máy thiết bị 2 HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+HT_FDMF232603
+17. ENCO326503 Liên hệ doanh nghiệp 2
+Tổng 41
+* Môn học Liên hệ doanh nghiệp sẽ được triển khai theo hình thức thời gian tập trung (5
+tiết/buổi, 3 buổi/1TC) và linh hoạt, phân bố nhiều đợt tùy theo sự bố trí của khoa. SV tham gia
+đầy đủ 6 buổi, viết báo cáo và nợp bài cho Giẻng viên phụ trách chấm điểm, có xác nhận của
+Khoa.
+7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết và thí nghiệm)
+Số tín Mã MH trước
+STT Mã môn học Tên học phần
+chỉ
+Chuyên ngành bắt buộc
+1. FMSE222803 Đại cương về khoa học và kỹ thuật vật 2
+15.	ICHE231003	Hoá vô cơ	3	HT_GCHE130603
+16.	OCHE231403	Hoá hữu cơ	3	HT_GCHE130603
+17.	TSCL120803	Kỹ thuật PTN và an toàn hoá chất	2	
+18.	PHED110513	Giáo dục thể chất 1	1	
+19.	PHED110613	Giáo dục thể chất 2	1	
+20.	PHED130715	Giáo dục thể chất 3	3	
+21.	-	Giáo dục quốc phòng	165 tiết	
+Tổng			47	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước
+1.	FLUI220132	Cơ học lưu chất ứng dụng	2	
+2.	APME221021	Cơ ứng dụng	2	
+3.	TEDG130120	Vẽ kỹ thuật 1	3(2+1)	
+4.	ACHE231203	Hóa phân tích	3	HT_GCHE 130603
+5.	IANM323303	Các phương pháp phân tích công cụ	2	
+6.	PCHE221603	Hóa lý 1	2	HT_GCHE 130603
+7.	PCHE221703	Hóa lý 2	2	HT_GCHE 130603
+8.	HTPE231903	Quá trình thiết bị truyền nhiệt	3	
+9.	MTPE232003	Qúa trình thiết bị truyền khối	3	
+10.	MPRO232103	Quá trình và thiết bị cơ học	3	
+11.	CREN222203	Kỹ thuật phản ứng	2	
+12.	SEPC232503	Thống kê và quy hoạch thực nghiệm
+trong CNKT hoá học	3	
+13.	TECE232403	Anh văn cho kỹ sư hoá học	2	
+14.	FDMF232603	Cơ sở thiết kế máy và nhà máy hóa chất	3	
+15.	ENTE227310	Công nghệ môi trường	2	
+16.	PWPD322703	Đồ án thiết kế máy thiết bị	2	HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+HT_FDMF232603
+17.	ENCO326503	Liên hệ doanh nghiệp	2	
+Tổng			41	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước
+Chuyên ngành bắt buộc				
+1.	FMSE222803	Đại cương về khoa học và kỹ thuật vật	2	
+liệu
+2. TINO322903 Công nghệ sản xuất các hợp chất vô cơ 2 HT_ICHE231003
+3. TORS323003 Công nghệ sản xuất các hợp chất hữu cơ 2 HT_OCHE231403
+HT_PCHE221603
+4. ELET323203 Công nghệ điện hóa 2
+HT_PCHE221703
+5. POCH323103 Hóa học polymer 2 HT_OCHE231403
+Tổng 10
+7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập công nghiệp)
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+Chuyên ngành bắt buộc
+1. EICH221103 Thí nghiệm hóa vô cơ 2 HT_ICHE231003
+2. EACH221303 Thí nghiệm hóa phân tích 2 HT_ACHE231203
+3. EOCH221503 Thí nghiệm hóa hữu cơ 2 HT_OCHE231403
+EPCH221803 Thí nghiệm hóa lý HT_PCHE221603
+4. 2
+HT_PCHE221703
+PRPD212303 Thực tập quá trình thiết bị HT_DOHT231903
+HT_TSEP232003
+5. 1
+HT_MPRO232103
+HT_TREA222203
+6. GRAP426703 Thực tập tốt nghiệp 2 HT_PWPD312703
+7. Tổng 11
+7.2.3. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Số tín
+STT Mã môn học Tên học phần Mã MH trước
+chỉ
+1. GRAT426803 Khóa luận tốt nghiệp Đạt kỳ thi kiểm
+07 tra năng lực
+“Qualified exam”
+Tổng 7
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified
+exam”
+Ngoài ra sinh viên cần phải tích lũy đủ 2TC ngoại khóa (không bao gồm trong chương
+trình 132TC) các kiến thức liên quan đến “Lãnh đạo và kinh doanh trong kỹ thuật”, được bố
+trí vào học kỳ hè dưới dạng các sân chơi của Khoa và được xem như điều kiện cần tốt nghiệp.
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương (Sinh viên chọn 4 tín chỉ trong các môn học sau)
+Số tín
+STT Mã môn học Tên học phần Mã MH trước
+chỉ
+1. GEEC220105 Kinh tế học đại cương 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. INMA220305 Nhập môn Quản trị học 2
+4. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2
+		liệu		
+2.	TINO322903	Công nghệ sản xuất các hợp chất vô cơ	2	HT_ICHE231003
+3.	TORS323003	Công nghệ sản xuất các hợp chất hữu cơ	2	HT_OCHE231403
+4.	ELET323203	Công nghệ điện hóa	2	HT_PCHE221603
+HT_PCHE221703
+5.	POCH323103	Hóa học polymer	2	HT_OCHE231403
+Tổng			10	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+Chuyên ngành bắt buộc				
+1.	EICH221103	Thí nghiệm hóa vô cơ	2	HT_ICHE231003
+2.	EACH221303	Thí nghiệm hóa phân tích	2	HT_ACHE231203
+3.	EOCH221503	Thí nghiệm hóa hữu cơ	2	HT_OCHE231403
+4.	EPCH221803	Thí nghiệm hóa lý	2	HT_PCHE221603
+HT_PCHE221703
+5.	PRPD212303	Thực tập quá trình thiết bị	1	HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+6.	GRAP426703	Thực tập tốt nghiệp	2	HT_PWPD312703
+7.		Tổng	11	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước
+1.	GRAT426803	Khóa luận tốt nghiệp	07	Đạt kỳ thi kiểm
+tra năng lực
+“Qualified exam”
+Tổng			7	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước
+1.	GEEC220105	Kinh tế học đại cương	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	INMA220305	Nhập môn Quản trị học	2	
+4.	WOPS120390	Kỹ năng làm việc trong môi trường kỹ thuật	2	
+Kiến thức chuyên ngành (Sinh viên chọn 12 tín chỉ cho các học phần của 1 trong 3
+chuyên ngành của mình đã chọn)
+Số tín
+STT Mã môn học Tên học phần Mã MH trước
+chỉ
+Chuyên ngành tự chọn (SV chọn 12 tín chỉ chuyên ngành của 1
+trong 3 chuyên ngành sau)
+Chuyên ngành CNKT hoá hữu cơ (12)
+1. TDET423503 Công nghệ các sản phẩm tẩy rửa 2
+2. IORP423603 Công nghệ chất màu hữu cơ 2
+3. FSTE423703 Công nghệ hóa hương liệu 2
+4. TECP423803 Công nghệ hóa mỹ phẩm 2
+Các phương pháp phổ nghiệm phân tích
+5. SIOC423903
+hợp chất hữu cơ 2
+6. PSTE424003 Công nghệ SX bột giấy và giấy 2
+7. TAGP424103 Công nghệ các sản phẩm hóa nông 2
+8. TEDY424203 Công nghệ nhuộm 2
+9. MCHE424803 Hoá dược 2
+Thí nghiệm chuyên ngành CNKT hóa
+10.
+ESOC424303 hữu cơ 2
+Chuyên ngành CNKT hoá vô cơ (12)
+1.
+TFER424403
+Công nghệ phân bón 2
+2.
+TCER424503
+Công nghệ sản xuất ceramic truyền thống 2
+Công nghệ sản xuất các chất kết dính vô
+3.
+TCEM424603
+cơ 2
+4.
+PCSI424703
+Hóa lý Silicat 2
+Các phương pháp phân tích cấu trúc vật
+5.
+SCIM424903
+liệu vô cơ 2
+6.
+TMIP425003
+Công nghệ khoáng sản 2
+7.
+TPIG425103
+Công nghệ chất màu vô cơ 2
+8.
+AIMA425203
+Vật liệu vô cơ tiên tiến 2
+Thí nghiệm chuyên ngành CNKT hóa vô
+9.
+EICT425303
+cơ 2
+Chuyên ngành CNKT polymer (12)
+1. TPCM425403 Công nghệ vật liệu polymer composite
+2. TPLA425503
+Công nghệ sản xuất chất dẻo 2
+3. FRUT25603
+Cơ sở công nghệ cao su 2
+4. MAEP425703 Các phương pháp phân tích và đánh giá
+vật liệu polymer 2
+5. TPOP425803 Kỹ thuật gia công polymer
+STT	Mã môn học			Tên học phần		Số tín
+chỉ	Mã MH trước
+Chuyên ngành tự chọn (SV chọn 12 tín chỉ chuyên ngành của 1
+trong 3 chuyên ngành sau)							
+Chuyên ngành CNKT hoá hữu cơ						(12)	
+1.	TDET423503				Công nghệ các sản phẩm tẩy rửa	2	
+2.	IORP423603				Công nghệ chất màu hữu cơ	2	
+3.	FSTE423703				Công nghệ hóa hương liệu	2	
+4.	TECP423803				Công nghệ hóa mỹ phẩm	2	
+5.	SIOC423903				Các phương pháp phổ nghiệm phân tích
+hợp chất hữu cơ	2	
+6.	PSTE424003				Công nghệ SX bột giấy và giấy	2	
+7.	TAGP424103				Công nghệ các sản phẩm hóa nông	2	
+8.	TEDY424203				Công nghệ nhuộm	2	
+9.		MCHE	424803		Hoá dược	2	
+10.	ESOC424303				Thí nghiệm chuyên ngành CNKT hóa
+hữu cơ	2	
+Chuyên ngành CNKT hoá vô cơ						(12)	
+1.	TFER424403				Công nghệ phân bón	2	
+2.	TCER424503				Công nghệ sản xuất ceramic truyền thống	2	
+3.	TCEM424603				Công nghệ sản xuất các chất kết dính vô
+cơ	2	
+4.	PCSI424703				Hóa lý Silicat	2	
+5.	SCIM424903				Các phương pháp phân tích cấu trúc vật
+liệu vô cơ	2	
+6.	TMIP425003				Công nghệ khoáng sản	2	
+7.	TPIG425103				Công nghệ chất màu vô cơ	2	
+8.	AIMA425203				Vật liệu vô cơ tiên tiến	2	
+9.	EICT425303				Thí nghiệm chuyên ngành CNKT hóa vô
+cơ	2	
+Chuyên ngành CNKT polymer						(12)	
+1.	TPCM425403				Công nghệ vật liệu polymer composite	2	
+2.	TPLA425503				Công nghệ sản xuất chất dẻo	2	
+3.	FRUT25603				Cơ sở công nghệ cao su	2	
+4.	MAEP425703				Các phương pháp phân tích và đánh giá
+vật liệu polymer	2	
+5.	TPOP425803				Kỹ thuật gia công polymer	2	
+6. TAPO425903
+Công nghệ Polymer kết dính 2
+7. TTFP426003
+Công nghệ màng Polymer 2
+8. ADPO426103
+Vật liệu polymer tiên tiến 2
+9. TFIB426203
+Công nghệ sợi 2
+10. TPAI426303
+Công nghệ sơn 2
+11. ESPO426403 Thí nghiệm chuyên ngành CNKT hóa
+polymer 2
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành
+trong phần tự chọn:
+Số tín Mã MH trước,
+STT Mã môn học Tên môn học
+chỉ MH tiên quyết
+Option 1 (Khối ngành Môi trường) (SV chọn 3 trong các
+môn sau)
+1. CPSD323110 Sản xuất sạch hơn và Thiết kế bền vững 2
+2. EIAS323210 Đánh giá tác động môi trường 2
+3. ENEC323310 Kinh tế môi trường 2
+4. ENPM323510 Quản lý dự án môi trường 2
+5. SWTR331610 Kỹ thuật xử lý nước cấp 3
+6. WWTR331910 Kỹ thuật xử lý nước thải 3
+7. APCT332310 Kỹ thuật xử lý khí thải 3
+Option 2 (Khối ngành Thực phẩm) 6
+1. FOPR423650 Các công nghệ chế biến thực phẩm 2
+2. FOEN423450 Kỹ thuật thực phẩm 2
+3. FOMA421050 Quản lý chất lượng thực phẩm 2
+Option 6 (Khối ngành Kinh tế) 6
+1. BAMA231209 Makerting cơ bản 3
+2. TEMA321406 Quản trị công nghệ 3
+Tổng 6
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn
+học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học
+chỉ MOOC (đường link đăng ký)
+PCHE221703 Hoá lý 2 https://lms.hcmute.edu.vn/course/view.
+1. 2
+php?id=16259
+GCHE130603 Hoá đại cương https://www.coursera.org/learn/ad
+2. 3
+vanced-chemistry
+Hoá hữu cơ Hoá hữu cơ https://www.universalclass.com/i/c
+3. 3
+ourse/learn-organic-chemistry.htm
+8. Kế hoạch giảng dạy
+6.	TAPO425903	Công nghệ Polymer kết dính	2	
+7.	TTFP426003	Công nghệ màng Polymer	2	
+8.	ADPO426103	Vật liệu polymer tiên tiến	2	
+9.	TFIB426203	Công nghệ sợi	2	
+10.	TPAI426303	Công nghệ sơn	2	
+11.	ESPO426403	Thí nghiệm chuyên ngành CNKT hóa
+polymer	2	
+STT	Mã môn học	Tên môn học	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+	Option 1 (Khối ngành Môi trường) (SV chọn 3 trong các
+môn sau)		6	
+1.	CPSD323110	Sản xuất sạch hơn và Thiết kế bền vững	2	
+2.	EIAS323210	Đánh giá tác động môi trường	2	
+3.	ENEC323310	Kinh tế môi trường	2	
+4.	ENPM323510	Quản lý dự án môi trường	2	
+5.	SWTR331610	Kỹ thuật xử lý nước cấp	3	
+6.	WWTR331910	Kỹ thuật xử lý nước thải	3	
+7.	APCT332310	Kỹ thuật xử lý khí thải	3	
+	Option 2 (Khối ngành Thực phẩm)		6	
+1.	FOPR423650	Các công nghệ chế biến thực phẩm	2	
+2.	FOEN423450	Kỹ thuật thực phẩm	2	
+3.	FOMA421050	Quản lý chất lượng thực phẩm	2	
+	Option 6 (Khối ngành Kinh tế)		6	
+1.	BAMA231209	Makerting cơ bản	3	
+2.	TEMA321406	Quản trị công nghệ	3	
+Tổng			6	
+STT	Mã môn học	Tên môn học	Số tín
+chỉ	Môn học được xét tương đương
+MOOC (đường link đăng ký)		
+1.	PCHE221703	Hoá lý 2	2	https://lms.hcmute.edu.vn/course/view.
+php?id=16259		
+2.	GCHE130603	Hoá đại cương	3	https://www.coursera.org/learn/ad
+vanced-chemistry		
+3.	Hoá hữu cơ	Hoá hữu cơ	3		https://www.universalclass.com/i/c	
+					ourse/learn-organic-chemistry.htm	
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để
+sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5 -
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT150105)
+3. LLCT230214 HT_(LLCT150105)
+Đường lối cách mạng của ĐCSVN 3
+HT_(LLCT120314)
+4. PHED110613 Giáo dục thể chất 2 1
+5. PHED130715 Giáo dục thể chất 3 3
+Tổng 10
+Học kỳ 1:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+ADMO138685 Tin học văn phòng nâng caoo 3(2+1)
+GCHE130603 Hóa đại cương 3
+6 GELA220405 Pháp luật đại cương 2
+2 ICHE130703 Nhập môn ngành CNKTHH 3 (2+1)
+1 MATH132401 Toán 1 3
+PHED110513 Giáo dục thể chất 1 1
+PHYS130902 Vật lý 1 3
+3 TSCL120803 Kỹ thuật PTN và an toàn hóa chất 2
+Tổng (Không tính học phần pháp luật đại cương) 17
+Học kỳ 2:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. EGCH110903 Thí nghiệm hoá đại cương 1
+2. ICHE231003 Hóa vô cơ 3 HT_GCHE130603
+3. MATH132501 Toán 2 3
+4. OCHE231403 Hóa hữu cơ 3 HT_GCHE130603
+5. PCHE221603 Hóa lý 1 2 HT_GCHE130603
+6. PHYS131002 Vật lý 2 3
+7. TEDG130120 Vẽ kỹ thuật 1 3
+8. Khoa học xã hội & nhân văn (chọn 2
+trong 4 )
+GEFC220105 Kinh tế học đại cương
+IQMA220205 Nhập môn quản trị chất lượng 4
+INMA220305 Nhập môn Quản trị học
+WOPS120390 Kỹ năng làm việc trong môi trường kỹ
+thuật
+Tổng 22
+Học kỳ 3:
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	-
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	HT_(LLCT150105)
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	HT_(LLCT150105)
+HT_(LLCT120314)
+4.	PHED110613	Giáo dục thể chất 2	1	
+5.	PHED130715	Giáo dục thể chất 3	3	
+Tổng			10	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+4	ADMO138685	Tin học văn phòng nâng caoo	3(2+1)	
+5	GCHE130603	Hóa đại cương	3	
+6	GELA220405	Pháp luật đại cương	2	
+2	ICHE130703	Nhập môn ngành CNKTHH	3 (2+1)	
+1	MATH132401	Toán 1	3	
+8	PHED110513	Giáo dục thể chất 1	1	
+7	PHYS130902	Vật lý 1	3	
+3	TSCL120803	Kỹ thuật PTN và an toàn hóa chất	2	
+Tổng (Không tính học phần pháp luật đại cương)			17	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	EGCH110903	Thí nghiệm hoá đại cương	1	
+2.	ICHE231003	Hóa vô cơ	3	HT_GCHE130603
+3.	MATH132501	Toán 2	3	
+4.	OCHE231403	Hóa hữu cơ	3	HT_GCHE130603
+5.	PCHE221603	Hóa lý 1	2	HT_GCHE130603
+6.	PHYS131002	Vật lý 2	3	
+7.	TEDG130120	Vẽ kỹ thuật 1	3	
+8.	GEFC220105
+IQMA220205
+INMA220305
+WOPS120390	Khoa học xã hội & nhân văn (chọn 2
+trong 4 )
+Kinh tế học đại cương
+Nhập môn quản trị chất lượng
+Nhập môn Quản trị học
+Kỹ năng làm việc trong môi trường kỹ
+thuật	4	
+Tổng			22	
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. MATH132601 Toán 3 3
+2. FLUI220132 Cơ học lưu chất ứng dụng 2
+3. ACHE231203 Hóa phân tích 3 HT_GCHE130603
+4. EOCH221503 Thí nghiệm hóa hữu cơ 2 HT_OCHE231403
+5. PCHE221703 Hóa lý 2 2 HT_GCHE130603
+6. APME221021 Cơ ứng dụng 2
+7. EICH221103 Thí nghiệm hóa vô cơ 2 HT_ICHE231003
+8. MPRO232103 Quá trình và thiết bị cơ học 3
+Tổng 19
+Học kỳ 4:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. EACH221303 Thí nghiệm hóa phân tích 2 HT_ACHE231203
+2. HT_PCHE221603
+EPCH221803
+Thí nghiệm hóa lý 2 HT_PCHE221703
+3. FMSE222803 Đại cương về khoa học và kỹ thuật
+vật liệu 2
+4. HTPE231903 Quá trình thiết bị truyền nhiệt 3
+5. IANM323303 Các phương pháp phân tích công cụ 2
+6. MATH121101 Phương pháp tính 2
+7. MTPE232003 Qúa trình thiết bị truyền khối 3
+8. TECE232403 Anh văn cho kỹ sư hoá học 2
+Tổng 18
+Học kỳ 5:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. ENTE227310 Công nghệ môi trường 2
+2. TINO322903 Công nghệ sản xuất các hợp chất vô cơ 2 HT_ICHE231003
+3. Thống kê và quy hoạch thực nghiệm 3
+SEPC232503
+trong CNKT hoá học
+4. ELET323203 Công nghệ điện hóa HT_PCHE221603
+2 HT_PCHE221703
+5. CREN222203 Kỹ thuật phản ứng 2
+6. FDMF232603 Cơ sở thiết kế máy và nhà máy hóa
+chất 3
+7. POCH323103 Hóa học polymer 2 HT_OCHE231403
+8. TORS323003 Công nghệ sản xuất các hợp chất hữu HT_OCHE231403
+cơ
+Tổng 18
+Học kỳ 6:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	MATH132601	Toán 3	3	
+2.	FLUI220132	Cơ học lưu chất ứng dụng	2	
+3.	ACHE231203	Hóa phân tích	3	HT_GCHE130603
+4.	EOCH221503	Thí nghiệm hóa hữu cơ	2	HT_OCHE231403
+5.	PCHE221703	Hóa lý 2	2	HT_GCHE130603
+6.	APME221021	Cơ ứng dụng	2	
+7.	EICH221103	Thí nghiệm hóa vô cơ	2	HT_ICHE231003
+8.	MPRO232103	Quá trình và thiết bị cơ học	3	
+Tổng			19	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	EACH221303	Thí nghiệm hóa phân tích	2	HT_ACHE231203
+2.	EPCH221803	Thí nghiệm hóa lý	2	HT_PCHE221603
+HT_PCHE221703
+3.	FMSE222803	Đại cương về khoa học và kỹ thuật
+vật liệu	2	
+4.	HTPE231903	Quá trình thiết bị truyền nhiệt	3	
+5.	IANM323303	Các phương pháp phân tích công cụ	2	
+6.	MATH121101	Phương pháp tính	2	
+7.	MTPE232003	Qúa trình thiết bị truyền khối	3	
+8.	TECE232403	Anh văn cho kỹ sư hoá học	2	
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	ENTE227310	Công nghệ môi trường	2	
+2.	TINO322903	Công nghệ sản xuất các hợp chất vô cơ	2	HT_ICHE231003
+3.	SEPC232503	Thống kê và quy hoạch thực nghiệm
+trong CNKT hoá học	3	
+4.	ELET323203	Công nghệ điện hóa	2	HT_PCHE221603
+HT_PCHE221703
+5.	CREN222203	Kỹ thuật phản ứng	2	
+6.	FDMF232603	Cơ sở thiết kế máy và nhà máy hóa
+chất	3	
+7.	POCH323103	Hóa học polymer	2	HT_OCHE231403
+8.	TORS323003	Công nghệ sản xuất các hợp chất hữu
+cơ	2	HT_OCHE231403
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1. PRPD212303 Thực tập quá trình thiết bị HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+2. HT_DOHT231903
+HT_TSEP232003
+PWPD322703 Đồ án thiết kế máy thiết bị 2 HT_MPRO232103
+HT_TREA222203
+HT_FDMF232603
+Chuyên ngành tự chọn (SV chọn 10 tín chỉ
+chuyên ngành của 1 trong 3 chuyên ngành sau) 10
+Chuyên ngành CNKT hoá hữu cơ
+3. TDET423503 Công nghệ các sản phẩm tẩy rửa 2
+4. IORP423603 Công nghệ chất màu hữu cơ 2
+5. FSTE423703 Công nghệ hóa hương liệu 2
+6. TECP423803 Công nghệ hóa mỹ phẩm 2
+7. SIOC423903 Các phương pháp phổ nghiệm
+phân tích hợp chất hữu cơ 2
+8. PSTE424003 Công nghệ SX bột giấy và giấy 2
+9. TAGP424103 Công nghệ các sản phẩm hóa
+nông 2
+10. TEDY424203 Công nghệ nhuộm 2
+11. MCHE424803 Hoá dược 2
+Chuyên ngành CNKT hoá vô cơ
+12. TFER424403 Công nghệ phân bón 2
+13. TCER424503 Công nghệ sản xuất ceramic
+truyền thống 2
+14. TCEM424603 Công nghệ sản xuất các chất kết
+dính vô cơ 2
+15. PCSI424703 Hóa lý Silicat 2
+16. SCIM424903 Các phương pháp phân tích cấu
+trúc vật liệu vô cơ 2
+17. TMIP425003 Công nghệ khoáng sản 2
+18. TPIG425103 Công nghệ chất màu vô cơ 2
+19. AIMA425203 Vật liệu vô cơ tiên tiến 2
+Chuyên ngành CNKT hoá polymer
+20. TPCM425403 Công nghệ vật liệu polymer
+composite 2
+21. TPLA425503 Công nghệ sản xuất chất dẻo 2
+22. FRUT25603 Cơ sở công nghệ cao su 2
+23. MAEP425703 Các phương pháp phân tích và
+đánh giá vật liệu polymer 2
+24. TPOP425803 Kỹ thuật gia công polymer 2
+25. TAPO425903 Công nghệ Polymer kết dính 2
+26. TTFP426003 Công nghệ màng Polymer 2
+1.	PRPD212303			Thực tập quá trình thiết bị	1	HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+2.	PWPD322703			Đồ án thiết kế máy thiết bị	2	HT_DOHT231903
+HT_TSEP232003
+HT_MPRO232103
+HT_TREA222203
+HT_FDMF232603
+	Chuyên ngành tự chọn (SV chọn 10 tín chỉ
+chuyên ngành của 1 trong 3 chuyên ngành sau)				10	
+Chuyên ngành CNKT hoá hữu cơ						
+3.	TDET423503			Công nghệ các sản phẩm tẩy rửa	2	
+4.	IORP423603			Công nghệ chất màu hữu cơ	2	
+5.	FSTE423703			Công nghệ hóa hương liệu	2	
+6.	TECP423803			Công nghệ hóa mỹ phẩm	2	
+7.	SIOC423903			Các phương pháp phổ nghiệm
+phân tích hợp chất hữu cơ	2	
+8.	PSTE424003			Công nghệ SX bột giấy và giấy	2	
+9.	TAGP424103			Công nghệ các sản phẩm hóa
+nông	2	
+10.	TEDY424203			Công nghệ nhuộm	2	
+11.		MCHE	424803	Hoá dược	2	
+Chuyên ngành CNKT hoá vô cơ						
+12.	TFER424403			Công nghệ phân bón	2	
+13.	TCER424503			Công nghệ sản xuất ceramic
+truyền thống	2	
+14.	TCEM424603			Công nghệ sản xuất các chất kết
+dính vô cơ	2	
+15.	PCSI424703			Hóa lý Silicat	2	
+16.	SCIM424903			Các phương pháp phân tích cấu
+trúc vật liệu vô cơ	2	
+17.	TMIP425003			Công nghệ khoáng sản	2	
+18.	TPIG425103			Công nghệ chất màu vô cơ	2	
+19.	AIMA425203			Vật liệu vô cơ tiên tiến	2	
+Chuyên ngành CNKT hoá polymer						
+20.	TPCM425403			Công nghệ vật liệu polymer
+composite	2	
+21.	TPLA425503			Công nghệ sản xuất chất dẻo	2	
+22.	FRUT25603			Cơ sở công nghệ cao su	2	
+23.	MAEP425703			Các phương pháp phân tích và
+đánh giá vật liệu polymer	2	
+24.	TPOP425803			Kỹ thuật gia công polymer	2	
+25.	TAPO425903			Công nghệ Polymer kết dính	2	
+26.	TTFP426003			Công nghệ màng Polymer	2	
+27. ADPO426103 Vật liệu polymer tiên tiến 2
+28. TFIB426203 Công nghệ sợi 2
+29. TPAI426303 Công nghệ sơn 2
+Tổng 13
+Học kỳ 7:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. GRAP426703 Thực tập tốt nghiệp 2 HT_PWPD312703
+2. ENCO326503 Liên hệ doanh nghiệp 2
+Chuyên ngành tự chọn (SV chọn 2 tín chỉ)
+3. Thí nghiệm chuyên ngành CNKT hóa
+ESOC424303 hữu cơ
+4. EICT425303 Thí nghiệm chuyên ngành CNKT hóa
+vô cơ
+5. ESPO426403 Thí nghiệm chuyên ngành CNKT
+hóa polymer 2
+Tổng 6
+* Môn học Liên hệ doanh nghiệp sẽ được triển khai theo hình thức thời gian tập trung (5
+tiết/buổi, 3 buổi/1TC) và linh hoạt, phân bố nhiều đợt tùy theo sự bố trí của khoa. SV tham gia
+đầy đủ 6 buổi, viết báo cáo và nợp bài cho Giảng viên phụ trách chấm điểm, có xác nhận của
+Khoa.
+Học kỳ 8:
+Mã MH trước
+TT Mã MH Tên MH Số TC
+1. GRAT426803 Khóa luận tốt nghiệp 7
+Tổng 7
+9. Mô tả vắn tắt nội dung và khối lượng các học phần
+9.1. <Những NL cơ bản của CN Mác-Lênin> 5 tín chỉ
+Phân bố thời gian học tập: 5(5/0/10)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Ngoài 1 chương mở đầu nhằm giới thiệu khái lược về CN Mác – Lênin và một số vấn
+đề chung của môn học. Căn cứ vào mục tiêu môn học, nội dung chương trình môn học được
+cấu trúc thành ba phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương
+pháp luận triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN
+Mác – Lênin về phương thức sản xuất tư bản chủ nghĩa.
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý
+luận của CN Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội hiện
+thực và triển vọng.
+9.2. <Đường lối CM của ĐCSVN> 3 tín chỉ
+27.	ADPO426103	Vật liệu polymer tiên tiến	2	
+28.	TFIB426203	Công nghệ sợi	2	
+29.	TPAI426303	Công nghệ sơn	2	
+Tổng			13	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	GRAP426703	Thực tập tốt nghiệp	2	HT_PWPD312703
+2.	ENCO326503	Liên hệ doanh nghiệp	2	
+	Chuyên ngành tự chọn (SV chọn 2 tín chỉ)			
+3.	ESOC424303	Thí nghiệm chuyên ngành CNKT hóa
+hữu cơ	2	
+4.	EICT425303	Thí nghiệm chuyên ngành CNKT hóa
+vô cơ	2	
+5.	ESPO426403	Thí nghiệm chuyên ngành CNKT
+hóa polymer	2	
+Tổng			6	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	GRAT426803	Khóa luận tốt nghiệp	7	
+Tổng			7	
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Môn học trước: Các NL cơ bản của CN Mác-Lênin
+Tóm tắt nội dung học phần:
+Ngoài chương mở đầu, nội dung môn học gồm 8 chương: Chương I: Sự ra đời của
+Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng; Chương II: Đường lối
+đấu tranh giành chính quyền (1930-1945); Chương III: Đường lối kháng chiến chống thực dân
+Pháp và đế quốc Mỹ xâm lược (1945-1975); Chương IV: Đường lối công nghiệp hoá; Chương
+V: Đường lối xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa; Chương VI:
+Đường lối xây dựng hệ thống chính trị; Chương VII: Đường lối xây dựng văn hoá và giải quyết
+các vấn đề xã hội; Chương VIII: Đường lối đối ngoại.
+Nội dung chủ yếu của môn học là cung cấp cho sinh viên những hiểu biết cơ bản có hệ
+thống về đường lối của Đảng, đặc biệt là đường lối trong thời kỳ đổi mới, trên một số lĩnh vực
+cơ bản của đời sống xã hội.
+9.3. <Tư tưởng Hồ Chí Minh> 2 tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Môn học trước: Các NL cơ bản của CN Mác-Lênin, Đường lối CM của ĐCSVN
+Tóm tắt nội dung học phần:
+Ngoài chương mở đầu, nội dung môn học gồm 7 chương: Chương mở đầu: Đối tượng,
+phương pháp nghiên cứu và ý nghĩa học tập môn Tư tưởng Hồ Chí Minh; Chương I: Cơ sở, quá
+trình hình thành và phát triển Tư tưởng Hồ Chí Minh; Chương II: Tư tưởng Hồ Chí Minh về
+vấn đề dân tộc và cách mạng giải phóng dân tộc; Chương III: Tư tưởng Hồ Chí Minh về chủ
+nghĩa xã hội và con đường quá độ lên chủ nghĩa xã hội ở Việt Nam; Chương IV: Tư tưởng Hồ
+Chí Minh về Đảng cộng sản Việt Nam; Chương V: Tư tưởng Hồ Chí Minh về đại đoàn kết dân
+tộc và đoàn kết quốc tế; Chương VI: Tư tưởng Hồ Chí Minh về dân chủ và xây dựng nhà nước
+của dân do dân vì dân; Chương VII: Tư tưởng Hồ Chí Minh về văn hóa đạo đức và xây dựng
+con người mới.
+Nội dung chủ yếu của môn học là cung cấp cho sinh viên những hiểu biết cơ bản có hệ
+thống về tư tưởng, đạo đức giá trị văn hóa Hồ Chí Minh. Góp phần xây dựng nền tảng đạo đức
+con người mới, chủ động, tích cực trong giải quyết những vấn đề kinh tế chính trị văn hóa xã
+hội theo đường lối của Đảng và Nhà nước.
+9.4. <Pháp luật đại cương> 2 tín chỉ
+Phân bố thời gian học tập: 2(2/0/2)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản về pháp luật Việt Nam nói riêng và thế giới
+nói chung, hệ thống pháp luật Việt Nam của các lĩnh vực trong tất cả các hoạt động của xã hội,
+các qui định, điều khoản, chế tài,… Nhằm mục đích giúp cho người học sau này trở thành kỹ
+sư có trình độ chuyên môn giỏi, am hiểu về luật pháp, đồng thời sống và làm việc theo pháp
+luật của nhà nước.
+9.5. <Toán 1> 3 tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về tập hợp số, giới
+hạn, phép tính vi phân hàm một biến, phép tính tích phân hàm một biến, chuỗi số nhằm phục
+vụ cho quá trình học chuyên ngành sau này.
+9.6. <Toán 2> 3 tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Toán cao cấp 1
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về ma trận định thức,
+hệ phương trình tuyến tính, không gian véc tơ, chéo hóa ma trận dạng toàn phương, phép vi
+phân hàm nhiều biến nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành sau này.
+9.7. <Toán 3> 3 tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Toán cao cấp 1, 2
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về tích phân bội, tích
+phân đường, tích phân mặt, phương trình vi phân nhằm mục đích ứng dụng trong khoa học kỹ
+thuật chuyên ngành sau này.
+9.8. <Vật lý 1> 3 tin chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức vật lý cơ bản về cơ học, nhiệt động lực, điện và tư
+nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành sau này.
+9.9. <Vật lý 2> 3 tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Vật lý đại cương A1
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức vật lý cơ bản về lý thuyết tương đối Einstein, quang học,
+vật lý lượng tử, nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành sau này.
+9.10. < Hóa đại cương> <3> tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan lý
+thuyết hóa đại cương. Cung cấp các kiến thức về cấu tạo nguyên tử, giải thích sự tạo thành liên
+kết giữa các phân tử vật chất.Ngoài ra cung cấp các kiến thức về nhiệt động lực học, vận tốc
+phản ứng, cân bằng hóa học, các khái niệm về dung dịch, các tính chất của các dung dịch và
+nghiên cứu về pin điện hóa. Đây chính là nền tảng để sinh viên tiếp thu các kiến thức cơ sở
+ngành và chuyên ngành liên quan. Cung cấp kiến thức cơ bản về khoa học tự nhiên nhằm đáp
+ứng cho khả năng học tập ở trình độ cao hơn hoặc đại học văn bằng hai.
+9.11. <Nhập môn ngành CNKT hóa học> <2+1> tín
+chỉ
+Phân bố thời gian học tập: 3(2/1/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này giúp các sinh viên:
+ Làm quen với môi trường mới và tiến bước thành công trên con đường trở thành kỹ sư, cử
+nhân tại Trường Đại học Sư phạm Kỹ thuật TPHCM.
+ Định hướng nghề nghiệp, các kỹ năng mềm cũng như nền tảng đạo đức nghề nghiệp. Đặc
+biệt, trong học phần này, sinh viên được tham quan nhận thức ở một số doanh nghiệp sản
+xuất cũng như kinh doanh ngành công nghệ kỹ thuật hóa học.
+ Trang bị cho sinh viên một số kỹ năng về việc đọc và tìm tài liệu chuyên ngành, kỹ năng
+viết tiểu luận và soạn bài thuyết trình.
+ Trang bị cho sinh viên một số khái niệm cơ bản về ngành công nghệ kỹ thuật hóa học.
+9.12. <Kỹ thuật PTN và an toàn hóa chất> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến an
+toàn hóa chất trong PTN hóa học.
+ Giới thiệu cho SV biết một số dụng cụ, thiết bị cơ bản trong PTN và cách sử dụng. Giúp
+người học biết và hiểu được các kỹ thuật cân, chiết, đun nóng, chưng cất, lọc ... thường
+dùng.
+ Giúp người học biết mức độ nguy hiểm, độ cháy nổ, độc tính của hóa chất và cách sử dụng
+an toàn.
+ Giới thiệu các biện pháp phòng, chữa cháy nổ trong PTN. Biết cách xử lý các sự cố xảy ra
+trong phòng thí nghiệm.
+9.13. <Cơ ứng dụng> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Các môn toán cao cấp, Vật lý
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức về tính toán cơ
+bản của hai môn: cơ lý thuyết (toán học) và sức bền vật liệu cho sinh viên không thuộc ngành
+cơ khí.
+9.14. <Hóa vô cơ> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Hóa đại cương
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức để hiểu hóa học vô
+cơ một cách có tính hệ thống trên cơ sở các kiến thức hóa học đại cương mà sinh viên đã được
+học phần lớn trong môn Hóa Đại cương và một phần trong môn Hóa vô cơ.
+9.15. <Hóa phân tích> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Hóa đại cương
+Môn học tiên quyết: không
+Môn học song hành: Sinh viên tốt nhất đã học xong phần Hóa lý, Hóa vô cơ, Hóa hữu cơ hoặc
+đang học song hành với các học phần này.
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức về tính toán về
+nồng độ dung dịch, các kiến thức về phương pháp định lượng hóa học như phương pháp phân
+tích trọnglượng, phương pháp chuẩn độ acid-base, tạo phức, kết tủa và oxy hóa khử. Ngoài ra
+cung cấp các kiến thức về các loại sai số của dữ liệu thực nghiệm, xử lý thống kê dữ liệu thực
+nghiệm và cách trình bày kết quả phân tích.
+9.16. <Các phương pháp phân tích công cụ> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa phân tích
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức về các
+phương pháp phân tích vật lý, hóa lý sử dụng để định danh, định lượng và xác định cấu trúc.
+Đây là môn học cơ sở ngành, cung câp nhiều kiến thức cơ sở, tạo nền tảng cho SV học tập các
+môn chuyên ngành và thực hiện các đồ án môn học, đồ án khóa luận tốt nghiệp và nghiên cứu
+khoa học. Giúp cho người học có phương pháp tiếp cận, tư duy, từ đó có những định hướng cụ
+thể về khả năng học tập, nghiên cứu và phát triển nghề nghiệp của mình.
+9.17. <Hóa hữu cơ> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức cơ bản vế cơ
+sở lý thuyết Hoá Hữu cơ, mối liên quan giữa cấu tạo và khả năng phản ứng các hợp chất hữu
+cơ; phương pháp điều chế và tính chất lý hoá quan trọng nhất của các loại hợp chất hữu cơ.
+9.18. <Hóa lý 1> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa học kỹ thuật (Hóa đại cương), Toán cao cấp, Vật lý đại cương
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan
+- Cơ sở nhiệt động hóa học: hiệu ứng nhiệt, khả năng, chiều hướng của phản ứng hóa học,
+các quá trình hóa lý. Cân bằng hóa học và các yếu tố ảnh hưởng đến cân bằng hóa học.
+- Cân bằng pha trong các hệ một và nhiều cấu tử, dung dịch phân tử- Các lý thuyết cơ bản về
+động học phản ứng, các quá trình xúc tác đồng thể, xúc tác sinh học, xúc tác dị thể.
+9.19. <Hóa lý 2> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa đại cương, Toán cao cấp, Vật lý đại cương
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị những kiến thức cơ bản trong lĩnh vực hóa
+keo, động hóa học và điện hóa học. Nội dung hóa keo bao gồm các phương pháp phân loại, các
+phương pháp điều chế và làm bền, các tính chất của hệ keo, các hiện tượng bề mặt. Phần động
+hóa học bao gồm khía cạnh động học của các phản ứng đơn giản và phức tạp, cơ chế phản ứng,
+sự xúc tác đồng và dị thể. Phần điện hóa học trình bày các tính chất của dung dịch điện ly, độ
+dẫn điện, hoạt độ ion, các quá trình điện cực.
+9.20. <Quá trình thiết bị truyền nhiệt> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1, Nhập môn ngành CNKT hóa học
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan:
+ Các định nghĩa, các thông số cơ bản trong quá trình truyền nhiệt, các quá trình truyền nhiệt
+(dẫn nhiệt, đối lưu nhiệt, bức xạ nhiệt, truyền nhiệt hỗn hợp, tính toán thiết bị trao đổi nhiệt,
+quá trình bốc hơi cô đặc); các phương pháp tính toán vật chất, năng lượng; cấu tạo, nguyên
+lý hoạt động, điều kiện sử dụng và ứng dụng.
+ Các môi chất lạnh, các điều kiện sử dụng môi chất lạnh, an toàn môi chất lạnh với con
+người và môi sinh. Đồ thị môi chất lạnh, các phương pháp tra cứu số liệu môi chất lạnh (sử
+dụng bảng và sử dụng đồ thị). Chu trình máy lạnh trên đồ thị môi chất lạnh, các trạng thái
+môi chất lạnh trên chu trình, tính toán nhiệt, tính toán công suất, tính toán lựa chọn thiết bị
+lạnh, tính toán cách nhiệt cách ẩm cho phòng lạnh.
+9.21. <Quá trình thiết bị truyền khối> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1, Nhập môn ngành CNKT hóa học
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức về cơ sở lý thuyết
+của các quá trình truyền khối và phương pháp tính toán, thiết kế các thiết bị thực hiện các quá
+trình truyền khối.
+9.22. <Quá trinh và thiết bị cơ học> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1, Nhập môn ngành CNKT hóa học
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan về các
+phương pháp vận chuyển lỏng – khí và vật liệu rắn, các phương pháp phân riêng hệ lỏng – rắn,
+lỏng – lỏng, khí – lỏng, rắn – rắn, các phương pháp lọc, khuấy, trộn hệ lỏng – rắn, răn – rắn,
+lỏng – lỏng, và gia công các vật liệu.
+9.23. <Kỹ thuật phản ứng> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến cơ
+sở toán học, lý thuyết phương trình dòng, kiến thức động hoá học của hệ đồng thể và dị thể,
+nhiệt động học, cân bằng hoá học, tốc độ phản ứng, cơ sở tính toán và thiết kế thiết bị phản ứn,
+nguyên lý làm việc và cấu tạo thiết bị phản ứn, đồng thời trang bị cho sinh viên một số kiến
+thức về thời gian lưu và động lực học của quá trình phản ứng.
+9.24. < Thống kê và quy hoạch thực nghiệm trong CNKT hoá học> <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức căn bản về lý
+thuyết thống kê được sử dụng trong xử lý số liệu thí nghiệm. Cách xây dựng kế hoạch và phân
+tích số liệu cho thí nghiệm sơ bộ nhằm sang lọc ra các yếu tố quan trọng, có ảnh hưởng lớn đến
+thông số đầu ra của đối tượng nghiên cứu. Xác định các ảnh hưởng tương tác giữa các yếu tố
+thí nghiệm. Cách thức xác định số lượng thí nghiệm cần thiết. Kỹ thuật phân tích hồi quy và
+phương sai. Tiến trình nghiên cứu thực nghiệm tối ưu hóa. Từng bước của quá trình tìm vùng
+cực trị, xác định điểm cực trị cũng như hai dạng bài toán tối ưu cơ bản là đơn mục tiêu và đa
+mục tiêu được giới thiệu và phân tích chi tiết.
+9.25. < Anh văn cho kỹ sư hóa học> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị nền tảng từ vựng cũng như các cấu trúc ngữ
+pháp tiếng Anh phổ biến trong tài liệu liên quan đến ngành công nghệ kỹ thuật hóa học: cách
+gọi tên hóa chất, dụng cụ phòng thí nghiệm, máy móc thiết bị và các quy trình sản xuất hóa
+chất trong công nghiệp. Ngoài ra sinh viên còn được luyện tập các kỹ năng nghe, nói, đọc, viết
+về các chủ đề liên quan đến kỹ thuật và hóa học và trình bày một báo cáo chuyên ngành Kỹ
+thuật Hóa học bằng văn viết tiếng Anh.
+9.26. < Cơ sở thiết kế máy và nhà máy hóa chất > <3> tín
+chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1, Nhập môn ngành CNKT hóa học
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan:
+ Phương pháp thiết kế, tính toán cơ khí và công nghệ chế tạo các chi tiết và cụm chi tiết
+thông dụng trong các thiết bị công nghệ của ngành như thân (vỏ), bản mỏng, vỏ mỏng, đáy
+và nắp, mặt bích – đệm, vỏ áo, các chi tiết quay nhanh, thùng quay, đường ống, dao động
+và chống rung cho thiết bị… Một số chi tiết cũng có thể được thiết kế trên cơ sở và phương
+pháp của môn học này nếu ta áp dụng các giả thiết và mô hình thích hợp.
+ Quá trình triển khai một dự án xây dựng nhà máy từ những kết quả trong phòng thí nghiệm
+ra sản xuất từ lựa chọn quá trình, thiết bị cho một qui trình sản xuất, vật liệu chê tạo, địa
+điểm xây dựng, những tiện nghi phục vụ sản xuất và sơ lược về tính kinh tế dự án
+	các kiến thức căn bản về lý
+thuyết thống kê được sử dụng trong xử lý số liệu thí nghiệm. Cách xây dựng kế hoạch và phân	
+tích số liệu cho thí nghiệm sơ bộ nhằm sang lọc ra các yếu tố quan trọng, có ảnh hưởng lớn đến	
+thông số đầu ra của đối tượng nghiên cứu. Xác định các ảnh hưởng tương tác giữa các yếu tố	
+thí nghiệm. Cách thức xác định số lượng thí nghiệm cần thiết. Kỹ thuật phân tích hồi quy và	
+phương sai. Tiến trình nghiên cứu thực nghiệm tối ưu hóa. Từng bước của quá trình tìm vùng	
+cực trị, xác định điểm cực trị cũng như hai dạng bài toán tối ưu cơ bản là đơn mục tiêu và đa	
+mục tiêu được giới thiệu và phân tích chi tiết.	
+9.27. <Công nghệ môi trường> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến ô
+nhiễm môi trường khí và kỹ thuật xử lý, kỹ thuật xử lý nước thiên nhiên, ô nhiễm môi trường
+và kỹ thuật xử lý nước thải, quản lý và xử lý chất thải rắn
+9.28. <Đồ án thiết kế máy thiết bị> <1> tín
+chỉ
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Kỹ thuật phân riêng,Cơ sở thiết kế nhà máy và hóa chất, Kỹ thuật phản ứng,
+Các quá trình cơ học, Quá trình thiết bị truyền nhiệt.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên tập thiết kế tính toán quá trình và vẽ các thiết
+bị trong công nghệ hóa học và thực phẩm.
+9.29. < Đại cương về khoa học và kỹ thuật vật liệu > <3> tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Hóa đại cương
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức về định nghĩa
+về vật liệu, các khái niệm về trạng thái của vật liệu như: tinh thể, vô định hình, bán tinh thể,
+đơn tinh thể, đa tinh thể, các loại khuyết tật và vai trò của khuyết tật trong quá trình tạo vật liệu,
+mối tương quan giữa cấu trúc và tính chất của vật liệu, liên hệ giữa giản đồ pha rắn và sự hình
+thành vật liệu và phân loại vật liệu và các ứng dụng chủ yếu.
+9.30. <Công nghệ sản xuất các hợp chất vô cơ> <2> tín chỉ
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Hóa vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thứcliên quan cơ sở
+hoá lý và công nghệ sản xuất axit amoniac, axit nitric, sunfuric, axit và các phân bón phôt phat.
+9.31. <Công nghệ sản xuất các hợp chất hữu cơ > <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức cơ sở hoá lý và
+công nghệ sản xuất các hợp chất hữu cơ như ethanol, formadehit, andehit axetic, chất hoạt động
+bề mặt và chất tẩy rửa..., công nghệ sản xuất các hợp chất cao phân tử như: polyetilen,
+polyvinyl clorua..., công nghệ một số hợp chất dược.
+9.32. <Hóa học polymer> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan các
+tính chất cơ bản của polymer, các kiến thức cơ bản của polymer, các kiến thức cơ bản về quá
+trình tổng hợp polymer và một số công nghệ tổng hợp polymer trong công nghiệp, các tính chất
+vật lý bao gồm tính chất cơ, nhiệt, lưu biến và tính chất của dung dịch polymer, tính chất và
+khả năng ứng dụng các loại polymer thông dụng nhất (PE, PHƯƠNG PHÁP, PVC, PS), các
+loại polymer kỹ thuật (PET, ABS, PC, …)
+9.33. <Công nghệ điện hóa> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa ly 1, Hóa lý 2
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan các
+quá trình cơ bản của công nghệ điện hóa trong các ngành chế tạo máy và thiết bị, sản xuất các
+sản phẩm hóa học, năng lượng và luyện kim.
+9.34. <Thí nghiệm Hóa đại cương> <1 tín chỉ>
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa đại cương, Kỹ thuật PTN và an toàn hóa chất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan kỹ
+năng thực hành, sử dụng và hiệu chỉnh dung cụ và thiết bị hóa học cơ bản, ghi kết quả và đánh
+giá kết quảNhận thức và thiết lập các phương pháp bảo vệ, cải thiện môi trường trong và xung
+quanh phòng thí nghiệm. Biết cách xử lý các sự cố về an toàn trong phòng thí nghiệm... Đồng
+thời làm nền tảng cho việc thực hiện các môn học thực hành nghề, đồ án khóa luận tốt nghiệp,
+từ đó có những định hướng cụ thể về khả năng học tập, nghiên cứu và phát triển nghề nghiệp
+của mình.
+9.35. <Thí nghiệm Hóa vô cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước:Hóa đại cương, Hóa vô cơ, Kỹ thuật PTN và an toàn hóa chất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kỹ năng thực nghiệm,
+quan sát, báo cáo, tìm đọc tài liệu, giải thích hiện tượng thông qua việc sinh viên tự tiến hành
+các thí nghiệm và quan sát tính chất của các hợp chất của các nhóm nguyên tố phổ biến. Ngoài
+ra còn có một số bài điều chế các hợp chất như phèn nhôm-kali, muối Mohr, Na S O ,
+2 2 3
+K Cr O ….
+2 2 7
+9.36. <Thí nghiệm Hóa phân tích> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Hóa phân tích, Kỹ thuật PTN và an toàn hóa chất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kỹ năng thực hành: về
+kỹ thuật tráng rửa dụng cụ thủy tinh, kỹ thuật sử dụng các thiết bị, tính toán pha chế hóa chất,
+kỹ thuật chuẩn độ, phân tích mẫu, kỹ năng thực hành định lượng dung dịch các chất bằng các
+phương pháp hóa học và công cụ, sử dụng thiết bị và đánh giá sai số. Môn học nền tảng cho
+việc thực hiện các môn học thực hành nghề, đồ án khóa luận tốt nghiệp. Giúp cho người học có
+phương pháp tiếp cận, kỹ năng thực hành phân tích chất trên các thiết bị phân tích hiện đại, từ
+đó có những định hướng cụ thể về khả năng học tập, nghiên cứu và phát triển nghề nghiệp của
+mình.
+9.37. <Thí nghiệm Hóa hữu cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Hóa hữu cơ, Kỹ thuật PTN và an toàn hóa chất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức về cơ sở lý
+thuyết và thực nghiệm Hoá học hữu cơ, các phương pháp điều chế, tổng hợp một số hợp chất
+hữu cơ cơ bản, và các kỹ năng nghiên cứu và thực nghiệm hữu cơ.
+9.38. <Thí nghiệm Hóa lý> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Hóa lý 1, Hóa lý 2, Kỹ thuật PTN và an toàn hóa chất
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến
+các vấn đề áp dụng các nguyên lý nhiệt động hóa học vào các hệ hóa học. Cân bằng hóa học và
+cân bằng pha cũng được khảo sát kỹ. Ngoài ra các vấn đề về tốc độ, bậc phản ứng cũng như
+nguồn điên hóa học, sự dẫn điện, số vận tải của ion hay các hiện tượng bề mặt cũng được chú
+trọng.
+9.39. <Thực tập quá trình thiết bị> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Quá trình thiết bị truyền nhiệt, Kỹ thuật phân riêng, Các quá trình cơ học, Kỹ
+thuật phản ứng.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến
+thực tế về môn hình thiết bị, phương pháp vận hành thiết bị, các phương pháp đo và xử lý số
+liệu của các quá trình cơ bản trong công nghệ hóa học.
+9.40. <Thực tập tốt nghiệp> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Đồ án quá trình và thiết bị
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+9.41. <Khóa luận tốt nghiệp> <7>
+tín chỉ
+Phân bố thời gian học tập: 7(0/7/14)
+Môn học trước: Thực tập tốt nghiệp
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+9.42. <Công nghệ các sản phẩm tẩy rửa > <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: : Học phần này trang bị cho sinh viên kiến thức cơ bản về các chất
+hoạt động bề mặt chính sử dụng trong các sản phẩm tẩy rửa, lý thuyết về sự tẩy rửa, các thành
+phần chính dùng trong tẩy rửa và cơ chế tác động của chúng. Lý thuyết về các sản phẩm giặt
+dạng bột, kem nhão và dạng cục và công nghệ sản xuất các sản phẩm này cũng được thảo luận
+trong học phần này.
+9.43. <Công nghệ chất màu hữu cơ> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến lý
+thuyết cơ bản về màu sắc, tổng quan về các hợp chất màu tự nhiên, chlorophyll, carotenoid,
+anthocyanins, và các chất màu khác.
+9.44. <Công nghệ hóa hương liệu > <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến
+nguồn hương liệu thiên nhiên (tinh dầu, nhựa thơm, các hợp chất thơm từ động vật…), các
+phương pháp tách hợp chất thơm thiên nhiên, các phương pháp tách các hợp chất quan trọng
+trong tinh dầu, tổng hợp và bán tổng hợp một số hợp chất có hương tính. Một số ứng dụng
+quan trọng của các tinh dầu thông dụng cũng được trang bị cho sinh viên. Giới thiệu chung về
+hương liệu và xây dựng hợp hương cũng được thào luận cùng sinh viên trong học phần này.
+9.45. <Công nghệ hóa mỹ phẩm> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan : các
+loại đối tượng mỹ phẩm (da, tóc, móng, răng miệng, nguyên liệu, gel và nhũ…), công nghệ sản
+xuất mỹ phẩm bao gồm: công thức, kỹ thuật sản xuất, vệ sinh bảo quản, các dạng sản phẩm,
+bao bì và đóng gói…và các kiến thức về kiểm tra và đánh giá sản phẩm mỹ phẩm và chăm sóc
+cá nhân.
+9.46. <Các phương pháp phổ nghiệm phân tích hợp chất hữu cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa phân tích, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến
+các phương pháp phổ nghiệm hiện đại dùng để xác định cấu trúc hóa học của các hợp chất hữu
+cơ bao gồm: phổ hồng ngoại-IR, phổ cộng hưởng từ hạt nhân hai chiều-2D-NMR và phổ khối
+lượng-MS. Qua học phần này sinh viên có thể đọc và phân tích các phổ trên từ đó xác định
+được cấu trúc hóa học các hợp chất hữu cơ được tổng hợp hoặc cô lập từ thiên nhiên.
+9.47. <Công nghệ SX bột giấy và giấy> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan tới:
+thành phần và tính chất của gỗ, tổng quan về bột giấy và giấy, các phương pháp sản xuất bột
+giấy, tẩy trắng bột giấy, bột giấy thu hồi và nguyên liệu phi gỗ, phụ gia trong công nghiệp giấy,
+sản xuất giấy
+9.48. <Công nghệ các sản phẩm hóa nông> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức liên quan đến
+vai trò của phân bón hữu cơ và các loại thuốc (trừ sâu, tăng trưởng…) dùng trong nông nghiệp.
+Các phương pháp sử phân bón hữu cơ và các loại thuốc trong nông nghiệp. Công nghệ sản xuất
+các loại phân bón và các loại thuốc sử dụng trong nông nghiệp cũng được thào luận trong môn
+học này. Ngoài ra, một số loại thuốc trừ sâu sinh học (điều chế, ứng dụng) cũng được trình bày
+trong học phần này.
+9.49. <Hóa được> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ, Hóa lý, Công nghệ sản xuất các chất hữu cơ và polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức căn bản liên
+quan đến hóa dược, thiết kế thuốc và công nghệ bào chế dược. Mục tiêu chung là giúp sinh
+viên nắm được những phương hướng cơ bản và triển vọng phát triển của hóa dược trong nhiệm
+vụ điều chế (các thuốc có nguồn gốc từ thảo mộc, động vật…) và nghiên cứu các chất làm
+thuốc. Một số phương pháp kiểm nghiệm các mẫu thuốc và một số chế phẩm dược theo tiêu
+chuẩn dược điển cũng được cung cấp cho sinh viên.
+9.50. <Thí nghiệm chuyên nghành CNKT hóa hữu cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: 10 tín chỉ tự chọn chuyên ngành kỹ thuật hóa hữu cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên các kiến thức và kỹ năng thực
+hành về tổng hợp hữu cơ, công nghệ sản xuất các sản phẩm tầy rửa, hương liệu, mỹ phẩm, kỹ
+thuật chiết xuất tinh dầu và các chất màu có nguồn gốc từ thiên nhiên.
+9.51. <Công nghệ phân bón > <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Hóa lý 1, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trng bị cho sinh viên những kiến thức cơ bản về
+công nghệ sản xuất các loại phân như phân lân, phân đạm, phân bón đa dinh dưỡng (phân phức
+hợp và phân hỗn hợp).
+9.52. <Công nghệ sản xuất ceramic truyền thống> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Hóa lý 1, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức cơ bản về
+quá trình công nghệ sản xuất, các thông số kỹ thuật và những đặc trưng cơ bản của các sản
+phẩm như gạch ốp lát và sứ vệ sinh, kính xây dựng, thủy tinh dân dụng những đặc trưng cơ bản
+của công nghệ bao gồm: nguyên liệu, phối liệu, tạo hình, sấy, nung và các quá trình xử lý các
+khuyết tật.
+9.53. <Công nghệ sản xuất các chất kết dính vô cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Hóa lý 1, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Giới thiệu những kiến thức cơ bản về công nghệ sản xuất xi măng
+Pooc lăng và một số chất kết dính khác như thạch cao, vôi.... Nguyên liệu và những biến đổi
+pha cơ bản trong quá trình nung luyện clinker xi măng Pooc lăng. Quá trình nghiền clinker và
+những phụ gia. Quá trình đóng rắn xi măng và các phụ gia. Bảo quản và vấn đề môi trường
+trong công nghệ sản xuất chất kết dính vô cơ.
+9.54. <Hóa lý silicat> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa vô cơ, Hóa lý 1, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần nàytrang bị cho sinh viên những hiểu biết căn bản về cấu
+trúc chất rắn vô cơ (silicate) ở trạng thái tinh thể và vô định hình, cung cấp các kiến thức về
+giản đồ pha hai, ba cấu tử trong sản xuất vật liệu silicate. Ảnh hưởng các yếu tố nhiệt động, cơ
+chế và tốc độ phản ứng trong lĩnh vực công nghệ vật liệu, đặc biệt công nghệ Ceramic.
+9.55. <Các phương pháp phân tích cấu trúc vật liệu vô cơ> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Vật liệu học, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức liên quan mối
+tương quan giữa cấu trúc và tính chất của vật liệu vô cơ và trình bày các phương pháp phân tích
+cấu trúc vật liệu vô cơ như XRD, XRF, FTIR, SEM, TEM … Các phương pháp phân tích các
+biến đổi của vật liệu vô cơ dươi tác dụng của nhiệt độ bằng TG, DTA, DSC…
+9.56. <Công nghệ khoáng sản> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Công nghệ sản xuất các chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức liên quan về
+công nghệ khai khoáng, xử lý và chế biến quặng: titan, bôxit, pyrit…
+9.57. <Công nghệ các chất màu vô cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức liên quan
+màu vô cơ và các lớp phủ bề mặt có vai trò quan trọng trong việc nâng cao giá trị các sản phẩm
+gốm sứ và vật liệu vô cơ. Môn học cho sinh viên các cơ sở khoa học về bản chất của màu vô
+cơ, các kinh nghiệm và công nghệ chế tạo bột màu và lớp phủ.
+9.58. <Vật liệu vô cơ tiên tiến> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa vô cơ, Công nghệ sản xuất các hợp chất vô cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức cơ bản về các
+tính chất quang, điện, nhiệt, ăn mòn. Qua đó, giới thiệu cho sinh viên các kiến thức cơ bản về
+các vật liệu bán dẫn, năng lượng, vật liệu chịu nhiệt…
+9.59. <Thí nghiệm chuyên ngành CNKT hóa vô cơ> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: 10 tín chỉ tự chọn chuyên ngành kỹ thuật hóa vô cơ.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên những kiến thức về công nghệ
+sản xuất hoặc chế tạo và tiến hành phân tích, kiểm tra các tính chất và thông số kĩ thuật của sản
+phẩm cụ thể ở quy mô phòng thí nghiệm.
+9.60. <Công nghệ vật liệu polymer composite > <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Vật liêu học
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cơ sở về vật liệu composite trên
+cơ sở nền polymer. Cấu trúc, tính chất đặc trưng và ứng dụng của các vật liệu nền polymer và
+các loại vật liệu gia cường sẽ được giới thiệu. Các phương pháp gia công vật liệu composite từ
+đơn giản đến phức tạp cũng sẽ được đề cập đến. Bên cạnh đó, môn học cũng sẽ giới thiệu về
+các phương pháp đánh giá vi cấu trúc và độ bền cơ học của vật liệu composite.
+9.61. <Công nghệ sản xuất chất dẻo> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cơ sở về lĩnh vực sản xuất các
+loại chất dẻo thông dụng dựa trên hai phương pháp cơ bản là trùng hợp và trùng ngưng. Cấu
+trúc hóa học, tính chất cơ bản, ứng dụng, phương pháp và đặc trưng công nghệ sản xuất… các
+loại chất dẻo sẽ được lần lượt giới thiệu trong môn học này.
+9.62. <Cơ sở công nghệ cao su> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp kiến thức về vật liệu cao su bao gồm cao su tự
+nhiên và cao su nhân tạo. Cấu trúc, tính chất và đặc trưng của cây cao su và cao su latex sẽ
+được trình bày trong môn học này. Ngoài ra, các phương pháp sản xuất cao su tự nhiên định
+chuẩn, kỹ thuật biến tính cao su tự nhiên, sản xuất cao su nhân tạo sẽ được khảo sát. Bên cạnh
+đó, công nghệ sản xuất các sản phẩm cơ bản từ cao su latex và cao su định chuẩn sẽ được lần
+lượt giới thiệu trong môn học.
+9.63. <Các phương pháp phân tích và đánh giá vật liệu polymer > <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp một vài phương pháp phân tích và đánh giá
+một vật liệu polymer. Các nhóm phương pháp đánh giá lần lượt sẽ được trình bày bao gồm:
+phân tích thành phần hóa học bằng phương pháp phổ (UV, FTIR, NMR…), đánh giá cơ tính
+vật liệu (bền uốn, bền kéo, bền nén, bền va đập…), phương pháp phân tích cấu trúc (SEM,
+TEM, tia X…), phương pháp phân tích nhiệt (DSC, TGA), phương pháp cơ nhiệt (DMA,
+DMTA), phương pháp lưu biến…
+9.64. <Kỹ thuật gia công polymer> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cở sở về kỹ thuật gia công
+polymer. Có ba nhóm phương pháp gia công vật liệu polymer sẽ được trình bày trong môn học
+này, bao gồm: nhóm các phương pháp tạo hình (ép, đúc, đùn, tạo hình nhiệt, cắt gọt), nhóm các
+phương pháp lắp ghép (hàn, phủ bề mặt) và nhóm các phương pháp biến tính (trộn, hoạt hóa bề
+mặt, biến tính polymer).
+9.65. <Công nghệ polymer kết dính> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp các kiến thức cơ sở về các chất kết dính trên
+cơ sở vật liệu polymer. Chủng loại, cấu trúc, thành phần, tính chất và phương pháp sản xuất các
+chất kết dính trên cơ sở nhóm vật liệu sau đây sẽ được khảo sát: polysaccarite, cao su, nhựa
+nhiệt rắn, vinyl polymer. Ngoài ra, môn học cũng sẽ trình bày một vài kiến thức cơ bản về kỹ
+thuật kết dính.
+9.66. <Công nghệ màng polymer> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cơ sở về màng mỏng và kỹ thuật
+màng mỏng trên cơ sở vật liệu polymer. Phương pháp chế tạo, tính chất đặc trưng, ứng dụng…
+của một vài vật liệu màng mỏng sẽ lần lượt được khảo sát trong môn học này.
+9.67. <Vật liệu polymer tiên tiến> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cơ sở về các loại vật liệu polymer
+tiên tiến đang được nghiên cứu và ứng dụng hiện nay. Phương pháp tổng hợp, tính chất đặc
+trưng và ứng dụng của một vài loại vật liệu polymer tiên tiến sẽ lần lượt được giới thiệu, bao
+gồm: polymer dẫn điện, polymer quang học, nano polymer, polymer dẫn thuốc, polymer sinh
+học, polymer xử lý môi trường…
+9.68. <Công nghệ sợi> <2> tín
+chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học cung cấp các kiến thức cơ sở về công nghệ sản xuất sợi
+trên cơ sở vật liệu polymer. Cấu trúc hóa học, tính chất đặc trưng, công nghệ sản xuất và ứng
+dụng của các loại sợi trên cơ sở các vật liệu sau đây sẽ được lần lượt khảo sát: xenlulozơ, thủy
+tinh, cacbon, polyester, polyamide, acrylonitrile…
+9.60. <Công nghệ nhuộm> <2 tín chỉ >
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hóa hữu cơ
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Môn học Công nghệ nhuộm là môn học thuộc nhóm chuyên ngành
+nhằm trang bị cho sinh viên những kiến thức chuyên môn về công nghệ nhuộm. Các kiến thức bao
+gồm: lý thuyết nhuộm, phương pháp nhuộm, công nghệ nhuộm các lớp thuốc nhuộm, áp dụng
+nhuộm theo loại vật liệu và quản lý kỹ thuật nhuộm.
+9.61. <Công nghệ sơn> <2> tín chỉ
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Hóa hữu cơ, Hóa lý, Hóa học polymer
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần cung cấp các kiến thức cơ sở về sơn, kỹ thuật sản xuất
+sơn và các kỹ thuật sơn. Thành phần, qui trình sản xuất, đặc trưng công nghệ, ứng dụng và
+phương pháp đánh giá của từng loại vật liệu sơn cơ bản được khảo sát. Ba nhóm vật liệu sơn sẽ
+được trình bày trong môn học này bao gồm: sơn dầu, sơn nước và vecni. Ngoài ra, kỹ thuật sơn
+cơ bản cũng được giới thiệu trong môn học.
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+Phòng Thí nghiệm hoá hữu cơ
+Phòng Thí nghiệm Hóa phân tích
+Phòng Thí nghiệm hoá vô cơ - silicat
+Phòng Thí nghiệm polymer
+10.2. Thư viện, trang Web
+Thư viên HCMUTE
+11. Hướng dẫn thực hiện chương trình
+a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ
+thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau:
+1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm hoặc thực hành
+= 45 giờ tự học
+= 45  90 giờ thực tập tại cơ sở.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15.
+b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu
+các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển
+trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học
+trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học
+chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa

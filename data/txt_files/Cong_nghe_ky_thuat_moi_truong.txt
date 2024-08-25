@@ -1,0 +1,1446 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng
+trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG
+Tên tiếng Anh: Environmental Engineering Technology
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7510406
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT MÔI TRƯỜNG
+Mã ngành: 7510406
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kỹ sư
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không có
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có phẩm chất chính trị, đạo đức, có ý thức phục vụ nhân dân, có
+sức khỏe, có kiến thức cơ bản, kiến thức cơ sở ngành và chuyên ngành về công nghệ môi
+trường, có khả năng nhận biết, phân tích, giải quyết và đề xuất các giải pháp, có năng lực thiết
+kế, xây dựng và quản lý các hệ thống xử lý chất thải, có kỹ năng giao tiếp và làm việc nhóm,
+có thái độ nghề nghiệp phù hợp đáp ứng yêu cầu xây dựng và bảo vệ tổ quốc.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+PO1. Vận dụng các kiến thức khoa học công nghệ nền tảng và chuyên sâu để đạt được sự thành
+công về nghề nghiệp trong lĩnh vực công nghệ môi trường hoặc lĩnh vực chuyên môn phù hợp
+với mục tiêu nghề nghiệp của họ.
+PO2. Trở thành những người lãnh đạo giỏi, giải quyết các thách thức thực tế của kinh tế, xã hội
+và môi trường.
+PO3. Có khả năng học tập và nghiên cứu nâng cao để phát triển nghề nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Trình
+Ký hiệu Chuẩn đầu ra độ năng
+lực
+1. Có kiến thức và lập luận kỹ thuật
+Xác định được các kiến thức tự nhiên, khoa học và xã hội trong lĩnh vực
+ELO1 môi trường 4
+Nghiên cứu được các kiến thức cốt lõi trong lĩnh vực công nghệ kỹ thuật
+ELO2 môi trường 4
+Lựa chọn các kiến thức chuyên sâu để ứng dụng trong lĩnh vực công
+ELO3 nghệ kỹ thuật môi trường 5
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Xác định, phân tích và giải quyết vấn đề môi trường
+ELO4 4
+Thực nghiệm và đánh giá kết quả thực nghiệm.
+ELO5 5
+Nhận định và giải quyết được các mâu thuẫn thực tế của môi trường –
+ELO6 kinh tế - xã hội 4
+Nhận thức được nhu cầu và trách nhiệm học tập suốt đời
+ELO7 4
+ELO8
+Có đạo đức nghề nghiệp, trung thực, xác định mục tiêu và định hướng
+nghề nghiệp.
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+Có khả năng điều hành và làm việc nhóm.
+ELO9 4
+Có kỹ năng giao tiếp bằng văn bản, phương tiện điện tử, thuyết trình,
+ELO10 đàm phán 5
+ELO11 Có khả năng giao tiếp bằng tiếng Anh kỹ thuật môi trường 4
+Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+4.
+doanh nghiệp, xã hội và môi trường – quá trình sáng tạo
+Nhận thức được vai trò và trách nhiệm của kỹ sư môi trường đối với xã
+ELO12 hội. 5
+Hình thành ý tưởng, mô hình hóa hệ thống, triển khai và quản lý dự án
+ELO13 môi trường. 5
+Thiết kế được các hệ thống quản lý và xử lý chất thải.
+ELO14 5
+Triển khai và giám sát các hệ thống quản lý và xử lý chất thải.
+ELO15 4
+Vận hành các hệ thống quản lý và xử lý chất thải.
+ELO16 4
+ELO17 Lĩnh hội được kiến thức về sáng tạo và khởi nghiệp 2
+Ký hiệu	Chuẩn đầu ra	Trình
+độ năng
+lực
+1.	Có kiến thức và lập luận kỹ thuật	
+ELO1	Xác định được các kiến thức tự nhiên, khoa học và xã hội trong lĩnh vực
+môi trường	4
+ELO2	Nghiên cứu được các kiến thức cốt lõi trong lĩnh vực công nghệ kỹ thuật
+môi trường	4
+ELO3	Lựa chọn các kiến thức chuyên sâu để ứng dụng trong lĩnh vực công
+nghệ kỹ thuật môi trường	5
+2.	Kỹ năng và tố chất cá nhân và chuyên nghiệp	
+ELO4	Xác định, phân tích và giải quyết vấn đề môi trường	4
+ELO5	Thực nghiệm và đánh giá kết quả thực nghiệm.	5
+ELO6	Nhận định và giải quyết được các mâu thuẫn thực tế của môi trường –
+kinh tế - xã hội	4
+ELO7	Nhận thức được nhu cầu và trách nhiệm học tập suốt đời	4
+ELO8	Có đạo đức nghề nghiệp, trung thực, xác định mục tiêu và định hướng
+nghề nghiệp.	4
+3.	Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp	
+ELO9	Có khả năng điều hành và làm việc nhóm.	4
+ELO10	Có kỹ năng giao tiếp bằng văn bản, phương tiện điện tử, thuyết trình,
+đàm phán	5
+ELO11	Có khả năng giao tiếp bằng tiếng Anh kỹ thuật môi trường	4
+4.	Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+doanh nghiệp, xã hội và môi trường – quá trình sáng tạo	
+ELO12	Nhận thức được vai trò và trách nhiệm của kỹ sư môi trường đối với xã
+hội.	5
+ELO13	Hình thành ý tưởng, mô hình hóa hệ thống, triển khai và quản lý dự án
+môi trường.	5
+ELO14	Thiết kế được các hệ thống quản lý và xử lý chất thải.	5
+ELO15	Triển khai và giám sát các hệ thống quản lý và xử lý chất thải.	4
+ELO16	Vận hành các hệ thống quản lý và xử lý chất thải.	4
+ELO17	Lĩnh hội được kiến thức về sáng tạo và khởi nghiệp	2
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+Đạt yêu
+2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+(Xem thêm văn bản hướng dẫn xây dựng CTĐT phần xác định trình độ năng lực)
+5. Khối lượng kiến thức toàn khoá: 132 tín chỉ
+(không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+6. Phân bổ khối lượng các khối kiến thức
+TT TÊN MÔN HỌC Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 50
+A. Khối kiến thức bắt buộc 38
+I. Lý luận chính trị + Pháp luật 12
+1 Các NL cơ bản của CN Mác-Lênin 5
+2 Đường lối CM của ĐCSVN 3
+3 Tư tưởng Hồ Chí Minh 2
+4 Pháp luật đại cương 2
+II. Toán học và KHTN 23
+1 Toán 1 3
+2 Toán 2 3
+3 Toán 3 3
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất
+sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+TT	TÊN MÔN HỌC	Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG		50
+A. Khối kiến thức bắt buộc		38
+I. Lý luận chính trị + Pháp luật		12
+1	Các NL cơ bản của CN Mác-Lênin	5
+2	Đường lối CM của ĐCSVN	3
+3	Tư tưởng Hồ Chí Minh	2
+4	Pháp luật đại cương	2
+II. Toán học và KHTN		23
+1	Toán 1	3
+2	Toán 2	3
+3	Toán 3	3
+4 Vật lý 1 3
+5 Vật lý 2 3
+6 Hoá đại cương 3
+7 Hóa phân tích 2
+8 Thí nghiệm Hóa phân tích 1
+9 Kỹ thuật điện 2
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 3
+1 Tin học văn phòng nâng cao 3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục) 4
+VI. Khác (các khoa đề xuất) 5
+1 Vẽ kỹ thuật 1 3 (2+1)
+2 Môi trường đại cương 2
+c. Khối kiến thức GDTC + GDQP
+VII. Giáo dục thể chất
+1 Giáo dục thể chất 1 1
+2 Giáo dục thể chất 2 1
+3 Tư chọn Giáo dục thể chất 3 3
+VIII. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 82
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 60
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành 12
+Trong đó, thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7
+7. Nội dung chương trình (tên và khối lượng các môn học bắt buộc)
+A – Phần bắt buộc
+7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5 -
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT150105)
+3. LLCT230214 HT_(LLCT150105)
+Đường lối cách mạng của ĐCSVN 3
+HT_(LLCT120314)
+4. GELA220405 Pháp luật đại cương 2 -
+5. MATH132401 Toán 1 3 -
+6. MATH132501 Toán 2 3 HT_(MATH132401)
+7. MATH132601 Toán 3 3 HT_(MATH132401)
+HT_(MATH132501)
+8. PHYS130902 Vật lý 1 3 HT_(MATH132401)
+9. PHYS131002 Vật lý 2 3 HT_(PHYS130902)
+HT_(MATH132401)
+4	Vật lý 1	3
+5	Vật lý 2	3
+6	Hoá đại cương	3
+7	Hóa phân tích	2
+8	Thí nghiệm Hóa phân tích	1
+9	Kỹ thuật điện	2
+III. Nhập môn ngành		3 (2+1)
+B. Khối kiến thức tự chọn		12
+IV. Tin học		3
+1	Tin học văn phòng nâng cao	3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục)		4
+VI. Khác (các khoa đề xuất)		5
+1	Vẽ kỹ thuật 1	3 (2+1)
+2	Môi trường đại cương	2
+c. Khối kiến thức GDTC + GDQP		
+VII. Giáo dục thể chất		
+1	Giáo dục thể chất 1	1
+2	Giáo dục thể chất 2	1
+3	Tư chọn Giáo dục thể chất 3	3
+VIII. Giáo dục quốc phòng		165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP		82
+Cơ sở nhóm ngành và ngành		60
+Cơ sở ngành		
+Chuyên ngành		
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp		12
+Khóa luận tốt nghiệp		7
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	-
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	HT_(LLCT150105)
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	HT_(LLCT150105)
+HT_(LLCT120314)
+4.	GELA220405	Pháp luật đại cương	2	-
+5.	MATH132401	Toán 1	3	-
+6.	MATH132501	Toán 2	3	HT_(MATH132401)
+7.	MATH132601	Toán 3	3	HT_(MATH132401)
+HT_(MATH132501)
+8.	PHYS130902	Vật lý 1	3	HT_(MATH132401)
+9.	PHYS131002	Vật lý 2	3	HT_(PHYS130902)
+HT_(MATH132401)
+10. GCHE130603 Hoá đại cương 3 -
+11. ACHE220303 Hóa phân tích 2 HT_ GCHE130603
+12. EACH210503 Thí nghiệm Hóa phân tích 1
+13. Kỹ thuật điện 2
+14. ITET130110 Nhập môn ngành CNKT Môi 2+1
+trường
+15. ADMO138685 Tin học văn phòng nâng cao 2+1
+16. TEDG130120 Vẽ kỹ thuật 1 3 2+1
+17. GEEN120210 Môi trường đại cương 2
+18. PHED110513 Giáo dục thể chất 1 1
+19. PHED110613 Giáo dục thể chất 2 1
+20. PHED130715 Giáo dục thể chất 3 3
+21. - Giáo dục quốc phòng 165 tiết
+Tổng (không tính GDTC & GDQP) 46
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+1. ENEC220410 Hóa kỹ thuật môi trường 2 HT_ GCHE130603
+2. ESSO231110 Thống kê và tối ưu hóa trong hệ thống 3
+MT
+3. FLME230610 Cơ lưu chất 2
+4. PPET220910 Quá trình cơ học 2
+5. PETE221210 Quá trình thiết bị môi trường 2 HT_FLME230610
+HT_PPET220910
+6. ENAC220310 Hóa phân tích môi trường 2 HT_ GCHE130603
+7. EENT220810 Anh văn cho Kỹ sư môi trường 2
+8. ENMI231010 Vi sinh kỹ thuật môi trường 3 HT_ GEEN120210
+9. AAES220710 AutoCAD trong lĩnh vực môi trường 2 HT_ TEDG130120
+10. ENRD220510 Thiết kế nghiên cứu kỹ thuật môi trường 2 HT_ GEEN120210
+Tổng 22
+7.2.2.a Kiến thức chuyên ngành (cho các môn học lý thuyết và thí nghiệm)
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+Chuyên ngành bắt buộc
+1. SWTR331610 Kỹ thuật xử lý nước cấp 3 HT_ ENEC230410
+2. WWTR331910 Kỹ thuật xử lý nước thải 3 HT_ ENEC230410
+3. APCT332310 Kỹ thuật xử lý khí thải 3 HT_ PPET220910
+4. ENMA332410 Quản lý môi trường 3 HT_ GEEN120210
+5. SHWM321810 Quản lý chất thải rắn và nguy hại 2 HT_ GEEN120210
+Quản lý an toàn và sức khỏe nghề
+6. OHSM322110 2
+nghiệp
+7. SPRT321710 Ô nhiễm đất và kỹ thuật xử lý 2 HT_ GEEN120210
+8. EIAS322510 Đánh giá tác động môi trường 2
+9. WSDN322210 Mạng lưới cấp thoát nước 2 HT_FLME230610
+10.	GCHE130603	Hoá đại cương	3	-
+11.	ACHE220303	Hóa phân tích	2	HT_ GCHE130603
+12.	EACH210503	Thí nghiệm Hóa phân tích	1	
+13.		Kỹ thuật điện	2	
+14.	ITET130110	Nhập môn ngành CNKT Môi
+trường	2+1	
+15.	ADMO138685	Tin học văn phòng nâng cao	2+1	
+16.	TEDG130120	Vẽ kỹ thuật 1	3	2+1
+17.	GEEN120210	Môi trường đại cương	2	
+18.	PHED110513	Giáo dục thể chất 1	1	
+19.	PHED110613	Giáo dục thể chất 2	1	
+20.	PHED130715	Giáo dục thể chất 3	3	
+21.	-	Giáo dục quốc phòng	165 tiết	
+Tổng (không tính GDTC & GDQP)			46	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+1.	ENEC220410	Hóa kỹ thuật môi trường	2	HT_ GCHE130603
+2.	ESSO231110	Thống kê và tối ưu hóa trong hệ thống
+MT	3	
+3.	FLME230610	Cơ lưu chất	2	
+4.	PPET220910	Quá trình cơ học	2	
+5.	PETE221210	Quá trình thiết bị môi trường	2	HT_FLME230610
+HT_PPET220910
+6.	ENAC220310	Hóa phân tích môi trường	2	HT_ GCHE130603
+7.	EENT220810	Anh văn cho Kỹ sư môi trường	2	
+8.	ENMI231010	Vi sinh kỹ thuật môi trường	3	HT_ GEEN120210
+9.	AAES220710	AutoCAD trong lĩnh vực môi trường	2	HT_ TEDG130120
+10.	ENRD220510	Thiết kế nghiên cứu kỹ thuật môi trường	2	HT_ GEEN120210
+Tổng			22	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+Chuyên ngành bắt buộc				
+1.	SWTR331610	Kỹ thuật xử lý nước cấp	3	HT_ ENEC230410
+2.	WWTR331910	Kỹ thuật xử lý nước thải	3	HT_ ENEC230410
+3.	APCT332310	Kỹ thuật xử lý khí thải	3	HT_ PPET220910
+4.	ENMA332410	Quản lý môi trường	3	HT_ GEEN120210
+5.	SHWM321810	Quản lý chất thải rắn và nguy hại	2	HT_ GEEN120210
+6.	OHSM322110	Quản lý an toàn và sức khỏe nghề
+nghiệp	2	
+7.	SPRT321710	Ô nhiễm đất và kỹ thuật xử lý	2	HT_ GEEN120210
+8.	EIAS322510	Đánh giá tác động môi trường	2	
+9.	WSDN322210	Mạng lưới cấp thoát nước	2	HT_FLME230610
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+10 CPDS322010 Sản xuất sạch hơn và Thiết kế bền vững 2 HT_ GEEN120210
+11 ADWT327110 Xử lý nước nâng cao 2 HT_ ENEC230410
+12 ENPM322910 Quản lý dự án môi trường 2
+13 VSNC322810 Kỹ thuật thông gió và xử lý tiếng ồn 2 HT_ PPET220910
+11. ENCO322610 Liên hệ doanh nghiệp 2 HT_ GEEN120210
+12. Kiến thức liên ngành tự chọn 6
+Tổng 38
+* Môn học Liên hệ doanh nghiệp sẽ được triển khai theo hình thức thời gian tập trung (5
+tiết/buổi, 3 buổi/1TC) và linh hoạt, phân bố nhiều đợt tùy theo sự bố trí của khoa. SV tham gia
+đầy đủ 6 buổi, viết báo cáo và nộp bài cho Giảng viên phụ trách chấm điểm, có xác nhận của
+Khoa.
+7.2.2.b Kiến thức chuyên ngành (các môn học thực hành xưởng, thực tập công nghiệp)
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+Chuyên ngành bắt buộc
+Thí nghiệm hóa phân tích môi
+1. EEAC414110 1
+trường
+Thí nghiệm hóa kỹ thuật môi
+2. EEEC424210 2
+trường
+3. PSWT414310 Thực tập xử lý nước cấp 1
+4. PWWT414410 Thực tập xử lý nước thải 1
+5. PAPT414510 Thực tập xử lý khí thải 1 APCT332310
+Thực tập vi sinh kỹ thuật môi
+6. PEMI414610 1
+trường
+Thực tập mạng lưới cấp thoát
+7. PWSD414710 1 HT_FLME230610
+nước
+8. AWVI415110 Thực tập tham quan nhận thức 1
+HT_ENEC230410
+9. DSWT414810 Đồ án xử lý nước cấp 1
+HT_FLME230610
+HT_ENEC230410
+10. DWWT414910 Đố án xử lý nước thải 1
+HT_FLME230610
+HT_ENEC230410
+11. DAPT415010 Đồ án xử lý khí thải 1
+HT_PETE221210
+HT_SWTR,WWTR,APCT,
+12. GRPR435210 Thực tập tốt nghiệp 3
+SHWM,ENMA
+Tổng 15
+7.2.3. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Đạt kỳ thi kiểm tra
+1. GRTH374010 Khóa luận tốt nghiệp 07 năng lực “Qualified
+exam”
+Tổng
+STT	Mã môn học	Tên học phần			Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+10	CPDS322010	Sản xuất sạch hơn và Thiết kế bền vững			2	HT_ GEEN120210
+11	ADWT327110	Xử lý nước nâng cao			2	HT_ ENEC230410
+12	ENPM322910	Quản lý dự án môi trường			2	
+13	VSNC322810		Kỹ thuật thông gió và xử lý tiếng ồn		2	HT_ PPET220910
+11.	ENCO322610	Liên hệ doanh nghiệp			2	HT_ GEEN120210
+12.		Kiến thức liên ngành tự chọn			6	
+Tổng					38	
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+Chuyên ngành bắt buộc				
+1.	EEAC414110	Thí nghiệm hóa phân tích môi
+trường	1	
+2.	EEEC424210	Thí nghiệm hóa kỹ thuật môi
+trường	2	
+3.	PSWT414310	Thực tập xử lý nước cấp	1	
+4.	PWWT414410	Thực tập xử lý nước thải	1	
+5.	PAPT414510	Thực tập xử lý khí thải	1	APCT332310
+6.	PEMI414610	Thực tập vi sinh kỹ thuật môi
+trường	1	
+7.	PWSD414710	Thực tập mạng lưới cấp thoát
+nước	1	HT_FLME230610
+8.	AWVI415110	Thực tập tham quan nhận thức	1	
+9.	DSWT414810	Đồ án xử lý nước cấp	1	HT_ENEC230410
+HT_FLME230610
+10.	DWWT414910	Đố án xử lý nước thải	1	HT_ENEC230410
+HT_FLME230610
+11.	DAPT415010	Đồ án xử lý khí thải	1	HT_ENEC230410
+HT_PETE221210
+12.	GRPR435210	Thực tập tốt nghiệp	3	HT_SWTR,WWTR,APCT,
+SHWM,ENMA
+Tổng			15	
+STT	Mã môn học	Tên môn học	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	GRTH374010	Khóa luận tốt nghiệp	07	Đạt kỳ thi kiểm tra
+năng lực “Qualified
+exam”
+Tổng				
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified
+exam”
+Ngoài ra sinh viên cần phải tích lũy đủ 2TC ngoại khóa (không bao gồm trong chương
+trình 132TC) các kiến thức liên quan đến “Lãnh đạo và kinh doanh trong kỹ thuật”, được bố
+trí vào học kỳ hè dưới dạng các sân chơi của Khoa và được xem như điều kiện cần tốt nghiệp.
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương
+Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 2 trong
+các môn học sau):
+Số tín Mã MH trước,
+STT Mã môn học Tên học phần
+chỉ MH tiên quyết
+1. GEFC220105 Kinh tế học đại cương 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+4. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành
+trong phần tự chọn:
+Xem danh sách các môn học liên ngành được đề xuất bên dưới, hoặc
+Sinh viên có thể tự chọn các môn học nằm ngoài danh sách được đề xuất trên tinh thần
+các môn học hỗ trợ hướng phát triển nghề nghiệp sau này. SV nên nhờ tư vấn thêm từ Ban tư
+vấn để có sự lựa chọn phù hợp.
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Option 1 (Khối ngành Môi trường) 6
+1. ENMO323410 Quan trắc môi trường 2
+2. ENEC323310 Kinh tế môi trường 2
+3. ENHY323610 Thủy văn môi trường 2
+4. GEIS323710 Hệ thống thông tin địa lý 2
+5. ENSM323810 Mô hình hóa môi trường 2
+Option 2 (Khối ngành Xây dựng) 6
+1. QMSC420919 Quản lý chất lượng và Tư vấn giám sát 2
+2. COMA220717 Vật liệu xây dựng 2
+3. RCBS320817 Kết cấu công trình bê tông cốt thép 2
+Option 3 (Khối ngành Điện) 6
+1. ACSY330346 Hệ thống điều khiển tự động 3
+2. BAEL 340662 Kỹ thuật điện công nghiệp 3
+Option 4 (Khối ngành Hóa) 6
+1. Vật liệu học 2
+2. Công nghệ sản xuất các hợp chất vô cơ 2
+3. Hóa học Polymer 2
+Option 5 (Khối ngành An toàn lao động) 6
+1. Kỹ thuật an toàn trong xây dựng 2
+2. Kỹ thuật an toàn điện 2
+3. Kỹ thuật an toàn hóa chất 2
+STT	Mã môn học	Tên học phần	Số tín
+chỉ	Mã MH trước,
+MH tiên quyết
+1.	GEFC220105	Kinh tế học đại cương	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+4.	WOPS120390	Kỹ năng làm việc trong môi trường kỹ thuật	2	
+STT	Mã môn học	Tên môn học			Số tín chỉ	Mã MH trước,
+MH tiên quyết
+	Option 1 (Khối ngành Môi trường)				6	
+1.	ENMO323410	Quan trắc môi trường			2	
+2.	ENEC323310	Kinh tế môi trường			2	
+3.	ENHY323610	Thủy văn môi trường			2	
+4.	GEIS323710	Hệ thống thông tin địa lý			2	
+5.	ENSM323810	Mô hình hóa môi trường			2	
+	Option 2 (Khối ngành Xây dựng)				6	
+1.	QMSC420919	Quản lý chất lượng và Tư vấn giám sát			2	
+2.	COMA220717	Vật liệu xây dựng			2	
+3.	RCBS320817		Kết cấu công trình bê tông cốt thép		2	
+	Option 3 (Khối ngành Điện)				6	
+1.	ACSY330346	Hệ thống điều khiển tự động			3	
+2.	BAEL 340662	Kỹ thuật điện công nghiệp			3	
+	Option 4 (Khối ngành Hóa)				6	
+1.		Vật liệu học			2	
+2.		Công nghệ sản xuất các hợp chất vô cơ			2	
+3.		Hóa học Polymer			2	
+	Option 5 (Khối ngành An toàn lao động)				6	
+1.		Kỹ thuật an toàn trong xây dựng			2	
+2.		Kỹ thuật an toàn điện			2	
+3.		Kỹ thuật an toàn hóa chất			2	
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Option 6 (Khối ngành Kinh tế) 6
+1. BAMA231209 Makerting cơ bản 3
+2. TEMA321406 Quản trị công nghệ 3
+Option 7 (Khối ngành cơ khí) 6
+1. MMAT451525 Công nghệ chế tạo máy 3
+2. MEDI330823 Thiết kế cơ khí 3
+Tổng 6
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn
+học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học
+chỉ MOOC (đường link đăng ký)
+http://www.oxfordhomestudy.com/course
+s/environmental-management-courses-
+online/environmental-management-
+1. ENMA332410 Quản lý môi trường 3 certificate-online
+https://www.udemy.com/iso-140012015-
+environmental-management-system/
+https://www.shortcoursesportal.com/studi
+2. ENEC323310 Kinh tế môi trường 2 es/22405/economics-of-environmental-
+policy.html?attempt=1
+https://www.shortcoursesportal.com/studi
+Quan trắc môi
+3. ENMO322010 2 es/75628/environmental-monitoring-and-
+trường
+protection.html?attempt=1
+Môi trường đại https://www.udemy.com/understanding-
+4. GEEN120210 2
+cương environmental-pollution/
+https://ocw.mit.edu/courses/civil-and-
+Vi sinh Kỹ thuật môi environmental-engineering/1-89-
+5. ENMI231010 2
+trường environmental-microbiology-fall-
+2004/index.htm
+https://ocw.mit.edu/courses/civil-and-
+Hóa kỹ thuật môi environmental-engineering/1-725j-
+6. ENEC220410 2
+trường chemicals-in-the-environment-fate-and-
+transport-fall-2004/syllabus/
+An toàn và sức khỏe https://www.udemy.com/environment-
+7. SAOH322110 2
+nghề nghiệp health-safety-management/
+8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để
+sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5 -
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT150105)
+3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 HT_(LLCT150105)
+STT	Mã môn học	Tên môn học	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+	Option 6 (Khối ngành Kinh tế)		6	
+1.	BAMA231209	Makerting cơ bản	3	
+2.	TEMA321406	Quản trị công nghệ	3	
+	Option 7 (Khối ngành cơ khí)		6	
+1.	MMAT451525	Công nghệ chế tạo máy	3	
+2.	MEDI330823	Thiết kế cơ khí	3	
+Tổng			6	
+STT	Mã môn học	Tên môn học	Số tín
+chỉ	Môn học được xét tương đương
+MOOC (đường link đăng ký)	
+1.	ENMA332410	Quản lý môi trường	3	http://www.oxfordhomestudy.com/course
+s/environmental-management-courses-
+online/environmental-management-
+certificate-online
+https://www.udemy.com/iso-140012015-
+environmental-management-system/	
+2.	ENEC323310	Kinh tế môi trường	2	https://www.shortcoursesportal.com/studi
+es/22405/economics-of-environmental-
+policy.html?attempt=1	
+3.	ENMO322010	Quan trắc môi
+trường	2	https://www.shortcoursesportal.com/studi
+es/75628/environmental-monitoring-and-
+protection.html?attempt=1	
+4.	GEEN120210	Môi trường đại
+cương	2		https://www.udemy.com/understanding-
+					environmental-pollution/
+5.	ENMI231010	Vi sinh Kỹ thuật môi
+trường	2	https://ocw.mit.edu/courses/civil-and-
+environmental-engineering/1-89-
+environmental-microbiology-fall-
+2004/index.htm	
+6.	ENEC220410	Hóa kỹ thuật môi
+trường	2	https://ocw.mit.edu/courses/civil-and-
+environmental-engineering/1-725j-
+chemicals-in-the-environment-fate-and-
+transport-fall-2004/syllabus/	
+7.	SAOH322110	An toàn và sức khỏe
+nghề nghiệp	2	https://www.udemy.com/environment-
+health-safety-management/	
+https://www.udemy.com/iso-140012015-
+environmental-management-system/
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	-
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	HT_(LLCT150105)
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	HT_(LLCT150105)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+HT_(LLCT120314)
+4. PHED110613 Giáo dục thể chất 2 1
+5. PHED130715 Giáo dục thể chất 3 3
+Tổng 14
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. ADMO138685 Tin học văn phòng nâng cao 2+1
+2. GCHE130603 Hóa đại cương 3
+3. GEEN12021 Giáo dục thể chất 1 1
+4. GELA220405 Pháp luật đại cương 2
+5. ITET130110 Nhập môn ngành CNKT Môi trường 2+1
+6. MATH132401 Toán 1 3
+7. TEDG130120 2+1
+Vẽ kỹ thuật 1 3
+Tổng (không tính số TC của học phần Pháp luật đại cương 18
+và GDTC 1 là 15)
+Học kỳ 2:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. ACHE220303 Hóa phân tích 2 HT_ GCHE130603
+2. EACH210503 Thí nghiệm Hóa phân tích 1
+4. EEAC414110 Thí nghiệm hóa phân tích môi trường 1
+7. ELEE220144 Kỹ thuật điện 2
+3. ENAC220310 HT_ GCHE130603
+Hóa phân tích môi trường 2
+6. GEEN120210 Môi trường đại cương 2
+1. MATH132501 Toán 2 3 HT_(MATH132401)
+2. PHYS130902 Vật lý 1 3 HT_(MATH132401)
+Khoa học xã hội & nhân văn (chọn
+2 trong 4 học phần )
+8. GEFC220105 Kinh tế học đại cương 2
+9. IQMA220205 Nhập môn quản trị chất lượng 2
+10. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ
+thuật
+Tổng 20
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. MATH132601 HT_(MATH132401)
+Toán 3 3
+HT_(MATH132501)
+2. PHYS131002 HT_(PHYS130902)
+Vật lý 2 3
+HT_(MATH132401)
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+				HT_(LLCT120314)
+4.	PHED110613	Giáo dục thể chất 2	1	
+5.	PHED130715	Giáo dục thể chất 3	3	
+Tổng			14	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	ADMO138685	Tin học văn phòng nâng cao	2+1	
+2.	GCHE130603	Hóa đại cương	3	
+3.	GEEN12021	Giáo dục thể chất 1	1	
+4.	GELA220405	Pháp luật đại cương	2	
+5.	ITET130110	Nhập môn ngành CNKT Môi trường	2+1	
+6.	MATH132401	Toán 1	3	
+7.	TEDG130120	Vẽ kỹ thuật 1	3	2+1
+Tổng (không tính số TC của học phần Pháp luật đại cương
+và GDTC 1 là 15)			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	ACHE220303	Hóa phân tích	2	HT_ GCHE130603
+2.	EACH210503	Thí nghiệm Hóa phân tích	1	
+4.	EEAC414110	Thí nghiệm hóa phân tích môi trường	1	
+7.	ELEE220144	Kỹ thuật điện	2	
+3.	ENAC220310	Hóa phân tích môi trường	2	HT_ GCHE130603
+6.	GEEN120210	Môi trường đại cương	2	
+1.	MATH132501	Toán 2	3	HT_(MATH132401)
+2.	PHYS130902	Vật lý 1	3	HT_(MATH132401)
+		Khoa học xã hội & nhân văn (chọn
+2 trong 4 học phần )	4	
+8.	GEFC220105	Kinh tế học đại cương	2	
+9.	IQMA220205	Nhập môn quản trị chất lượng	2	
+10.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+11.	WOPS120390	Kỹ năng làm việc trong môi trường kỹ
+thuật	2	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	MATH132601	Toán 3	3	HT_(MATH132401)
+HT_(MATH132501)
+2.	PHYS131002	Vật lý 2	3	HT_(PHYS130902)
+HT_(MATH132401)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+3. ENEC220410 Hóa kỹ thuật môi trường 2 HT_ GCHE130603
+4. EEEC424210 Thí nghiệm Hóa kỹ thuật môi
+trường
+5. FLME230610 Cơ lưu chất 2
+6. PPET220910 Quá trình cơ học 2
+7. ENMI231010 Vi sinh kỹ thuật môi trường 3 HT_ GEEN120210
+8. Thực tập Vi sinh kỹ thuật môi
+PEMI414610 1
+trường
+9. ENRD220510 Thiết kế nghiên cứu kỹ thuật môi HT_ GEEN120210
+trường
+Tổng 21
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+3. AAES220710 AutoCAD trong lĩnh vực môi trường 2 HT_ TEDG130120
+8. DSWT414810 HT_ENEC230410
+Đồ án xử lý nước cấp 1
+HT_FLME230610
+2. EENT220810 Anh văn cho Kỹ sư môi trường 2
+1. ESSO231110 Thống kê và tối ưu trong hệ thống
+môi trường
+5. Quản lý an toàn và sức khỏe nghề
+OHSM322110 2
+nghiệp
+9. PETE221210 HT_FLME230610
+Quá trình thiết bị môi trường 2
+HT_PPET220910
+7. PSWT414310 Thực tập xử lý nước cấp 1
+4 SPRT321710 Ô nhiễm đất và kỹ thuật xử lý 2 HT_ GEEN120210
+6. SWTR331610 Kỹ thuật xử lý nước cấp 3 HT_ ENEC230410
+Tổng 18
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. SHWM321810 Quản lý chất thải rắn và nguy hại 2 HT_ GEEN120210
+2 VSNC322810 Kỹ thuật thông gió và xử lý tiếng ồn 2 HT_ PPET220910
+3. WWTR331910 Kỹ thuật xử lý nước thải 3 HT_ ENEC230410
+4. PWWT414410 Thực tập xử lý nước thải 1
+5. DWWT414910 HT_ENEC230410
+Đồ án xử lý nước thải 1
+HT_FLME230610
+6. EIAS322510 Đánh giá tác động môi trường 2
+7. ENMA332410 Quản lý môi trường 3 HT_ GEEN120210
+8. Môn học liên ngành (SV chọn 1
+trong các option)
+Tổng 20
+Học kỳ 6:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. WSDN322210 Mạng lưới cấp thoát nước 2 HT_FLME230610
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+3.	ENEC220410	Hóa kỹ thuật môi trường	2	HT_ GCHE130603
+4.	EEEC424210	Thí nghiệm Hóa kỹ thuật môi
+trường	2	
+5.	FLME230610	Cơ lưu chất	2	
+6.	PPET220910	Quá trình cơ học	2	
+7.	ENMI231010	Vi sinh kỹ thuật môi trường	3	HT_ GEEN120210
+8.	PEMI414610	Thực tập Vi sinh kỹ thuật môi
+trường	1	
+9.	ENRD220510	Thiết kế nghiên cứu kỹ thuật môi
+trường	2	HT_ GEEN120210
+Tổng			21	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+3.	AAES220710	AutoCAD trong lĩnh vực môi trường	2	HT_ TEDG130120
+8.	DSWT414810	Đồ án xử lý nước cấp	1	HT_ENEC230410
+HT_FLME230610
+2.	EENT220810	Anh văn cho Kỹ sư môi trường	2	
+1.	ESSO231110	Thống kê và tối ưu trong hệ thống
+môi trường	3	
+5.	OHSM322110	Quản lý an toàn và sức khỏe nghề
+nghiệp	2	
+9.	PETE221210	Quá trình thiết bị môi trường	2	HT_FLME230610
+HT_PPET220910
+7.	PSWT414310	Thực tập xử lý nước cấp	1	
+4	SPRT321710	Ô nhiễm đất và kỹ thuật xử lý	2	HT_ GEEN120210
+6.	SWTR331610	Kỹ thuật xử lý nước cấp	3	HT_ ENEC230410
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	SHWM321810	Quản lý chất thải rắn và nguy hại	2	HT_ GEEN120210
+2	VSNC322810	Kỹ thuật thông gió và xử lý tiếng ồn	2	HT_ PPET220910
+3.	WWTR331910	Kỹ thuật xử lý nước thải	3	HT_ ENEC230410
+4.	PWWT414410	Thực tập xử lý nước thải	1	
+5.	DWWT414910	Đồ án xử lý nước thải	1	HT_ENEC230410
+HT_FLME230610
+6.	EIAS322510	Đánh giá tác động môi trường	2	
+7.	ENMA332410	Quản lý môi trường	3	HT_ GEEN120210
+8.		Môn học liên ngành (SV chọn 1
+trong các option)	6	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	WSDN322210	Mạng lưới cấp thoát nước	2	HT_FLME230610
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+2. PWSD414710 Thực tập mạng lưới cấp thoát nước 1 “
+3. APCT332310 Kỹ thuật xử lý khí thải 3 HT_ PETE221210
+4. PAPT414510 Thực tập xử lý khí thải 1 HT_APCT332310
+5. DAPT415010 HT_ENEC230410
+Đồ án xử lý khí thải 1
+HT_PETE221210
+6. AWVI415110 Thực tập tham quan nhận thức 1
+7. Sản xuất sạch hơn và Thiết kế bền
+2 HT_ ENMA332410
+CPDS322010 vững
+8 ADWT327110 Xử lý nước nâng cao 2 HT_ ENEC230410
+9 ENPM323910 Quản lý dự án môi trường 2
+Tổng 15
+Học kỳ 7:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. ENCO322610 Liên hệ doanh nghiệp 2
+2. GRPR435210 HT_SWTR,WWTR,APCT,
+Thực tập tốt nghiệp 3
+SHWM,ENMA
+Tổng 5
+* Môn học Liên hệ doanh nghiệp sẽ được triển khai theo hình thức thời gian tập trung (5
+tiết/buổi, 3 buổi/1TC) và linh hoạt, phân bố nhiều đợt tùy theo sự bố trí của khoa. SV tham gia
+đầy đủ 6 buổi, viết báo cáo và nộp bài cho Giảng viên phụ trách chấm điểm, có xác nhận của
+Khoa.
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. GRTH374010 Khóa luận tốt nghiệp 7
+Tổng 7
+9. Mô tả vắn tắt nội dung và khối lượng các môn học
+1. Những NL cơ bản của CN Mác-Lênin 5TC
+Phân bố thời gian học tập: 5(5/0/10)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Ngoài 1 chương mở đầu nhằm giới thiệu khái lược về CN Mác – Lênin và một số vấn
+đề chung của môn học. Căn cứ vào mục tiêu môn học, nội dung chương trình môn học được
+cấu trúc thành ba phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương
+pháp luận triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN
+Mác – Lênin về phương thức sản xuất tư bản chủ nghĩa.
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý
+luận của CN Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội hiện
+thực và triển vọng.
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+2.	PWSD414710	Thực tập mạng lưới cấp thoát nước	1	“
+3.	APCT332310	Kỹ thuật xử lý khí thải	3	HT_ PETE221210
+4.	PAPT414510	Thực tập xử lý khí thải	1	HT_APCT332310
+5.	DAPT415010	Đồ án xử lý khí thải	1	HT_ENEC230410
+HT_PETE221210
+6.	AWVI415110	Thực tập tham quan nhận thức	1	
+7.	CPDS322010	Sản xuất sạch hơn và Thiết kế bền
+vững	2	HT_ ENMA332410
+8	ADWT327110	Xử lý nước nâng cao	2	HT_ ENEC230410
+9	ENPM323910	Quản lý dự án môi trường	2	
+Tổng			15	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	ENCO322610	Liên hệ doanh nghiệp	2	
+2.	GRPR435210	Thực tập tốt nghiệp	3	HT_SWTR,WWTR,APCT,
+SHWM,ENMA
+Tổng			5	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	GRTH374010	Khóa luận tốt nghiệp	7	
+Tổng			7	
+2. Đường lối CM của ĐCSVN 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Môn học trước: Các NL cơ bản của CN Mác-Lênin
+Tóm tắt nội dung học phần:
+Ngoài chương mở đầu, nội dung môn học gồm 8 chương: Chương I: Sự ra đời của
+Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng; Chương II: Đường lối
+đấu tranh giành chính quyền (1930-1945); Chương III: Đường lối kháng chiến chống thực dân
+Pháp và đế quốc Mỹ xâm lược (1945-1975); Chương IV: Đường lối công nghiệp hoá; Chương
+V: Đường lối xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa; Chương VI:
+Đường lối xây dựng hệ thống chính trị; Chương VII: Đường lối xây dựng văn hoá và giải quyết
+các vấn đề xã hội; Chương VIII: Đường lối đối ngoại.
+Nội dung chủ yếu của môn học là cung cấp cho sinh viên những hiểu biết cơ bản có hệ
+thống về đường lối của Đảng, đặc biệt là đường lối trong thời kỳ đổi mới, trên một số lĩnh vực
+cơ bản của đời sống xã hội.
+3. Tư tưởng Hồ Chí Minh 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Môn học trước: Các NL cơ bản của CN Mác-Lênin, Đường lối CM của ĐCSVN
+Tóm tắt nội dung học phần:
+Ngoài chương mở đầu, nội dung môn học gồm 7 chương: Chương mở đầu: Đối tượng,
+phương pháp nghiên cứu và ý nghĩa học tập môn Tư tưởng Hồ Chí Minh; Chương I: Cơ sở, quá
+trình hình thành và phát triển Tư tưởng Hồ Chí Minh; Chương II: Tư tưởng Hồ Chí Minh về
+vấn đề dân tộc và cách mạng giải phóng dân tộc; Chương III: Tư tưởng Hồ Chí Minh về chủ
+nghĩa xã hội và con đường quá độ lên chủ nghĩa xã hội ở Việt Nam; Chương IV: Tư tưởng Hồ
+Chí Minh về Đảng cộng sản Việt Nam; Chương V: Tư tưởng Hồ Chí Minh về đại đoàn kết dân
+tộc và đoàn kết quốc tế; Chương VI: Tư tưởng Hồ Chí Minh về dân chủ và xây dựng nhà nước
+của dân do dân vì dân; Chương VII: Tư tưởng Hồ Chí Minh về văn hóa đạo đức và xây dựng
+con người mới.
+Nội dung chủ yếu của môn học là cung cấp cho sinh viên những hiểu biết cơ bản có hệ
+thống về tư tưởng, đạo đức giá trị văn hóa Hồ Chí Minh. Góp phần xây dựng nền tảng đạo đức
+con người mới, chủ động, tích cực trong giải quyết những vấn đề kinh tế chính trị văn hóa xã
+hội theo đường lối của Đảng và Nhà nước.
+4. Pháp luật đại cương 2TC
+Phân bố thời gian học tập: 2(2/0/2)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản về pháp luật Việt Nam nói riêng và thế giới
+nói chung, hệ thống pháp luật Việt Nam của các lĩnh vực trong tất cả các hoạt động của xã hội,
+các qui định, điều khoản, chế tài,… Nhằm mục đích giúp cho người học sau này trở thành kỹ
+sư có trình độ chuyên môn giỏi, am hiểu về luật pháp, đồng thời sống và làm việc theo pháp
+luật của nhà nước.
+5. Toán 1 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về tập hợp số, giới
+hạn, phép tính vi phân hàm một biến, phép tính tích phân hàm một biến, chuỗi số nhằm phục
+vụ cho quá trình học chuyên ngành sau này.
+6. Toán 2 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Toán cao cấp 1
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về ma trận định thức,
+hệ phương trình tuyến tính, không gian véc tơ, chéo hóa ma trận dạng toàn phương, phép vi
+phân hàm nhiều biến nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành sau này.
+7. Toán 3 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Toán cao cấp 1, 2
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản của toán học cao cấp về tích phân bội, tích
+phân đường, tích phân mặt, phương trình vi phân nhằm mục đích ứng dụng trong khoa học kỹ
+thuật chuyên ngành sau này.
+8. Vật lý 1 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức vật lý cơ bản về cơ học, nhiệt động lực, điện và tư
+nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành sau này.
+9. 1. Vật lý 2 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Vật lý đại cương A1
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức vật lý cơ bản về lý thuyết tương đối Einstein,
+quang học, vật lý lượng tử, nhằm mục đích ứng dụng trong khoa học kỹ thuật chuyên ngành
+sau này.
+10. Hóa đại cương 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên về kiến thức hóa học cơ bản như: cấu tạo nguyên tử, phân tử, các
+loại phản ứng hóa học, cân bằng hóa học, các quá trình nhiệt động xảy ra trong các phản ứng
+hóa học, điện phân, điện hóa, phân ly, …. Nhằm nâng cao kiến thức hóa học làm nền tảng cho
+việc nghiên cứu các chuyên đề sâu của ngành công nghệ kỹ thuật môi trường.
+11. Hóa phân tích 2TC
+Phân bố thời gian học tập: 3(2/1/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học này giúp cho sinh viên nắm được các khái niệm cơ bản trong hóa phân tích,
+các phương pháp phân tích định tính, phương pháp phân tích định lương: gồm phương pháp
+phân tích khối lượng và phương pháp phân tích thể tích và phương pháp phân tích công cụ.
+12. Kỹ thuật điện 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên về kiến thức
+Môn học này giúp sinh viên có các kiến thức cơ bản về mạch điện, các thiết bị điện, cấu
+tạo và các đặc tính làm việc của chúng để có thể vận hành được trong thực tế.
+13. Nhập môn Công nghệ kỹ thuật môi trường 3TC
+Phân bố thời gian học tập 3(2/1/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung môn học:
+Môn học này cung cấp cho sinh viên những kiến thức cơ bản về lĩnh vực Công nghệ
+môi trường. Tổ chức các buổi nói chuyện chuyên đề về các vấn đề môi trường cũng như
+những buổi sinh hoạt học thuật, trao đổi và học tập kinh nghiệm giữa các chuyên gia trong
+lĩnh vực và sinh viên chuyên ngành
+Tổ chức cho sinh viên tham quan các hệ thống xử lý chất thải, giúp sinh viên có thêm
+kiến thức về lĩnh vực chuyên ngành bằng những bài học ngoài thực tế đầy lý thú. Thông qua
+môn học này, sinh viên sẽ định hướng được khối kiến thức cần phải đạt được trong chương
+trình đào tạo cũng như vị trí công tác sau khi ra trường
+14. Tin học văn phòng nâng cao 3TC
+Phân bố thời gian học tập: 3(2/1/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên các kiến thức về tin học văn phòng nâng cao, giúp hoàn chỉnh
+kiến thức chuyên sâu về các kiến thức tin học văn phòng với các phần mềm, các ứng dụng mới.
+...
+15. Vẽ kỹ thuật 1 3TC
+Phân bố thời gian học tập 3(2/1/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung môn học:
+Cung cấp cho sinh viên các kiến thức cơ bản về phép chiếu, các tiêu chuẩn nhà nước về
+bản vẽ kỹ thuật, phương pháp lập và đọc các bản vẽ kỹ thuật. Trang bị cho sinh viên những
+khái niệm cơ bản trên lĩnh vực công nghệ CAD, rèn luyện kỹ năng lập và đọc bản vẽ. Bước đầu
+	ắm được các khái niệm cơ bản trong hóa phân tích,
+các phương pháp phân tích định tính, phương pháp phân tích định lương: gồm phương pháp	
+phân tích khối lượng và phương pháp phân tích thể tích và phương pháp phân tích công cụ.	
+làm quen với việc thiết kế trên máy tính (vẽ các bản vẽ kỹ thuật) trong không gian hai chiều
+(2D).
+16. Môi trường đại cương 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung môn học:
+Môn học đề cập tới một số kiến thức về khoa học môi trường và quan hệ giữa con người
+và môi trường ở cả hai khía cạnh tích cực và tiêu cực. Mối quan hệ giữa sinh vật với sinh vật
+cũng như mối quan hệ giữa sinh vật với môi trường sống của nó, cân bằng sinh thái và tác động
+của con người trong qúa trình gia tăng dân số, lao động sản xuất ảnh hưởng đến môi trường
+sinh thái như thế nào.
+17. Giáo dục thể chất 1 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Điều kiện tiên quyết: Giáo dục thể chất 1
+Tóm tắt nội dung học phần:
+Trang bị cho sinh về các kiến thức cơ bản thể dục, thể chất như chạy bộ, đi bộ, nhảy
+cao, nhảy xa,… biết vận dụng các kiến thức đã học để rèn luyện sức khỏe phục vụ cho quá
+trình học tập.
+18. Giáo dục thể chất 2 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Điều kiện tiên quyết: Giáo dục thể chất 1, 2
+Tóm tắt nội dung học phần:
+Trang bị cho sinh về các kiến thức cơ bản về bóng đá, bóng ném, bóng chuyền, bóng rổ
+và một số môn khác, biết vận dụng các kiến thức đã học để rèn luyện sức khỏe phục vụ cho quá
+trình học tập.
+19. Giáo dục thể chất 3 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết: Giáo dục thể chất 1, 2, 3
+Tóm tắt nội dung học phần:
+Trang bị cho sinh về các kiến thức cơ bản về luật chơi của các môn thể tao bóng đá,
+bóng nén, bóng chuyền, bóng rổ và một số môn khác, biết vận dụng các kiến thức đã học để rèn
+luyện sức khỏe phục vụ cho quá trình học tập.
+20. Giáo dục quốc phòng 165 tiết
+Phân bố thời gian học tập: 165
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần: (của Bộ Giáo dục và Quốc phòng)
+21. Thống kê và tối ưu trong hệ thống môi trường 3TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Môn học trước: Toán cao cấp 1, 2, 3
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên về phương pháp phân tích và tiếp cận đối tượng công nghệ trong
+lỉnh vực công nghệ môi trường, phân tích các yếu tố đầu vào, xác định các đại lượng đầu ra
+nhằm mô hình hóa quá trình của đối tượng công nghệ. Xây dựng các phương án thực nghiệm,
+mô tả toán học cho đối tượng công nghệ, trên cơ sở đó tối ưu hóa quá trình công nghệ để tìm
+kiếm chế độ công nghệ thích hợp.
+22. Hóa kỹ thuật môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến các vấn đề cân bằng hóa học, vận tốc phản ứng, cân bằng pha, các
+hiện tượng hấp thụ, hấp phụ, hóa keo cũng như tính chất của một số chất ô nhiễm trong môi
+trường.
+23. Cơ lưu chất 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến các vấn đề về Thủy tĩnh học: phương trình cơ bản, áp lực lên đáy và
+thành bình. Thủy động học: phương trình Euler, Navie – Stockes, phương trình Bernoulli và
+ứng dụng, sức cản thủy lực và phương pháp tính. Phương pháp thực nghiệm và bán thực
+nghiệm nghiên cứu thủy lực. các kiến thức thủy lực trong các hệ thống công nghệ kín và hở
+như: trở lực lớp hạt, thủy lực dòng nhiều pha của các thiết bị chuyển khối, dòng chảy đều và
+không đều trong kênh hở, dòng chảy qua đập tràn, cống, nước nhảy và phương pháp tiêu năng
+ở hạ lưu công trình, thiết kế kênh…
+24. Quá trình cơ học 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức về bơm quạt máy nén van…
+25. Quá trình thiết bị môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức về các quá trình khuếch tán trong các hệ
+thống công nghệ: Bản chất các quá trình và Những công thức áp dụng trong tính tóan các quá
+trình hấp thụ, hấp phụ, chưng luyện, trích ly. Phương pháp chọn lựa quá trình và thiết bị thích
+hợp cho việc xử lý các dạng ô nhiễm mà thực tế đòi hỏi.
+26. Hóa phân tích môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Hóa phân tích
+Tóm tắt nội dung học phần:
+Môn học đề cập đến các kiến thức lý thuyết về các phương pháp phân tích các chỉ tiêu
+môi trường
+27. Anh văn cho kỹ sư Môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Học phần cung cấp và trang bị những kiến thức, kỹ năng căn bản nhất về ngôn ngữ kỹ
+thuật chuyên ngành
+28. Vi sinh vật kỹ thuật môi trường 3TC
+Phân bố thời gian học tập 3(3/0/6)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học cung cấp các kiến thức về vi sinh vật và đời sống của chúng trong các điều kiện
+môi trường khác nhau (Hiếu khí, kỵ khí, quang tự dưỡng…) , sự tham gia của VSV vào việc
+phân hủy một số chất, một số thiết bị sử dụng vi sinh vật trong xử lý ô nhiễm.
+29. CAD trong lĩnh vực môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Học phần cung cấp và trang bị những kiến thức, kỹ năng nâng cao trong việc ứng dụng
+Auto CAD để thực hiện các bản vẽ kỹ thuật nhằm xây dựng các hệ thống xử lý nước thải, khí
+thải, bụi,…
+30. Thiết kế nghiên cứu kỹ thuật môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên những kiến thức cơ bản về các phương pháp tiến
+hành một nghiên cứu một cách có hệ thống và mang tính khoa học. Sinh viên sẽ được giới thiệu
+về các bước thực hiện một nghiên cứu, từ đặt vấn đề, tổng quan tài liệu, thu thập thông tin, cho
+đến hoàn thành và báo cáo đề án nghiên cứu để có thể tự mình áp dụng vào các đề án nghiên
+cứu của mình sau này
+31. Kỹ thuật xử lý nước cấp 3TC
+Phân bố thời gian học tập 3(3/0/6)
+Điều kiện tiên quyết: Hóa kỹ thuật môi trường
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức cơ bản cần thiết về kỹ thuật xử lý nước
+mặt, nước ngầm cho mục đích sử dụng sinh họat và phục vụ công nghiệp
+32. Kỹ thuật xử lý nước thải 3TC
+Phân bố thời gian học tập 3(3/0/6)
+Điều kiện tiên quyết: Hóa kỹ thuật môi trường
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức cơ bản cần thiết về kỹ thuật xử lý nước
+thải sinh họat và công nghiệp. Các bước tính toán thiết kế công trình xử lý nước thải.
+33. Kỹ thuật xử lý khí thải 3TC
+Phân bố thời gian học tập 3(3/0/6)
+Môn học trước: Ô nhiễm không khí, Quá trình thiết bị môi trường 1, 2
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức kỹ thuật cần thiết trong việc thiết kế các
+hệ thống xử lý ô nhiễm không khí như lọc bụi, xử lý khí ô nhiễm, điều hoà không khí…
+Môn học đề cập đến các kiến thức vật lý về âm học, tiếng ồn, tác hại của tiếng ồn,
+phương thức truyền âm, tác dụng cản âm, hấp thụ âm thanh, kỹ thuật giảm âm, cản âm và vật
+liệu tiêu âm, phương pháp thiết kế các hệ thống, thiết bị giảm âm và chống ồn, các giải pháp kỹ
+thuật cần chọn lựa trong việc giảm âm, chống ồn.
+34. Quản lý môi trường 3TC
+Phân bố thời gian học tập 3(3/0/6)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến các kiến thức quản lý môi trường, phương pháp xây dựng các tiêu
+chuẩn môi trường, các công cụ quản lý giám sát chất lượng môi trường cũng như các tiêu
+chuẩn môi trường quốc tế
+35. Ô nhiễm đất và kỹ thuật xử lý 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Môn học trước: Hóa phân tích môi trường, Hóa kỹ thuật môi trường
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến các kiến thức về cấu trúc địa chất, sinh thái môi trường đất, các tác
+nhân gây ô nhiễm đất, quá trình tự làm sạch của MT đất và giới hạn của nó, kỹ thuật ngăn
+ngừa, phòng trừ, lọai bỏ ô nhiễm đất.
+36. Quản lý chất thải rắn và nguy hại 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Môn học trước: môi trường đại cương
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức về kỹ thuật xử lý và biện pháp quản lý
+các chất thải rắn, kỹ thuật tái chế nguyên vật liệu và năng lượng từ rác thải công nghiệp và đô
+thị.
+37. Quản lý an toàn và sức khỏe nghề nghiệp 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến công tác an toàn lao động, hệ thống pháp luật hiện hành và các yếu
+tố nguy hiểm, có hại trong sản xuất công nghiệp. Những biện pháp kỹ thuật về an toàn thiết bị,
+hóa chất, môi trường vệ sinh lao động, biện pháp quản lý để ngăn ngừa tai nạn lao động và
+bệnh nghề nghiệp tại các cơ sở sản xuất.
+38. Mạng lưới cấp thoát nước 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: thuỷ lực và thuỷ văn môi trường
+Tóm tắt nội dung học phần:
+Môn học gồm hai phần: tính toán mạng lưới cấp nước và tính toán mạng lưới thoát nước.
+Các công cụ cần thiết để thiết kế tối ưu hệ thống và cách thức thiết kế mạng lưới cấp thoát nước
+39. Quan trắc môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Ô nhiễm không khí, thuỷ lực và thuỷ văn môi trường, Hóa kỹ thuật môi
+trường
+Tóm tắt nội dung học phần:
+Môn học này cung cấp những kiến thức cơ bản giúp xác định các nguồn và tác nhân gây ô
+nhiễm môi trường; các phương pháp, quy trình quan trắc môi trường đảm bảo theo quy định;
+các cơ sở khoa học để xây dựng mạng lưới quan trắc.
+40. Liên hệ doanh nghiệp 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học này cung cấp những kiến thức, công nghệ, thiết bị mới thông qua những chia sẽ
+của các Doanh nghiệp
+41. Đánh giá tác động môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đưa ra các phương pháp đánh giá tác động hiện hành trên thế giới hiện nay, hệ
+thống quản lý và thẩm định, quy trình thẩm định các báo cáo ĐTM ở Việt Nam.
+42. Sản xuất sạch hơn và thiết kế bền vững 2 TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến phương pháp luận và phương pháp triển khai thực tế cho công nghệ
+sản xuất sạch hơn, sản xuất sạch và công nghệ bền vững, đặc biệt là các biện pháp kỹ thuật,
+quản lý và kinh tế của công nghệ sản xuất sạch hơn, đề phòng ngăn ngừa và tận giảm chất thải
+gây ô nhiễm môi trường.
+43. Quản lý dự án môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến kiến thức cơ bản về quản lý dự án. Sinh viên sẽ được chia theo
+nhóm để hình thành ý tưởng kinh doanh hoặc tổ chức một số sự kiện có quy mô của 1 dự án
+quy mô vừa/nhỏ, lập kế họach đề án (project proposal) và tiến hành thực hiện dự án của mình
+trong khoảng thời gian từ 2 đến 3 tháng.
+44. Xử lý nước nâng cao 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến những kiến thức về công nghệ xử lý nước cấp, nước thải nâng cao.
+Tính toán và thiết kế , thi công, giám sát, vận hành các hệ thống xử lý nước cấp và nước thải.
+45. Kỹ thuật thông gió và xử lý tiếng ồn 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến những kiến thức về thông gió, tính toán thiết kế các hệ thống thông
+gió. Kiến thức về ô nhiễm công nghiệp và các biện pháp giảm thiểu tiếng ồn.
+46. Kinh tế môi trường 2TC
+Phân bố thời gian học tập 2(2/0/4)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Môn học đề cập đến những kiến thức quản lý môi trường bằng công cụ kinh tế trong cơ
+chế thị trường để phát triển bền vững. Ứng dụng các kiến thức về kinh tế trong lĩnh vực khai
+thác và sử dụng tài nguyên thiên nhiên…
+47. Thí nghiệm hóa phân tích môi trường 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng thực hiện các phương pháp
+phân tích hóa học: chuẩn độ, xác định khối lượng, tạo phức, tạo tủa, sử dụng các dụng cụ trong
+phòng thí nghiệm.
+48. Thí nghiệm Hóa kỹ thuật Môi trường 2TC
+Phân bố thời gian học tập 2(0/2/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng phân tích và đánh giá các chỉ
+tiêu về lý hóa trong nước: pH, COD, BOD, sắt, Nito, phospho, sulfate, độ cứng, độ kiềm, độ
+acid, độ màu, độ đục, chất rắn, chloride, DO, ….
+49. Thực tập xử lý nước cấp 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: Hóa kỹ thuật môi trường
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng vận hành các quy trình xử lý
+nước cấp: khử sắt, keo tụ tạo bông, lắng, hấp phụ, trao đổi ion, khử trùng,…
+50. Thực tập xử l ý nước thải 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: Hóa kỹ thuật môi trường
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng vận hành các quy trình xử lý
+nước thải: bùn hoạt tính, hấp phụ màu, SBR, MBR, lắng, …
+51. Thực tập Xử lý khí thải 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng đo đạc và xác định các chỉ
+tiêu ô nhiễm không khí. Sinh viên vận hành các thiết bị xử lý khí thải.
+52. Thực tập Vi sinh kỹ thuật môi trường 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng, thao tác nuôi cấy phân lập
+các chủng vi sinh vật và phân tích các chỉ tiêu vi sinh trong môi trường nước: E.coli. Coliform,
+Feca.Coli,…
+53. Thực tập mạng lưới cấp thoát nước 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: Mạng lưới cấp thoát nước
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng xây dựng mạng lưới cấp
+nước và thoát nước bên trong và ngoài công trình
+54. Thực tập Tham quan nhận thức 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Học phần này cung cấp cho Sinh viên kiến tập một vài khu sinh thái, khu xử lý nước cấp,
+xử lý nước thải để hình dung được các công tác của mình trong tương lai
+55. Đồ án xử lý nước cấp 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Môn học trước: Thủy lực và thủy văn, thủy lực công trình, Quá trình thiết bị trong môi trường
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng về phương pháp tính toán
+thiết kế hệ thống cấp nước. Phân tích các chỉ tiêu và đưa ra được các quy trình xử lý đạt tiêu
+chuẩn.
+56. Đồ án xử lý nước thải 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Môn học trước: Thủy lực và thủy văn, thủy lực công trình, Quá trình thiết bị trong môi trường
+Điều kiện tiên quyết: Hóa kỹ thuật môi trường
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức và kỹ năng lựa chọn quy trình công
+nghệ. Tính toán thiết kế trạm xử lý nước thải sinh họat và công nghiệp.
+57. Đồ án xử lý không khí 1TC
+Phân bố thời gian học tập 1(0/1/2)
+Điều kiện tiên quyết: Ô nhiễm không khí, thuỷ lực và thuỷ văn môi trường, quá trình thiết bị
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kỹ năng phân tích đánh giá các số liệu và từ đó
+đưa ra được quy trình xử lý, tính toán thiết bị lọc bụi, xử lý khí ô nhiễm, điều hoà không khí…
+58. Thực tập tốt nghiệp 3TC
+Phân bố thời gian học tập 3(0/3/6)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần:
+Cung cấp cho sinh viên các kiến thức về môi trường xảy ra trên thực tế. Mục đích của
+đợt thực tập tốt nghiệp là giúp sinh viên tìm hiểu một quy trình hay một dự án quản lý tài
+nguyên và môi trường, sinh viên có thể lý giải nguyên nhân và đề ra giải pháp khắc phục ô
+nhiễm môi trường, giúp sinh viên có khả năng độc lập nghiên cứu khoa học, đồng thời tự tin đủ
+năng lực chọn đề tài làm khóa luận tốt nghiệp. Đồng thời qua đợt thực tập, sinh viên sẽ làm
+quen với vai trò của người kỹ sư trong việc điều hành và quản lý các vấn đề về tài nguyên và
+môi trường
+59. Khóa luận tốt nghiệp 7TC
+Phân bố thời gian học tập 7(0/7/14)
+Điều kiện tiên quyết: Đạt được số tín chỉ theo qui định
+Tóm tắt nội dung học phần:
+Để sinh viên độc lập ứng dụng kiến thức đã học (lý thuyết và thực hành) vào giải quyết
+trọn vẹn một vấn đề nào đó đang nảy sinh trong thực tế ở các góc độ: quản lý, đánh giá, biện
+pháp kỹ thuật … trong đó, phải xây dựng được phương pháp luận, cách tiếp cận vấn đề, phải
+xây dựng được mục tiêu, phương pháp và nội dung nghiên cứu rõ ràng, có cơ sở khoa học.
+Tuần tự biết giải quyết vấn đề: nêu được tính bức xúc, tổng quan tài liệu, nêu được hướng giải
+quyết, khảo sát tính toán để có cơ sở khoa học cho biện pháp giải quyết; xây dựng biện pháp và
+kết luận.
+60. Kinh tế học đại cương 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên những kiến thức cơ bản về kinh tế học đại cương, những lý
+thuyết cổ điển và hiện đại về kinh tế, những nguyên lý cơ bản của các nền kinh tế, những
+nguyên lý cơ bản vận hành của một nền kinh tế nhằm mục đích giúp cho người học vận dụng
+kinh tế trong lĩnh vực kỹ thuật.
+61. Nhập môn quản trị chất lượng 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Môn học nhằm cung cấp cho sinh viên:
+Môn học giúp sinh viên hiểu những kiến thức cơ bản chất lượng và quản trị chất lượng.
+Sau khi ra trường, sinh viên có thể sử dụng các phương pháp đánh giá chất lượng và sử dụng
+kỹ thuật và công cụ QLCL. Sinh viên có nền tảng cơ bản để có thể tiếp cận cách xây dựng và tổ
+chức thực hiện có hiệu quả hệ thống QTCL trong các tổ chức.
+Học phần này trang bị cho người học những kiến thức cơ bản về chất lượng và quản trị
+chất lượng. Học phần giới thiệu về vị trí của chất lượng trong xu thế cạnh tranh toàn cầu; tình
+trạng quản trị chất lượng tại các nước đang phát triển và tại Việt Nam. Học phần nêu ra một số
+chỉ tiêu và phương pháp đánh giá chất lượng trong tổ chức, đồng thời hướng dẫn sinh viên sử
+dụng một số phương pháp, kỹ thuật và công cụ cơ bản để quản lý chất lượng. Học phần cung
+cấp những kiến thức về cách xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn
+ISO 9000 và quản lý chất lượng toàn diện trong các doanh nghiệp.
+62. Kỹ năng xây dựng kế hoạch 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ bản về kỹ năng xây dựng kế hoạch của công
+việc, của một dự án hay của một hoạt động nào đó, cung cấp cho người học các bước cơ bản để
+xây dựng một kế hoạch hoàn chỉnh, trên cơ sở đó có thể ứng dụng và phát triển thêm. Tất cả
+nhằm vào mục đích phát triển nghề nghiệp sau này của một người kỹ sư.
+63. Kỹ năng làm việc trong môi trường kỹ thuật 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Điều kiện tiên quyết: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên kiến thức và cách trình bày các văn bản khoa học kỹ thuật theo
+các qui định của nhà nước nói riêng và của thế giới nói chung nhằm mục đích phục vụ cho
+công việc của một kỹ sư khi tốt nghiệp ra tham gia trong các hoạt động xã hội.
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+- Phòng thí nghiệm Hóa phân tích
+- Phòng thí nghiệm Hóa kỹ thuật môi trường
+- Phòng thí nghiệm Phân tích môi trường
+- Phòng thí nghiệm Vi sinh kỹ thuật môi trường
+- Phòng mô hình.
+- Phòng công nghệ kỹ thuật cao trong kỹ thuật môi trường
+10.2. Thư viện, trang Web
+- Sciencedirect.com
+- Spigerlink.com
+- Wiley.com
+- http://vinacel.hcmute.edu.vn
+- http://thuvien.hcmute.edu.vn
+11. Hướng dẫn thực hiện chương trình
+a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ
+thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau:
+1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm hoặc thực hành
+= 45 giờ tự học
+= 45  90 giờ thực tập tại cơ sở.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15.
+b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu
+các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển
+trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học
+trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học
+chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa

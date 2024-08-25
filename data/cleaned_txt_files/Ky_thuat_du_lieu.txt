@@ -1,0 +1,417 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH KỸ THUẬT DỮ LIỆU (Ban hành tại Quyết định số……ngày………………………………….. của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) (Áp dụng cho các khóa KTDL từ 2018)
+Tên chương trình: KỸ THUẬT DỮ LIỆU
+Ngành đào tạo: KỸ THUẬT DỮ LIỆU
+Tên tiếng Anh: DATA ENGINEERING
+Trình độ đào tạo: ĐẠI HỌC
+Mã số:
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: KỸ THUẬT DỮ LIỆU
+Trình độ đào tạo: Đại học
+Ngành đào tạo: KỸ THUẬT DỮ LIỆU
+Mã ngành:
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kỹ sư (Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo: 4 năm 2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: Phải hoàn tất thực tập doanh nghiệp trong học kỳ hè và được
+Khoa xác nhận. 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Đào tạo kỹ sư ngành Kỹ thuật dữ liệu (KTDL) phát triển toàn diện, có đạo đức, tri thức, sức khỏe, thẩm mỹ, trung thành với lý tưởng dân tộc và chủ nghĩa xã hội, có kiến thức khoa học cơ bản, kiến thức cơ sở và chuyên ngành về KTDL, có khả năng phân tích, giải quyết vấn đề, có khả năng đánh giá và lựa chọn các giải pháp phù hợp, có năng lực xây dựng và quản trị các hệ thống dữ liệu lớn, có kỹ năng giao tiếp và làm việc nhóm, có thái độ nghề nghiệp phù hợp và năng lực tự học để đáp ứng được các yêu cầu phát triển của ngành và xã hội.
+Với kiến thức cơ sở ngành và chuyên ngành Kỹ thuật dữ liệu được trang bị, học viên có khả năng nghiên cứu một cách độc lập, sáng tạo, có năng lực phát hiện và giải quyết vấn đề kỹ thuật phức tạp. Ngoài ra, chương trình cung cấp nền tảng kiến thức vững chắc để học viên có thể tiếp tục nâng cao và mở rộng kiến thức nhằm thích ứng với nhu cầu phát triển kinh tế - xã hội.
+Mục tiêu đào tạo (Objectives)
+Sau khi hoàn thành chương trình đào tạo (CTĐT) Ngành KTDL, sinh viên có khả năng : 1. Có kiến thức nền tảng về khoa học xã hội, khoa học tự nhiên và công nghệ thông tin (CNTT) 2. Phát triển năng lực khám phá tri thức, giải quyết vấn đề, tư duy hệ thống, có kỹ năng và thái độ cá nhân, có kỹ năng và thái độ nghề nghiệp 3. Nâng cao kỹ năng làm việc nhóm và làm việc trong các nhóm đa ngành, đa lĩnh vực 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành, lãnh đạo nhóm, kinh doanh các kiến trúc như cơ sở dữ liệu và các hệ thống xử lý quy mô lớn.
+Chuẩn đầu ra cấp độ 2(Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra hiệu năng lực
+Có kiến thức nền tảng về khoa học xã hội, khoa học tự nhiên và công 1. nghệ thông tin (CNTT)
+Có khả năng trình bày các nguyên tắc cơ bản trong khoa học xã hội và 1.1. 2.0 khoa học tự nhiên (như CNXH khoa học, toán học, vật lý học).
+Có khả năng ứng dụng các kiến thức cơ sở trong lãnh vực CNTT để giải 1.2. 3.0 quyết một số yêu cầu liên quan
+Có khả năng áp dụng kiến thức chuyên ngành KTDL vào các lĩnh vực 1.3. 3.0 liên quan
+Phát triển năng lực khám phá tri thức, giải quyết vấn đề, tư duy hệ thống, 2. có kỹ năng và thái độ cá nhân, có kỹ năng và thái độ nghề nghiệp
+Phân tích, lập luận kỹ thuật và giải quyết vấn đề 2.1. 4.0
+Có thể tiến hành kiểm tra và thực nghiệm các vấn đề liên quan việc ứng 2.2. 4.0 dụng KTDL 2.3 Có tư duy hệ thống và toàn diện về KTDL 4.0 2.4 Có các kỹ năng và thái độ cá nhân có đóng góp hiệu quả vào các hoạt động 4.0
+Ký hiệu Chuẩn đầu ra Trình độ năng lực 1. Có kiến thức nền tảng về khoa học xã hội, khoa học tự nhiên và công nghệ thông tin (CNTT) 1.1. Có khả năng trình bày các nguyên tắc cơ bản trong khoa học xã hội và khoa học tự nhiên (như CNXH khoa học, toán học, vật lý học). 2.0 1.2. Có khả năng ứng dụng các kiến thức cơ sở trong lãnh vực CNTT để giải quyết một số yêu cầu liên quan 3.0 1.3. Có khả năng áp dụng kiến thức chuyên ngành KTDL vào các lĩnh vực liên quan 3.0 2. Phát triển năng lực khám phá tri thức, giải quyết vấn đề, tư duy hệ thống, có kỹ năng và thái độ cá nhân, có kỹ năng và thái độ nghề nghiệp 2.1. Phân tích, lập luận kỹ thuật và giải quyết vấn đề 4.0 2.2. Có thể tiến hành kiểm tra và thực nghiệm các vấn đề liên quan việc ứng dụng KTDL 4.0 2.3 Có tư duy hệ thống và toàn diện về KTDL 4.0 2.4 Có các kỹ năng và thái độ cá nhân có đóng góp hiệu quả vào các hoạt động 4.0 ứng dụng KTDL như tính linh hoạt, sự sáng tạo, tính ham học hỏi và quản lý thời gian tốt
+Có các kỹ năng và thái độ nghề nghiệp có đóng góp hiệu quả vào các hoạt 2.5 động kỹ thuật như đạo đức nghề nghiệp, phong cách chuyên nghiệp trong 3.0 giao tiếp, hoạch định nghề nghiệp.
+Nâng cao kỹ năng làm việc nhóm và làm việc trong các nhóm đa ngành, 3. đa lĩnh vực
+Có khả năng làm việc theo nhóm 3.1. 3.0
+Có khả năng giao tiếp, thuyết trình, trình bày vấn đề dưới dạng văn bản, 4.0 3.2. thư điện tử, đồ họa 3.3. Có khả năng giao tiếp bằng ngoại ngữ. 3.0
+Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành, 4. lãnh đạo nhóm, kinh doanh các kiến trúc như cơ sở dữ liệu và các hệ thống xử lý quy mô lớn.
+Nhận thức được tầm quan trọng của môi trường xã hội đối với hoạt động 4.1. 3.0 của hệ thống CSDL và các hệ thống xử lý quy mô lớn
+Có khả năng nhận thức sự khác biệt về văn hóa doanh nghiệp và làm việc 4.2. 2.0 hiệu quả trong các môi trường văn hóa khác nhau.
+Có khả năng hình thành ý tưởng, thiết lập yêu cầu, xác định chức năng, 4.3. 5.0 lập mô hình cho các hệ thống CSDL và hệ thống xử lý quy mô lớn.
+Có khả năng phân tích, thiết kế, cài đặt được các hệ thống CSDL và các 4.4. 4.0 hệ thống xử lý quy mô lớn.
+Có khả năng triển khai phần cứng và/hoặc phần mềm cho các hệ thống 4.5 4.0
+CSDL và các hệ thống xử lý quy mô lớn.
+Có khả năng vận hành và quản lý công tác vận hành các hệ thống CSDL 4.6 4.0 và các hệ thống xử lý quy mô lớn.
+PHẦN MỞ RỘNG: LÃNH ĐẠO VÀ SÁNG NGHIỆP TRONG KỸ THUẬT
+Có khả năng lãnh đạo nhóm giải quyết các vấn đề kỹ thuật liên quan hệ 4.7 3.0 thống CSDL và các hệ thống xử lý quy mô lớn.
+Có kiến thức về khởi nghiệp, kinh doanh trong lãnh vực hệ thống CSDL 4.8 2.0 và các hệ thống xử lý quy mô lớn. ứng dụng KTDL như tính linh hoạt, sự sáng tạo, tính ham học hỏi và quản lý thời gian tốt 2.5 Có các kỹ năng và thái độ nghề nghiệp có đóng góp hiệu quả vào các hoạt động kỹ thuật như đạo đức nghề nghiệp, phong cách chuyên nghiệp trong giao tiếp, hoạch định nghề nghiệp. 3.0 3. Nâng cao kỹ năng làm việc nhóm và làm việc trong các nhóm đa ngành, đa lĩnh vực 3.1. Có khả năng làm việc theo nhóm 3.0 3.2. Có khả năng giao tiếp, thuyết trình, trình bày vấn đề dưới dạng văn bản, thư điện tử, đồ họa 4.0 3.3. Có khả năng giao tiếp bằng ngoại ngữ. 3.0 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành, lãnh đạo nhóm, kinh doanh các kiến trúc như cơ sở dữ liệu và các hệ thống xử lý quy mô lớn. 4.1. Nhận thức được tầm quan trọng của môi trường xã hội đối với hoạt động của hệ thống CSDL và các hệ thống xử lý quy mô lớn 3.0 4.2. Có khả năng nhận thức sự khác biệt về văn hóa doanh nghiệp và làm việc hiệu quả trong các môi trường văn hóa khác nhau. 2.0 4.3. Có khả năng hình thành ý tưởng, thiết lập yêu cầu, xác định chức năng, lập mô hình cho các hệ thống CSDL và hệ thống xử lý quy mô lớn. 5.0 4.4. Có khả năng phân tích, thiết kế, cài đặt được các hệ thống CSDL và các hệ thống xử lý quy mô lớn. 4.0 4.5 Có khả năng triển khai phần cứng và/hoặc phần mềm cho các hệ thống
+CSDL và các hệ thống xử lý quy mô lớn. 4.0 4.6 Có khả năng vận hành và quản lý công tác vận hành các hệ thống CSDL và các hệ thống xử lý quy mô lớn. 4.0
+PHẦN MỞ RỘNG: LÃNH ĐẠO VÀ SÁNG NGHIỆP TRONG KỸ THUẬT 4.7 Có khả năng lãnh đạo nhóm giải quyết các vấn đề kỹ thuật liên quan hệ thống CSDL và các hệ thống xử lý quy mô lớn. 3.0 4.8 Có kiến thức về khởi nghiệp, kinh doanh trong lãnh vực hệ thống CSDL và các hệ thống xử lý quy mô lớn. 2.0 lãnh đạo nhóm, kinh doanh thống xử lý quy mô lớn
+Có khả năng lãnh đạo nhóm giải quyết các vấn đề kỹ thuật liên quan hệ thống CSDL và các hệ thống xử lý quy mô lớn.
+Có kiến thức về khởi nghiệp, kinh doanh trong lãnh vực hệ thống CSDL và các hệ thống xử lý quy mô lớn.
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ...
+Đạt yêu 2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,...
+Thành thạo 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 5. Khối lượng kiến thức toàn khoá: 132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng) 6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 48
+A. Khối kiến thức bắt buộc 36
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Đạt yêu cầu Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ... 2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Thành thạo Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,... 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới.
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 48
+A. Khối kiến thức bắt buộc 36
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 21 1 Toán 1 3 2 Toán 2 3 3 Đại số và cấu trúc đại số 4 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Thí nghiệm vật lý 1 1 7 Điện tử căn bản 3 8 Thực tập điện tử căn bản 1
+III. Nhập môn ngành KTDL 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 6 1 Nhập môn lập trình 3(2+1) 2 Kỹ thuật lập trình 3(2+1)
+V. Khoa học xã hội nhân văn 6 1 Kinh tế học đại cương 2 2 Nhập môn quản trị chất lượng 2 3 Nhập môn Quản trị học 2 4 Nhập môn Logic học 2 5 Cơ sở văn hoá Việt Nam 2 6 Nhập môn Xã hội học 2 7 Tâm lý học kỹ sư 2 8 Tư duy hệ thống 2 9 Kỹ năng học tập đại học 2 10 Kỹ năng xây dựng kế hoạch 2 11 Kỹ năng làm việc trong môi trường kỹ thuật 2 12 Phương pháp nghiên cứu khoa học 2
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 84
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 75
+Chuyên ngành
+Liên hệ doanh nghiệp 2
+Lãnh đạo và kinh doanh trong kỹ thuật 0
+Khóa luận tốt nghiệp 7 4 Pháp luật đại cương 2
+II. Toán học và KHTN 21 1 Toán 1 3 2 Toán 2 3 3 Đại số và cấu trúc đại số 4 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Thí nghiệm vật lý 1 1 7 Điện tử căn bản 3 8 Thực tập điện tử căn bản 1
+III. Nhập môn ngành KTDL 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 6 1 Nhập môn lập trình 3(2+1) 2 Kỹ thuật lập trình 3(2+1)
+V. Khoa học xã hội nhân văn 6 1 Kinh tế học đại cương 2 2 Nhập môn quản trị chất lượng 2 3 Nhập môn Quản trị học 2 4 Nhập môn Logic học 2 5 Cơ sở văn hoá Việt Nam 2 6 Nhập môn Xã hội học 2 7 Tâm lý học kỹ sư 2 8 Tư duy hệ thống 2 9 Kỹ năng học tập đại học 2 10 Kỹ năng xây dựng kế hoạch 2 11 Kỹ năng làm việc trong môi trường kỹ thuật 2 12 Phương pháp nghiên cứu khoa học 2
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 84
+Cơ sở nhóm ngành và ngành 75
+Cơ sở ngành
+Chuyên ngành
+Liên hệ doanh nghiệp 2
+Lãnh đạo và kinh doanh trong kỹ thuật 0
+Khóa luận tốt nghiệp 7 7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH143001 Đại số và cấu trúc đại số 4 8. MATH132901 Xác suất thống kê ứng dụng 3 9. PHYS130902 Vật lý 1 3 10. PHYS 111202 Thí nghiệm vật lý 1 1 11. EEEN234162 Điện tử căn bản 3 12. PRBE214262 Thực tập điện tử căn bản 1 13. INDE131777 Nhập Môn Ngành KTDL 3(2+1) 14. INPR130285 Nhập Môn Lập Trình 3(2+1) 15. PRTE230385 Kỹ thuật lập trình 3(2+1) 16. PHED110513 Giáo dục thể chất 1 1 17. PHED110613 Giáo dục thể chất 2 1 18. PHED130715 Giáo dục thể chất 3 3 19. - Giáo dục quốc phòng 165 tiết
+Tổng 42 7.2. Kiến thức giáo dục chuyên nghiệp 7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. DIGR230485 Toán rời rạc và lý thuyết đồ thị 3(2+1) 2. DASA230179 Cấu trúc dữ liệu và giải thuật 3(2+1) 3. OOPR230279 Lập trình hướng đối tượng 3(2+1) 4. WIPR230579 Lập trình trên Windows 3(2+1) 5. INSE330380 An toàn thông tin 3(2+1) 6. WEPR330479 Lập trình Web 3(2+1) 7. SOEN330679 Công nghệ phần mềm 3(2+1) 8. CAAL230180 Kiến trúc máy tính và hợp ngữ 3(2+1) 9. OPSY330280 Hệ điều hành 3(2+1) 10. NEES330380 Mạng máy tính căn bản 3(2+1) 11. DBSY230184 Cơ sở dữ liệu 3(2+1) 12. DBMS330284 Hệ quản trị cơ sở dữ liệu 3(2+1)
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH143001 Đại số và cấu trúc đại số 4 8. MATH132901 Xác suất thống kê ứng dụng 3 9. PHYS130902 Vật lý 1 3 10. PHYS 111202 Thí nghiệm vật lý 1 1 11. EEEN234162 Điện tử căn bản 3 12. PRBE214262 Thực tập điện tử căn bản 1 13. INDE131777 Nhập Môn Ngành KTDL 3(2+1) 14. INPR130285 Nhập Môn Lập Trình 3(2+1) 15. PRTE230385 Kỹ thuật lập trình 3(2+1) 16. PHED110513 Giáo dục thể chất 1 1 17. PHED110613 Giáo dục thể chất 2 1 18. PHED130715 Giáo dục thể chất 3 3 19. - Giáo dục quốc phòng 165 tiết
+Tổng 42
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. DIGR230485 Toán rời rạc và lý thuyết đồ thị 3(2+1) 2. DASA230179 Cấu trúc dữ liệu và giải thuật 3(2+1) 3. OOPR230279 Lập trình hướng đối tượng 3(2+1) 4. WIPR230579 Lập trình trên Windows 3(2+1) 5. INSE330380 An toàn thông tin 3(2+1) 6. WEPR330479 Lập trình Web 3(2+1) 7. SOEN330679 Công nghệ phần mềm 3(2+1) 8. CAAL230180 Kiến trúc máy tính và hợp ngữ 3(2+1) 9. OPSY330280 Hệ điều hành 3(2+1) 10. NEES330380 Mạng máy tính căn bản 3(2+1) 11. DBSY230184 Cơ sở dữ liệu 3(2+1) 12. DBMS330284 Hệ quản trị cơ sở dữ liệu 3(2+1) 13. ARIN330585 Trí tuệ nhân tạo 3(2+1)
+Tổng 39 7.2.2.a Kiến thức chuyên ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+Nhập môn lập trình Python cho 3(2+1) 1. IPPA233277 phân tích 2. CLCO432779 Điện toán đám mây 3(2+1) 3. RPAN233577 Lập trình R cho phân tích 3(2+1) 4. IDVI333677 Tương tác dữ liệu trực quan 3(2+1) 5. DAMI330484 Khai phá dữ liệu 3(2+1)
+BDES333877 Nhập môn dữ liệu lớn (Big Data 3(2+1) 6.
+Essentials)
+BDAN333977 Phân tích dữ liệu lớn (Big Data 3(2+1) 7.
+Analysis)
+BDML434077 Big Data Applications: Machine 3(2+1) 8.
+Learning at Scale 9. DAWH430784 Kho dữ liệu 3(2+1)
+BDAS436177 Big Data Applications: Real-Time 3(2+1) 10.
+Streaming 11. DSYS335977 Hệ phân bố 3(2+1) 12. POIS434277 Tiểu luận chuyên ngành KTDL 3
+Tổng 36 7.2.3. Kiến thức thực tập
+STT Mã môn học Tên môn học Số TC Ghi chú 1. INTE202879 Liên hệ doanh nghiệp 2
+Lãnh đạo và kinh doanh trong kỹ 0 2. LEBU202979 thuật 7.2.4 Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. Khóa luận tốt nghiệp 07
+Đạt kỳ thi kiểm tra 2. Hoặc học các môn tốt nghiệp sau năng lực “Qualified exam” 3. SPSU434477 Chuyên đề TN KTDL 1 3(2+1) 4. SPSU424577 Chuyên đề TN KTDL 2 2(1+1) 13. ARIN330585 Trí tuệ nhân tạo 3(2+1)
+Tổng 39
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. IPPA233277 Nhập môn lập trình Python cho phân tích 3(2+1) 2. CLCO432779 Điện toán đám mây 3(2+1) 3. RPAN233577 Lập trình R cho phân tích 3(2+1) 4. IDVI333677 Tương tác dữ liệu trực quan 3(2+1) 5. DAMI330484 Khai phá dữ liệu 3(2+1) 6. BDES333877 Nhập môn dữ liệu lớn (Big Data
+Essentials) 3(2+1) 7. BDAN333977 Phân tích dữ liệu lớn (Big Data
+Analysis) 3(2+1) 8. BDML434077 Big Data Applications: Machine
+Learning at Scale 3(2+1) 9. DAWH430784 Kho dữ liệu 3(2+1) 10. BDAS436177 Big Data Applications: Real-Time
+Streaming 3(2+1) 11. DSYS335977 Hệ phân bố 3(2+1) 12. POIS434277 Tiểu luận chuyên ngành KTDL 3
+Tổng 36
+STT Mã môn học Tên môn học Số TC Ghi chú 1. INTE202879 Liên hệ doanh nghiệp 2 2. LEBU202979 Lãnh đạo và kinh doanh trong kỹ thuật 0
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực “Qualified exam” 2. Hoặc học các môn tốt nghiệp sau 3. SPSU434477 Chuyên đề TN KTDL 1 3(2+1) 4. SPSU424577 Chuyên đề TN KTDL 2 2(1+1) 5. SPSU424677 Chuyên đề TN KTDL 3 2(1+1)
+Tổng
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương (chọn 3 trong các học phần sau)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường 2 kỹ thuật 12. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức chuyên ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. 2. 3. 4. 5. 6. 7. 8. 9.
+C- Kiến thức tự chọn liên ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. DIGI330163 Kỹ thuật số 3(2+1) 2. DSIC330563 Thiết Kế Mạch Số Với HDL 3(2+1) 3. BIIM330865 Xử lý ảnh y sinh 3(2+1) 4. BIME331965 Thiết kế mô hình trên máy tính 3(2+1)
+Thu thập và điều khiển thiết bị 5. APME332565 3(2+1) với máy tính 5. SPSU424677 Chuyên đề TN KTDL 3 2(1+1)
+Tổng
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. 2. 3. 4. 5. 6. 7. 8. 9.
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. DIGI330163 Kỹ thuật số 3(2+1) 2. DSIC330563 Thiết Kế Mạch Số Với HDL 3(2+1) 3. BIIM330865 Xử lý ảnh y sinh 3(2+1) 4. BIME331965 Thiết kế mô hình trên máy tính 3(2+1) 5. APME332565 Thu thập và điều khiển thiết bị với máy tính 3(2+1) 6. Xử lý tín hiệu số 3(2+1) 7. 3(2+1)
+D-Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học chỉ MOOC (đường link đăng ký)
+MALE431984 Coursera, https://www.coursera.org/learn/machine- 1. Học máy 3 learning tương đương 50% với môn học máy
+BDES233877 Nhập môn dữ liệu Coursera, lớn https://www.coursera.org/learn/big-data- 2. 3 essentials 3. 8. Kế hoạch giảng dạy (dự kiến, và chỉ lập cho các học kỳ chính từ 1-8 cho các ngành kỹ thuật/công nghệ và từ 1-7 cho ngành Kinh tế, Ngoại ngữ)
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 4. PHED110613 Giáo dục thể chất 2 1 5. PHED130715 Giáo dục thể chất 3 3
+Các môn học sinh viên có thể tích lũy để hoàn thành trong HK1 – HK8
+STT Mã môn học Tên môn học Số TC Ghi chú 1. INTE202879 Liên hệ doanh nghiệp 2
+Lãnh đạo và kinh doanh trong kỹ 0 2. LEBU202979 thuật
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. GELA220405 Pháp Luật Đại Cương 2 6. Xử lý tín hiệu số 3(2+1) 7. 3(2+1)
+STT Mã môn học Tên môn học Số tín chỉ Môn học được xét tương đương
+MOOC (đường link đăng ký) 1. MALE431984 Học máy 3 Coursera, https://www.coursera.org/learn/machine- learning tương đương 50% với môn học máy 2. BDES233877 Nhập môn dữ liệu lớn 3 Coursera, https://www.coursera.org/learn/big-data- essentials 3.
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 4. PHED110613 Giáo dục thể chất 2 1 5. PHED130715 Giáo dục thể chất 3 3
+STT Mã môn học Tên môn học Số TC Ghi chú 1. INTE202879 Liên hệ doanh nghiệp 2 2. LEBU202979 Lãnh đạo và kinh doanh trong kỹ thuật 0
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. GELA220405 Pháp Luật Đại Cương 2 2. INDE131777 Nhập môn ngành KTDL 3(2+1) 3. INPR130285 Nhập môn lập trình 3(2+1) 4. MATH132401 Toán 1 3 5. MATH143001 Đại số và cấu trúc đại số 4 6. PHED110513 Giáo dục thể chất 1 1 7. PHYS130902 Vật lý 1 3
+Tổng 19
+Học kỳ 2:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. DIGR230485 Toán rời rạc và lý thuyết đồ thị 3(2+1) 2. EEEN234162 Điện tử căn bản 3 3. MATH132501 Toán 2 3 4. MATH132901 Xác suất thống kê ứng dụng 3 5. PHYS 111202 Thí nghiệm vật lý 1 1 6. PRTE230385 Kỹ thuật lập trình 3(2+1)
+Tổng 16
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. PRBE214262 Thực tập điện tử căn bản 1 2. DASA230179 Cấu trúc dữ liệu và giải thuật 3(2+1) 3. OOPR230279 Lập trình hướng đối tượng 3(2+1) 4. CAAL230180 Kiến trúc máy tính và hợp ngữ 3(2+1) 5. Môn ĐC tự chọn 1 2 6. Môn ĐC tự chọn 2 2 7. Môn ĐC tự chọn 3 2 8. Sinh viên chọn 3 môn đại cương tự chọn 1, 2,3 trong số các môn sau 9. GEFC220105 Kinh tế học đại cương 2 10. IQMA220205 Nhập môn quản trị chất lượng 2 11. INMA220305 Nhập môn Quản trị học 2 12. INLO220405 Nhập môn Logic học 2 13. IVNC320905 Cơ sở văn hoá Việt Nam 2 14. INSO321005 Nhập môn Xã hội học 2 15. ENPS220591 Tâm lý học kỹ sư 2 16. SYTH220491 Tư duy hệ thống 2 17. LESK120190 Kỹ năng học tập đại học 2 18. PLSK120290 Kỹ năng xây dựng kế hoạch 2 19. WOPS120390 Kỹ năng làm việc trong môi trường kỹ 2 thuật 20. REME320690 Phương pháp nghiên cứu khoa học 2
+Tổng 16
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 2. INDE131777 Nhập môn ngành KTDL 3(2+1) 3. INPR130285 Nhập môn lập trình 3(2+1) 4. MATH132401 Toán 1 3 5. MATH143001 Đại số và cấu trúc đại số 4 6. PHED110513 Giáo dục thể chất 1 1 7. PHYS130902 Vật lý 1 3
+Tổng 19
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. DIGR230485 Toán rời rạc và lý thuyết đồ thị 3(2+1) 2. EEEN234162 Điện tử căn bản 3 3. MATH132501 Toán 2 3 4. MATH132901 Xác suất thống kê ứng dụng 3 5. PHYS 111202 Thí nghiệm vật lý 1 1 6. PRTE230385 Kỹ thuật lập trình 3(2+1)
+Tổng 16
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. PRBE214262 Thực tập điện tử căn bản 1 2. DASA230179 Cấu trúc dữ liệu và giải thuật 3(2+1) 3. OOPR230279 Lập trình hướng đối tượng 3(2+1) 4. CAAL230180 Kiến trúc máy tính và hợp ngữ 3(2+1) 5. Môn ĐC tự chọn 1 2 6. Môn ĐC tự chọn 2 2 7. Môn ĐC tự chọn 3 2 8. Sinh viên chọn 3 môn đại cương tự chọn 1, 2,3 trong số các môn sau 9. GEFC220105 Kinh tế học đại cương 2 10. IQMA220205 Nhập môn quản trị chất lượng 2 11. INMA220305 Nhập môn Quản trị học 2 12. INLO220405 Nhập môn Logic học 2 13. IVNC320905 Cơ sở văn hoá Việt Nam 2 14. INSO321005 Nhập môn Xã hội học 2 15. ENPS220591 Tâm lý học kỹ sư 2 16. SYTH220491 Tư duy hệ thống 2 17. LESK120190 Kỹ năng học tập đại học 2 18. PLSK120290 Kỹ năng xây dựng kế hoạch 2 19. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 20. REME320690 Phương pháp nghiên cứu khoa học 2
+Tổng 16
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ARIN330585 Trí tuệ nhân tạo 3(2+1) 2. DBSY230184 Cơ sở dữ liệu 3(2+1) 3. IPPA233277 Nhập môn lập trình Python cho phân tích 3(2+1) 4. NEES330380 Mạng máy tính căn bản 3(2+1) 5. OPSY330280 Hệ điều hành 3(2+1) 6. WIPR230579 Lập trình trên Windows 3(2+1)
+Tổng 18
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. INSE330380 An toàn thông tin 3(2+1) 2. WEPR330479 Lập trình Web 3(2+1) 3. SOEN330679 Công nghệ phần mềm 3(2+1) 4. DBMS330284 Hệ quản trị cơ sở dữ liệu 3(2+1) 5. RPAN233577 Lập trình R cho phân tích 3(2+1) 6. BDES333877 Nhập môn dữ liệu lớn (Big Data 3(2+1)
+Essentials) 7.
+Tổng 18
+Học kỳ 6:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. CLCO432779 Điện toán đám mây 3(2+1) 2. IDVI333677 Tương tác dữ liệu trực quan 3(2+1) 3. DAWH430784 Kho dữ liệu 3(2+1) 4. BDAN333977 Phân tích dữ liệu lớn (Big Data 3(2+1)
+Analysis) 5. DAMI330484 Khai phá dữ liệu 3(2+1) 6. DSYS335977 Hệ phân bố 3(2+1) 7.
+Tổng 18
+Học kỳ 7:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. BDML434077 Big Data Applications: Machine 3(2+1)
+Learning at Scale 2. BDAS436177 Big Data Applications: Real-Time 3(2+1)
+Streaming 3. POIS434277 Tiểu luận chuyên ngành KTDL 3 4.
+Tổng 9
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. ARIN330585 Trí tuệ nhân tạo 3(2+1) 2. DBSY230184 Cơ sở dữ liệu 3(2+1) 3. IPPA233277 Nhập môn lập trình Python cho phân tích 3(2+1) 4. NEES330380 Mạng máy tính căn bản 3(2+1) 5. OPSY330280 Hệ điều hành 3(2+1) 6. WIPR230579 Lập trình trên Windows 3(2+1)
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. INSE330380 An toàn thông tin 3(2+1) 2. WEPR330479 Lập trình Web 3(2+1) 3. SOEN330679 Công nghệ phần mềm 3(2+1) 4. DBMS330284 Hệ quản trị cơ sở dữ liệu 3(2+1) 5. RPAN233577 Lập trình R cho phân tích 3(2+1) 6. BDES333877 Nhập môn dữ liệu lớn (Big Data
+Essentials) 3(2+1) 7.
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. CLCO432779 Điện toán đám mây 3(2+1) 2. IDVI333677 Tương tác dữ liệu trực quan 3(2+1) 3. DAWH430784 Kho dữ liệu 3(2+1) 4. BDAN333977 Phân tích dữ liệu lớn (Big Data
+Analysis) 3(2+1) 5. DAMI330484 Khai phá dữ liệu 3(2+1) 6. DSYS335977 Hệ phân bố 3(2+1) 7.
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. BDML434077 Big Data Applications: Machine
+Learning at Scale 3(2+1) 2. BDAS436177 Big Data Applications: Real-Time
+Streaming 3(2+1) 3. POIS434277 Tiểu luận chuyên ngành KTDL 3 4.
+Tổng 9
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. Khóa luận tốt nghiệp Đạt kỳ thi kiểm tra năng lực hoặc các môn tốt nghiệp thay thế “Qualified exam” 2. SPSU434477 Chuyên đề TN KTDL 1 3(2+1) 3. SPSU424577 Chuyên đề TN KTDL 2 2(1+1) 4. SPSU424677 Chuyên đề TN KTDL 3 2(1+1)
+Tổng 7 9. Mô tả vắn tắt nội dung và khối lượng các học phần
+A – Học phần đại cương 7.1.1 Những nguyên lý cơ bản của Chủ nghĩa Mac - Lênin
+Cấu trúc học phần:5(5:0:10)
+Mô tả học phần:
+Ngoài chương mở đầu nhằm giới thiệu khái lược về CN Mác – Lênin và một số vấn đề chung của môn học. Căn cứ vào mục tiêu môn học, nội dung chương trình môn học được cấu trúc thành 3 phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương pháp luận triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN
+Mác – Lênin về phương thức sản xuất tư bản chủ nghĩa.
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý luận của CN Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội hiện thực và triển vọng. 7.1.2 Tư tưởng Hồ Chí Minh
+Cấu trúc học phần: 2(2:0:4)
+Mô tả học phần:
+Ngoài chương mở đầu, nội dung môn học gồm 7 chương:
+Chương I, trình bày về cơ sở, quá trình hình thành và phát triển Tư tưởng Hồ Chí Minh;
+Từ Chương II đến Chương VII trình bày những nội dung cơ bản của Tư tưởng Hồ Chí Minh theo mục tiêu của môn học. 7.1.3 Đường lối cách mạng của Đảng cộng sản Việt Nam
+Cấu trúc học phần: 3(3:0:6)
+Mô tả học phần:
+Nội dung chủ yếu của học phần là cung cấp, trang bị cho sinh viên những hiểu biết cơ bản có hệ thống về đường lối của Đảng, đặc biệt là đường lối trong thời kỳ đổi mới, trên một số lĩnh vực cơ bản của đời sống xã hội. 7.1.4 Pháp luật đại cương
+Cấu trúc học phần: 3(3:0:6) 1. Khóa luận tốt nghiệp 7 Đạt kỳ thi kiểm tra năng lực “Qualified exam” hoặc các môn tốt nghiệp thay thế 2. SPSU434477 Chuyên đề TN KTDL 1 3(2+1) 3. SPSU424577 Chuyên đề TN KTDL 2 2(1+1) 4. SPSU424677 Chuyên đề TN KTDL 3 2(1+1)
+Tổng 7
+Mô tả học phần:
+Học phần trang bị cho sinh viên tất cả các ngành những kiến thức cơ bản về những kiến thức lý luận cơ bản nhất về Nhà nước và pháp luật nói chung, nhà nước và pháp luật xã hội chủ nghĩa nói riêng. Từ đó giúp cho sinh viên có nhận thức, quan điểm đúng đắn về đường lối, chính sách của Đảng và pháp luật của Nhà nước ta. Đồng thời trang bị cho sinh viên những kiến thức cơ bản về hệ thống pháp luật Việt Nam và một số ngành luật cụ thể, giúp cho sinh viên hiểu biết hơn về pháp luật để vận dụng vào thực tiễn cuộc sống 9.1.5 Nhập môn ngành kỹ thuật dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần nhập môn ngành Kỹ thuật dữ liệu được thiết kế để giúp sinh viên năm thứ nhất nhanh chóng làm quen và hòa nhập với môi trường mới tại Trường Đại học Sư phạm Kỹ thuật
+TPHCM Học phần cũng giới thiệu tổng quát chương trình học và định hướng về nghề nghiệp, giúp sinh viên hiểu rõ nhiệm vụ, vai trò, trách nhiệm của người Kỹ sư ngành Kỹ thuật dữ liệu trong tương lai. Học phần này cũng trang bị cho sinh viên về các kỹ năng mềm cũng như nền tảng đạo đức nghề nghiệp 9.1.6 Toán 1
+Cấu trúc học phần: 3(3:0:6)
+Mô tả học phần:
+Học phần Toán 1 cung cấp các kiến thức cơ bản về giới hạn, tính liên tục và phép tính vi tích phân của hàm một biến. 9.1.7 Toán 2
+Cấu trúc học phần: 3(3:0:6)
+Mô tả học phần:
+Học phần Toán 2 cung cấp các kiến thức cơ bản về phép tính tích phân của hàm một biến, chuỗi số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong không gian. 9.1.8 Đại số và cấu trúc đại số
+Cấu trúc học phần: 4(4:0:8)
+Mô tả học phần:
+Học phần này bao gồm các kiến thức: Tập hợp, ánh xạ, quan hệ tương đương, quy nạp toán học; ma trận, định thức, hệ phương trình tuyến tính; không gian vectơ, không gian Euclide, ánh xạ tuyến tính, chéo hóa ma trận, dạng toàn phương; lý thuyết về một số cấu trúc đại số như nhóm, vành, trường; và một số ứng dụng như các mô hình tuyến tính, đồ họa máy tính, mã hóa, mật mã,…. 9.1.9 Xác suất thống kê và ứng dụng
+Cấu trúc học phần: 3(3:0:6)
+Mô tả học phần:
+Học phần này bao gồm thống kê mô tả, xác suất sơ cấp, biến ngẫu nhiên và luật phân phối xác suất, các số đặc trưng của biến ngẫu nhiên, ước lượng tham số, kiểm định giả thuyết, tương quan và hồi qui tuyến tính. 9.1.10 Vật lý 2
+Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý gồm các phần điện từ học và quang học làm cơ sở cho việc tiếp cận với các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị những kiến thức về các hiện tượng trong thế giới tự nhiên và ứng dụng những kiến thức đó trong nghiên cứu khoa học, trong phát triển kỹ thuật và công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 23 đến 38 trong sách Physics for Scientists and
+Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W. Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm khác.
+Đồng thời, sinh viên sẽ biết được giới hạn của mô hình và có thể sử dụng chúng trong việc phán đoán.
+B. Học phần cơ sở ngành 9.2.1 Nhập môn lập trình
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về cách biểu diễn dữ liệu trên máy tính, hệ thống số với các phép toán nhị phân, bát phân, thập lục phân, các bước giải một bài toán lập trình. Ngoài ra môn học này còn định hướng phương pháp tư duy, phong cách lập trình, cách giải quyết bài toán tin học bằng lưu đồ khối, lập trình các bài toán tin học đơn giản bằng ngôn ngữ lập trình C/C++. 9.2.2 Kỹ thuật lập trình
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học trang bị cho sinh viên những kiến thức về phân tích, đánh giá độ phức tạp của giải thuật, đồng thời cũng cung cấp các giải thuật và kỹ thuật lập trình để giải quyết bài toán thực tế cũng như nâng cao hiệu quả của các chương trình máy tính. 9.2.3 Toán rời rạc và lý thuyết đồ thị
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Trang bị cho người học những kiến thức cơ bản về logic mệnh đề, logic vị từ, suy diễn logic, tập hợp, ánh xạ, quan hệ tương đương, quan hệ thứ tự, dàn và đại số Bool.
+Cung cấp cho người học kiến thức và kỹ năng trong việc phân tích, nhìn nhận vấn đề, trong việc xác định công thức đa thức tối tiểu bằng phương pháp biểu đồ Karnaugh.
+Trang bị sự hiểu biết về các lĩnh vực ứng dụng của lý thuyết đồ thị, cung cấp kiến thức nền tảng về lý thuyết đồ thị ứng dụng trong tin học. Cung cấp các thuật toán, kỹ thuật và kỹ năng lập trình các giải thuật trong lý thuyết đồ thị. 9.2.4 Lập trình hướng đối tượng
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Kiến thức và kỹ năng về lập trình hướng đối tượng
+Các tính chất của đối tượng, thừa kế và phân lớp
+Cách thức trao đổi và truyền thông giữa các đối tượng 9.2.5 Lập trình trên Windows
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Cung cấp kiến thức và phương pháp lập trình trên môi trường windows.
+Cung cấp kiến thức nền tảng công nghệ ADO.NET để làm việc với các loại cơ sở dữ liệu.
+Cung cấp các kiến thức cơ bản để có thể tự nghiên cứu và phát triển các loại ứng dụng khác sử dụng công nghệ .NET.
+Cung cấp cho sinh viên khả năng tự xây dựng một ứng dụng Winform hoàn chỉnh ở mức độ vừa phải sử dụng công nghệ .NET 9.2.6 An toàn thông tin
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này cung cấp cho sinh viên những kiến thức về an toàn thông tin, bao gồm : - Cơ bản : tư duy về bảo mật, các khái niệm cơ bản (chính sách CIA,…) - An toàn phần mềm : lỗ hổng bảo mật và phần mềm độc hại, phân tích chương trình - Mật mã học ứng dụng : mã hóa, xác thực, hàm băm, mã hóa đối xứng và không đối xứng - Mạng : mạng có dây và không dây, các giao thức, tấn công và các biện pháp đối phó. 9.2.7 Lập trình web
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Xây dựng các ứng dụng web-based dựa trên 2 công nghệ Servlet và JSP trong J2EE framework
+Bộ thẻ JSTL, giúp cải tiến code cho các trang JSP
+Mô hình MVC, kết hợp 2 công nghệ Servlet và JSP 9.2.8 Công nghệ phần mềm
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần cung cấp cho sinh viên kiến thức và kỹ năng về qui trình xây dựng phần mềm. 9.2.9 Kiến trúc máy tính và hợp ngữ
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần cung cấp cho người học những kiến thức liên quan tới tổ chức logic của máy tính cũng như các thành phần phần cứng cơ bản tạo nên, bao gồm :  Cung cấp kiến thức về các hệ số đếm dùng trong máy tính  Cung cấp kiến thức về các cách biểu diễn dữ liệu trong máy tính  Cungcấp kiến thức về một số kiến trúc mẫu của máy tính cũng như các thành phần chính và nhiệm vụ của chúng.  Cung cấp kiến thức về kiến trúc phần mềm của hệ thống máy tính 8086/8088  Cung cấp các kiến thức về việc sử dụng tập lệnh 80x86  Cung cấp kiến thức về lập trình hợp ngữ 9.2.10 Hệ điều hành
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Cung cấp kiến thức về các phương pháp giao tiếp và điều khiển thiết bị cơ bản của hệ thống máy tính
+Cung cấp kiến thức về cấu trúc cơ bản của một Hệ điều hành
+Cung cấp kiến thức về các nguyên lý cơ bản về việc tạo ra các thành phần và các dịch vụ của Hệ điều hành
+Giới thiệu một vài thành phần của Hệ điều hành cụ thể là cơ sở để nghiên cứu toàn bộ hệ điều hành 9.2.11 Mạng máy tính căn bản
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Cung các các khái niệm cơ bản trong mạng máy tính, đặc điểm cơ bản của các loại mạng
+Cung cấp kiến thức về nguyên lý hoạtđộng của các thiết bị mạng, các giao thức phổ biến hoạtđộng trong hệ thống mạng.
+Cung cấp các kiến thức về thiết kế, cấu hình và vận hành hệ thống mạngđơn giản trên
+Windows
+Cung cấp các kiến thức về thiết kế, cấu hình và vận hành hệ thống mạngđơn giản trên
+Linux 9.2.12 Cơ sở dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản các khái niệm cơ bản về cơ sở dữ liệu. Trang bị cho người học kiến thức chuyên sâu về mô hình dữ liệu quan hệ: quan hệ, phụ thuộc hàm, các ràng buộc trên quan hệ, siêu khóa, khóa chính, khóa dự tuyển, khóa ngoại, bao đóng của tập phụ thuộc hàm, bao đóng của tập thuộc tính, phủ tối tiểu của tập phụ thuộc hàm, thuật toán tìm bao đóng của tập thuộc tính, thuật toán tìm phủ tối tiểu, thuật toán xác định khóa, các dạng chuẩn và tính chất tương ứng. 9.2.13 Hệ quản trị cơ sở dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này trang bị cho người học những kiến thức khái quát các DBMS hiện đang được sử dụng trên thị trường. cách sử dụng ngôn ngữ lập trình SQL, các định nghĩa và ứng dụng của thủ tục nội tại, bẫy lỗi, cách dùng con trỏ trong xử lý dữ liệu. Trình bày được các nguyên lý lưu trữ và quản lý dữ liệu: Đĩa và files, Cây cấu trúc và chỉ mục, Chỉ mục trên cơ sở bảng băm. Trình bày được các quản lý truy cập trong DBMS. các nguyên lý quản lý giao tác, quản lý truy xuất cạnh tranh, phục hồi sau sự cố 9.2.14 Trí tuệ nhân tạo
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học này giới thiệu tới người học các vấn đề, ý tưởng, và giải thuật nền tảng trong lĩnh vực trí tuệ nhân tạo (artificial intelligence – AI), bao gồm các giải thuật giải quyết vấn đề bằng tìm kiếm (solving problems by searching), quá trình quyết định Markov (Markov decision processes), học củng cố (reinforcement learning), mô hình Markov ẩn (hidden
+Markov models), mạng Bayes (Bayesian networks), mạng quyết định (decision networks), phân cụm (clustering), và naïve Bayes. Việc nắm bắt được các ý tưởng và giải thuật này không chỉ giúp người học có khả năng giải quyết các vấn đề thực tế bằng AI, mà còn giúp người học có thể tiếp thu những thành tựu tiên tiến trong lĩnh vực dễ dàng hơn.
+C. Học Phần Chuyên Ngành 9.2.15 Nhập môn lập trình PYTHON cho phân tích dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Python là một trong những ngôn ngữ lập trình đa dụng phổ biến hiện nay. Ngôn ngữ này đang ngày càng trở nên phổ biến hơn trong lĩnh vực kỹ thuật dữ liệu. Học phần này trang bị các kiến thức và kỹ năng cơ bản về lập trình sử dụng ngôn ngữ Python. Các kiến thức bao gồm cú pháp ngôn ngữ, các kiểu dữ liệu và cấu trúc dữ liệu thường sử dụng, các hàm tiện ích thường dùng, khái niệm lập trình hướng đối tượng trên Python. Ngoài ra, học phần còn cung cấp các kiến thức chuyên sâu về việc sử dụng các tiện ích mở rộng của Python trong xử lý dữ liệu, bao gồm phần tích khai phá dữ liệu, tiền xử lý dữ liệu, và xây dựng mô hình dự báo đơn giản. 9.2.16 Điện toán đám mây
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này nhằm cung cấp cho sinh viên các kiến thức thực tiễn và kỹ năng thực hành về các chủ đề căn bản liên quan đến điện toán đám mây, đồng thời giúp SV hiểu và vận dụng được các tính năng của điện toán đám mây trên 4 mô hình dịch vụ đám mây khác nhau. Nội dung chính của học phần sẽ xoay quanh 4 mô hình này: Infrastracture as a
+Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), và Business
+Process as a Service (BPaaS). Chủ đề IaaS sẽ tìm hiểu sự tiến triển của các cách tiếp cận chuyển dịch nền tảng (infrastructure migration) từ các mô hình máy ảo
+VMWare/Xen/KVM tới máy ảo thích nghi (adaptive virtualization) và điện toán đám mây, cung cấp tài nguyên theo yêu cầu. Một số giải pháp điển hình cho việc cung cấp dịch vụ hạ tầng cũng sẽ được giới thiệu trong phần này. Chủ đề PaaS sẽ giới thiệu một số Cloud platforms như AWS, Google App Engine, Microsoft Azure, Eucalyptus, OpenStack. Trong phần này cũng giới thiệu SV một số dịch vụ đám mây như: dịch vụ lưu trữ (Google
+Storage), Amazon S3, Amazon Dynamo, dịch vụ quản lý tài nguyên, dịch vụ giám sát (monitoring). Phần SaaS và PaaS sẽ tập trung giới thiệu cho SV cách sử dụng một số ựng dụng trên Cloud.
+Ngoài ra, học phần này cũng sẽ giới thiệu một số mô hình bảo mật cloud cũng như các vấn đề liên quan đến việc hỗ trợ tốc độ xử lý trong điện toán đám mây và khả năng xử lý Big
+Data trên điện toán đám mây.
+Sinh viên tham gia học phần này sẽ phải thực hiện các dự án luyện tập nhằm giúp họ học được:  Cách cấu hình và lập trình các dịch vụ IaaS.  Cách phát triển ứng dụng trên Cloud chạy trên nền các Cloud platforms khác nhau.  Cách tích hợp các dịch vụ ở mức ứng dụng được xây dựng trên các Cloud platform khác nhau (heterogenenous cloud platforms)  Cách vận dụng các giải pháp SaaS và BPaaS để xây dựng các giải pháp end-to-end trên Cloud. 9.2.17 Lập trình R cho phân tích dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này trang bị cho người học các kiến thức, kĩ năng, và phương pháp dùng ngôn ngữ lập trình R trong phân tích dữ liệu. Học phần cung cấp kiến thức về các khái niệm cơ bản về các kiểu dữ liệu, các phép toán, cú pháp, và các hàm tiện ích để lập trình trên môi trường R. Về hoạt động phân tích dữ liệu, học phần học phần này trình bày một số ứng dụng của ngôn ngữ R trong lĩnh vực phân tích dữ liệu bao gồm: các hàm phân tích, ứng dụng các mô hình xác suất, thống kê trong R, làm việc với dữ liệu theo chuỗi thời gian, vẽ và sử dụng các đồ thị thường dùng trong thống kê, và kiểm định giả thiết thống kê cho tập dữ liệu. 9.2.18 Tương tác dữ liệu trực quan
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Việc nhìn thấy hình dạng của dữ liệu dưới các hình thức trực quan thay vì những số liệu là một trong những công cụ rất hữu ích trong việc phân tích và xử lý dữ liệu. Bên cạnh đó, việc trình bày kết quả xử lý phân tích dữ liệu dưới dạng các hình ảnh trực quan giúp người xem có thể rút trích những thông tin quan trọng một cách nhanh chóng và hiệu quả. Học phần này cung cấp các khái niệm cơ bản, tầm quan trọng của trực quan hóa dữ liệu, và tương tác với dữ liệu trực quan. Đồng thời, học phần cung cấp kiến thức một số phương pháp cơ bản giúp cho việc trực quan hóa và tương tác với dữ liệu. 9.2.19 Khai phá dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về các khái niệm, thuật toán và ứng dụng của khai phá dữ liệu. Ngoài ra, người học còn có cơ hội trải nghiệm các thư viên, công cụ mã nguồn mở để cài đặt và thử nghiệm thuật toán khai phá dữ liệu. Các chủ đề được đề cập đến trong học phần bao gồm:  Các khái niệm cơ bản và quá trình về khai phá dữ liệu  Các vấn đề liên quan đến quá trình tiền xử lý dữ liệu  Các thuật toán khai phá luật kết hợp: Apriori, FP-Growth, ...  Các thuật toán phân loại: k lân cận gần nhất (k-NN), cây quyết định, Naive Bayes, ...  Các thuật toán gom cụm: gom cụm phân hoạch k-means, gom cụm phân cấp gộp
+AGNES  Các thuật toán phân tích ngoại biên: dựa trên thống kê, dựa trên xấp xỉ, dựa trên gom cụm, dựa trên phân loại  Các độ đo và phương pháp đánh giá các thuật toán khai phá dữ liệu 9.2.20 Big data Essentials
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học này thuộc nhóm môn học cơ sở ngành, nhằm cung cấp cho người học các kiến thức tổng quan về cơ sở dữ liệu lớn, những ứng dụng của cở sở dữ liệu lớn. Ngoài ra, người học còn được cung cấp những kiến thức về các kỹ thuật cơ bản trong lưu trữ và xử lý, phân tích cơ sở dữ liệu lớn. Về mặt kỹ năng, người học được trang bị khả năng sử dụng một số công cụ phân tích cơ sở dữ liệu lớn thông dụng. Bên cạnh đó, người học cũng được trang bị một số kỹ năng mềm bao gồm: kỹ năng tìm kiếm, chọn lọc và tổng hợp tài liệu, kỹ năng viết và trình bày báo cáo, kỹ năng làm việc nhóm. 9.2.21 Big data Analysis
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học cung cấp cho sinh viên kiến thức về kiến trúc của các hệ thống và các công cụ phục vụ cho hoạt động phân tích dữ liệu lớn. Với mỗi công cụ, môn học giới thiệu các kiến thức cơ bản và nâng cao cũng như phương thức tối ưu hóa hiệu suất hệ thống sử dụng công cụ này. Cùng với các bài tập lập trình, môn học hướng đến mục tiêu giúp người học có thể hình thành ý tưởng, thiết kế và hiện thực hóa hoạt động phân tích dữ liệu trong các hệ thống dữ liệu lớn. 9.2.22 Big Data Applications - Machine Learning At Scale
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần cung cấp kiến thức nền tảng giúp người học hiểu được các ứng dụng của học máy trên dữ liệu lớn, cụ thể:  Tổng quan về học máy và các ứng dụng của học máy  Tổng quan về học máy với quy mô lớn dùng Spark MLLib  Xây dựng, tinh chỉnh và áp dụng mô hình hồi quy  Xây dựng cây quyết định và làm mạnh nó dùng kỹ thuật ensemble learning  Hiểu và áp dụng thuật toán SVM  Hiểu và áp dụng thuật toán PCA kết hợp k-means  Hiểu và xây dựng hệ thống gợi ý  Hiểu và áp dụng các phương pháp xử lý văn bản và mô hình chủ đề LDA,
+Word2Vec 9.2.23 Kho dữ liệu
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học cung cấp cho sinh viên những kiến thức cơ bản về kho dữ liệu. Trong khóa học này, người học sẽ học các khái niệm cơ bản về kho dữ liệu, kiến trúc kho dữ liệu và các mô hình đa chiều. Họ sẽ được thực hành về thiết kế kho dữ liệu và sử dụng các công cụ phổ biến để quản lý các bảng tổng hợp (pivot table) và tạo các luồng công việc tích hợp dữ liệu (data integration workflows). Bên cạnh đó, những người học cũng sẽ học cách sử dụng các phần mở rộng của SQL được hỗ trợ bởi các hệ quản trị cơ sở dữ liệu quan hệ để trả lời các câu hỏi phân tích trong kinh doanh. 9.2.24 Big Data Applications: Real-time Streaming
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Học phần này cung cấp cho sinh viên các kiến thức không những về các ứng dụng trong lĩnh vực Big Data đặc biệt là real-time streaming mà còn am hiểu về Spark và các kỹ thuật liên quan như NoSQL, Kafka và Flume.Ngoài ra, sinh viên được trang bị kỹ năng sử dụng các công cụ để tạo ra các ứng dụng về Real-Time Streaming. Sau khi học xong học phần này, sinh v.iên có khả năng phân tích, thiết kế và xây dựng các ứng dụng Big Data để xử lý các luổng dữ liệu trong thời gian thực. 9.2.25 Hệ phân bố
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Môn học nhằm trang bị cho sinh viên các kiến thức về hệ phân bố : khái niệm về hệ phân bố, giao tiếp mạng, hệ thời gian thực và ảo, dịch vụ tên, hệ thống tập tin phân bố, nhân bản, quản lý giao tác, tính kháng lỗi, bảo mật. Môn học cũng cung cấp cho sinh viên kiến thức về các dịch vụ trong hệ phân bố. Sau khi học xong môn học này sinh viên có thể thiết kế, xây dựng và vận hành một hệ thống phân bố cụ thể. 9.2.26 Thiết kế và phân tích thống kê
+Cấu trúc học phần: 3(2:1:6)
+Mô tả học phần:
+Thiết kế và phân tích thống kê là một phần quan trọng trong xử lý dữ liệu giúp đưa ra những nhận định, đánh giá, và kết luận từ dữ liệu đầu vào. Học phần này trang bị kiến thức cơ bản về phân tích, thiết kế thống kê và xác suất, gồm có các đặc trưng thống kê của một phân phối xác suất, sử dụng phân phối xác suất trong kiểm định các giả thiết thống kê, đồng thời thiết kế thực nghiệm sử dụng phương pháp kiểm định cơ bản. 10.Cơ sở vật chất phục vụ học tập 10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng 1. Các phòng thực hành kỹ năng lập trình và thiết kế phần mềm - Phòng máy 1, 2, 3, A5.302, A5.303 - Phòng chuyên đề: Phòng máy 4 2. Phòng thực hành kỹ năng lắp ráp, cài đặt và quản trị mạng: - Phòng máy 8 3. Phòng thí nghiệm mạng và truyền số liệu - Phòng thí nghiệm mạng và truyền số liệu (phòng máy 9: A5.301) 4. Phòng thiết kế web và lập trình mạng - Phòng máy A5.304 10.2.Thư viện, trang Web
+Thư viện sách điện tử luôn luôn được cập nhật với dung lượng trên 80Gb tại server phòng máy
+A5.304. Danh sách các trang web được liệt kê cụ thể trong đề cương chi tiết các học phần 11. Hướng dẫn thực hiện chương trình - Không 11.1. Hướng dẫn bố trí các môn học: - Không 11.2. Hướng dẫn tốt nghiệp: - Không
+Hiệu trưởng Trưởng khoa

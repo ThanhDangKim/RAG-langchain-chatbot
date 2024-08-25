@@ -1,0 +1,627 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CNKT ĐIỀU KHIỂN và TỰ ĐỘNG HÓA (Ban hành tại Quyết định số……ngày………………………………….. của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CNKT ĐIỆN ĐIỆN TỬ và VIỄN THÔNG
+Ngành đào tạo: CNKT ĐIỀU KHIỂN và TỰ ĐỘNG HÓA
+Tên tiếng Anh: Automation and Control Engineering Technology
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 52510303
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT ĐIỆN ĐIỆN TỬ và VIỄN THÔNG
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT ĐIỀU KHIỂN và TỰ ĐỘNG HÓA
+Mã ngành: 52510303
+Hình thức đào tạo: Chính qui
+Văn bằng tốt nghiệp: Kỹ sư (Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo: 4 năm 2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: … 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp ngành Công nghệ Kỹ thuật Điều khiển và Tự động hoá có kiến thức khoa học cơ bản, kiến thức cơ sở và chuyên ngành về kỹ thuật điều khiển và tự động hoá. Sinh viên có khả năng phân tích, giải quyết vấn đề và đánh giá các giải pháp, có năng lực xây dựng và quản trị các hệ thống điều khiển tự động, có kỹ năng giao tiếp và làm việc nhóm, có thái độ nghề nghiệp phù hợp đáp ứng được các yêu cầu phát triển của ngành và xã hội.
+Sinh viên sau khi tốt nghiệp có thể làm việc tại các công ty, xí nghiệp, các nhà máy liên quan đến các lĩnh vực về thiết kế, có thể vận hành, bảo trì và bảo dưỡng các hệ thống điều khiển điện tự động.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực: 1. Có kiến thức nền tảng về khoa học xã hội và khoa học tự nhiên. 2. Phát triển khả năng rèn luyện để khám phá tri thức, giải quyết vấn đề, tư duy hệ thống và nắm vững các thuộc tính chuyên môn và rèn luyện cá tính riêng khác. 3. Phát triển khả năng tiến bộ về giao tiếp và làm việc trong các nhóm đa kỹ năng. 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành các hệ thống điều khiển và tự động hoá trong các nhà máy, xí nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra hiệu năng lực 1. Có kiến thức và lập luận kỹ thuật
+Có khả năng vận dụng các nguyên tắc cơ bản trong khoa học xã hội và tự 1.1. 4.0 nhiên (Chủ nghĩa xã hội khoa học, toán học, vật lý học,…)
+Có khả năng áp dụng các kiến thức nền tảng kỹ thuật cốt lõi trong lĩnh vực điều 1.2. 4.5 khiển và tự động hoá.
+Vận dụng được kiến thức nền tảng kỹ thuật nâng cao phân tích các hệ thống điều khiển tự động, điều khiển thông minh, điều khiển lập trình, nhận dạng và xử lý 1.3. 5.0 ảnh, mạng truyền thông công nghiệp và hệ SCADA, cũng như kiến thức về các phần mềm lập trình kỹ thuật. 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Có khả năng áp dụng nguyên tắc cơ bản của toán học, khoa học và kỹ thuật để 2.1. xác định, xây dựng và giải quyết vấn đề thực tế trong các lĩnh vực kỹ thuật 4.5 điều khiển và tự động hóa.
+Có khả năng xác lập, thử nghiệm và kiểm tra các giả thuyết liên quan đến lãnh 2.2. vực điều khiển tự động. Đánh giá những cải tiến có thể đạt được trong quá 5.0 trình khám phá tri thức.
+Có khả năng phân tích, suy nghĩ tầm hệ thống, xác định được các hoạt động, 2.3. 5.0 các đặc tính vận hành của một hệ thống điều khiển tự động.
+Có kỹ năng và tác phong làm việc chuyên nghiệp, có tư duy sáng tạo, không 2.4. 5.5 ngừng rèn luyện năng lực chuyên môn và khả năng học tập suốt đời.
+Có kỹ năng, thái độ và đạo đức nghề nghiệp đúng đắn, có khả năng tự học và 2.5. làm việc độc lập, có phương pháp làm việc khoa học, biết phân tích và giải 5.0 quyết các vấn đề phát sinh trong thực tiễn ngành điều khiển và tự động hóa. 3. Kỹ năng giao tiếp và làm việc theo nhóm 3.1. Có kỹ năng làm việc theo nhóm và khả năng lãnh đạo nhóm. 4.5
+Có kỹ năng giao tiếp qua văn bản, giao tiếp điện tử/ đa truyền thông, biết cách 3.2. 4.0 thuyết trình, báo cáo ý tưởng trong hoạt động kỹ thuật và trong giao tiếp.
+Có khả năng giao tiếp bằng tiếng Anh, có thể đọc hiểu và vận dụng các tài liệu 3.3. 4.0 tiếng Anh chuyên ngành điều khiển tự động.
+Hình thành ý tưởng, thiết kế, triển khai và vận hành trong bối cảnh doanh 4. nghiệp và xã hội
+Nhận thức được tầm quan trọng của môi trường xã hội về hoạt động kỹ thuật 4.1. 5.0 trong lĩnh vực điều khiển và tự động hoá. 4.2. Có khả năng thực hiện các hệ điều khiển tự động vừa và nhỏ cho các hệ thống 5.0
+Ký hiệu Chuẩn đầu ra Trình độ năng lực 1. Có kiến thức và lập luận kỹ thuật 1.1. Có khả năng vận dụng các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên (Chủ nghĩa xã hội khoa học, toán học, vật lý học,…) 4.0 1.2. Có khả năng áp dụng các kiến thức nền tảng kỹ thuật cốt lõi trong lĩnh vực điều khiển và tự động hoá. 4.5 1.3. Vận dụng được kiến thức nền tảng kỹ thuật nâng cao phân tích các hệ thống điều khiển tự động, điều khiển thông minh, điều khiển lập trình, nhận dạng và xử lý ảnh, mạng truyền thông công nghiệp và hệ SCADA, cũng như kiến thức về các phần mềm lập trình kỹ thuật. 5.0 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp 2.1. Có khả năng áp dụng nguyên tắc cơ bản của toán học, khoa học và kỹ thuật để xác định, xây dựng và giải quyết vấn đề thực tế trong các lĩnh vực kỹ thuật điều khiển và tự động hóa. 4.5 2.2. Có khả năng xác lập, thử nghiệm và kiểm tra các giả thuyết liên quan đến lãnh vực điều khiển tự động. Đánh giá những cải tiến có thể đạt được trong quá trình khám phá tri thức. 5.0 2.3. Có khả năng phân tích, suy nghĩ tầm hệ thống, xác định được các hoạt động, các đặc tính vận hành của một hệ thống điều khiển tự động. 5.0 2.4. Có kỹ năng và tác phong làm việc chuyên nghiệp, có tư duy sáng tạo, không ngừng rèn luyện năng lực chuyên môn và khả năng học tập suốt đời. 5.5 2.5. Có kỹ năng, thái độ và đạo đức nghề nghiệp đúng đắn, có khả năng tự học và làm việc độc lập, có phương pháp làm việc khoa học, biết phân tích và giải quyết các vấn đề phát sinh trong thực tiễn ngành điều khiển và tự động hóa. 5.0 3. Kỹ năng giao tiếp và làm việc theo nhóm 3.1. Có kỹ năng làm việc theo nhóm và khả năng lãnh đạo nhóm. 4.5 3.2. Có kỹ năng giao tiếp qua văn bản, giao tiếp điện tử/ đa truyền thông, biết cách thuyết trình, báo cáo ý tưởng trong hoạt động kỹ thuật và trong giao tiếp. 4.0 3.3. Có khả năng giao tiếp bằng tiếng Anh, có thể đọc hiểu và vận dụng các tài liệu tiếng Anh chuyên ngành điều khiển tự động. 4.0 4. Hình thành ý tưởng, thiết kế, triển khai và vận hành trong bối cảnh doanh nghiệp và xã hội 4.1. Nhận thức được tầm quan trọng của môi trường xã hội về hoạt động kỹ thuật trong lĩnh vực điều khiển và tự động hoá. 5.0 4.2. Có khả năng thực hiện các hệ điều khiển tự động vừa và nhỏ cho các hệ thống 5.0 công nghiệp, dịch vụ và công cộng.
+Có khả năng đề xuất giải pháp thực hiện, quản lý các hệ thống điều khiển và tự 4.3. 5.5 động hóa.
+Có khả năng thiết kế phần cứng, phần mềm cho các hệ thống tự động hóa, các 4.4. 4.5 hệ thống có sử dụng robot công nghiệp.
+Tham gia xây dựng, tổ chức, điều hành và quản lý các dự án về điều khiển và tự 4.5. 4.5 động hóa có hiệu quả.
+Có khả năng lắp đặt, vận hành các hệ thống điều khiển, các loại mạng truyền 4.6. 5.0 thông công nghiệp trong các nhà máy sản xuất.
+Hình thành khả năng lãnh đạo trong các bộ phận phụ trách kỹ thuật trong nhà 4.7. 4.0 máy sản xuất.
+Nhận thức các cơ hội kinh doanh có thể sử dụng công nghệ và vận dụng được các 4.8. 4.0 công nghệ có thể tạo ra sản phẩm mới.
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ...
+Đạt yêu 2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh,
+Thành tổng hợp,... thạo 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 5. Khối lượng kiến thức toàn khoá: 132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng) công nghiệp, dịch vụ và công cộng. 4.3. Có khả năng đề xuất giải pháp thực hiện, quản lý các hệ thống điều khiển và tự động hóa. 5.5 4.4. Có khả năng thiết kế phần cứng, phần mềm cho các hệ thống tự động hóa, các hệ thống có sử dụng robot công nghiệp. 4.5 4.5. Tham gia xây dựng, tổ chức, điều hành và quản lý các dự án về điều khiển và tự động hóa có hiệu quả. 4.5 4.6. Có khả năng lắp đặt, vận hành các hệ thống điều khiển, các loại mạng truyền thông công nghiệp trong các nhà máy sản xuất. 5.0 4.7. Hình thành khả năng lãnh đạo trong các bộ phận phụ trách kỹ thuật trong nhà máy sản xuất. 4.0 4.8. Nhận thức các cơ hội kinh doanh có thể sử dụng công nghệ và vận dụng được các công nghệ có thể tạo ra sản phẩm mới. 4.0
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Đạt yêu cầu Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ... 2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Thành thạo Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,... 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 6. Phân bổ khối lượng các khối kiến thức
+TT TÊN MÔN HỌC Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 37
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Vật lý 2 3 7 Thí nghiệm vật lý 1 1 8 Hoá học đại cương 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 3 1 Ngôn ngữ lập trình C (chọn) 3 (2+1)
+V. Khoa học xã hội nhân văn (theo danh mục bên dưới) 4
+VI. Toán học và KHTN 5 1 Toán cao cấp dành cho kỹ sư 1 3 2 Toán cao cấp dành cho kỹ sư 2 3 3 Toán ứng dụng cho kỹ sư (chọn) 4 4 Vật lý 3 3 5 Thí nghiệm vật lý 2 (chọn) 1
+VII. Khác (các khoa đề xuất) 0
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành 59
+Cơ sở ngành 32 (2 môn tự chọn)
+Chuyên ngành 27 (3 môn tự chọn)
+TT TÊN MÔN HỌC Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 37
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Vật lý 2 3 7 Thí nghiệm vật lý 1 1 8 Hoá học đại cương 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 3 1 Ngôn ngữ lập trình C (chọn) 3 (2+1)
+V. Khoa học xã hội nhân văn (theo danh mục bên dưới) 4
+VI. Toán học và KHTN 5 1 Toán cao cấp dành cho kỹ sư 1 3 2 Toán cao cấp dành cho kỹ sư 2 3 3 Toán ứng dụng cho kỹ sư (chọn) 4 4 Vật lý 3 3 5 Thí nghiệm vật lý 2 (chọn) 1
+VII. Khác (các khoa đề xuất) 0
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành 59
+Cơ sở ngành (2 môn tự chọn) 32
+Chuyên ngành (3 môn tự chọn) 27
+Thí nghiệm, thực tập, thực hành 17
+Trong đó, thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7 7. Nội dung chương trình (tên và khối lượng các môn học bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH142601 Toán 3 3 8. AMEE142044 Toán ứng dụng cho kỹ sư 4 9. MATH132901 Xác suất thống kê ứng dụng 3 10. PHYS130902 Vật lý 1 3 11. PHYS131002 Vật lý 2 3 12. PHYS111202 Thí nghiệm vật lý 1 1 13. PHYS110402 Thí nghiệm vật lý 2 1 14. GCHE130603 Hoá học đại cương 3 15. CPRL130064 Ngôn ngữ lập trình C 3 16. ICET335064 Nhập môn ngành CNKT ĐK và TĐH 3 (2+1) 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165 tiết
+Tổng 45 7.2. Kiến thức giáo dục chuyên nghiệp 7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. ELCI140144 Mạch điện 4 2. BAEL430662 Điện tử cơ bản 4 3. DIGI330163 Kỹ thuật số 3 4. MICR330363 Vi xử lý 3 5. ELMA230344 Máy điện 3 6. POEL330262 Điện tử công suất 3 7. PLCS330846 Điều khiển lập trình 3 8. ACSY330346 Hệ thống điều khiển tự động 3 9. Tự chọn cơ sở ngành 1 3 10. Tự chọn cơ sở ngành 2 3
+Tổng 32 7.2.2.a Kiến thức chuyên ngành (cho các môn học lý thuyết và thí nghiệm)
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp 17
+Khóa luận tốt nghiệp 7
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH142601 Toán 3 3 8. AMEE142044 Toán ứng dụng cho kỹ sư 4 9. MATH132901 Xác suất thống kê ứng dụng 3 10. PHYS130902 Vật lý 1 3 11. PHYS131002 Vật lý 2 3 12. PHYS111202 Thí nghiệm vật lý 1 1 13. PHYS110402 Thí nghiệm vật lý 2 1 14. GCHE130603 Hoá học đại cương 3 15. CPRL130064 Ngôn ngữ lập trình C 3 16. ICET335064 Nhập môn ngành CNKT ĐK và TĐH 3 (2+1) 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165 tiết
+Tổng 45
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. ELCI140144 Mạch điện 4 2. BAEL430662 Điện tử cơ bản 4 3. DIGI330163 Kỹ thuật số 3 4. MICR330363 Vi xử lý 3 5. ELMA230344 Máy điện 3 6. POEL330262 Điện tử công suất 3 7. PLCS330846 Điều khiển lập trình 3 8. ACSY330346 Hệ thống điều khiển tự động 3 9. Tự chọn cơ sở ngành 1 3 10. Tự chọn cơ sở ngành 2 3
+Tổng 32
+Số tín Mã MH trước,
+STT Mã môn học Tên môn học chỉ MH tiên quyết 1. ROBO320246 Kỹ thuật robot 3 2. EEQU343746 Trang bị điện và Khí nén 3 3. SCDA420946 Hệ thống SCADA 3 4. INCO321546 Điều khiển thông minh 2 5. Môn mới Nhận dạng và điều khiển hệ thống 2 6. ARPR310746 Đồ án Kỹ thuật Robot 1 7. ARPR310746 Đồ án Điều khiển tự động 1 8. PLCR311146 Đồ án Điều khiển lập trình 1 9. Doanh nghiệp Sáng tạo và Khởi nghiệp 2 10. Tự chọn chuyên ngành 1 3 11. Tự chọn chuyên ngành 2 3 12. Tự chọn chuyên ngành 3 3 13. Ngoại khóa Lãnh đạo và kinh doanh trong kỹ thuật
+Tổng 27 7.2.2.b Kiến thức chuyên ngành (các môn học thực hành xưởng, thực tập công nghiệp)
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. ELPR210644 TT Điện 1 2. PREM310744 TT Máy điện 1 3. POEL330262 TT Điện tử công suất 2 4. ELPR320762 TT Điện tử 2 5. PRDI319263 TT Kỹ thuật số 1 6. PRMI320463 TT Vi xử lý 2 7. PPLC321346 TT Điều khiển lập trình 2 8. ROPR311246 TT Kỹ thuật robot 1 9. PMEM320846 TT Trang bị điện và Khí nén 1 10. PACS321446 TT Điều khiển tự động 2 11. ININ422346 TT Tốt nghiệp 2
+Tổng 17 7.2.3. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Số tín Mã MH trước,
+STT Mã môn học Tên môn học chỉ MH tiên quyết 1. FIPR4102546 Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+Tổng 07
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+B – Phần tự chọn:
+Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 2 trong các môn học sau):
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. ROBO320246 Kỹ thuật robot 3 2. EEQU343746 Trang bị điện và Khí nén 3 3. SCDA420946 Hệ thống SCADA 3 4. INCO321546 Điều khiển thông minh 2 5. Môn mới Nhận dạng và điều khiển hệ thống 2 6. ARPR310746 Đồ án Kỹ thuật Robot 1 7. ARPR310746 Đồ án Điều khiển tự động 1 8. PLCR311146 Đồ án Điều khiển lập trình 1 9. Doanh nghiệp Sáng tạo và Khởi nghiệp 2 10. Tự chọn chuyên ngành 1 3 11. Tự chọn chuyên ngành 2 3 12. Tự chọn chuyên ngành 3 3 13. Ngoại khóa Lãnh đạo và kinh doanh trong kỹ thuật
+Tổng 27
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. ELPR210644 TT Điện 1 2. PREM310744 TT Máy điện 1 3. POEL330262 TT Điện tử công suất 2 4. ELPR320762 TT Điện tử 2 5. PRDI319263 TT Kỹ thuật số 1 6. PRMI320463 TT Vi xử lý 2 7. PPLC321346 TT Điều khiển lập trình 2 8. ROPR311246 TT Kỹ thuật robot 1 9. PMEM320846 TT Trang bị điện và Khí nén 1 10. PACS321446 TT Điều khiển tự động 2 11. ININ422346 TT Tốt nghiệp 2
+Tổng 17
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. FIPR4102546 Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+Tổng 07
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường 2 kỹ thuật 12. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức cơ sở ngành (Sinh viên chọn 2 môn học trong các môn sau)
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. ELFI 230344 Trường điện từ 3 2. EEMA320544 Vật liệu điện - điện tử 3 3. ELPS330345 Cung cấp điện 3 4. SISY330164 Tín hiệu và hệ thống 3 5. EMIN330244 Đo lường và thiết bị đo 3
+Kiến thức chuyên ngành (Sinh viên chọn 3 môn học theo chuyên ngành của mình)
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. IMPR432446 Xử lý ảnh 3 2. CADA321646 CAD trong ĐKTĐ 3 3. PRCO322146 Điều khiển quá trình 3 4. FMCI 431746 Hệ thống sản xuất tích hợp 3 5. MCCO 322246 Đo lường và điều khiển bằng máy tính 3 6. EMEC321746 Hệ thống cơ điện tử 3
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành trong phần tự chọn: - Xem danh sách các môn học được đề xuất trong bảng, hoặc - Sinh viên có thể tự chọn các môn học nằm ngoài danh sách được đề xuất trên tinh thần các môn học hỗ trợ hướng phát triển nghề nghiệp sau này. SV nên nhờ tư vấn thêm từ Ban tư vấn để có sự lựa chọn phù hợp.
+Số tín Mã MH trước,
+STT Mã môn học Tên môn học chỉ MH tiên quyết 1. RENE321745 Năng lượng tái tạo 3 2. EMSY435664 Hệ thống nhúng 3 3. DSIC330563 Thiết kế mạch số với HDL 3 4. ELDR320545 Truyền động điện tự động 3 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. ELFI 230344 Trường điện từ 3 2. EEMA320544 Vật liệu điện - điện tử 3 3. ELPS330345 Cung cấp điện 3 4. SISY330164 Tín hiệu và hệ thống 3 5. EMIN330244 Đo lường và thiết bị đo 3
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. IMPR432446 Xử lý ảnh 3 2. CADA321646 CAD trong ĐKTĐ 3 3. PRCO322146 Điều khiển quá trình 3 4. FMCI 431746 Hệ thống sản xuất tích hợp 3 5. MCCO 322246 Đo lường và điều khiển bằng máy tính 3 6. EMEC321746 Hệ thống cơ điện tử 3
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. RENE321745 Năng lượng tái tạo 3 2. EMSY435664 Hệ thống nhúng 3 3. DSIC330563 Thiết kế mạch số với HDL 3 4. ELDR320545 Truyền động điện tự động 3 5. ITFA336064 Cơ sở và ứng dụng IoTs 3
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến, sinh viên có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã MH Tên môn học chỉ MOOC (đường link đăng ký)
+Arizona State University
+FSE 100 Introduction to Engineering: https://gfa.asu.edu/courses/online- 1. 3
+Imagine, Design, Engineer engineering-course
+Arizona State University
+CSE 110 Programming for Everyone: https://gfa.asu.edu/courses/online- 2. 3
+Introduction to Programming programming-course https://www.class-
+CS 8802 Artificial Intelligence for central.com/course/udacity- 3. Robotics 3 artificial-intelligence-for-robotics-
+Industrial Automation and https://www.class-
+Control central.com/course/nptel- 4. 3 industrial-automation-and- control-5222
+Embedded Systems - Shape https://www.class-
+The World: Microcontroller central.com/course/edx-
+Input/Output embedded-systems-shape-the- 5. 3 world-microcontroller-input- output-1484 8. Kế hoạch giảng dạy
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. Tự chọn KH XHNV 1 2 2. GCHE130603 Hoá học đại cương 3 3. ICET335064 Nhập môn ngành CNKTĐK và TĐH 3 (2+1) 4. LLCT120314 Tư tưởng Hồ Chí Minh 2 5. MATH130101 Toán 1 3 6. PHED110613 Giáo dục thể chất 2 1 7. PHYS130102 Vật lý 1 3
+Tổng 17
+Học kỳ 2:
+TT Mã MH Tên MH Số TC Mã MH trước, 5. ITFA336064 Cơ sở và ứng dụng IoTs 3
+STT Mã MH Tên môn học Số tín chỉ Môn học được xét tương đương
+MOOC (đường link đăng ký) 1. FSE 100 Introduction to Engineering:
+Imagine, Design, Engineer 3 Arizona State University https://gfa.asu.edu/courses/online- engineering-course 2. CSE 110 Programming for Everyone:
+Introduction to Programming 3 Arizona State University https://gfa.asu.edu/courses/online- programming-course 3. CS 8802 Artificial Intelligence for
+Robotics 3 https://www.class- central.com/course/udacity- artificial-intelligence-for-robotics- 4. Industrial Automation and
+Control 3 https://www.class- central.com/course/nptel- industrial-automation-and- control-5222 5. Embedded Systems - Shape
+The World: Microcontroller
+Input/Output 3 https://www.class- central.com/course/edx- embedded-systems-shape-the- world-microcontroller-input- output-1484
+FSE 100
+Introduction to Engineering:
+Imagine, Design, Engineer
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. Tự chọn KH XHNV 1 2 2. GCHE130603 Hoá học đại cương 3 3. ICET335064 Nhập môn ngành CNKTĐK và TĐH 3 (2+1) 4. LLCT120314 Tư tưởng Hồ Chí Minh 2 5. MATH130101 Toán 1 3 6. PHED110613 Giáo dục thể chất 2 1 7. PHYS130102 Vật lý 1 3
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ELCI240144 Mạch điện 4 2. MATH130201 Toán 2 3 3. MATH130401 Xác suất thống kê ứng dụng 3 4. PHYS110302 Thí nghiệm vật lý 1 1 5. PHYS120202 Vật lý 2 3 6. Tự chọn KH XHNV 2 2
+Tổng 16
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. MATH130301 Toán 3 3 2. CPRL130064 Ngôn ngữ lập trình C 3 3. AMEE142044 Toán ứng dụng cho kỹ sư 4 4. BAEL340662 Điện tử cơ bản 4 5. PHYS110402 Thí nghiệm vật lý 2 1 6. ELPR210644 TT Điện 1 7. Tự chọn cơ sở ngành 1 3
+Tổng 19
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. DIGI330163 Kỹ thuật số 3 2. ELMA230344 Máy điện 3 3. ELPR320762 TT Điện tử 2 4. POEL330262 Điện tử công suất 3 5. Tự chọn cơ sở ngành 2 3 6. Tự chọn Chuyên ngành 1 3
+Tổng 17
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. PRDI310263 TT Kỹ thuật số 1 2. PREM310744 TT Máy điện 1 3. POEL330262 TT Điện tử công suất 2 4. MICR330363 Vi xử lý 3 5. EEQU343746 Trang bị điện và Khí nén 3 6. ACSY330346 HT Điều khiển tự động 3 7. Tự chọn Chuyên ngành 2 3 8. Tự chọn Chuyên ngành 3 3
+Tổng 19
+Học kỳ 6:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ELCI240144 Mạch điện 4 2. MATH130201 Toán 2 3 3. MATH130401 Xác suất thống kê ứng dụng 3 4. PHYS110302 Thí nghiệm vật lý 1 1 5. PHYS120202 Vật lý 2 3 6. Tự chọn KH XHNV 2 2
+Tổng 16
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. MATH130301 Toán 3 3 2. CPRL130064 Ngôn ngữ lập trình C 3 3. AMEE142044 Toán ứng dụng cho kỹ sư 4 4. BAEL340662 Điện tử cơ bản 4 5. PHYS110402 Thí nghiệm vật lý 2 1 6. ELPR210644 TT Điện 1 7. Tự chọn cơ sở ngành 1 3
+Tổng 19
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. DIGI330163 Kỹ thuật số 3 2. ELMA230344 Máy điện 3 3. ELPR320762 TT Điện tử 2 4. POEL330262 Điện tử công suất 3 5. Tự chọn cơ sở ngành 2 3 6. Tự chọn Chuyên ngành 1 3
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. PRDI310263 TT Kỹ thuật số 1 2. PREM310744 TT Máy điện 1 3. POEL330262 TT Điện tử công suất 2 4. MICR330363 Vi xử lý 3 5. EEQU343746 Trang bị điện và Khí nén 3 6. ACSY330346 HT Điều khiển tự động 3 7. Tự chọn Chuyên ngành 2 3 8. Tự chọn Chuyên ngành 3 3
+Tổng 19
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. PRMI320463 TT Vi xử lý 2 2. PACS321446 TT HT Điều khiển tự động 2 3. PMEM320846 TT Trang bị điện – Khí nén 1 4. ROBO320246 Kỹ thuật robot 3 5. PLCS330846 Điều khiển lập trình 3 6. INCO321546 Điều khiển thông minh 2 7. Môn mới Nhận dạng và điều khiển hệ thống 2 8. ARPR 310746 ĐAMH Điều khiển tự động 1 9. Doanh nghiệp Khởi nghiệp và sáng tạo 2
+Tổng 18
+Học kỳ 7:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. ROPR311246 TT Kỹ thuật Robot 1 2. PPLC321346 TT Điều khiển lập trình 2 3. ARPR310746 ĐAMH Kỹ thuật Robot 1 4. PLCR311146 ĐAMH Điều khiển lập trình 1 5. SCDA420946 Hệ thống SCADA 3 6. ININ422346 TT Tốt nghiệp 2
+Tổng 10
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1. FIPR4102546 Khóa luận tốt nghiệp 7
+Tổng 07 9. Mô tả vắn tắt nội dung và khối lượng các môn học 9.1 Nhập môn ngành 2+1
+Phân bố thời gian học tập: 3 (2/1/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Học phần này nhằm giới thiệu cho sinh viên năm nhất khái niệm về kỹ sư điện, trang bị cho kỹ sư về vai trò trách nhiệm, đạo đức của người kỹ sư, các khái niệm căn bản về thiết kế kỹ thuật, trang bị cho sinh viên những kỹ năng mềm cần thiết (kỹ năng làm việc theo nhóm, kỹ năng trình bày…) giúp sinh viên có phương pháp học tập tốt trong khi còn trong nhà trường và chuẩn bị tốt tác phong thái độ để sau khi tốt nghiệp ra trường các kỹ sư tương lai có thể có đủ các kiến thức và có cơ hội tốt nhận được việc làm. 9.2 Tư tưởng Hồ Chí Minh 2
+Phân bố thời gian học tập: 2 (2/0/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+MH tiên quyết 1. PRMI320463 TT Vi xử lý 2 2. PACS321446 TT HT Điều khiển tự động 2 3. PMEM320846 TT Trang bị điện – Khí nén 1 4. ROBO320246 Kỹ thuật robot 3 5. PLCS330846 Điều khiển lập trình 3 6. INCO321546 Điều khiển thông minh 2 7. Môn mới Nhận dạng và điều khiển hệ thống 2 8. ARPR 310746 ĐAMH Điều khiển tự động 1 9. Doanh nghiệp Khởi nghiệp và sáng tạo 2
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ROPR311246 TT Kỹ thuật Robot 1 2. PPLC321346 TT Điều khiển lập trình 2 3. ARPR310746 ĐAMH Kỹ thuật Robot 1 4. PLCR311146 ĐAMH Điều khiển lập trình 1 5. SCDA420946 Hệ thống SCADA 3 6. ININ422346 TT Tốt nghiệp 2
+Tổng 10
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. FIPR4102546 Khóa luận tốt nghiệp 7
+Tổng 07 9.1 Nhập môn ngành
+Phân bố thời gian học tập: 3 (2/1/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Học phần này nhằm giới thiệu cho sinh viên năm nhất khái niệm về kỹ sư điện, trang bị cho kỹ sư về vai trò trách nhiệm, đạo đức của người kỹ sư, các khái niệm căn bản về thiết kế kỹ thuật, trang bị cho sinh viên những kỹ năng mềm cần thiết (kỹ năng làm việc theo nhóm, kỹ năng trình bày…) giúp sinh viên có phương pháp học tập tốt trong khi còn trong nhà trường và chuẩn bị tốt tác phong thái độ để sau khi tốt nghiệp ra trường các kỹ sư tương lai có thể có đủ các kiến thức và có cơ hội tốt nhận được việc làm. 2+1 9.2 Tư tưởng Hồ Chí Minh
+Phân bố thời gian học tập: 2 (2/0/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không 2
+Tóm tắt nội dung học phần: 9.3 Toán 1 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Môn học giúp người học ôn tập lại các kiến thức toán học phổ thông và cao cấp: các kiến thức về tập hợp số: số hữu tỉ, số thực, số phức. Giới hạn: hàm số, giới hạn hàm số, hàm số liên tục. Phép tính vi phân hàm một biến: đạo hàm, vi phân, khai triển Taylor-Maclaurin, khảo sát hàm số, đường cong trong tọa độ cực. Phép tính tích phân của hàm một biến: tích phần bất định, tích phân xác định, tích phân suy rộng. Chuỗi: chuỗi số, chuỗi hàm, chuỗi lũy thừa, chuỗi Taylor-Maclaurin, chuỗi
+Fourier, khai triển Fourier, chuỗi lượng giác. 9.4 Toán 2 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán cao cấp 1
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Ma trận- định thức: ma trận, các dạng ma trận, ma trận nghịch đảo, định thức, hạng của ma trận.
+Hệ phương trình tuyến tính: Hệ tuyến tính, qui tắc Cramer, phương pháp Gauss, hệ thuần nhất. Không gian vector: Không gian vector, không gian con, độc lập tuyến tính, phụ thuộc tuyến tính, cơ sở, số chiều, không gian Euclide. Chéo hóa ma trận-dạng toàn phương: trị riêng, vector riêng, không gian riêng, chéo hóa ma trận, dạng toàn phương, dạng chính tắc, các mặt bậc 2. Phép tính vi phân của hàm nhiều biến: hàm nhiều biến, đạo hàm, vi phân, cực trị hàm nhiều biến, ứng dụng phép tính vi phân vào hình học trong không gian. 9.5. Vật lý 1 3
+Phân bố thời gian học tập: 2 (2/1/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : cơ học: động học chất điểm, động lực học chất điểm, các định luật bảo toàn, chuyển động vật rắn.
+Nhiệt động lực: nội dung thuyết động học phân tử, nguyên lý I Nhiệt động, nguyên lý II
+Nhiệt động. Điện và từ: điện trường, từ trường, điện từ trường biến thiên. 9.6 Hóa đại cương 3
+Phân bố thời gian học tập: 3 (2/1/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: 9.7 Giáo dục thể chất 2 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Tóm tắt nội dung học phần: 9.3 Toán 1
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Môn học giúp người học ôn tập lại các kiến thức toán học phổ thông và cao cấp: các kiến thức về tập hợp số: số hữu tỉ, số thực, số phức. Giới hạn: hàm số, giới hạn hàm số, hàm số liên tục. Phép tính vi phân hàm một biến: đạo hàm, vi phân, khai triển Taylor-Maclaurin, khảo sát hàm số, đường cong trong tọa độ cực. Phép tính tích phân của hàm một biến: tích phần bất định, tích phân xác định, tích phân suy rộng. Chuỗi: chuỗi số, chuỗi hàm, chuỗi lũy thừa, chuỗi Taylor-Maclaurin, chuỗi
+Fourier, khai triển Fourier, chuỗi lượng giác. 3 9.4 Toán 2
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán cao cấp 1
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Ma trận- định thức: ma trận, các dạng ma trận, ma trận nghịch đảo, định thức, hạng của ma trận.
+Hệ phương trình tuyến tính: Hệ tuyến tính, qui tắc Cramer, phương pháp Gauss, hệ thuần nhất. Không gian vector: Không gian vector, không gian con, độc lập tuyến tính, phụ thuộc tuyến tính, cơ sở, số chiều, không gian Euclide. Chéo hóa ma trận-dạng toàn phương: trị riêng, vector riêng, không gian riêng, chéo hóa ma trận, dạng toàn phương, dạng chính tắc, các mặt bậc 2. Phép tính vi phân của hàm nhiều biến: hàm nhiều biến, đạo hàm, vi phân, cực trị hàm nhiều biến, ứng dụng phép tính vi phân vào hình học trong không gian. 3 9.5. Vật lý 1
+Phân bố thời gian học tập: 2 (2/1/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : cơ học: động học chất điểm, động lực học chất điểm, các định luật bảo toàn, chuyển động vật rắn.
+Nhiệt động lực: nội dung thuyết động học phân tử, nguyên lý I Nhiệt động, nguyên lý II
+Nhiệt động. Điện và từ: điện trường, từ trường, điện từ trường biến thiên. 3 9.6 Hóa đại cương
+Phân bố thời gian học tập: 3 (2/1/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: 3 9.7 Giáo dục thể chất 2
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không 1
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: 9.8 Toán 3 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán cao cấp 1
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Tích phân bội: tích phân kép, ứng dụng tính diện tích miền phẳng, tính diện tích mặt cong, thể tích vật thể, tích phân bội ba, ứng dụng tính thể tích vật thể. Tích phân đường : Tích phân đường loại một, ứng dụng, tích phân đường loại hai, ứng dụng, công thức Green, điều kiện tích phân đường không phụ thuộc vào đường lấy tích phân. Tích phân mặt : tích phân mặt loại một, loại hai, công Ostrogratski, trường vector, thông lượng và độ phân kỳ, công thức Ostrogratski dưới dạng vector, công thức Stokes, hoàn lưu và vector xoáy, công thức Stokes dạng vector. 9.9 Toán ứng dụng cho kỹ sư 4
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, 2, 3
+Tóm tắt nội dung học phần: Môn học toán ứng dụng cho kỹ sư điện – điện tử là môn học thuộc nhóm cơ sở ngành, nhằm giới thiệu và cung cấp cho sinh viên các kiến thức cơ bản và công cụ toán học cơ sở cần thiết cho các lĩnh vực trong các ngành Công nghệ
+Kỹ thuật Điện - Điện tử, Công nghệ Kỹ thuật Điện Tử - Truyền Thông, Công nghệ Kỹ
+Thuật Điện Tự Động, Công Nghệ Kỹ Thuật Điện Tử Máy Tính và Công Nghệ Kỹ
+Thuật Môi trường nhằm giải tích mạch điện, xử lý tín hiệu, hệ thống điều khiển tự động 9.10 Mạch điện 4
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, 2, 3
+Tóm tắt nội dung học phần: Học phần Mạch điện cung cấp cho sinh viên các kiến thức về hai định luật Kirchhoff 1,2. Các phương pháp phân tích mạch: biến đổi tương đương, phương pháp thế nút, phương pháp dòng mắt lưới. Các định lý về mạch: định lý
+Thevenin-Norton , định lý cân bằng công suất, định lý xếp chồng. Áp dụng số phức để giải bài toán xác lập điều hòa. Mạch hỗ cảm, mạch chứa khuếch đại thuật toán, Mạch ba pha đối xứng và không đối xứng, Mạng hai cửa, Phân tích mạch trong miền thời gian, phân tích mạch trong miền tần số, giản đồ bode, Mạch phi tuyến. 9.11 Thí nghiệm vật lý 1 1
+Phân bố thời gian học tập: 1(0/1/6)
+Điều kiện tiên quyết: Toán 1
+Điều kiện môn học trước: Vật lý 1
+Tóm tắt nội dung học phần: Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các
+Điều kiện môn học trước: Không
+Tóm tắt nội dung học phần: 9.8 Toán 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán cao cấp 1
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Tích phân bội: tích phân kép, ứng dụng tính diện tích miền phẳng, tính diện tích mặt cong, thể tích vật thể, tích phân bội ba, ứng dụng tính thể tích vật thể. Tích phân đường : Tích phân đường loại một, ứng dụng, tích phân đường loại hai, ứng dụng, công thức Green, điều kiện tích phân đường không phụ thuộc vào đường lấy tích phân. Tích phân mặt : tích phân mặt loại một, loại hai, công Ostrogratski, trường vector, thông lượng và độ phân kỳ, công thức Ostrogratski dưới dạng vector, công thức Stokes, hoàn lưu và vector xoáy, công thức Stokes dạng vector. 3 9.9 Toán ứng dụng cho kỹ sư
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, 2, 3
+Tóm tắt nội dung học phần: Môn học toán ứng dụng cho kỹ sư điện – điện tử là môn học thuộc nhóm cơ sở ngành, nhằm giới thiệu và cung cấp cho sinh viên các kiến thức cơ bản và công cụ toán học cơ sở cần thiết cho các lĩnh vực trong các ngành Công nghệ
+Kỹ thuật Điện - Điện tử, Công nghệ Kỹ thuật Điện Tử - Truyền Thông, Công nghệ Kỹ
+Thuật Điện Tự Động, Công Nghệ Kỹ Thuật Điện Tử Máy Tính và Công Nghệ Kỹ
+Thuật Môi trường nhằm giải tích mạch điện, xử lý tín hiệu, hệ thống điều khiển tự động 4 9.10 Mạch điện
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, 2, 3
+Tóm tắt nội dung học phần: Học phần Mạch điện cung cấp cho sinh viên các kiến thức về hai định luật Kirchhoff 1,2. Các phương pháp phân tích mạch: biến đổi tương đương, phương pháp thế nút, phương pháp dòng mắt lưới. Các định lý về mạch: định lý
+Thevenin-Norton , định lý cân bằng công suất, định lý xếp chồng. Áp dụng số phức để giải bài toán xác lập điều hòa. Mạch hỗ cảm, mạch chứa khuếch đại thuật toán, Mạch ba pha đối xứng và không đối xứng, Mạng hai cửa, Phân tích mạch trong miền thời gian, phân tích mạch trong miền tần số, giản đồ bode, Mạch phi tuyến. 4 9.11 Thí nghiệm vật lý 1
+Phân bố thời gian học tập: 1(0/1/6)
+Điều kiện tiên quyết: Toán 1
+Điều kiện môn học trước: Vật lý 1
+Tóm tắt nội dung học phần: Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các 1 lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.12 Vật lý 2 2+1
+Phân bố thời gian học tập: 2 (2/1/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung: Thuyết tương đối Einstein: thuyết tương đối hẹp, thuyết tương đối rộng. Quang học: quang học sóng và các hiện tượng giao thoa, nhiễu xạ ánh sang, quang học lượng tử và các hiện tượng quang điện, Compton. Vật lý lượng tử: các giả thuyết de Broglie và Heisenberg, phương trình Schrödinger và chuyển động của vi hạt, sự lượng tử hóa các đại lượng vật lý. Môn học dựa vào các bài thực hành giúp người học có cái nhìn trực quan hơn về các sự vật hiện tượng đã được học trong lý thuyết gồm các bài thực hành: lý thuyết về các phép tính sai số, xác định mômen quán tính của bánh xe và lực ma sát của ổ trục, xác định gia tốc trọng trường bằng con lắc vật lý, xác định tỷ số nhiệt dung phân tử của chất khí, khảo sát mạch cộng hưởng RLC- Đo RLC bằng dao động ký điện tử, khảo sát đặc tính của diode và transistor, xác định điện tích riêng của electron bằng phương pháp magnetron, khảo sát nhiễu xạ tia Laser qua cách tử phẳng. xác định bước sóng tia
+Laser, khảo sát hiện tượng bức xạ nhiệt- nghiệm định luật Stefan- Boltzman, khảo sát hiện tượng quang điện ngoài- xác định hằng số Planck. 9.13 Ngôn ngữ C 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: không
+Điều kiện môn học trước: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên (SV) kiến thức về các cấu trúc dữ liệu, cấu trúc điều khiển trong ngôn ngữ C. Môn học cũng cung cấp cho sinh viên kỹ năng thiết kế, lập trình và gỡ rối các chương trình ứng dụng dùng ngôn ngữ C 9.14 Xác suất thống kê ứng dụng 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, Toán 2
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : các khái niệm cơ bản trong lý thuyết xác suất: Quy tắc đếm, tổ hợp, chỉnh hợp, hoán vị, nhị thức
+Newton, phép thử, biến cố, xác suất, xác suất có điều kiện. Biến số ngẫu nhiên : Biến số ngẫu nhiên, luật phân phối xác suất của biến ngẫu nhiên, đặc trưng số của biến ngẫu nhiên: kỳ vọng, phương sai, Mod, Med. Các phân phối xác suất thường dùng : phân phối nhị thức, phân phối Poisson, phân phối chuẩn, phân phối Student. Lý thuyết mẫu : khái niệm đám đông, mẫu ngẫu nhiên, thống kê trên mẫu, phương pháp lấy mẫu, đặc trưng của mẫu, phân phối của các đặc trung mẫu, cách tính các đặc trưng mẫu. Lý thuyết ược lượng : khái niệm ước lượng, ước lượng điểm, ước lượng khoảng. Kiểm định giả thuyết thống kê : khái niệm sai lầm loại I và II, mức ý nghĩa của kiểm định, kiểm định về trung bình, kiểm định về tỉ lệ, kiểm định về sự bằng nhau của 2 trung bình, 2 tỉ lệ, kiểm định về tính độc lập. Tương quan và hồi qui: biến số ngẫu nhiên 2 chiều, hệ số tương quan , hệ số tương quan mẫu, bảng tương quan thực nghiệm, đường hồi qui thực nghiệm. lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.12 Vật lý 2
+Phân bố thời gian học tập: 2 (2/1/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung: Thuyết tương đối Einstein: thuyết tương đối hẹp, thuyết tương đối rộng. Quang học: quang học sóng và các hiện tượng giao thoa, nhiễu xạ ánh sang, quang học lượng tử và các hiện tượng quang điện, Compton. Vật lý lượng tử: các giả thuyết de Broglie và Heisenberg, phương trình Schrödinger và chuyển động của vi hạt, sự lượng tử hóa các đại lượng vật lý. Môn học dựa vào các bài thực hành giúp người học có cái nhìn trực quan hơn về các sự vật hiện tượng đã được học trong lý thuyết gồm các bài thực hành: lý thuyết về các phép tính sai số, xác định mômen quán tính của bánh xe và lực ma sát của ổ trục, xác định gia tốc trọng trường bằng con lắc vật lý, xác định tỷ số nhiệt dung phân tử của chất khí, khảo sát mạch cộng hưởng RLC- Đo RLC bằng dao động ký điện tử, khảo sát đặc tính của diode và transistor, xác định điện tích riêng của electron bằng phương pháp magnetron, khảo sát nhiễu xạ tia Laser qua cách tử phẳng. xác định bước sóng tia
+Laser, khảo sát hiện tượng bức xạ nhiệt- nghiệm định luật Stefan- Boltzman, khảo sát hiện tượng quang điện ngoài- xác định hằng số Planck. 2+1 9.13 Ngôn ngữ C
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: không
+Điều kiện môn học trước: không
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên (SV) kiến thức về các cấu trúc dữ liệu, cấu trúc điều khiển trong ngôn ngữ C. Môn học cũng cung cấp cho sinh viên kỹ năng thiết kế, lập trình và gỡ rối các chương trình ứng dụng dùng ngôn ngữ C 3 9.14 Xác suất thống kê ứng dụng
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán 1, Toán 2
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : các khái niệm cơ bản trong lý thuyết xác suất: Quy tắc đếm, tổ hợp, chỉnh hợp, hoán vị, nhị thức
+Newton, phép thử, biến cố, xác suất, xác suất có điều kiện. Biến số ngẫu nhiên : Biến số ngẫu nhiên, luật phân phối xác suất của biến ngẫu nhiên, đặc trưng số của biến ngẫu nhiên: kỳ vọng, phương sai, Mod, Med. Các phân phối xác suất thường dùng : phân phối nhị thức, phân phối Poisson, phân phối chuẩn, phân phối Student. Lý thuyết mẫu : khái niệm đám đông, mẫu ngẫu nhiên, thống kê trên mẫu, phương pháp lấy mẫu, đặc trưng của mẫu, phân phối của các đặc trung mẫu, cách tính các đặc trưng mẫu. Lý thuyết ược lượng : khái niệm ước lượng, ước lượng điểm, ước lượng khoảng. Kiểm định giả thuyết thống kê : khái niệm sai lầm loại I và II, mức ý nghĩa của kiểm định, kiểm định về trung bình, kiểm định về tỉ lệ, kiểm định về sự bằng nhau của 2 trung bình, 2 tỉ lệ, kiểm định về tính độc lập. Tương quan và hồi qui: biến số ngẫu nhiên 2 chiều, hệ số tương quan , hệ số tương quan mẫu, bảng tương quan thực nghiệm, đường hồi qui thực nghiệm. 3 9.15 Điện tử cơ bản 4
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Mạch điện
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên những kiến thức cơ bản về vật liệu chế tạo linh kiện điện tử. Trình bày cấu trúc, đặc trưng và ứng dụng của các linh kiện điện tử cơ bản như Diode, Transistor, SCR, TRIAC, DIAC, OP-AMP và các linh kiện 4 lớp bán dẫn, linh kiện quang điện tử. Hướng dẫn sinh viên cách phân tích, tính toán các thông số và thiết kế các mạch điện tử cơ bản như: mạch chỉnh lưu, mạch xén, mạch nguồn DC, mạch khuếch đại tín hiệu nhỏ, mạch khuếch đại công suất, mạch transistor ngắt dẫn, mạch dao động, các mạch điều khiển dùng SCR, TRAC,
+DIAC, quang trở, op-to và các mạch điện tử ứng dụng trong thực tế. 9.16 Thí nghiệm vật lý 2 1
+Phân bố thời gian học tập: 1(0/1/6)
+Điều kiện tiên quyết: Toán 1, Vật lý 1, thí nghiệm vật lý 1
+Điều kiện môn học trước: Toán 1, Vật lý 1, thí nghiệm vật lý 1
+Tóm tắt nội dung học phần: Thí nghiệm các nguyên lý vật lý 2 gồm một đơn vị học phần có 9 bài thí nghiệm về điện từ học và quang học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ đại học ngành kỹ thuật những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.17 TT Điện 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý 2
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên các kiến thức và kỹ năng về sử dụng dụng cụ người thợ điện, hướng dẫn sinh viên thực hành các công nghệ lắp đặt điện cơ bản, phương pháp tính toán thi công, lắp đặt mạng điện chiếu sáng 1 pha trong sinh hoạt và vận hành các máy điện thông dụng. 9.18 Thực tập điện tử 2
+Phân bố thời gian học tập: 2(0/2/4)
+Điều kiện tiên quyết: không
+Điều kiện môn học trước: Điện tử cơ bản.
+Tóm tắt nội dung học phần: Môn học người học thực hiện các nội dung về cách sử dụng các thiết bị đo trong kỹ thuật điện tử; Cách nhận dạng các linh kiện điện tử cơ bản như: R, L, C, diode, BJT, FET, OPAMP; Kiểm chứng các mạch ứng dụng cơ bản của các linh kiện điện tử giữa lý thuyết và thực tế, từ đó phân tích họat động của mạch trên thực tế; Vận dụng các mạch ứng dụng vào thực tế, phân tích họat động các mạch điện tử cơ bản trong thực tế. 9.19 Kỹ thuật số 3
+Phân bố thời gian học tập: 3 (3/0/6) 9.15 Điện tử cơ bản
+Phân bố thời gian học tập: 4 (4/0/8)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Mạch điện
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên những kiến thức cơ bản về vật liệu chế tạo linh kiện điện tử. Trình bày cấu trúc, đặc trưng và ứng dụng của các linh kiện điện tử cơ bản như Diode, Transistor, SCR, TRIAC, DIAC, OP-AMP và các linh kiện 4 lớp bán dẫn, linh kiện quang điện tử. Hướng dẫn sinh viên cách phân tích, tính toán các thông số và thiết kế các mạch điện tử cơ bản như: mạch chỉnh lưu, mạch xén, mạch nguồn DC, mạch khuếch đại tín hiệu nhỏ, mạch khuếch đại công suất, mạch transistor ngắt dẫn, mạch dao động, các mạch điều khiển dùng SCR, TRAC,
+DIAC, quang trở, op-to và các mạch điện tử ứng dụng trong thực tế. 4 9.16 Thí nghiệm vật lý 2
+Phân bố thời gian học tập: 1(0/1/6)
+Điều kiện tiên quyết: Toán 1, Vật lý 1, thí nghiệm vật lý 1
+Điều kiện môn học trước: Toán 1, Vật lý 1, thí nghiệm vật lý 1
+Tóm tắt nội dung học phần: Thí nghiệm các nguyên lý vật lý 2 gồm một đơn vị học phần có 9 bài thí nghiệm về điện từ học và quang học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ đại học ngành kỹ thuật những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 1 9.17 TT Điện
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý 2
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên các kiến thức và kỹ năng về sử dụng dụng cụ người thợ điện, hướng dẫn sinh viên thực hành các công nghệ lắp đặt điện cơ bản, phương pháp tính toán thi công, lắp đặt mạng điện chiếu sáng 1 pha trong sinh hoạt và vận hành các máy điện thông dụng. 1 9.18 Thực tập điện tử
+Phân bố thời gian học tập: 2(0/2/4)
+Điều kiện tiên quyết: không
+Điều kiện môn học trước: Điện tử cơ bản.
+Tóm tắt nội dung học phần: Môn học người học thực hiện các nội dung về cách sử dụng các thiết bị đo trong kỹ thuật điện tử; Cách nhận dạng các linh kiện điện tử cơ bản như: R, L, C, diode, BJT, FET, OPAMP; Kiểm chứng các mạch ứng dụng cơ bản của các linh kiện điện tử giữa lý thuyết và thực tế, từ đó phân tích họat động của mạch trên thực tế; Vận dụng các mạch ứng dụng vào thực tế, phân tích họat động các mạch điện tử cơ bản trong thực tế. 2 9.19 Kỹ thuật số
+Phân bố thời gian học tập: 3 (3/0/6) 3
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điện tử cơ bản
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức về các hệ thống số, các cổng logic cơ bản, các định lý cơ bản của đại số Boole. Sinh viên còn được học cấu trúc hoạt động các vi mạch số cơ bản TTL và CMOS, các thông số đặc tính của vi mạch số, phân loại các họ vi mạch, nguyên lý chuyển đổi giữa tín hiệu tương tự và tín hiệu số, cấu trúc hoạt động và ứng dụng của bộ nhớ, nguyên lý các mạch dao động số. Sau cùng, môn học cung cấp cho sinh viên những kiến thức về tính toán, nhận biết các mạch tổ hợp, mạch tuần tự, đề ra và giải quyết những vấn đề mạch số, và rồi thiết kế những hệ thống số. 9.20 Máy điện 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý 2, Mạch điện
+Tóm tắt nội dung học phần: Môn học Máy điện cung cấp cho sinh viên các kiến thức, kỹ năng cơ bản về các loại máy điện trong hệ thống điện điện công nghiệp, bao gồm kết cấu, nguyên lý làm việc, các chế độ làm việc, ứng dụng của máy điện trong công nghiệp 9.21 Thực tập kỹ thuật số 1
+Phân bố thời gian học tập: 1(0/1/2)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Kỹ thuật số.
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành các mạch điện tử số như cổng logic, flip flop, mạch đếm, thanh ghi, thiết kế mạch tổ hợp và mạch tuần tự, bộ nhớ, adc, dac và các mạch ứng dụng trong thực tế. 9.22 TT Máy điện 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Máy điện
+Tóm tắt nội dung học phần:Môn học cung cấp cho sinh viên các kiến thức chung về thực hành thí nghiệm máy điện nhằm xác định thông số và đặc tính làm việc các loại máy điện, kiến thức công nghệ về lắp ráp, vận hành, sửa chữa máy điện. Biết, hiểu, thực hiện các thí nghiệm xác định thông số và đặc tính làm việc của các loại máy điện 1 chiều, xoay chiều, máy biến áp và các loại máy điện đặc biệt như động cơ DC brusless, động cơ bước (stepper) trong công nghiệp . Hình thành kỹ năng kiểm tra, vận hành, sửa chữa, quấn dây, lắp ráp máy điện. 9.23 Vi xử lý 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật số
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về vai trò chức năng của vi xử lý, hệ thống vi xử lý, sự ra đời của vi điều khiển. Cấu trúc bên
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điện tử cơ bản
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức về các hệ thống số, các cổng logic cơ bản, các định lý cơ bản của đại số Boole. Sinh viên còn được học cấu trúc hoạt động các vi mạch số cơ bản TTL và CMOS, các thông số đặc tính của vi mạch số, phân loại các họ vi mạch, nguyên lý chuyển đổi giữa tín hiệu tương tự và tín hiệu số, cấu trúc hoạt động và ứng dụng của bộ nhớ, nguyên lý các mạch dao động số. Sau cùng, môn học cung cấp cho sinh viên những kiến thức về tính toán, nhận biết các mạch tổ hợp, mạch tuần tự, đề ra và giải quyết những vấn đề mạch số, và rồi thiết kế những hệ thống số. 9.20 Máy điện
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Vật lý 2, Mạch điện
+Tóm tắt nội dung học phần: Môn học Máy điện cung cấp cho sinh viên các kiến thức, kỹ năng cơ bản về các loại máy điện trong hệ thống điện điện công nghiệp, bao gồm kết cấu, nguyên lý làm việc, các chế độ làm việc, ứng dụng của máy điện trong công nghiệp 3 9.21 Thực tập kỹ thuật số
+Phân bố thời gian học tập: 1(0/1/2)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Kỹ thuật số.
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành các mạch điện tử số như cổng logic, flip flop, mạch đếm, thanh ghi, thiết kế mạch tổ hợp và mạch tuần tự, bộ nhớ, adc, dac và các mạch ứng dụng trong thực tế. 1 9.22 TT Máy điện
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Máy điện
+Tóm tắt nội dung học phần:Môn học cung cấp cho sinh viên các kiến thức chung về thực hành thí nghiệm máy điện nhằm xác định thông số và đặc tính làm việc các loại máy điện, kiến thức công nghệ về lắp ráp, vận hành, sửa chữa máy điện. Biết, hiểu, thực hiện các thí nghiệm xác định thông số và đặc tính làm việc của các loại máy điện 1 chiều, xoay chiều, máy biến áp và các loại máy điện đặc biệt như động cơ DC brusless, động cơ bước (stepper) trong công nghiệp . Hình thành kỹ năng kiểm tra, vận hành, sửa chữa, quấn dây, lắp ráp máy điện. 1 9.23 Vi xử lý
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật số
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về vai trò chức năng của vi xử lý, hệ thống vi xử lý, sự ra đời của vi điều khiển. Cấu trúc bên 3 trong vi điều khiển 8 bit, nguyên lý hoạt động của vi điều khiển 8 bit. Cấu trúc và nguyên lý hoạt động các thiết bị ngoại vi của vi điều khiển như timer/counter, chuyển đổi tương tự sang số, ngắt, điều chế độ rộng xung, truyền dữ liệu UART, SPI, I2C. Các kiến thức cơ bản về ngôn ngữ lập trình hợp ngữ và kiến thức chuyên sâu về ngôn ngữ C để lập trình cho các ứng dụng điều khiển của vi điều khiển, các mạch ứng dụng dùng vi điều khiển 9.24 Điện tử công suất 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điện tử cơ bản
+Tóm tắt nội dung học phần: Học phần điện tử công suất trang bị cho sinh viên các kiến thức về các linh kiện điện tử công suất cơ bản, về các mạch biến đổi điện năng như: Các mạch đổi điện xoay chiều sang một chiều không điều chỉnh điện áp; Các mạch đổi điện xoay chiều sang một chiều có điều chỉnh điện áp; Các mạch điều chỉnh, đóng ngắt điện áp xoay chiều; Các mạch biến đổi điện áp một chiều sang một chiều; Các mạch nghịch lưu, biến tần vv… Ngoài ra học phần còn cung cấp các phương pháp phân tích, thiết kế và tính toán các thông số của các mạch biến đổi điện tử công suất, các nguyên tắc tạo xung điều khiển đồng bộ cho SCR và phần mềm chuyên dùng để mô phỏng các mạch ĐTCS. 9.25 Hệ thống điều khiển tự động 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán ứng dụng cho kỹ sư, Mạch điện, Điện tử cơ bản
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về các thành phần của một hệ thống điều khiển tự động tuyến tính liên tục, các phương pháp xây dựng mô hình toán học của hệ thống điều khiển tự động bao gồm: hàm truyền đạt, grapth tín hiệu và phương trình trạng thái, vấn đề điều khiển được và quan sát được, các phương pháp khảo sát ổn định của hệ thống điều khiển tự động, các phương pháp đánh giá chất lượng của hệ thống điều khiển: độ chính xác, miền thời gian, miền tần số và các phương pháp thiết kế hệ thống điều khiển tự động sao cho hệ ổn định và đạt được các chỉ tiêu chất lượng đề ra. 9.26 Thực tập điện tử công suất 2
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Điện tử công suất, Thực tập điện tử.
+Tóm tắt nội dung học phần: Môn học này người học thực hiện các nội dung về lắp ráp các mạch, phân tích quá trình hoạt động, vẽ dạng sóng, đo kiểm các thông số cơ bản của các mạch chỉnh lưu, mạch điều chỉnh, đóng ngắt điện áp xoay chiều, mạch nghịch lưu, mạch biến đổi điện áp DC – DC; Xác định sự cố, khắc phục và sửa chữa các mạch thực tập tại xưởng và trong thực tế; Tính toán thiết kế các mạch tạo xung điều khiển đồng bộ, các mạch điều chế… 9.27 Thực tập vi xử lý 2
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết: trong vi điều khiển 8 bit, nguyên lý hoạt động của vi điều khiển 8 bit. Cấu trúc và nguyên lý hoạt động các thiết bị ngoại vi của vi điều khiển như timer/counter, chuyển đổi tương tự sang số, ngắt, điều chế độ rộng xung, truyền dữ liệu UART, SPI, I2C. Các kiến thức cơ bản về ngôn ngữ lập trình hợp ngữ và kiến thức chuyên sâu về ngôn ngữ C để lập trình cho các ứng dụng điều khiển của vi điều khiển, các mạch ứng dụng dùng vi điều khiển 9.24 Điện tử công suất
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điện tử cơ bản
+Tóm tắt nội dung học phần: Học phần điện tử công suất trang bị cho sinh viên các kiến thức về các linh kiện điện tử công suất cơ bản, về các mạch biến đổi điện năng như: Các mạch đổi điện xoay chiều sang một chiều không điều chỉnh điện áp; Các mạch đổi điện xoay chiều sang một chiều có điều chỉnh điện áp; Các mạch điều chỉnh, đóng ngắt điện áp xoay chiều; Các mạch biến đổi điện áp một chiều sang một chiều; Các mạch nghịch lưu, biến tần vv… Ngoài ra học phần còn cung cấp các phương pháp phân tích, thiết kế và tính toán các thông số của các mạch biến đổi điện tử công suất, các nguyên tắc tạo xung điều khiển đồng bộ cho SCR và phần mềm chuyên dùng để mô phỏng các mạch ĐTCS. 3 9.25 Hệ thống điều khiển tự động
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Toán ứng dụng cho kỹ sư, Mạch điện, Điện tử cơ bản
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về các thành phần của một hệ thống điều khiển tự động tuyến tính liên tục, các phương pháp xây dựng mô hình toán học của hệ thống điều khiển tự động bao gồm: hàm truyền đạt, grapth tín hiệu và phương trình trạng thái, vấn đề điều khiển được và quan sát được, các phương pháp khảo sát ổn định của hệ thống điều khiển tự động, các phương pháp đánh giá chất lượng của hệ thống điều khiển: độ chính xác, miền thời gian, miền tần số và các phương pháp thiết kế hệ thống điều khiển tự động sao cho hệ ổn định và đạt được các chỉ tiêu chất lượng đề ra. 3 9.26 Thực tập điện tử công suất
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Điện tử công suất, Thực tập điện tử.
+Tóm tắt nội dung học phần: Môn học này người học thực hiện các nội dung về lắp ráp các mạch, phân tích quá trình hoạt động, vẽ dạng sóng, đo kiểm các thông số cơ bản của các mạch chỉnh lưu, mạch điều chỉnh, đóng ngắt điện áp xoay chiều, mạch nghịch lưu, mạch biến đổi điện áp DC – DC; Xác định sự cố, khắc phục và sửa chữa các mạch thực tập tại xưởng và trong thực tế; Tính toán thiết kế các mạch tạo xung điều khiển đồng bộ, các mạch điều chế… 2 9.27 Thực tập vi xử lý
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết: 2
+Điều kiện môn học trước: Vi xử lý.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các bài thực hành lập trình dùng vi điều khiển để điều khiển các đối tượng để báo hiệu trạng thái hiển thị thông tin như led đơn, led 7 đoạn theo phương pháp trực tiếp, led 7 đoạn theo phương pháp quét, LCD, GLCD, led ma trận. Các đối tượng ngõ vào như nút nhấn, bàn phím ma trận, các cảm biến số, cảm biến tương tự kết hợp ADC như cảm biến nhiệt độ, cảm biến đo khoảng cách, cảm biến chuyển động. Giao tiếp các thiết bị theo chuẩn I2C như đồng hồ thời gian thực, bộ nhớ Eeprom nối tiếp, ADC/DAC. Các ứng dụng counter dùng để đếm xung ngoại, các ứng dụng timer dùng để định thời điều khiển.
+Điều khiển động cơ bước và động cơ DC cùng với điều chế độ rộng xung PWM. 9.28 TT Hệ thống điều khiển tự động 2
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Hệ thống điều khiển tự động
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên khả năng vận lý thuyết môn hệ thống điều khiển tự động và điều khiển thông minh trong việc khảo sát, phân tích và điều khiển các hệ thống trong thực tế. Thông qua môn học này, sinh viên có khả năng phân tích, thiết kế phần cứng cho các hệ thống tuyến tính và phi tuyến đơn giản đồng thời điều khiển các hệ thống này bằng các phương pháp đơn giản và hiện đại. 9.29 Kỹ thuật Robot 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động, Vi xử lý
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên ngành Công nghệ kỹ thuật điều khiển và tự động hoá những kiến thức cơ bản về động học và động lực học tay máy, các phép chuyển đổi hệ tọa độ dùng trong tính toán động học thuận, động học nghịch tay máy, tính toán động lực học robot, giải bài toán động học thuận & động học nghịch cánh tay robot, thiết kế được mô hình 3D cánh tay robot bằng phần mềm thiết kế cơ khí Solidworks và sau đó lập trình mô phỏng động học thuận và động học nghịch cánh tay robot trên phần mềm Matlab. 9.30 Trang bị điện và Khí nén 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: TT Điện, Điện tử công suất, Máy điện
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức về các phần tử của thiết bị điện, điện tử, khí nén, biến tần. Các mạch điều khiển dùng tiếp điểm, điều khiển khí nén, cách điều khiển biến tần, các mạch điều khiển máy công cụ. 9.31 Điều khiển lập trình 3
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Máy điện, Vi xử lý, Kỹ thuật số,
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về các phương pháp xác định ngõ ra của cảm biến, cách tính toán giá trị ngõ ra theo yêu cầu,
+Điều kiện môn học trước: Vi xử lý.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các bài thực hành lập trình dùng vi điều khiển để điều khiển các đối tượng để báo hiệu trạng thái hiển thị thông tin như led đơn, led 7 đoạn theo phương pháp trực tiếp, led 7 đoạn theo phương pháp quét, LCD, GLCD, led ma trận. Các đối tượng ngõ vào như nút nhấn, bàn phím ma trận, các cảm biến số, cảm biến tương tự kết hợp ADC như cảm biến nhiệt độ, cảm biến đo khoảng cách, cảm biến chuyển động. Giao tiếp các thiết bị theo chuẩn I2C như đồng hồ thời gian thực, bộ nhớ Eeprom nối tiếp, ADC/DAC. Các ứng dụng counter dùng để đếm xung ngoại, các ứng dụng timer dùng để định thời điều khiển.
+Điều khiển động cơ bước và động cơ DC cùng với điều chế độ rộng xung PWM. 9.28 TT Hệ thống điều khiển tự động
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Hệ thống điều khiển tự động
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên khả năng vận lý thuyết môn hệ thống điều khiển tự động và điều khiển thông minh trong việc khảo sát, phân tích và điều khiển các hệ thống trong thực tế. Thông qua môn học này, sinh viên có khả năng phân tích, thiết kế phần cứng cho các hệ thống tuyến tính và phi tuyến đơn giản đồng thời điều khiển các hệ thống này bằng các phương pháp đơn giản và hiện đại. 2 9.29 Kỹ thuật Robot
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động, Vi xử lý
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên ngành Công nghệ kỹ thuật điều khiển và tự động hoá những kiến thức cơ bản về động học và động lực học tay máy, các phép chuyển đổi hệ tọa độ dùng trong tính toán động học thuận, động học nghịch tay máy, tính toán động lực học robot, giải bài toán động học thuận & động học nghịch cánh tay robot, thiết kế được mô hình 3D cánh tay robot bằng phần mềm thiết kế cơ khí Solidworks và sau đó lập trình mô phỏng động học thuận và động học nghịch cánh tay robot trên phần mềm Matlab. 3 9.30 Trang bị điện và Khí nén
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: TT Điện, Điện tử công suất, Máy điện
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức về các phần tử của thiết bị điện, điện tử, khí nén, biến tần. Các mạch điều khiển dùng tiếp điểm, điều khiển khí nén, cách điều khiển biến tần, các mạch điều khiển máy công cụ. 3 9.31 Điều khiển lập trình
+Phân bố thời gian học tập: 3(3/0/6)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Máy điện, Vi xử lý, Kỹ thuật số,
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về các phương pháp xác định ngõ ra của cảm biến, cách tính toán giá trị ngõ ra theo yêu cầu, 3 các kiểu kết nối các loại cảm biến và cơ cấu chấp hành với bộ điều khiển PLC, chức năng và nguyên lý hoạt động của PLC và ứng dụng tập lệnh. 9.32 ĐAMH Điều khiển tự động 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên kỹ năng ứng dụng kiến thức chuyên ngành Điều Khiển Tự Động vào thực tế thông qua việc thực hiện một đề tài cụ thể, tăng cường kiến thức, khả năng ứng dụng các môn học lý thuyết vào thực tế.
+Học phần còn giúp sinh viên tăng cường kỹ năng nghiên cứu khoa học, biết cách tổng hợp tài liệu, lập trình mô phỏng, và điều khiển, thiết kế và thi công một sản phẩm điện tử thực tế, viết báo cáo và trình bày kết quả nghiên cứu. 9.33 TT Kỹ thuật Robot 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật Robot
+Tóm tắt nội dung học phần: học phần TT Kỹ thuật Robot trang bị cho sinh viên ngành
+Công nghệ kỹ thuật điều khiển và tự động hoá những kiến thức về thiết kế một mô hình cánh tay robot công nghiệp thực tế bằng phần mềm thiết kế cơ khí 3D chuyên dụng
+Solidworks, kiến thức về lập trình điều khiển các loại động cơ sử dụng trong truyền động cơ khí cho cánh tay robot như động cơ DC/DC Servo, RC Servo, động cơ bước (step motor), xylanh khí nén,... Học phần cũng trang bị cho sinh viên các kiến thức về lập trình điều khiển robot với các KIT Arduino, KIT STM (ARM),... Sinh viên sẽ được học thực hành lập trình điều khiển động học thuận và động học nghịch tay máy robot trên cả hệ thống robot công nghiệp thực tế lẫn mô hình cánh tay robot sinh viên tự thiết kế. Sinh viên cũng được trang bị kiến thức về lập trình điều khiển cánh tay robot công nghiệp với các ngôn ngữ lập trình Matlab, C#.NET,... Ngoài ra, sinh viên cũng được học thiết kế và lập trình điều khiển cho các mô hình robot khác như robot nhện 4 chân, robot hai bánh tự cân bằng, robot CNC 3 bậc tự do. 9.34 Thực tập điều khiển lập trình 2
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Điều khiển lập trình.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các kỹ năng về kết nối các loại cảm biến vào bộ điều khiển; tính toán và lựa chọn thiết bị lập trình phù hợp theo yêu cầu và lập trình điều khiển cho hệ thống công nghiệp theo yêu cầu. 9.35 TT Trang bị điện và Khí nén 1
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Trang bị điện và Khí nén
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức về các thiết bị điện điện tử, khí nén; kỹ năng thiết kế lắp ráp mạch điều khiển tiếp điểm, mạch điện khí nén. Ngoài ra sinh viên còn được trang bị kiến thức và kỹ năng cài đặt, vận hành các các kiểu kết nối các loại cảm biến và cơ cấu chấp hành với bộ điều khiển PLC, chức năng và nguyên lý hoạt động của PLC và ứng dụng tập lệnh. 9.32 ĐAMH Điều khiển tự động
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên kỹ năng ứng dụng kiến thức chuyên ngành Điều Khiển Tự Động vào thực tế thông qua việc thực hiện một đề tài cụ thể, tăng cường kiến thức, khả năng ứng dụng các môn học lý thuyết vào thực tế.
+Học phần còn giúp sinh viên tăng cường kỹ năng nghiên cứu khoa học, biết cách tổng hợp tài liệu, lập trình mô phỏng, và điều khiển, thiết kế và thi công một sản phẩm điện tử thực tế, viết báo cáo và trình bày kết quả nghiên cứu. 1 9.33 TT Kỹ thuật Robot
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật Robot
+Tóm tắt nội dung học phần: học phần TT Kỹ thuật Robot trang bị cho sinh viên ngành
+Công nghệ kỹ thuật điều khiển và tự động hoá những kiến thức về thiết kế một mô hình cánh tay robot công nghiệp thực tế bằng phần mềm thiết kế cơ khí 3D chuyên dụng
+Solidworks, kiến thức về lập trình điều khiển các loại động cơ sử dụng trong truyền động cơ khí cho cánh tay robot như động cơ DC/DC Servo, RC Servo, động cơ bước (step motor), xylanh khí nén,... Học phần cũng trang bị cho sinh viên các kiến thức về lập trình điều khiển robot với các KIT Arduino, KIT STM (ARM),... Sinh viên sẽ được học thực hành lập trình điều khiển động học thuận và động học nghịch tay máy robot trên cả hệ thống robot công nghiệp thực tế lẫn mô hình cánh tay robot sinh viên tự thiết kế. Sinh viên cũng được trang bị kiến thức về lập trình điều khiển cánh tay robot công nghiệp với các ngôn ngữ lập trình Matlab, C#.NET,... Ngoài ra, sinh viên cũng được học thiết kế và lập trình điều khiển cho các mô hình robot khác như robot nhện 4 chân, robot hai bánh tự cân bằng, robot CNC 3 bậc tự do. 1 9.34 Thực tập điều khiển lập trình
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Điều khiển lập trình.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các kỹ năng về kết nối các loại cảm biến vào bộ điều khiển; tính toán và lựa chọn thiết bị lập trình phù hợp theo yêu cầu và lập trình điều khiển cho hệ thống công nghiệp theo yêu cầu. 2 9.35 TT Trang bị điện và Khí nén
+Phân bố thời gian học tập: 1 (0/1/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Trang bị điện và Khí nén
+Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên kiến thức về các thiết bị điện điện tử, khí nén; kỹ năng thiết kế lắp ráp mạch điều khiển tiếp điểm, mạch điện khí nén. Ngoài ra sinh viên còn được trang bị kiến thức và kỹ năng cài đặt, vận hành các 1 biến tần công nghiệp, kỹ năng kết nối và lập trình PLC điều khiển biến tần. 9.36 ĐAMH Kỹ thuật Robot 1
+Phân bố thời gian học tập: 1 (1/0/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật Robot
+Tóm tắt nội dung học phần: 9.37 ĐAMH Điều khiển lập trình 1
+Phân bố thời gian học tập: 1 (1/0/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điều khiển lập trình
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên kiến thức về cảm biến, cơ cấu chấp hành, lập trình PLC cùng với kỹ năng thiết kế và lập trình cho một ứng dụng của PLC trong thực tế. Ngoài ra sinh viên còn có kỹ năng phân tích đưa ra ý tưởng và chọn thiết bị, thi công một hệ thống thực tế, có kiến thức về hệ SCADA công nghiệp và kỹ năng thiết kế hệ SCADA công nghiệp. 9.38 Hệ thống SCADA 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điều khiển lập trình
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức về cấu trúc, phân loại , ứng dụng của hệ thống thu thập dữ liệu, điều khiển và giám sát, các chuẩn truyền, bus truyền, các thành phần trong mạng truyền thông công nghiệp. Cách ghép nối PC và PLC trong mạng truyền thông. Truyền thông qua các mạng phổ biến như
+Devicenet, Controlnet, Modbus, ASI, Profibus, Ethernet IP… Ngoài ra, sinh viên còn được trang bị kiến thức về hệ SCADA và các phần mềm SCADA. 9.39 Điều khiển thông minh 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Đây là môn học năng cao cho ngành điều khiển tự động, nhằm cung cấp cho sinh viên kiến thức cơ bản về phương pháp thiết kế các bộ điều khiển thông minh cho hệ thống điều khiển tự động. 9.40 Nhận dạng và điều khiển hệ thống 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên ngành Công nghệ kỹ thuật điều khiển và tự động hóa những kiến thức cơ bản về các phương pháp nhận dạng mô hình không tham số: phân tích đáp ứng quá độ, phân tích tương quan, phân tích đáp ứng tần số, phân tích Fourier và phân tích phổ; cấu trúc mô hình có tham số và các phương pháp nhận dạng mô hình có tham số như phương pháp bình phương tối thiểu tuyến tính, biến tần công nghiệp, kỹ năng kết nối và lập trình PLC điều khiển biến tần. 9.36 ĐAMH Kỹ thuật Robot
+Phân bố thời gian học tập: 1 (1/0/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Kỹ thuật Robot
+Tóm tắt nội dung học phần: 1 9.37 ĐAMH Điều khiển lập trình
+Phân bố thời gian học tập: 1 (1/0/2)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điều khiển lập trình
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên kiến thức về cảm biến, cơ cấu chấp hành, lập trình PLC cùng với kỹ năng thiết kế và lập trình cho một ứng dụng của PLC trong thực tế. Ngoài ra sinh viên còn có kỹ năng phân tích đưa ra ý tưởng và chọn thiết bị, thi công một hệ thống thực tế, có kiến thức về hệ SCADA công nghiệp và kỹ năng thiết kế hệ SCADA công nghiệp. 1 9.38 Hệ thống SCADA
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: Điều khiển lập trình
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức về cấu trúc, phân loại , ứng dụng của hệ thống thu thập dữ liệu, điều khiển và giám sát, các chuẩn truyền, bus truyền, các thành phần trong mạng truyền thông công nghiệp. Cách ghép nối PC và PLC trong mạng truyền thông. Truyền thông qua các mạng phổ biến như
+Devicenet, Controlnet, Modbus, ASI, Profibus, Ethernet IP… Ngoài ra, sinh viên còn được trang bị kiến thức về hệ SCADA và các phần mềm SCADA. 3 9.39 Điều khiển thông minh
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Đây là môn học năng cao cho ngành điều khiển tự động, nhằm cung cấp cho sinh viên kiến thức cơ bản về phương pháp thiết kế các bộ điều khiển thông minh cho hệ thống điều khiển tự động. 3 9.40 Nhận dạng và điều khiển hệ thống
+Phân bố thời gian học tập: 3 (3/0/6)
+Điều kiện tiên quyết: Không
+Điều kiện môn học trước: HT điều khiển tự động
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên ngành Công nghệ kỹ thuật điều khiển và tự động hóa những kiến thức cơ bản về các phương pháp nhận dạng mô hình không tham số: phân tích đáp ứng quá độ, phân tích tương quan, phân tích đáp ứng tần số, phân tích Fourier và phân tích phổ; cấu trúc mô hình có tham số và các phương pháp nhận dạng mô hình có tham số như phương pháp bình phương tối thiểu tuyến tính, 3 phương pháp sai số dự báo, phương pháp biến công cụ, hệ thống điều khiển tự động tuyến tính bất biến rời rạc, hệ thống điều khiển đa biến tuyến tính và hệ thống phi tuyến. Mô hình toán học, các phương pháp xét tính ổn định, thiết kế hệ thống được khảo sát và ứng dụng phần mềm để phân tích, tổng hợp hệ thống… 9.41 Thực tập tốt nghiệp 2
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Thực tập điều khiển lập trình, Thực tập vi xử lý
+Tóm tắt nội dung học phần: Sinh viên được giới thiệu đến các công ty trong nước và nước ngoài, các đơn vị sản xuất trong ngành công nghiệp chuyên về điện tử để tập sự, làm các công việc thực tế của một kỹ sư điều khiển và tự động hóa tương lai dưới sự hướng dẫn và điều động của đơn vị tiếp nhận thực tập. 9.42 Khóa luận tốt nghiệp 7
+Phân bố thời gian học tập: 7 (0/0/14)
+Điều kiện tiên quyết: tích lũy đủ số TC theo qui định
+Điều kiện môn học trước:
+Tóm tắt nội dung học phần: Học phần này giúp cho sinh viên ứng dụng các kiến thức đã học trong việc thiết kế, thi công một hệ thống điều khiển nhằm đáp ứng các yêu cầu đề ra. Qua đó thể hiện khả năng tự tìm tài liệu, khả năng viết báo cáo, khả năng lên kế hoạch, khả năng làm việc nhóm cũng như khả năng trình bày. Ngoài ra, còn giúp cho sinh viên nâng cao khả năng phát hiện và giải quyết vấn đề.
+Các môn tự chọn 10. Cơ sở vật chất phục vụ học tập 10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng - Phòng Thực tập Điện - Thực tập Máy điện - Thực tập Điện tử - Thực tập Điện tử công suất - Thực tập Kỹ thuật số - Thực tập Vi xử lý - Thực tập Điều khiển tự động - Thực tập Kỹ thuật Robot - Thực tập Điều khiển lập trình - Thực tập Trang bị điện và Khí nén 10.2. Thư viện, trang Web - Thư viện trường ĐH SPKT TPHCM - Thư viện Khoa CLC trường ĐH SPKT TPHCM - Thư viện điện tử trường ĐH SPKT TPHCM http://lib.edugix.com/login http://ute.edugix.com/login - https://openknowledge.worldbank.org/ - http://www.worldbank.org/vi/country/vietnam phương pháp sai số dự báo, phương pháp biến công cụ, hệ thống điều khiển tự động tuyến tính bất biến rời rạc, hệ thống điều khiển đa biến tuyến tính và hệ thống phi tuyến. Mô hình toán học, các phương pháp xét tính ổn định, thiết kế hệ thống được khảo sát và ứng dụng phần mềm để phân tích, tổng hợp hệ thống… 9.41 Thực tập tốt nghiệp
+Phân bố thời gian học tập: 2 (0/2/4)
+Điều kiện tiên quyết:
+Điều kiện môn học trước: Thực tập điều khiển lập trình, Thực tập vi xử lý
+Tóm tắt nội dung học phần: Sinh viên được giới thiệu đến các công ty trong nước và nước ngoài, các đơn vị sản xuất trong ngành công nghiệp chuyên về điện tử để tập sự, làm các công việc thực tế của một kỹ sư điều khiển và tự động hóa tương lai dưới sự hướng dẫn và điều động của đơn vị tiếp nhận thực tập. 2 9.42 Khóa luận tốt nghiệp
+Phân bố thời gian học tập: 7 (0/0/14)
+Điều kiện tiên quyết: tích lũy đủ số TC theo qui định
+Điều kiện môn học trước:
+Tóm tắt nội dung học phần: Học phần này giúp cho sinh viên ứng dụng các kiến thức đã học trong việc thiết kế, thi công một hệ thống điều khiển nhằm đáp ứng các yêu cầu đề ra. Qua đó thể hiện khả năng tự tìm tài liệu, khả năng viết báo cáo, khả năng lên kế hoạch, khả năng làm việc nhóm cũng như khả năng trình bày. Ngoài ra, còn giúp cho sinh viên nâng cao khả năng phát hiện và giải quyết vấn đề. 7
+Các môn tự chọn 11. Hướng dẫn thực hiện chương trình a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau: 1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp = 30 giờ thí nghiệm hoặc thực hành = 45 giờ tự học = 45  90 giờ thực tập tại cơ sở. = 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15. b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa

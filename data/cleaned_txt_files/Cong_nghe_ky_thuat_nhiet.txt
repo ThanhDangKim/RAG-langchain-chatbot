@@ -1,0 +1,699 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CÔNG NGHỆ KỸ THUẬT NHIỆT (Ban hành tại Quyết định số1848/QĐ-ĐHSPKT-ĐTngày30 tháng 10 năm 2017 của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình:CÔNG NGHỆ KỸ THUẬT NHIỆT
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT NHIỆT
+Tên tiếng Anh:THERMAL ENGINEERING TECHNOLOGY
+Trình độ đào tạo:ĐẠI HỌC
+Mã số: 52510206
+Hình thức đào tạo:CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT NHIỆT
+Trình độ đào tạo:Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT NHIỆT
+Mã ngành: 52510206
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: (Ban hành tại Quyết định số1878/QĐ-ĐHSPKT-ĐTngày30 tháng 10 năm 2017của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo:4 năm 2. Đối tượng tuyển sinh:Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chếđào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có khả năngthực hành, khả năng làm việc độc lập, sáng tạo và giải quyết những vấn đề trong lĩnh vực nhiệt điện lạnh; có khả năng học tập nâng cao trình độ; có sức khỏe, có trách nhiệm nghề nghiệp, thích nghi với môi trường làm việc trong các tổ chức, đơn vị có hoạt động liên quan đến lĩnh vực nhiệt điện lạnh, đáp ứng nhu cầu xã hội, phục vụ nhân dân, phục vụ yêu cầu phát triển kinh tế - xã hội và hội nhập quốc tế của đất nước.
+Đào tạo kỹ sư ngành Công nghệ kỹ thuật Nhiệt có phẩm chất chính trị, đạo đức; có kiến thức toàn diện về các nguyên lý, quy luật tự nhiên - xã hội, kiến thức khoa học cơ bản, kiến thức cơ sở và chuyên ngành về nhiệt điện lạnh.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực: 1. Kiến thức và lập luận kỹ thuật 2. Kỹ năng và tố chất cá nhân và chuyên nghiệp 3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp 4. Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh doanh nghiệp, xã hội và môi trường – quá trình sáng tạo
+Chuẩn đầu ra (Program outcomes)
+Trình
+Ký
+Chuẩn đầu ra độ năng hiệu lực 1. KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT
+Ứng dụng các kiến thức cơ bản về toán học và khoa học tự nhiêntrong kỹ 1.1 3 thuật và có khả năng học tập ở trình độ cao hơn 1.2 Ứng dụng kiến thức cơ sở ngành trong lĩnh vực công nghệ nhiệt, điện lạnh 3
+Ứng dụng kiến thức chuyên môn trong việc tính toán, thiết kế, vận hành, 1.3 3 thử nghiệm và chẩn đoán các hệ thống nhiệt, điện lạnh 2. KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP
+Phân tích, giải thích và lập luận giải quyết các vấn đề kỹ thuật nhiệt, điện 2.1 4 lạnh 2.2 Thực nghiệm và khám phá tri thức các vấn đề kỹ thuật nhiệt, điện lạnh. 4
+Khả năng tư duy và suy nghĩ có hệ thống đến các vấn đề kỹ thuật nhiệt, 2.3 3 điện lạnh
+Có các kỹ năng chuyên môn, quản lý nhằm nâng cao hiệu quả hoạt động 2.4 3 trong lĩnh vực nhiệt, điện lạnh
+Có đạo đức nghề nghiệp, ý thức bảo vệ môi trường và tác phong làm việc 2.5 3 chuyên nghiệp 3. KỸ NĂNG GIAO TIẾP VÀ LÀM VIỆC THEO NHÓM 3.1 Có kỹ năng sáng tạo và khởi nghiệp 3 3.2 Có khả năng lãnh đạo, làm việc nhóm và học tập suốt đời 3 3.3 Có kỹ năng giao tiếp và sử dụng tiếng Anhchuyên ngành 3
+HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN 4. HÀNH TRONG BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ
+MÔI TRƯỜNG – QUÁ TRÌNH SÁNG TẠO 4.1 Nhận thức và phân tich được bối cảnh bên ngoài xã hội và doanh nghiệp 4
+Ký hiệu Chuẩn đầu ra Trình độ năng lực 1. KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT 1.1 Ứng dụng các kiến thức cơ bản về toán học và khoa học tự nhiêntrong kỹ thuật và có khả năng học tập ở trình độ cao hơn 3 1.2 Ứng dụng kiến thức cơ sở ngành trong lĩnh vực công nghệ nhiệt, điện lạnh 3 1.3 Ứng dụng kiến thức chuyên môn trong việc tính toán, thiết kế, vận hành, thử nghiệm và chẩn đoán các hệ thống nhiệt, điện lạnh 3 2. KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP 2.1 Phân tích, giải thích và lập luận giải quyết các vấn đề kỹ thuật nhiệt, điện lạnh 4 2.2 Thực nghiệm và khám phá tri thức các vấn đề kỹ thuật nhiệt, điện lạnh. 4 2.3 Khả năng tư duy và suy nghĩ có hệ thống đến các vấn đề kỹ thuật nhiệt, điện lạnh 3 2.4 Có các kỹ năng chuyên môn, quản lý nhằm nâng cao hiệu quả hoạt động trong lĩnh vực nhiệt, điện lạnh 3 2.5 Có đạo đức nghề nghiệp, ý thức bảo vệ môi trường và tác phong làm việc chuyên nghiệp 3 3. KỸ NĂNG GIAO TIẾP VÀ LÀM VIỆC THEO NHÓM 3.1 Có kỹ năng sáng tạo và khởi nghiệp 3 3.2 Có khả năng lãnh đạo, làm việc nhóm và học tập suốt đời 3 3.3 Có kỹ năng giao tiếp và sử dụng tiếng Anhchuyên ngành 3 4. HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN
+HÀNH TRONG BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ
+MÔI TRƯỜNG – QUÁ TRÌNH SÁNG TẠO 4.1 Nhận thức và phân tich được bối cảnh bên ngoài xã hội và doanh nghiệp 4
+Có khả năng hình thành ý tưởng về các hệ thống trong lĩnh vực nhiệt – điện 4.2 4 lạnh
+Có khả năng tính toán, thiết kế, mô phỏng, lắp đặt và vận hành hoạt động 4.3 5 của các bộ phận cấu thành nên các hệ thống nhiệt, điện lạnh
+CHUẨN ĐẦU RA MỞ RỘNG
+Có khả năng lãnh đạo, làm việc nhóm và giải quyết các vấn đề kỹ 4.4 3 thuật liên quan trong ngành nhiệt 4.5 Có kiến thức khởi nghiệp, kinh doanh trong lĩnh vực nhiệt 3 (Khoa quản CTĐT xem xét đưa thêm phần mở rộng 4.7. Nỗ lực trong lãnh đạo kỹ thuật và 4.8.
+Kinh doanh trong kỹ thuật của Đề cương CDIO vào CĐR)
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định 1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận
+Đạt yêu 2.0 < TĐNL ≤3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo 3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp
+Thành thạo 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất 5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. (Xem thêm văn bản hướng dẫn xây dựng CTĐT phần xác định trình độ năng lực) 4.2 Có khả năng hình thành ý tưởng về các hệ thống trong lĩnh vực nhiệt – điện lạnh 4 4.3 Có khả năng tính toán, thiết kế, mô phỏng, lắp đặt và vận hành hoạt động của các bộ phận cấu thành nên các hệ thống nhiệt, điện lạnh 5
+CHUẨN ĐẦU RA MỞ RỘNG 4.4 Có khả năng lãnh đạo, làm việc nhóm và giải quyết các vấn đề kỹ thuật liên quan trong ngành nhiệt 3 4.5 Có kiến thức khởi nghiệp, kinh doanh trong lĩnh vực nhiệt 3
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định 1.0 < TĐNL ≤ 2.0 Đạt yêu cầu Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận 2.0 < TĐNL ≤3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo 3.0 < TĐNL ≤ 4.0 Thành thạo Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 5. Khối lượng kiến thức toàn khoá:132tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+Phần Ngoại ngữ sẽ thực hiện theo Đề án Phát triển năng lực ngoại ngữ của trường và không đưa vào chương trình đào tạo. 6. Phân bổ khối lượng các khối kiến thức
+TT TÊN MÔN HỌC Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 39
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Toán kinh tế 1 - 5 Toán kinh tế 2 - 6 Xác suất thống kê ứng dụng 3 7 Vật lý 1 3 8 Vật lý 2 3 9 Thí nghiệm vật lý 1 1 10 Hoá học cho kỹ thuật 3
+III. Nhập môn ngành 3 (2+1)
+Nhập môn ngành Công nghệ Kỹ thuật Nhiệt 3
+IV. Tin học 2 1 Tin học dành cho kỹ sư _Matlab 2(1+1)
+B. Khối kiến thức tự chọn 10
+V. Khoa học xã hội nhân văn (theo danh mục)
+VI. Toán học và KHTN 1 Toán cao cấp dành cho kỹ sư 1 3 2 Toán cao cấp dành cho kỹ sư 2 3 3 Đại số và ứng dụng 4 4 Vật lý 3 3 5 Thí nghiệm vật lý 2 1
+VII. Khác (các khoa đề xuất)
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất
+TT TÊN MÔN HỌC Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 39
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Toán kinh tế 1 - 5 Toán kinh tế 2 - 6 Xác suất thống kê ứng dụng 3 7 Vật lý 1 3 8 Vật lý 2 3 9 Thí nghiệm vật lý 1 1 10 Hoá học cho kỹ thuật 3
+III. Nhập môn ngành 3 (2+1)
+Nhập môn ngành Công nghệ Kỹ thuật Nhiệt 3
+IV. Tin học 2 1 Tin học dành cho kỹ sư _Matlab 2(1+1)
+B. Khối kiến thức tự chọn 10
+V. Khoa học xã hội nhân văn (theo danh mục)
+VI. Toán học và KHTN 1 Toán cao cấp dành cho kỹ sư 1 3 2 Toán cao cấp dành cho kỹ sư 2 3 3 Đại số và ứng dụng 4 4 Vật lý 3 3 5 Thí nghiệm vật lý 2 1
+VII. Khác (các khoa đề xuất)
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành
+Liên ngành
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành 14
+Trong đó, thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7 7. Nội dung chương trình (tên và khối lượng các môn học bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương(39TC)
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH132601 Toán 3 3 8. MATH132901 Xác suất - thống kê ứng dụng 3 9. PHYS130902 Vật lý 1 3 10. PHYS131002 Vật lý 2 3 11. PHYS111202 Thí nghiệm vật lý 1 1 12. GCHE130603 Hoá học cho kỹ thuật 3 13. IPRM121585 Tin học dành cho kỹ sư _Lập trình 2
+Matlab 14. INTE130132 Nhập môn ngành Công nghệ Kỹ 3 thuật Nhiệt 15. PHED110513 Giáo dục thể chất 1 1 16. PHED110613 Giáo dục thể chất 2 1 17. PHED130715 Giáo dục thể chất 3 3 18. - Giáo dục quốc phòng 165 tiết
+Tổng 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành 59
+Cơ sở ngành
+Liên ngành
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp 14
+Khóa luận tốt nghiệp 7
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH132401 Toán 1 3 6. MATH132501 Toán 2 3 7. MATH132601 Toán 3 3 8. MATH132901 Xác suất - thống kê ứng dụng 3 9. PHYS130902 Vật lý 1 3 10. PHYS131002 Vật lý 2 3 11. PHYS111202 Thí nghiệm vật lý 1 1 12. GCHE130603 Hoá học cho kỹ thuật 3 13. IPRM121585 Tin học dành cho kỹ sư _Lập trình
+Matlab 2 14. INTE130132 Nhập môn ngành Công nghệ Kỹ thuật Nhiệt 3 15. PHED110513 Giáo dục thể chất 1 1 16. PHED110613 Giáo dục thể chất 2 1 17. PHED130715 Giáo dục thể chất 3 3 18. - Giáo dục quốc phòng 165 tiết
+Tổng 7.2. Kiến thức giáo dục chuyên nghiệp70TC 7.2.1. Kiến thức cơ sở nhóm ngành và ngành 23TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. THME230721 Cơ lý thuyết 3 2. STMA230521 Sức bền vật liệu 3 THME230721 3. ENDR130123 Vẽ kỹ thuật 1 3 4. MEMD230323 Nguyên lý - Chi tiết máy 3 5. AEEE230833 Kỹ thuật điện – điện tử 3 6. FLUI220132 Cơ học lưu chất ứng dụng 2 7. THER230232 Nhiệt động lực học kỹ thuật 3 8. HEAT230332 Truyền nhiệt 3
+Tổng 23 7.2.2.a Kiến thức chuyên ngành (cho các môn học lý thuyết và thí nghiệm) 23TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Hướng lý thuyết 1. REEN230532 Kỹ thuật lạnh 3 2. BOIT330632 Lò hơi 3 3. PFCO330232 Bơm, Quạt và Máy Nén 3 4. COMP330732 Máy nén và thiết bị lạnh 3 5. ACSY330932 Điều hòa không khí 3 6. THPP331032 Nhà máy nhiệt điện 3 7. DRYT331132 Kỹ thuật sấy 3 8. BPLA121808 Kế hoạch khởi nghiệp 2
+Tổng 23 7.2.2.b Kiến thức chuyên ngành (các môn học thực hành xưởng, thực tập công nghiệp)17TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Thực tập xưởng 1. RETP322132 TT điện lạnh 1 2 2. RETP332232 TT điện lạnh 2 3 3. RETP332332 TT điện lạnh 3 3 4. RETP322432 TT điện lạnh 4 2 5. BOIP322732 TT lò hơi 2 6. DRYP322932 TT sấy 2
+Tổng 14
+Thực tập tốt nghiệp 1. UNPR333032 Thực tập tốt nghiệp 3
+Tổng 3
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. THME230721 Cơ lý thuyết 3 2. STMA230521 Sức bền vật liệu 3 THME230721 3. ENDR130123 Vẽ kỹ thuật 1 3 4. MEMD230323 Nguyên lý - Chi tiết máy 3 5. AEEE230833 Kỹ thuật điện – điện tử 3 6. FLUI220132 Cơ học lưu chất ứng dụng 2 7. THER230232 Nhiệt động lực học kỹ thuật 3 8. HEAT230332 Truyền nhiệt 3
+Tổng 23
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết
+Hướng lý thuyết 1. REEN230532 Kỹ thuật lạnh 3 2. BOIT330632 Lò hơi 3 3. PFCO330232 Bơm, Quạt và Máy Nén 3 4. COMP330732 Máy nén và thiết bị lạnh 3 5. ACSY330932 Điều hòa không khí 3 6. THPP331032 Nhà máy nhiệt điện 3 7. DRYT331132 Kỹ thuật sấy 3 8. BPLA121808 Kế hoạch khởi nghiệp 2
+Tổng 23
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết
+Thực tập xưởng 1. RETP322132 TT điện lạnh 1 2 2. RETP332232 TT điện lạnh 2 3 3. RETP332332 TT điện lạnh 3 3 4. RETP322432 TT điện lạnh 4 2 5. BOIP322732 TT lò hơi 2 6. DRYP322932 TT sấy 2
+Tổng 14
+Thực tập tốt nghiệp 1. UNPR333032 Thực tập tốt nghiệp 3
+Tổng 3 7.2.3. Tốt nghiệp-7TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. UNTH472832 Khóa luận tốt nghiệp Đạt kỳ thi kiểm tra 7 năng lực “Qualified exam”
+Tổng 7
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương (Sinh viên chọn 4 môn trong các môn học sau)10TC
+Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 2 môn trong các môn học sau):4TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 Chọn 2 môn 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường 2 kỹ thuật 12. REME320690 Phương pháp nghiên cứu khoa học 2 13. BPLA121808 Kế hoạch khởi nghiệp 2
+Kiến thức giáo dục chuyên nghiệp (Sinh viên chọn 2 môn trong các môn học sau)6TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. MATH133101 Toán cao cấp dành cho kỹ sư 1 3 2. MATH133201 Toán cao cấp dành cho kỹ sư 2 3 3. PHYS131102 Vật lý 3 3 4. PHYS111302 Thí nghiệm vật lý 2 1 5. MATH143001 Đại số tuyến tính và cấu trúc đại số 4
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. UNTH472832 Khóa luận tốt nghiệp 7 Đạt kỳ thi kiểm tra năng lực “Qualified exam”
+Tổng 7
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 Chọn 2 môn 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2 13. BPLA121808 Kế hoạch khởi nghiệp 2
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. MATH133101 Toán cao cấp dành cho kỹ sư 1 3 2. MATH133201 Toán cao cấp dành cho kỹ sư 2 3 3. PHYS131102 Vật lý 3 3 4. PHYS111302 Thí nghiệm vật lý 2 1 5. MATH143001 Đại số tuyến tính và cấu trúc đại số 4
+Kiến thức chuyên ngành(Sinh viên chọn 4môn họctheo chuyên ngành của mình)7TC
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết
+Cơ sở ngành 4 1. THMA221332 Vật liệu nhiệt lạnh 2 2. METE320126 Công nghệ kim loại 2
+Chọn 2 môn 3. THME221432 Đo lường nhiệt 2 4. PHEQ220332 Máy thủy lực và khí nén 2 5. AMIC320133 Vi điều khiển ứng dụng 2
+Chuyên ngành 3 6. HEEX321532 Thiết bị trao đổi nhiệt 2
+PTPA321632 Nguyên lý tự động hóa quá trình 2 7. nhiệt 8. ENEC320832 Kinh tế năng lượng 2 Chọn 1 môn 2 TC và 1 9. STRT321732 Chuyên đề lạnh 2 môn 1 TC 10. STTT321832 Chuyên đề nhiệt 2 11. STRE321932 Chuyên đề năng lượng tái tạo 2 12. REPR310132 Đồ án lạnh 1 13. THPR310232 Đồ án nhiệt 1
+C –Kiến thức liên ngành:6TC
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành trong phần tự chọn: 1 HEEX321532 Thiết bị trao đổi nhiệt 2 2 PTPA321632 Nguyên lý tự động hóa quá trình nhiệt 2 3 ENEC320832 Kinh tế năng lượng 2 4 STRT321732 Chuyên đề lạnh 2 5 STTT321832 Chuyên đề nhiệt 2 6 STRE321932 Chuyên đề năng lượng tái tạo 2 7 IMAS320525 Bảo trì và bảo dưỡng công nghiệp 2 8 AUMP323525 Tự động hoá quá trình sản xuất 2 9 ENAE321845 Kiểm toán và tiết kiệm năng lượng 2 10 IQMA220205 Nhập môn quản trị chất lượng 2 11 ERMA321025 Năng lượng và quản lý năng lượng 2 - Xem danh sách các môn học được đề xuất trong phần Phụ lục, hoặc - Sinh viên có thể tự chọn các môn học nằm ngoài danh sách được đề xuất trên tinh thần các môn học hỗ trợ hướng phát triển nghề nghiệp sau này. SV nên nhờ tư vấn thêm từ
+Ban tư vấn để có sự lựa chọn phù hợp.
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết
+Cơ sở ngành 4 Chọn 2 môn 1. THMA221332 Vật liệu nhiệt lạnh 2 2. METE320126 Công nghệ kim loại 2 3. THME221432 Đo lường nhiệt 2 4. PHEQ220332 Máy thủy lực và khí nén 2 5. AMIC320133 Vi điều khiển ứng dụng 2
+Chuyên ngành 3 6. HEEX321532 Thiết bị trao đổi nhiệt 2 Chọn 1 môn 2 TC và 1 môn 1 TC 7. PTPA321632 Nguyên lý tự động hóa quá trình nhiệt 2 8. ENEC320832 Kinh tế năng lượng 2 9. STRT321732 Chuyên đề lạnh 2 10. STTT321832 Chuyên đề nhiệt 2 11. STRE321932 Chuyên đề năng lượng tái tạo 2 12. REPR310132 Đồ án lạnh 1 13. THPR310232 Đồ án nhiệt 1
+1 HEEX321532 Thiết bị trao đổi nhiệt 2 2 PTPA321632 Nguyên lý tự động hóa quá trình nhiệt 2 3 ENEC320832 Kinh tế năng lượng 2 4 STRT321732 Chuyên đề lạnh 2 5 STTT321832 Chuyên đề nhiệt 2 6 STRE321932 Chuyên đề năng lượng tái tạo 2 7 IMAS320525 Bảo trì và bảo dưỡng công nghiệp 2 8 AUMP323525 Tự động hoá quá trình sản xuất 2 9 ENAE321845 Kiểm toán và tiết kiệm năng lượng 2 10 IQMA220205 Nhập môn quản trị chất lượng 2 11 ERMA321025 Năng lượng và quản lý năng lượng 2
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+STT Mã môn học Tên môn học chỉ MOOC (đường link đăng ký)
+ASU, 2 credits, 16 weeks,
+Nhập môn ngành 3 1. INTE130132 https://gfa.asu.edu/courses/online- công nghệ kỹ thuật (2+1) engineering-course
+ASU, 4 credits, 8 weeks,
+Năng lượng và quản 2. ERMA321025 2 https://gfa.asu.edu/courses/introduction- lý năng lượng solar-systems-astronomy
+University of Michigan, 8 weeks, https://www.mooc-
+Nhiệt động học kỹ 3. THER230232 3 list.com/course/introduction- thuật thermodynamics-transferring-energy- here-there-coursera
+FLUI220132 Cơ học lưu chất ứng https://www.mooc-list.com/course/fluid- 4. 2 dụng mechanics-saylororg
+STRE321932 Chuyên đề năng https://www.mooc-list.com/course/wind- 5. lượng tái tạo 2 waves-and-tides-alternative-energy- systems-coursera 8. Kế hoạch giảng dạy(dự kiến, và chỉ lập cho các học kỳ chính từ 1-8 cho các ngành kỹ thuật/công nghệ và từ 1-7 cho ngành của Khoa Ngoại ngữ)
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 4. GELA220405 Pháp luật đại cương 2 5. PHED110513 Giáo dục thể chất 1 1 6. PHED110613 Giáo dục thể chất 2 1 7. PHED130715 Giáo dục thể chất 3 3
+Học kỳ 1:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 3. GCHE130603 Hoá học cho kỹ thuật 3 5 GELA220405 Pháp luật đại cương 2 1. INTE130132 Nhập môn ngành CN kỹ thuật nhiệt 3 (2+1)
+STT Mã môn học Tên môn học Số tín chỉ Môn học được xét tương đương
+MOOC (đường link đăng ký) 1. INTE130132 Nhập môn ngành công nghệ kỹ thuật 3 (2+1) ASU, 2 credits, 16 weeks, https://gfa.asu.edu/courses/online- engineering-course 2. ERMA321025 Năng lượng và quản lý năng lượng 2 ASU, 4 credits, 8 weeks, https://gfa.asu.edu/courses/introduction- solar-systems-astronomy 3. THER230232 Nhiệt động học kỹ thuật 3 University of Michigan, 8 weeks, https://www.mooc- list.com/course/introduction- thermodynamics-transferring-energy- here-there-coursera 4. FLUI220132 Cơ học lưu chất ứng dụng 2 https://www.mooc-list.com/course/fluid- mechanics-saylororg 5. STRE321932 Chuyên đề năng lượng tái tạo 2 https://www.mooc-list.com/course/wind- waves-and-tides-alternative-energy- systems-coursera
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. LLCT120314 Tư tưởng Hồ Chí Minh 2 4. GELA220405 Pháp luật đại cương 2 5. PHED110513 Giáo dục thể chất 1 1 6. PHED110613 Giáo dục thể chất 2 1 7. PHED130715 Giáo dục thể chất 3 3
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 3. GCHE130603 Hoá học cho kỹ thuật 3 5 GELA220405 Pháp luật đại cương 2 1. INTE130132 Nhập môn ngành CN kỹ thuật nhiệt 3 (2+1) 2. MATH132401 Toán 1 3 6 MATH132901 Xác suất - thống kê ứng dụng 3 7 PHED110513 Giáo dục thể chất 2 1 Không TL 4. PHYS130102 Vật lý 1 3
+Tổng: 17
+Học kỳ 2:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 5. ENDR130123 Vẽ kỹ thuật 1 3 8. FLUI220132 Cơ học lưu chất ứng dụng 2 4. IPRM121585 Tin học dành cho kỹ sư _Matlab 2 (1+1) 1. MATH132501 Toán 2 3 3. PHYS111202 Thí nghiệm vật lý 1 2. PHYS120202 Vật lý 2 3 7. THER230232 Nhiệt động lực học kỹ thuật 3 6. THME230721 Cơ lý thuyết 3
+Tổng: 20
+Học kỳ 3:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. MATH142601 Toán 3 3 2. MATH133101 Toán cao cấp dành cho kỹ sư 1 3 3. HEAT230332 Truyền nhiệt 3 4. STMA230521 Sức bền vật liệu 3 THME230721 5. AEEE230833 Kỹ thuật điện – điện tử 3 6. Môn tự chọn (KHXH&NV) (1) 2 7. MEMD230323 Nguyên lý - Chi tiết máy 3
+Tổng: 20
+Học kỳ 4:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. REEN230532 Kỹ thuật lạnh 3 2. MATH132401 Toán 1 3 6 MATH132901 Xác suất - thống kê ứng dụng 3 7 PHED110513 Giáo dục thể chất 2 1 Không TL 4. PHYS130102 Vật lý 1 3
+Tổng: 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 5. ENDR130123 Vẽ kỹ thuật 1 3 8. FLUI220132 Cơ học lưu chất ứng dụng 2 4. IPRM121585 Tin học dành cho kỹ sư _Matlab 2 (1+1) 1. MATH132501 Toán 2 3 3. PHYS111202 Thí nghiệm vật lý 1 2. PHYS120202 Vật lý 2 3 7. THER230232 Nhiệt động lực học kỹ thuật 3 6. THME230721 Cơ lý thuyết 3
+Tổng: 20
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. MATH142601 Toán 3 3 2. MATH133101 Toán cao cấp dành cho kỹ sư 1 3 3. HEAT230332 Truyền nhiệt 3 4. STMA230521 Sức bền vật liệu 3 THME230721 5. AEEE230833 Kỹ thuật điện – điện tử 3 6. Môn tự chọn (KHXH&NV) (1) 2 7. MEMD230323 Nguyên lý - Chi tiết máy 3
+Tổng: 20
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. REEN230532 Kỹ thuật lạnh 3 2. MATH133201 Toán cao cấp dành cho kỹ sư 2 3 Chọn 1 môn
+PHYS131102 Vật lý 3 3 3. THMA221332 Vật liệu nhiệt lạnh 2 Chọn 2 môn 4. METE320126 Công nghệ kim loại 2 5. THME221432 Đo lường nhiệt 2 6. PHEQ220332 Máy thủy lực và khí nén 2 7. AMIC320133 Vi điều khiển ứng dụng 2 8. BOIT330632 Lò hơi 3 9. PFCO330232 Bơm, Quạt và Máy Nén 3 10. Kiến thức liên ngành 1(tự chọn) 2 11 Môn tự chọn (KHXH&NV) (2) 2
+Tổng: 20
+Học kỳ 5:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. COMP340732 Máy nén và thiết bị lạnh 3 2. DRYT331132 Kỹ thuật sấy 3 3. Kiến thức liên ngành 2(tự chọn) 2 4. Kiến thức liên ngành 3(tự chọn) 2 5. BOIP322732 TT lò hơi 2 6. RETP322132 Thực tập điện lạnh 1 2 7. RETP332232 Thực tập điện lạnh 2 3 8. ENTE220432 Anh văn chuyên ngành 2
+Tổng: 19
+Học kỳ 6:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ACSY330932 Điều hòa không khí 3 2. THPP331032 Nhà máy nhiệt điện 3 3. Kiến thức chuyên ngành 1(tự chọn) 2 4. Kiến thức chuyên ngành 1(tự chọn) 1 5. RETP332332 Thực tập điện lạnh 3 3 2. MATH133201 Toán cao cấp dành cho kỹ sư 2 3 Chọn 1 môn
+PHYS131102 Vật lý 3 3 3. THMA221332 Vật liệu nhiệt lạnh 2 Chọn 2 môn 4. METE320126 Công nghệ kim loại 2 5. THME221432 Đo lường nhiệt 2 6. PHEQ220332 Máy thủy lực và khí nén 2 7. AMIC320133 Vi điều khiển ứng dụng 2 8. BOIT330632 Lò hơi 3 9. PFCO330232 Bơm, Quạt và Máy Nén 3 10. Kiến thức liên ngành 1(tự chọn) 2 11 Môn tự chọn (KHXH&NV) (2) 2
+Tổng: 20
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. COMP340732 Máy nén và thiết bị lạnh 3 2. DRYT331132 Kỹ thuật sấy 3 3. Kiến thức liên ngành 2(tự chọn) 2 4. Kiến thức liên ngành 3(tự chọn) 2 5. BOIP322732 TT lò hơi 2 6. RETP322132 Thực tập điện lạnh 1 2 7. RETP332232 Thực tập điện lạnh 2 3 8. ENTE220432 Anh văn chuyên ngành 2
+Tổng: 19
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. ACSY330932 Điều hòa không khí 3 2. THPP331032 Nhà máy nhiệt điện 3 3. Kiến thức chuyên ngành 1(tự chọn) 2 4. Kiến thức chuyên ngành 1(tự chọn) 1 5. RETP332332 Thực tập điện lạnh 3 3 6. RETP322432 Thực tập điện lạnh 4 2 7. DRYP322932 TT sấy 2
+Tổng: 16
+Học kỳ 7:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. UNTH332732 Thực tập tốt nghiệp 3
+Tổng: 3
+Học kỳ 8:
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. UNTH472832 Khóa luận tốt nghiệp 7
+Tổng: 7 9. Mô tả vắn tắt nội dung và khối lượng các môn học 9.1. KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 9.1.1. Các học phần bắt buộc 1. Các nguyên lý cơ bản của chủ nghĩa Mác-Lênin - LLCT150105 5TC
+Phân bố thời gian học tập: 5(5/0/10)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Nội dung ban hành tại Quyết định số 45/2002/QĐ-BGD&ĐT, ngày 29/10/2002 của Bộ trưởng Bộ Giáo dục và Đào tạo. 2. Đường lối CM của ĐCSVN - LLCT230214 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không 6. RETP322432 Thực tập điện lạnh 4 2 7. DRYP322932 TT sấy 2
+Tổng: 16
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. UNTH332732 Thực tập tốt nghiệp 3
+Tổng: 3
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1. UNTH472832 Khóa luận tốt nghiệp 7
+Tổng: 7
+Tóm tắt nội dung học phần: Nội dung ban hành tại Quyết định số 41/2003/QĐ-BGD&ĐT, ngày 27/8/2003 cuả Bộ trưởng Bộ Giáo dục và Đào tạo. 3. Tư Tưởng Hồ Chí Minh - LLCT120314 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Nội dung ban hành tại Quyết định số 35/2003/QĐ-BGD&ĐT, ngày 31/7/2003 cuả Bộ trưởng Bộ Giáo dục và Đào tạo. 4. Pháp luật đại cương - GELA220405 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Các vấn đế lý luận chung về nhà nước và pháp luật: bao gồm các vấn đề về bản chất, nguồn gốc của nhà nước và pháp luật; bộ máy nhà nước; hệ thống pháp luật Việt Nam; quan hệ pháp luật và quy phạm pháp luật.
+Một số nội dung cơ bản của một số ngành luật chính: bao gồm các chế định luật liên quan đến đời sống thực tế của công dân của các ngành luật: hình sự, dân sự, hành chính và hôn nhân gia đình.
+Cung cấp các kiến thức mở đầu, cơ bản về lập trình để giải một số bài toán thông thường. 5. Tin học dành cho kỹ sư _Matlab- 2TC
+Phân bố thời gian học tập: 2 (1/1/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần trang bị cho sinh viên ngành Công nghệ kỹ thuật Nhiệt những kiến thức cơ bản về Lập trình Matlab. Học phần gồm hai phần chính là Giới thiệu về Lập trình Matlab và Giải đề dùng Matlab. Phần một gồm giới thiệu về biểu thức, toán tử, biến, phép gán, đại lượng vô hướng, véctơ, các hàm cài sẳn, thuật toán, hàm do người dùng tự định nghĩa, các lệnh rẽ nhánh, các lệnh vòng lặp, véctơ hóa đoạn mã, xử lý chuỗi, mảng, xuất nhập tập tin. Phần hai gồm các kỹ thuật vẽ đồ thị, biểu diễn ma trận cho phương trình đại số tuyến tính, thống kê cơ bản, tập hợp, sắp xếp, chỉ mục, khớp đường cong, số phức, tích phân và vi phân. Ngoài ra môn học này còn định hướng phương pháp tư duy và phong cách lập trình Matlab. 6. Toán 1 - MATH 132401 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần Toán 1 cung cấp các kiến thức cơ bản về giới hạn, tính liên tục và phép tính vi tích phân của hàm một biến. 7. Toán 2 - MATH 132501 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần Toán 2 cung cấp các kiến thức cơ bản về phép tính tích phân của hàm một biến, chuỗi số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong không gian. 8. Toán 3 - MATH142601 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắtnội dung học phần: Học phần này cung cấp các kiến thức cơ bản về hàm nhiều biến, đạo hàm riêng, tích phân bội, tích phân đường, tích phân mặt và giải tích vectơ. Ứng dụng và định hướng giải quyết trong một số mô hình bài toán thực tế. 9. Xác suất - thống kê ứng dụng - MATH132901 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này bao gồm thống kê mô tả, xác suất sơ cấp, biến ngẫu nhiên và luật phân phối xác suất, các số đặc trưng của biến ngẫu nhiên, ước lượng tham số, kiểm định giả thuyết, tương quan và hồi qui tuyến tính. 10. Toán cao cấp cho kỹ sư 1 - MATH133101 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về phương trình vi phân cấp một; Mô hình với phương trình vi phân cấp một; phương trình vi phân cấp cao; Mô hình với phương trình vi phân cấp cao; Phép biến đổi Laplace; Nghiệm chuỗi của phương trình vi phân tuyến tính. 11.Toán cao cấp cho kỹ sư 2 - MATH133201 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về đại số tuyến tính, hệ phương trình vi phân, chuỗi Fourier và nghiệm của bài toán biên đối với phương trình đạo hàm riêng. 12. Vật lý 1 - PHYS130902 3TC
+Phân bố thời gian học tập:3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý bao gồm các phần cơ học và nhiệt học làm cơ sở cho việc tiếp cận các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị các kiến thức về vật lý để khảo sát sự chuyển động, năng lượng và các hiện tượng vật lý liên quan đến các đối tượng trong tự nhiên có kích thước từ phân tử đến cỡ hành tinh. Sau khi học xong học phần sinh viên sẽ có khả năng ứng dụng những kiến thức đã học trong nghiên cứu khoa học cũng như trong phát triển kỹ thuật và công nghệ hiện đại.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương. Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm khác. 13. Vật lý 2 - PHYS131002 3TC
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý gồm các phần điện từ học và quang học làm cơ sở cho việc tiếp cận với các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị những kiến thức về các hiện tượng trong thế giới tự nhiên và ứng dụng những kiến thức đó trong nghiên cứu khoa học, trong phát triển kỹ thuật và công nghệ hiện đại.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương. Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm khác. 14. Vật lý 3 - PHYS131102 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý hiện đại, bao gồm các phần: thuyết tương đối, cơ học lượng tử, vật lý nguyên tử, phân tử và chất rắn, cấu trúc hạt nhân, và vật lý hạt. Học phần vật lý 3 làm cơ sở cho việc tiếp cận với các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị những kiến thức về các hiện tượng trong thế giới tự nhiên và ứng dụng những kiến thức đó trong nghiên cứu khoa học, trong phát triển kỹ thuật và công nghệ hiện đại.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương. Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm khác. 15. Thí nghiệm vật lý 1 - PHYS111202 1TC
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Thí nghiệm Vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất điểm và động lực học vật rắn. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 16. Hóa đại cương - GCHE130603 3TC
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức cơ bản về hóa học nhằm đặt nền tảng cho sinh viên khả năng đọc hiểu các tài liệu trong các những lĩnh vực khoa học, kỹ thuật có liên quan đến hóa học.
+Học phần này giúp sinh viên (i) hiểu được bản chất nguyên tử và phân tử, từ đó giải thích các tính chất của vật chất; (ii) phát triển khả năng giải quyết vấn đề định lượng cơ bản liên quan đến nhiệt động lực học, động học phản ứng, cân bằng hóa học, tính chất dung dịch và các quá trình điện hóa.
+Học phần này là nền tảng để sinh viên có những hiểu biết cần thiết về thế giới vật chất xung quanh, nhận thức mối liên hệ giữa hóa học và các ngành kỹ thuật. Bên cạnh đó, học phần này còn đáp ứng cho khả năng học tập của sinh viên ở trình độ cao hơn hoặc đại học văn bằng hai. 17. Nhập môn ngành Công nghệ kỹ thuật Nhiệt -INTE130132 3TC
+Phân bố thời gian học tập: 03(2/1/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Sinh viên ngành công nghệ kỹ thuật nhiệt được học về lịch sữ phát triển của Trường, Khoa, Bộ môn; được học về chương trình đào tạo và chuẩn đầu ra của ngành Công nghệ Kỹ thuật Nhiệt; được học về các ứng dụng của ngành Công nghệ Kỹ thuật Nhiệt trong công nghiệp và dân dụng; được tìm hiểu thực tế các máy móc và thiết bị trong lĩnh vực Nhiệt Điện Lạnh. Đây là học phần cơ bản của ngành, giúp người học định hướng nghề nghiệp, trang bị cơ bản các kỹ năng mềm cũng như nền tảng đạo đức nghề nghiệp. 9.1.2. Khối kiến thức tự chọn (khoa học xã hội nhân văn) 01. Kinh tế học đại cương - GEEC220105 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp những kiến thức căn bản về kinh tế học, về thị trường, cung và cầu; lý thuyết người tiêu dùng; lý thuyết về hành vi của nhà doanh nghiệp, cơ cấu thị trường, tổng sản phẩm và thu nhập quốc dân, tổng cầu và chính sách tài khoá, tiền tệ và chính sách tiền tệ, tổng cung và các chu kỳ kinh doanh, thất nghiệp và lạm phát. 02. Nhập môn quản trị học chất lượng - IQMA220205 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học nhằm cung cấp cho sinh viên: những kiến thức cơ bản về quản trị, bao gồm những yếu tố môi trường tổng quát nhất tác động đến doanh nghiệp, tổ chức; cách phân tích môi trường cơ bản nhất, tổng hợp các yếu tố môi trường để từ đó định hướng cho tổ chức; vận dụng các nguyên lý, các quy luật kinh tế để xử lý tình huống cụ thể, hình thành được kỹ năng phân tích vấn đề; phát triển tư duy quản lý. 03. Nhập môn quản tri học- INMA220305 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 04. Nhập môn Logic học - INLO220405 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học nhằm cung cấp những kiến thức về logic học, cấu trúc của tư duy con người, các phương pháp suy luận và ứng dụng trong đời sống, trong học tập nghiên cứu, và sinh viên cũng phải nhận thức được chức năng, vị trí của logic học trong đời sống của con người, nhất là trong thời kỳ hiện đại. 05. Cơ sở văn hoá Việt nam- IVNC320905 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 06. Nhập môn xã hội học - INSO321005 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học nhằm cung cấp những kiến thức khái quát lịch sử hình thành, phát triển của xã hội học nói chung và xã hội học Mác-Lênin nói riêng; đối tượng, chức năng và nhiệm vụ của xã hội học; mối quan hệ giữa xã hội học và các ngành khoa học khác; các phương pháp nghiên cứu chủ yếu của xã hội học; các phạm trù, khái niệm của xã hội học. 07. Tâm lí học kỹ sư- ENPS220591 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 08. Tư duy hệ thống- SYTH220491 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 09. Kỹ năng học tập đại học- LESK120190 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 10. Kỹ năng xây dựng kế hoạch- PLSK120290 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 11. Kỹ năng làm việc trong môi trường kỹ thuật- WOPS120390 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 12. Phương pháp nghiên cứu khoa học - REME320690 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 9.2. KIẾN THỨC CƠ SỞ NGÀNH 9.2.1. Học phần bắt buộc 01. Hình họa - Vẽ kỹ thuật - EDDG230120 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phầncung cấp cho sinh viên những quy tắc cơ bản để xây dựng bản vẽ kỹ thuật bao gồm: Các tiêu chuẩn hình thành bản vẽ kỹ thuật, các kỹ thuật cơ bản của hình học hoạ hình, các nguyên tắc biểu diễn không gian hình học, các phép biến đổi, sự hình thành giao tiếp của các mặt, ..., các yếu tố cơ bản của bản vẽ kỹ thuật: Điểm, đường, hình chiếu, hình cắt, các loại bản vẽ chi tiết, vẽ lắp và bản vẽ sơ đồ động trên cơ sở tiêu chuẩn TCVN và quốc tế. 02. Cơ lý thuyết – THME230721 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần cung cấp những kiến thức nền tảng để tiếp thu những học phần cơ sở và chuyên ngành khác của lĩnh vực cơ khí, nội dung học phần bao gồm các học phần: + Tĩnh học: Các tiên đề tĩnh học, lực, liên kết, phản lực liên kết, phương pháp khảo sát các hệ: phẳng, không gian, ngẫu lực và momen, lực ma sát. + Động học: các đặc trưng chuyển động của điểm và vật thể, chuyển động tịnh tiến và chuyển động quay, chuyển động song phẳng và hợp các chuyển động. + Động lực học: các định luật , định lý cơ bản của động lực học, nguyên lý d,Alambert, phương trình Lagrange loại II, nguyên lý di chuyển khả dĩ và hiện tượng va chạm trong thực tế kỹ thuật. 03. Sức bền vật liệu – STMA230521 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phầncung cấp kiến thức về: Tính toán sức chịu tải của các chi tiết máy và kết cấu kỹ thuật: các điều kiện và khả năng chịu lực và biến dạng trong miền đàn hồi của các chi tiết máy và kết cấu kỹ thuật, bao gồm: các khái niệm cơ bản về nội lực và ngoại lực, ứng suất và chuyển vị, các thuyết bền, các trạng thái chịu lực phẳng và không gian: tính toán về ổn định và tải trọng động.
+Một số bài toán siêu tĩnh thường gặp trong thực tế kỹ thuật. 04. Nguyên lý - chi tiết máy - MEMD230323 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phầnnghiên cứu cấu trúc, nguyên lý làm việc và phương pháp tính toán thiết kế động học và động lực học của cơ cấu truyền động và biến đổi chuyển động, các mối ghép và các chi tiết máy thường dùng trong cơ khí. Sau khi học, sinh viên có khả năng độc lập giải quyết những vấn đề tính toán và thiết kế các chi tiết máy, làm cơ sở để vận dụng trong quá trình tính toán thiết kế và chi tiết máy trong thực tế kỹ thuật sau. 05. Cơ học lưu chất ứng dụng - FLUI220132 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Toán cao cấp, Vật lý A1, Cơ lý thuyết, Sức bền vật liệu
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về các tính chất của lưu chất.
+Nghiên cứu qui luật cân bằng của chất lỏng tĩnh, tính toán áp lực thủy tĩnh, nghiên cứu qui luật chuyển động của lưu chất và các thông số đặc trưng cho nó mà không quan tâm đến lực, nghiên cứu lực tác dụng trong môi trường lưu chất chuyển động và những qui luật tương tác về lực giữa ḍng lưu chất với các vật rắn. Tìm hiểu đặc trưng chuyển động một chiều của chất lỏng, dòng chảy qua lỗ vòi. Học phần còn cung cấp cho người học kiến thức và kỹ năng tính toán, thiết kế, phân tích, đánh giá và tư vấn các ưu, nhược điểm của các hệ thống thủy lực cho các công trình. 06. Kỹ thuật điện – điện tử - EEEN234062 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Toán 1&2, Vật lý 1&2
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: - Tóm tắt nội dung học phần: Học phần dành cho sinh viên không chuyên ngành điện, nhằm cung cấp các kiến thức cơ bản về máy điện, mạch điện, cách tính toán mạch điện, nguyên lý cấu tạo, tính năng và ứng dụng các loại máy điện cơ bản; cung cấp khái quát về đo lường các đại lượng điện. Trên cơ sở đó có thể hiểu được các máy điện, khí cụ điện thường gặp trong sản xuất và đời sống. 07. Nhiệt động lực học kỹ thuật - THER230232 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Toán 1 & 2, Vật lý 1&2, Hoá học cho kỹ thuật
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung cấp cho người học những khái niệm cơ bản về nhiệt, nội dung định luật nhiệt 1 và 2, kiến thức về các quá trình biến đổi năng lượng, sự biến đổi giữa nhiệt và công, giữa công và nhiệt trong các chu trình thuận và ngược chiều, cũng như đặc tính nhiệt của các chất giúp cho quá trình biến đổi đó nhằm áp dụng hiệu quả trong thực tế. Đây là học phần cơ sở của chuyên ngành, nó giúp người học hiểu nguyên lý chuyển hóa qua lại giữa nhiệt năng và cơ năng thông qua các động cơ nhiệt. 08. Truyền nhiệt - HEAT230332 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Nhiệt động lực học kỹ thuật
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về truyền nhiệt (dẫn nhiệt, đối lưu và bức xạ). Đây là học phần cơ sở của chuyên ngành, nó cung cấp cho người học các phương pháp tính toán để có thể giải quyết bài toán liên quan đến truyền nhiệt cho các môn chuyên ngành. 9.2.2. Học phần tự chọn 01. Vật liệu nhiệt lạnh - THMA221332 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Kỹ thuật lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học các kiến thức cơ bản về vật liệu chế tạo máy và thiết bị lạnh, lò hơi, vật liệu cách nhiệt, vật liệu chịu lửa và mối quan hệ nhiều thành phần trong hệ thống lạnh. Đây là học phần chuyên sâu về vật liệu giúp người học có cái nhìn chung và phân tích được sự tương quan trong mối quan hệ nhiều thành phần trong hệ thống nhiệt – lạnh. 02. Công nghệ kim loại - METE320126 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần cung cấp kiến thức cơ bản về phương pháp gia công, thiết bị và công nghệ để gia công kim loại như đúc, gia công áp lực và hàn kim loại, gia công cắt gọt kim loại; giới thiệu công dụng và khả năng công nghệ của máy; các chuyển động cơ bản của máy; sơ đồ kết cấu động học và sơ đồ động của máy; các vấn đề cơ bản về điều chỉnh máy để thực hiện các công việc gia công. 03. Tối ưu hóa - OPTI423129 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về tối ưu tổng quát và ứng dụng; phương pháp đơn hình giải bài toán quy hoạch tuyến tính; bài toán đối ngẫu và một số ứng dụng; quy hoạch nguyên; một số phương pháp quy hoạch phi tuyến. 04. Đo lường nhiệt - THME221432 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Nhiệt động lực học Kỹ thuật, Truyền nhiệt
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về các phương pháp cơ bản để đo các thông số đặc trưng của quá trình nhiệt, nguyên lý và cấu tạo của một số loại thiết bị đo như: nhiệt độ, áp suất, lưu lượng, mức chất lỏng, độ ẩm,…
+Ngoài ra, học phần này còn trang bị cho người học những kỹ năng về sử dụng các dụng cụ đo trên. 05. Nguyên lý động cơ đốt trong - PICE220130 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết:Nhiệt động lực học Kỹ thuật, Truyền nhiệt,
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức về: - Nguyên lý làm việc của động cơ đốt trong kiểu piston.
+Học phần này trang bị cho người học những kiến thức cơ bản về tối ưu tổng quát và ứng dụng; phương pháp đơn hình giải bài toán quy hoạch tuyến tính; bài toán đối ngẫu và một số ứng dụng; quy hoạch nguyên; một số phương pháp quy hoạch phi tuyến. - Nguyên lý làm việc, đặc điểm cấu tạo của các hệ thống và các chi tiết trên động cơ. 06 Máy thủy lực và khí nén – PHEQ220332 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về máy thủy lực và khí nén, cấu tạo, nguyên lý hoạt động, đặc tính, phạm vi sử dụng, các hư hỏng thường gặp, phương thức sữa chửa, bảo trì, bảo dưỡng cho các loại máy thủy lực và khí nén như: máy bơm cánh dẫn, bơm thể tích, quạt ly tâm, quạt hướng trục, các loại máy nén khí. Đồng thời học phần cũng cung cấp cho người học khả năng thiết kế, thi công, lắp đặt hệ thống thủy lực khí nén hoàn chỉnh. Người học có khả năng vận hạnh các loại máy thủy lực, hệ thống thủy lực một cách an toàn hiệu quả. 07. Vi điều khiển ứng dụng - AMIC320133 2TC
+Phân bố thời gian học tập: 2(1/1/4)
+Môn học trước:Tin học căn bản, Kỹ thuật điện – điện tử trong hệ thống Nhiệt – lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học bao gồm các kiến thức về cấu tạo phần cứng của Vi điều khiển (các bộ nhớ bên trong, bộ định thời, các chức năng đặc biệt hỗ trợ khi sử dụng như tạo ngắt), cách lập trình cho Vi điều khiển và các tập lệnh của nó để có thể áp dụng vào thực tế. Cụ thể: - Hiểu được cấu trúc một hệ thống xử lý điều khiển. - Thiết kế mạch ứng dụng Vi điều khiển. - Lập trình cho Vi điều khiển để xử lý và điều khiển thiết bị ngoại vi.. 9.3. KIẾN THỨC CHUYÊN NGÀNH 9.3.1. Học phần bắt buộc 01. Kỹ thuật lạnh - REEN230532 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Nhiệt động lực học kỹ thuật, truyền nhiệt
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học các kiến thức cơ bản về nhiệt động của máy lạnh; môi chất làm lạnh, môi chất tải lạnh, dầu bôi trơn; máy lạnh nhiều cấp, nhiều tầng; máy lạnh hấp thụ và máy lạnh Ejector; máy lạnh Cryo căn bản. Học phần này còn cung cấp cho người học các kỹ năng về tính toán các chu trình máy lạnh (như trên), giúp người học nhận thức và ý thức được việc bảo vệ môi trường trong việc sử dụng các môi chất lạnh. 02. Lò hơi - BOIT330632 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học cung cấp các kiến thức cơ bản về khái niệm, cấu tạo, nguyên lý hoạt động và thiết kế các bộ phận của lò hơi; giúp cho sinh viên nắm vững bản chất các hiện tượng xảy ra trong lò hơi. Đây là học phần chuyên ngành, sinh viên học xong có khả năng tính toán thiết kế các thiết bị nhiệt trong lò hơi. 03. Bơm, Quạt và Máy nén - PFCO330232 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Cơ học lưu chất ứng dụng
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về máy thủy lực, cấu tạo, nguyên lý hoạt động, đặc tính, phạm vi sử dụng, các hư hỏng thường gặp, phương thức sữa chửa, bảo trì, bảo dưỡng cho các loại máy thủy lực như: máy bơm cánh dẫn, bơm thể tích, quạt ly tâm, quạt hướng trục, các loại máy nén. Đây là học phần chuyên môn do đó học phần còn cung cấp cho người học các kỹ năng tính toán, thiết kế, thi công lắp đặt, phân tích, đánh giá và tư vấn các ưu, nhược điểm của các hệ thống thủy lực cho các công trình. 04. Máy nén và thiết bị lạnh - COMP340732 3TC
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước:Kỹ thuật lạnh,
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học các kiến thức cơ bản chu trình thực của máy lạnh 1 cấp, 2 cấp; máy nén lạnh; các thiết bị trao đổi nhiệt và thiết bị phụ của máy lạnh; thiết bị tự động máy nén lạnh; cách nhiệt, cách ẩm cho hệ thống lạnh; thử nghiệm, vận hành và chuẩn đoán hệ thống lạnh. Ngoài ra, học phần này cũng trang bị cho người học những kiến thức cơ bản về an toàn lao động trong công nghiệp. Đây là học phần chuyên ngành, sinh viên học xong có khả năng tính toán thiết kế và chọn máy nén và thiết bị lạnh. 05. Điều hòa không khí - ACSY330932 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Kỹ thuật lạnh, Máy nén và Thiết bị lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về các hệ thống điều hòa không khí, các quá trình và thiết bị xử lý không khí, tính toán cân bằng nhiệt và ẩm trong phòng, tính toán các sơ đồ điều hòa không khí, các phương pháp lọc bụi và tiêu âm. Đây là học phần chuyên môn sâu về điều hòa không khí, do đó học phần còn cung cấp cho người học các kỹ năng tính toán, phân tích, đánh giá và tư vấn các ưu và nhược điểm của các hệ thống điều hòa không khí cho các công trình. 06. Nhà máy nhiệt điện - THPP331032 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Lò hơi
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn Nhà máy nhiệt điện cung cấp cho sinh viên những kiến thức căn bản về: năng lượng và các nguồn năng lượng, các phương pháp đánh giá và nâng cao hiệu quả hiệu quả sử dụng năng lượng; nguyên lý nhiệt động học của chu trình động lực hơi nước và tuabin khí; các thiết bị chính của NMNĐ như lò hơi, tua bin, thiết bị trao đổi nhiệt; cấu tạo, phân loại và phương pháp tính toán tuabin hơi nước; kinh tế và định mức tiêu hao của NMNĐ; lựa chọn các thiết bị chính; cung cấp và xử lý nước; cung cấp và xử lý nhiên liệu; các vấn đề môi trường của NMNĐ và các công nghệ xử lý; các chế độ vận hành nhà máy điện. Đây là học phần chuyên ngành, sinh viên học xong có khả năng tính toán một số thiết bị nhiệt trong nhà máy nhiệt điện. 07. Kỹ thuật Sấy và Chưng Cất - DRYT331132 3TC
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Cung caáp cho sinh vieân caùc kieán thöùc cô baûn veà vaät lieäu aåm, khoâng khí aåm, cô sôû lyù thuyeát veà saáy vaø tính toaùn, thieát keá moät soá heä thoáng saáy thöôøng gaëp. Đây là học phần chuyên ngành, sinh viên học xong có khả năng tính toán thiết kế một số hệ thống sấy cơ bản. 9.3.2. Học phần tự chọn chuyên ngành và liên ngành 01. Thiết bị trao đổi nhiệt - HEEX321532 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Truyền nhiệt
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về nguyên lý làm việc, cấu tạo và phương pháp tính toán các thiết bị trao đổi nhiệt đặc trưng. Đây là học phần chuyên sâu về truyền nhiệt, giúp người học có thể tính toán thiết kế và kiểm tra các thiết bị trao đổi nhiệt và áp dụng vào thực tế sản xuất. 02. Nguyên lý tự động hóa quá trình nhiệt - PTPA321632 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Máy nén và Thiết bị lạnh, Lò hơi, Đo lường nhiệt
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về lý thuyết tự động điều chỉnh và điều khiển nói chung và quá trình nhiệt nói riêng. Giúp người học hiểu được nguyên lý hoạt động và cấu tạo của các hệ thống và thiết bị tự động trong điều khiển hệ thống nhiệt – lạnh như nồi hơi, tuabin, hệ thống lạnh. Đây là học phần chuyên ngành, sinh viên học xong có khả năng đọc hiểu nguyên lý cũng như thiết kế một số hệ thống điều khiển tự động hệ thống nhiệt lạnh cơ bản. 03. Kinh tế năng lượng - ENEC320832 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học trang bị cho sinh viên những kiến thức cơ bản về kinh tế - kỹ thuật; về phân tích lựa chọn các dự án đầu tư; về các cơ hội tiết kiệm năng lượng trong các hệ thống Nhiệt – Điện lạnh. Đây là học phần chuyên ngành, sinh viên học xong có khả năng đưa ra các cơ hội tiết kiệm năng lượng và phân tích dự án đầu tư. 04. PLC - PCLT220146 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ sở của PLC, cấu trúc phần cứng
+PLC, tập lệnh, ngôn ngữ lập trình và một số bài toán ứng dụng. Đây là học phần chuyên ngành, sinh viên học xong có khả năng thiết kế được một mạch điều khiển đơn giản sử dụng PLC. 05. Chuyên đề Lạnh - STRT321732 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Thực tập điện lạnh 1,2 & 3, kỹ thuật lạnh, máy nén thiết bị lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức nâng cao về vận hành, chẩn đoán và sửa chữa các hỏng hóc của hệ thống lạnh, phương pháp tự động điều khiển hệ thống lạnh và kỹ thuật lạnh nâng cao. Trang bị cho người học các kỹ năng về phân tích nguyên nhân và khắc phục các sự cố trên hệ thống lạnh. 06. Chuyên đề Nhiệt - STTT321832 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:Lò hơi, Nhà máy nhiệt điện
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn chuyên đề nhiệt cung cấp cho sinh viên những chuyên đề về thiết kế, chế tạo, vận hành và bảo dưỡng các thiết bị nhiệt như các bộ trao đổi nhiệt dạng tấm, thiết bị sử dụng năng lượng nhiệt mặt trời. Đây là học phần chuyên ngành, sinh viên học xong có khả năng sử dụng hiệu quả những thiết bị nhiệt này. 07. Chuyên đề năng lượng tái tạo - STRE321932 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:nhiệt động học kỹ thuật, Truyền nhiệt,
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về các nguồn năng lượng tái tạo (năng lượng mặt trời, địa nhiệt, năng lượng gió). Giúp người học có cái nhìn tổng quan, có sự hiểu biết cơ bản về tầm quan trọng các nguồn năng lượng trên thế giới. Đồng thời, người học biết cách khai thác và sử dụng hiệu quả các nguồn năng lượng tái tạo để bảo vệ môi trường và tiết kiệm năng lượng. 08. Đồ án lạnh - REPR310132 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt, Kỹ thuật lạnh, Máy nén và Thiết bị lạnh,
+Điều hòa không khí.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này giúp người học tổng hợp các kiến thức chuyên môn đã học ở các môn học trước đó để giải quyết một bài toán lớn (tính toán thiết kế một số hệ thống lạnh). Thông qua đó cung cấp cho người học kỹ năng tính toán thiết kế hệ thống lạnh, kỹ năng tra cứu tài liệu, kỹ năng vẽ một bảng thiết kế, kỹ năng giao tiếp. 09. Đồ án nhiệt - THPR310232 1TC
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt, Lò hơi, Kỹ thuật sấy.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này giúp người học tổng hợp các kiến thức chuyên môn đã học ở các môn học trước đó để giải quyết một bài toán lớn (tính toán thiết kế một số hệ thống nhiệt). Thông qua đó cung cấp cho người học kỹ năng tính toán thiết kế hệ thống nhiệt, kỹ năng tra cứu tài liệu, kỹ năng vẽ một bảng thiết kế, kỹ năng giao tiếp. 10. Bảo trì và bảo dưỡng công nghiệp- IMAS320525 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 11. Tự động hoá quá trình sản xuất - AUMP323525 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 12. Kiểm toán và tiết kiệm năng lượng-ENAE321845 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: 13. Quản trị kinh doanh - QTKD12345 2TC
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ bản về quản trị, bao gồm những chức năng cơ bản của hoạt động quản trị, sự tác động của các yếu tố môi trường tổng quát nhất đối với hoạt động kinh doanh của một doanh nghiệp, những hướng dẫn cơ bản nhất về quản trị chi phí kinh doanh, tuyển dụng và quản trị nguồn nhân lực, quản trị chiến lược, và quản trị rủi ro nhằm giúp nhà quản trị nhận diện và đưa ra những giải pháp để đối phó kịp thời. 9.3.3. Học phần thực hành xưởng, thực tập tốt nghiệp 01 Thực tập điện lạnh 1 - RETP322132 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước:Thực tập nguội, Kỹ thuật lạnh, Máy và thiết bị lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế về nguyên lý và cấu tạo một số loại máy nén lạnh và thiết bị lạnh như: - Phần máy nén: máy nén piston loại nửa kín và loại hở (gồm cả 1 cấp và 2 cấp nén), máy nén trục vít - Phần thiết bị phụ: Bình trung gian, bình chứa cao áp, bình tách dầu, thiết bị ngưng tụ, thiết bị bay hơi, một số loại van
+Học phần này trang bị cho người học các kỹ năng về tháo lắp và sửa chữa máy nén và thiết bị lạnh. 02. Thực tập điện lạnh 2 - RETP332232 3TC
+Phân bố thời gian học tập: 3(0/3/6)
+Môn học trước:Thực tập nguội, Kỹ thuật lạnh, Máy và thiết bị lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế về máy nén kín loại Piston,
+Roto; các phương pháp gia công đường ống; các phương pháp sử dụng thiết bị đo; cấu tạo, vận hành và kiểm tra thiết bị điều khiển tự động; phương pháp sử dụng máy nạp gas/thu hồi gas; lắp ráp cân chỉnh và vận hành máy lạnh 1 cục, 2 cục
+Học phần này trang bị cho người học các kỹ năng về hàn điện, hàn hơi; hút chân không, nạp và thu hồi gas; kiểm tra máy nén, quạt 03. Thực tập điện lạnh 3 - RETP332332 3TC
+Phân bố thời gian học tập: 3(0/3/6)
+Môn học trước:Máy nén và Thiết bị lạnh, Điều hòa không khí.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế về nguyên lý và cấu tạo của các thiết bị điện, thiết bị điều khiển và bảo vệ của hệ thống lạnh công nghiệp. Đây là học phần chuyên sâu về phần điện điều khiển giúp người học có khả năng thiết kế và thi công các mạch điện để vận hành hệ thống lạnh. Cung cấp cho người học các kỹ năng về kiểm tra và cài đặt các thiết bị điều khiển và bảo vệ, kỹ năng về thiết kế và thi công các mạch điện cho hệ thống điều khiển này. 04. Thực tập điện lạnh 4 - RETP332432 2TC
+Phân bố thời gian học tập: 3(0/3/6)
+Môn học trước:Máy nén và Thiết bị lạnh
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế về vận hành, kiểm tra, chẩn đoán và sửa chữa các hư hỏng thường gặp cho các hệ thống lạnh công nghiệp như hệ thống trữ đông, hệ thống cấp đông, hệ thống điều hòa không khí water chiller, bể đá cây,…
+Học phần này sẽ trang bị cho người học các kỹ năng về vận hành, kiểm tra, chuẩn đoán và sửa chữa các hệ thống lạnh công nghiệp. 05. Thực tập Lò hơi - BOIP322732 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt, Lò hơi
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế và kỹ năng về vận hành, kiểm tra, chẩn đoán và sửa chữa các hư hỏng thường gặp cho Lò hơi. 06. Thực tập Sấy - DRYP322832 2TC
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước:Nhiệt động lực học kỹ thuật, Truyền nhiệt, Kỹ thuật Sấy.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức thực tế và kỹ năng về vận hành, kiểm tra, chẩn đoán và sửa chữa các hư hỏng thường gặp cho các hệ thống sấy như sấy tầng sôi, sấy thùng quay, sấy tháp 07. Thực tập tốt nghiệp - UNPR333032 3TC
+Phân bố thời gian học tập: 3(0/3/6)
+Môn học trước:không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần: Cung cấpsinh viên các kiến thức thực tế và kỹ năng về: - Giám sát, thi công, lắp đặt hệ thống nhiệt, lạnh tại các công trình. - Vận hành các hệ thống nhiệt, lạnh. - Tính toán, thiết kế các hệ thống nhiệt, lạnh bằng các phần mềm ứng dụng hiện nay. 08. Khoá luận tốt nghiệp - UNTH402832 7TC
+Phân bố thời gian học tập: 7 (0/0/14)
+Môn học trước:các môn cơ sở ngành và chuyên ngành.
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:Khóa luận tốt nghiệp giúp sinh viên hệ thống hóa, tổng hợp các kiến thức, những kỹ năng và vận dụng chúng một cách khoa học và sáng tạo nhằm giải quyết một vấn đề cụ thể trong thực tế. Qua đó, sinh viên có thể rèn luyện và nâng cao khả năng tư duy, cách đặt vấn đề và giải quyết vấn đề một cách độc lập và sáng tạo. 10. Cơ sở vật chất phục vụ học tập: 10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng 1 – Xưởng phục vụ học tập: Xưởng Nhiệt – Điện lạnh 2 – Các phòng thí nghiệm: Phòng thí nghiệm Nhiệt động, Phòng thí nghiệm Truyền nhiệt 3 – Các hệ thống phục vụ thí nghiệm, thực hành: - Các máy lạnh, tủ lạnh dân dụng - Hệ thống lạnh sản xuất đá cây - Hệ thống cấp đông - Hệ thống trữ đông - Hệ thống điều hòa không khí trung tâm(water chiller) - Hệ thống điều hòa không khí trung tâm-VRV4 - Hệ thống điều khiển thông minh - Hệ thống lò hơi - Hệ thống sấy tầng sôi - Tủ sấy buồng - Hệ thống sấy tháp - Hệ thống sấy thùng quay - Hệ thống nhiệt điện - Hệ thống năng lượng tái tạo Hybrid 4 – Các phần mềm mô phỏng số học: COMSOL, CFD ACE+, Matlab, Fortran,.. 10.2. Thư viện, trang WEB
+Thư viện Đại học Sư phạm Kỹ thuật Tp. HCM
+Thư viện Đại học Quốc gia Tp. HCM www.ebook4u.com.vn www.gigapedia.com www.sciencedirect.com www.tailieu.vn 11. Hướng dẫn thực hiện chương trình.
+Giờ quy định tính như sau: 1 tín chỉ= 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp = 30 giờ thí nghiệm = 45 giờ tự học hoặc thực hành = 45  90 giờ thực tập tại cơ sở ngoài trường. = 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của học phần là bội số của 15. 11.1. Hướng dẫn sử dụng kiến thức giáo dục đại cương 11.1.1 Khối kiến thức Lý luận chính trị và Pháp luật đại cương
+Theo qui định của Bộ Giáo dục và Đào tạo. 11.1.2. Khối kiến thức Khoa học Xã hội và Nhân văn - Các học phần tự chọn này là những môn học SV có thể tự chọn trong quá trình học tập, chủ yếu để mở rộng kiến thức (hiểu biết) cho SV, thúc đẩy sự phát triển cá tính của SV, biết trình bày, cách viết (văn phong) đồ án, khóa luận, báo cáo đề tài, dự án, ... - Nhà trường có thể chọn các môn học này (nhiều ngành chọn học) bố trí cho SV học. 11.1.3 Khối kiến thức ngoại ngữ và tin học - 100% học phần là bắt buộc. - Có thể bố trí học phần Anh văn 1 học ở học kỳ đầu tiên hoặc bố trí học ở học kỳ 2. - Có thể tổ chức kiểm tra, phân loại trình độ anh văn đầu vào cho sinh viên ngay sau khi nhập học đầu học kỳ 1. Nếu sinh viên đạt yêu cầu đầu vào cho học học phần Anh văn 1 vào học kỳ 1. Nếu chưa đạt, đề nghị sinh viên tự học nâng cao trình độ, sau đó cho đăng ký học. - Trình độ tiếng Anh đạt được tương đương 450 điểm TOEIC (đáp ứng được khả năng học tập ở trình độ cao hơn, đáp ứng giao tiếp với khách hàng, hỗ trợ cho việc tự nghiên cứu và tiếp thu công nghệ mới,..) - Trình độ tin học đạt được tương đương trình độ B. Trong trường hợp có nhiều sinh viên khi học phổ thông ở vùng sâu, vùng xa ít có điều kiện học tin học, nhà trường nên mở các lớp bồi dưỡng ngoại khóa về tin học cho nhóm sinh viên này học, tạo điều kiện cho sinh viên đạt mặt bằng chung về trình độ tin học. 11.1.4. Khối kiến thức toán học và khoa học tự nhiên - Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán và khoa học tự nhiên với mức độ ứng dụng, đáp ứng được việc tiếp thu các kiến thức giáo dục chuyên nghiệp. - Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán cơ bản để học ở trình độ sau đại học (đáp ứng được khả năng học tập ở trình độ cao hơn). 11.1.5. Kiến thức Nhập môn ngành đào tạo - Kiến thức Nhập môn ngành đào tạo (3 tín chỉ) là bắt buộc SV ngành Công nghệ kỹ thuật
+Nhiệt học. Baogồm 2 tín chỉ lý thuyết và 1 tín chỉ thực hành. Bố trí học ở học kỳ 1. 11.1.6. Khối kiến thức Giáo dục thể chất và Giáo dục quốc phòng-an ninh - 100% học phần là bắt buộc. - Theo qui định của Bộ Giáo dục và Đào tạo. - Học phần GDTC3SV tự chọn khi đăng ký học phần. - Hai môn Giáo dục thể chất và Giáo dục quốc phòng-an ninh cũng thực hiện tích lũy theo tín chỉ, nhưng được cấp chứng chỉ riêng. 11.2. Hướng dẫn sử dụng kiến thức giáo dục chuyên nghiệp 11.2.1. Khối kiến thức cơ sở ngành
+Các học phần bắt buộc thuộc khối kiến thức cơ sở ngành công nghệ kỹ thuật nhiệt là phần kiến thức cơ sở chung cho ngành Công nghệ Kỹ thuật nhiệt và nhóm ngành cơ khí.
+Đối với học phần tự chọn cơ sở ngành Công nghệ Kỹ thuật nhiệt, SV chọn theo các môn học tự chọn theo các lĩnh vực thế mạnh của khoa và các môn học về quản lý để áp dụng trong thực tế sau khi tốt nghiệp. 11.2.2. Khối kiến thức chuyên ngành 11.2.2.1. Các học phần chuyên ngành bắt buộc - Bao gồm các học phần lý thuyết được bố trí cho phù hợp với tiến trình tiếp thu kiến thức của người học. - Các giảng viên đảm nhận giảng dạy học phần lý thuyếtcó học hàm, học vị thạc sĩ trở lên. 11.2.2.1. Các học phần chuyên ngành và liên ngành tự chọn - SV chọn 9 tín chỉ trong các môn học tự chọn do khoa bố trí theo định hướng phát triển 11.2.3. Khối kiến thức chuyên ngành (các học phần TH xưởng, TTTN)
+Các học phần thực tập xưởng chuyên ngành và thực tập tốt nghiệp bắt buộc - Bao gồm 15 tín chỉ thực hành kỹ năng bố trí phù hợp với việc ứng dụng kiến thức lý thuyết trong việc thực tập các kỹ năng chuyên ngành nhiệt. - Trong học kỳ 7 bố trí 3 tín chỉ thực tập tốt nghiệp, sinh viên sẽ tham gia công tác sản xuất ở doanh nghiệp, nhằm giúp sinh viên có những kiểm nghiệm thực tế về khối lượng kiến thức đã tích lũy qua các học phần. Đây là những nội dung quan trọng giúp sinh viên hoàn thành các đồ án cũng như những học phần sẽ phải học để tốt nghiệp, hoàn tất chương trình đào tạo. Học phần Thực tập tốt nghiệp bố trí 6 ngày/1 tuần (6 tuần). Học phần này, khoa liên hệ cơ sở ngoài trường bố trí cho
+SV thực tập ngoài trường. 11.2.4. Khối kiến thức tốt nghiệp
+Tổ chức cho sinh viên thực hiện (khối kiến thức tốt nghiệp) với hình thức: - Khóa luận tốt nghiệp: SV thực hiện các đề tài nghiên cứu lý thuyết, hoặc ứng dụng để giải quyết một số vấn đề kỹ thuật mang tính thực tế liên quan đến chuyên ngành nhiệt. Căn cứ vào số lượng và năng lực giảng viên để bố trí số lượng đề tài với số SV thực hiện đề tài.
+Hiệu trưởng Trưởng khoa
+PHỤ LỤC CÁC MÔN HỌC LIÊN NGÀNH
+Mã MH trước,
+STT Mã môn học Tên môn học Số tín chỉ
+MH tiên quyết 1. 2. 3.
+STT Mã môn học Tên môn học Số tín chỉ Mã MH trước,
+MH tiên quyết 1. 2. 3.

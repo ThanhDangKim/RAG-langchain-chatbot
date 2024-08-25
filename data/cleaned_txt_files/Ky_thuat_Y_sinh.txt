@@ -1,0 +1,547 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH KỸ THUẬT Y SINH (Ban hành tại Quyết định số……ngày………………………………….. của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: KỸ THUẬT Y SINH
+Ngành đào tạo: KỸ THUẬT Y SINH (ĐIỆN TỬ Y SINH)
+Tên tiếng Anh: BIOMEDICAL ELECTRONIC ENGINEERING
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7520212
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: KỸ THUẬT Y SINH
+Trình độ đào tạo: ĐẠI HỌC
+Ngành đào tạo: KỸ THUẬT Y SINH (ĐIỆN TỬ Y SINH)
+Mã ngành: 7520212
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: (Ban hành tại Quyết định số……ngày…………………………………..của Hiệu trưởng trường
+Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo: 4 năm 2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: … 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Chương trình đào tạo ngành Kỹ thuật y sinh (KTYS) nhằm mục tiêu đào tạo kỹ sư ngành KTYS có năng lực chuyên môn, phẩm chất chính trị, đạo đức và sức khỏe tốt, đáp ứng nhu cầu lao động có trình độ kỹ thuật cao của đất nước
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực: 1. Có kiến thức nền tảng về khoa học xã hội và khoa học tự nhiên. 2. Phát triển khả năng rèn luyện để khám phá tri thức, giải quyết vấn đề, tư duy hệ thống và nắm vững các thuộc tính chuyên môn và rèn luyện cá tính riêng khác. 3. Kỹ năng giao tiếp: phát triển khả năng tiến bộ về giao tiếp và làm việc trong các nhóm đa kỹ năng. 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành các hệ thống điện tử y tế và y sinh trong bối cảnh xã hội và doanh nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Ký Trình
+Chuẩn đầu ra hiệu độ năng
+Ký hiệu Chuẩn đầu ra Trình độ năng lực 1. Phát triển kiến thức về nền tảng kỹ thuật
+Có hiểu biết và khả năng vận dụng dụng các nguyên tắc cơ bản trong khoa 1.1. 4.0 học tự nhiên như toán, lý và hóa học
+Có khả năng vận dụng các nền tảng kỹ thuật cốt lõi trong lĩnh vực Điện
+Tử Y Sinh (ĐTYS) như giải tích mạch điện, phân tích mạch điện tử y 1.2. 4.0 sinh, vật liệu và linh kiện bán dẫn, hệ thống vi điều khiển, công nghệ mạng, thiết bị y sinh
+Chứng tỏ kiến thức chuyên sâu về kỹ thuật chuyên môn liên quan đến viễn y và mạng y sinh, thiết kế vi mạch điện tử và tích hợp y sinh, thiết 1.3. 4.0 kế hệ thống điện tử y tế, điều khiển lập trình thiết bị và hệ thống điện - điện tử y sinh, xử lý tín hiệu và hình ảnh y sinh.
+Phát triển khả năng tự rèn luyện để khám phá tri thức, giải quyết vấn 2. đề, suy nghĩ hệ thống, và nắm vững những kỹ năng chuyên môn và cá nhân khác 2.1. Chứng tỏ khả năng phân tích và giải quyết vấn đề kỹ thuật. 4.5 2.2. Có khả năng khảo sát và thực nghiệm các vấn đề kỹ thuật. 4.0 2.3. Có khả năng suy nghĩ một cách toàn diện và có tính hệ thống. 5.0
+Thành thạo các kỹ năng cá nhân đóng góp vào sự thành công trong hoạt 2.4. 5.0 động kỹ thuật: sáng kiến, linh hoạt, sáng tạo, tìm tòi, và quản lý thời gian.
+Thành thạo các kỹ năng chuyên môn đóng góp vào sự thành công trong 2.5. hoạt động kỹ thuật: đạo đức nghề nghiệp, tính chính trực, vị thế trong 4.0 ngành, hoạch định nghề nghiệp 3. Phát triển các kỹ năng giao tiếp và kỹ năng làm việc theo nhóm 3.1. Chứng tỏ khả năng lãnh đạo và làm việc theo nhóm. 4.0
+Chứng tỏ khả năng giao tiếp hiệu quả dưới dạng văn bản viết, văn bản 3.2. 4.0 điện tử y sinh, đồ họa và thuyết trình. 3.3. Chứng tỏ khả năng giao tiếp bằng tiếng Anh. 3.3
+Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận 4. hành các hệ thống máy tính và hệ thống phần mềm hỗ trợ trong bôi cảnh xã hội và môn trường doanh nghiệp
+Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ 4.1. 4.0 thuật.
+Hiểu rõ giá trị về văn hóa doanh nghiệp khác biệt và làm việc hiệu quả 4.2. 4.5 trong tổ chức.
+Hình thành các hệ thống ĐTYS bao gồm việc thiết lập các yêu cầu, định 4.3. 5.0 nghĩa chức năng, mô hình hóa và quản lý dự án. 4.4. Thiết kế các hệ thống ĐTYS phức tạp bằng cách ứng dụng các thông tin 5.0 lực 1. Phát triển kiến thức về nền tảng kỹ thuật 1.1. Có hiểu biết và khả năng vận dụng dụng các nguyên tắc cơ bản trong khoa học tự nhiên như toán, lý và hóa học 4.0 1.2. Có khả năng vận dụng các nền tảng kỹ thuật cốt lõi trong lĩnh vực Điện
+Tử Y Sinh (ĐTYS) như giải tích mạch điện, phân tích mạch điện tử y sinh, vật liệu và linh kiện bán dẫn, hệ thống vi điều khiển, công nghệ mạng, thiết bị y sinh 4.0 1.3. Chứng tỏ kiến thức chuyên sâu về kỹ thuật chuyên môn liên quan đến viễn y và mạng y sinh, thiết kế vi mạch điện tử và tích hợp y sinh, thiết kế hệ thống điện tử y tế, điều khiển lập trình thiết bị và hệ thống điện - điện tử y sinh, xử lý tín hiệu và hình ảnh y sinh. 4.0 2. Phát triển khả năng tự rèn luyện để khám phá tri thức, giải quyết vấn đề, suy nghĩ hệ thống, và nắm vững những kỹ năng chuyên môn và cá nhân khác 2.1. Chứng tỏ khả năng phân tích và giải quyết vấn đề kỹ thuật. 4.5 2.2. Có khả năng khảo sát và thực nghiệm các vấn đề kỹ thuật. 4.0 2.3. Có khả năng suy nghĩ một cách toàn diện và có tính hệ thống. 5.0 2.4. Thành thạo các kỹ năng cá nhân đóng góp vào sự thành công trong hoạt động kỹ thuật: sáng kiến, linh hoạt, sáng tạo, tìm tòi, và quản lý thời gian. 5.0 2.5. Thành thạo các kỹ năng chuyên môn đóng góp vào sự thành công trong hoạt động kỹ thuật: đạo đức nghề nghiệp, tính chính trực, vị thế trong ngành, hoạch định nghề nghiệp 4.0 3. Phát triển các kỹ năng giao tiếp và kỹ năng làm việc theo nhóm 3.1. Chứng tỏ khả năng lãnh đạo và làm việc theo nhóm. 4.0 3.2. Chứng tỏ khả năng giao tiếp hiệu quả dưới dạng văn bản viết, văn bản điện tử y sinh, đồ họa và thuyết trình. 4.0 3.3. Chứng tỏ khả năng giao tiếp bằng tiếng Anh. 3.3 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ thống máy tính và hệ thống phần mềm hỗ trợ trong bôi cảnh xã hội và môn trường doanh nghiệp 4.1. Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ thuật. 4.0 4.2. Hiểu rõ giá trị về văn hóa doanh nghiệp khác biệt và làm việc hiệu quả trong tổ chức. 4.5 4.3. Hình thành các hệ thống ĐTYS bao gồm việc thiết lập các yêu cầu, định nghĩa chức năng, mô hình hóa và quản lý dự án. 5.0 4.4. Thiết kế các hệ thống ĐTYS phức tạp bằng cách ứng dụng các thông tin 5.0 kỹ thuật, phần mềm mô phỏng, lý thuyết mạch điện, lập trình máy tính, phần mềm hỗ trợ, điện tử số và tương tự, vi xử lý, hệ điều thống nhúng, hệ thống lập trình và điều khiển thiết bị y sinh.
+Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ 4.5. 4.5 thuật.
+Hiểu rõ giá trị về văn hóa doanh nghiệp khác biệt và làm việc hiệu quả 4.6. 4.0 trong tổ chức. 4.7. Nỗ lực trong lãnh đạo kỹ thuật 3.5 4.8. Kinh doanh trong kỹ thuật 3.5 5. Khối lượng kiến thức toàn khoá: 132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng) 6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 38
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Vật lý 2 3 7 Thí nghiệm vật lý 1 1 8 Hoá đại cương 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 3 1 Tin học dành cho kỹ sư (các khoa quản ngành đề 3(2+1) xuất nội dung)
+V. Khoa học xã hội nhân văn (theo danh mục) 4
+VI. Toán học và KHTN 1 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 2 Thí nghiệm vật lý 2 1
+VII. Khác (các khoa đề xuất)
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất kỹ thuật, phần mềm mô phỏng, lý thuyết mạch điện, lập trình máy tính, phần mềm hỗ trợ, điện tử số và tương tự, vi xử lý, hệ điều thống nhúng, hệ thống lập trình và điều khiển thiết bị y sinh. 4.5. Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ thuật. 4.5 4.6. Hiểu rõ giá trị về văn hóa doanh nghiệp khác biệt và làm việc hiệu quả trong tổ chức. 4.0 4.7. Nỗ lực trong lãnh đạo kỹ thuật 3.5 4.8. Kinh doanh trong kỹ thuật 3.5
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A. Khối kiến thức bắt buộc 38
+I. Lý luận chính trị + Pháp luật 12 1 Các NL cơ bản của CN Mác-Lênin 5 2 Đường lối CM của ĐCSVN 3 3 Tư tưởng Hồ Chí Minh 2 4 Pháp luật đại cương 2
+II. Toán học và KHTN 22 1 Toán 1 3 2 Toán 2 3 3 Toán 3 3 4 Xác suất thống kê ứng dụng 3 5 Vật lý 1 3 6 Vật lý 2 3 7 Thí nghiệm vật lý 1 1 8 Hoá đại cương 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 12
+IV. Tin học 3 1 Tin học dành cho kỹ sư (các khoa quản ngành đề xuất nội dung) 3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục) 4
+VI. Toán học và KHTN 1 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 2 Thí nghiệm vật lý 2 1
+VII. Khác (các khoa đề xuất)
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành 17
+Cơ sở ngành 19
+Chuyên ngành 24
+Thí nghiệm, thực tập, thực hành 12
+Trong đó, thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7 7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. INBE130165 Nhập môn ngành KTYS 3 (2+1) 6. MATH130101 Toán 1 3 7. MATH130201 Toán 2 3 MATH130101 8. MATH130301 Toán 3 3 MATH130201 9. MATH130401 Xác suất - thống kê ứng dụng 3 MATH130101 10. PHYS130102 Vật lý 1 3 11. PHYS130202 Vật lý 2 3 PHYS130102 12. PHYS110302 Thí nghiệm vật lý 1 1 PHYS130102 13. GCHE130103 Hoá học đại cương 3 14. CPRL130064 Ngôn ngữ lập trình C 3 (2+1) 15. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện 4
+Tử 16. PHYS110402 Thí nghiệm vật lý 2 1 PHYS130202 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165 tiết
+Tự chọn kiến thức giáo dục đại cương 4
+Tổng 49 7.2. Kiến thức giáo dục chuyên nghiệp 7.2.1. Kiến thức cơ sở ngành
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1 Giáo dục thể chất 1 1 2 Giáo dục thể chất 2 1 3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83
+Cơ sở nhóm ngành và ngành 17
+Cơ sở ngành
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp 12
+Khóa luận tốt nghiệp 7
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. INBE130165 Nhập môn ngành KTYS 3 (2+1) 6. MATH130101 Toán 1 3 7. MATH130201 Toán 2 3 MATH130101 8. MATH130301 Toán 3 3 MATH130201 9. MATH130401 Xác suất - thống kê ứng dụng 3 MATH130101 10. PHYS130102 Vật lý 1 3 11. PHYS130202 Vật lý 2 3 PHYS130102 12. PHYS110302 Thí nghiệm vật lý 1 1 PHYS130102 13. GCHE130103 Hoá học đại cương 3 14. CPRL130064 Ngôn ngữ lập trình C 3 (2+1) 15. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện
+Tử 4 16. PHYS110402 Thí nghiệm vật lý 2 1 PHYS130202 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165 tiết
+Tự chọn kiến thức giáo dục đại cương 4
+Tổng 49
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết
+Cơ sở nhóm ngành và ngành 1. ELCI240144 Mạch điện 4 MATH130101 2. BAEL340662 Điện tử cơ bản 4 ELCI240144 3. DIGI330163 Kỹ thuật số 3 BAEL340662 4. DIGI330163,
+MICR330363 Vi xử lý 3
+BAEL340662
+Cơ sở ngành 5. SISY330164 Tín hiệu và hệ thống 3 ELCI140144 6. HUAN330265 Sinh lý người và động vật 3
+Tổng 20 7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết và thí nghiệm)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+Kiến thức ngành 7. IMSY330365 Hệ thống thông tin y tế 3 INBE130165 8. MEDE330465 Thiết kế mạch điện tử y sinh 3 BAEL340662 9. DEMD330565 Thiết bị y tế 3 10. BISI340665 Xử lý tín hiệu y sinh 4 SISY330164
+Tổng 13
+Kiến thức chuyên ngành 11. TESO330765 Công nghệ cảm biến y sinh 3 DIGI330163 12. BIOE330865 An toàn trong y tế 3 13. BIIM330965 Xử lý ảnh y sinh 3 BISI340665 14. EMSY437764 Hệ thống nhúng 3 15. ELPR311065 Đồ án điện tử 1 BAEL340662 16. MIPR311165 Đồ án vi xử lý 1 PRMI320463 17. CAPR411265 Đề tài Capstone 1 18. MEPR411365 Đồ án thiết bị y tế 1 DEMD330565 19. BUCO121465 Liên hệ Doanh nghiệp 2
+Tổng 18 7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập tốt nghiệp)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+Các môn thực hành xưởng 1. ELPR320762 TT điện tử 2 BAEL340662 2. MEPR311565 TT thiết bị y tế 1 DEMD330565 3. PRDI310263 TT kỹ thuật số 1 DIGI330163 4. PRMI320463 TT vi xử lý 2 MICR330363 5. ESPR417064 TT hệ thống nhúng 1 EMSY437764 6. BIPR311665 TT xử lý tín hiệu y sinh 1 BISI340665 7. TSEP321765 TT mạch điện tử y sinh 2 MEDE330565
+Cơ sở nhóm ngành và ngành 1. ELCI240144 Mạch điện 4 MATH130101 2. BAEL340662 Điện tử cơ bản 4 ELCI240144 3. DIGI330163 Kỹ thuật số 3 BAEL340662 4. MICR330363 Vi xử lý 3 DIGI330163,
+BAEL340662
+Cơ sở ngành 5. SISY330164 Tín hiệu và hệ thống 3 ELCI140144 6. HUAN330265 Sinh lý người và động vật 3
+Tổng 20
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết
+Kiến thức ngành 7. IMSY330365 Hệ thống thông tin y tế 3 INBE130165 8. MEDE330465 Thiết kế mạch điện tử y sinh 3 BAEL340662 9. DEMD330565 Thiết bị y tế 3 10. BISI340665 Xử lý tín hiệu y sinh 4 SISY330164
+Tổng 13
+Kiến thức chuyên ngành 11. TESO330765 Công nghệ cảm biến y sinh 3 DIGI330163 12. BIOE330865 An toàn trong y tế 3 13. BIIM330965 Xử lý ảnh y sinh 3 BISI340665 14. EMSY437764 Hệ thống nhúng 3 15. ELPR311065 Đồ án điện tử 1 BAEL340662 16. MIPR311165 Đồ án vi xử lý 1 PRMI320463 17. CAPR411265 Đề tài Capstone 1 18. MEPR411365 Đồ án thiết bị y tế 1 DEMD330565 19. BUCO121465 Liên hệ Doanh nghiệp 2
+Tổng 18
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết
+Các môn thực hành xưởng 1. ELPR320762 TT điện tử 2 BAEL340662 2. MEPR311565 TT thiết bị y tế 1 DEMD330565 3. PRDI310263 TT kỹ thuật số 1 DIGI330163 4. PRMI320463 TT vi xử lý 2 MICR330363 5. ESPR417064 TT hệ thống nhúng 1 EMSY437764 6. BIPR311665 TT xử lý tín hiệu y sinh 1 BISI340665 7. TSEP321765 TT mạch điện tử y sinh 2 MEDE330565 8. BIMP311865 TT xử lý ảnh y sinh 1 BISI340665 9. TSEP311965 TT công nghệ cảm biến y sinh 1 TESO330765 10. GRPR442065 TT tốt nghiệp 4
+Tổng 16 7.2.4. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 1. GRAD472165 Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực 2. Các môn tốt nghiệp 07 “Qualified exam”
+Tổng 07
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương: Khối kiến thức các môn học thuộc nhóm Khoa học xã hội – nhân văn (SV chọn 2 trong các môn học sau):
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+Tự chọn 4 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường 2 kỹ thuật 12. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức cơ sở ngành (Sinh viên chọn 01 trong số các môn học sau)
+Mã MH trước,
+STT Mã môn học Tên học phần Số TC
+MH tiên quyết
+Tự chọn 3 1. ELFI230344 Trường điện từ 3 2. IOTE436064 Cơ sở và ứng dụng IoT 3 3. BIME332265 Thiết kế mô hình trên máy tính 3 4. Lập trình Android ứng dụng điều
+APCA331363 3 khiển
+Kiến thức chuyên ngành (Sinh viên chọn 2 học phần theo chuyên ngành của mình)
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết 8. BIMP311865 TT xử lý ảnh y sinh 1 BISI340665 9. TSEP311965 TT công nghệ cảm biến y sinh 1 TESO330765 10. GRPR442065 TT tốt nghiệp 4
+Tổng 16
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết 1. GRAD472165 Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực “Qualified exam” 2. Các môn tốt nghiệp 07
+Tổng 07
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết
+Tự chọn 4 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2
+STT Mã môn học Tên học phần Số TC Mã MH trước,
+MH tiên quyết
+Tự chọn 3 1. ELFI230344 Trường điện từ 3 2. IOTE436064 Cơ sở và ứng dụng IoT 3 3. BIME332265 Thiết kế mô hình trên máy tính 3 4. APCA331363 Lập trình Android ứng dụng điều khiển 3
+STT Mã môn học Tên học phần Số tín chỉ Mã MH trước,
+MH tiên quyết
+Tự chọn 6
+Thu thập và điều khiển thiết bị 1. APME332365 3 với máy tính 2. WITE332465 Công nghệ không dây 3
+Chuyên đề đặc biệt trong kỹ 3. SPSU332565 3 thuật y sinh
+Những thách thức mang tính kỹ 4. ECME332665 3 thuật trong Y học 5. MALE331063 Máy học 3 6. BIMA332765 Vật liệu y sinh 3
+Công nghệ chẩn đoán hình ảnh y 7. BITE332865 3 sinh
+Ứng dụng siêu âm và từ trong kỹ 8. BIAP332965 3 thuật và y sinh
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành trong phần tự chọn:
+STT Mã môn học Tên môn học Số tín chỉ Ghi chú 1. INSK331663 Kỹ năng công nghiệp 3 2. PLCS330846 Điều khiển lập trình 3 3. INRO331129 Robot công nghiệp 3 4. SCDA430946 Hệ thống SCADA 3 5. ROTE430946 Kỹ thuật robot 3 6. HCIN431979 Tương tác người máy 3 7. APEN331329 Lập trình ứng dụng trong kỹ thuật 3
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Tên môn Số tín Môn học được xét tương đương MOOC
+STT Mã môn học học chỉ (đường link đăng ký)
+Ngôn ngữ https://www.udemy.com/beginning-c-plus- 1 CPRL130064 3 lập trình C plus-programming/ https://www.edx.org/course/artificial- 2 MALE331063 Máy học 3 intelligence-ai-columbiax-csmm-101x-2
+Cơ sở và https://www.mooc- 3 ITFA436064 ứng dụng 3 list.com/course/developers-guide-exploring-
+IoT and-visualizing-iot-data-coursera 8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng đào tạo sẽ mở lớp trong các học kỳ để sinh viên tự lên kế hoạch học tập:
+Số Mã MH trước,
+TT Mã môn học Tên môn học
+TC MH tiên quyết
+Tự chọn 6 1. APME332365 Thu thập và điều khiển thiết bị với máy tính 3 2. WITE332465 Công nghệ không dây 3 3. SPSU332565 Chuyên đề đặc biệt trong kỹ thuật y sinh 3 4. ECME332665 Những thách thức mang tính kỹ thuật trong Y học 3 5. MALE331063 Máy học 3 6. BIMA332765 Vật liệu y sinh 3 7. BITE332865 Công nghệ chẩn đoán hình ảnh y sinh 3 8. BIAP332965 Ứng dụng siêu âm và từ trong kỹ thuật và y sinh 3
+STT Mã môn học Tên môn học Số tín chỉ Ghi chú 1. INSK331663 Kỹ năng công nghiệp 3 2. PLCS330846 Điều khiển lập trình 3 3. INRO331129 Robot công nghiệp 3 4. SCDA430946 Hệ thống SCADA 3 5. ROTE430946 Kỹ thuật robot 3 6. HCIN431979 Tương tác người máy 3 7. APEN331329 Lập trình ứng dụng trong kỹ thuật 3
+STT Mã môn học Tên môn học Số tín chỉ Môn học được xét tương đương MOOC (đường link đăng ký) 1 CPRL130064 Ngôn ngữ lập trình C 3 https://www.udemy.com/beginning-c-plus- plus-programming/ 2 MALE331063 Máy học 3 https://www.edx.org/course/artificial- intelligence-ai-columbiax-csmm-101x-2 3 ITFA436064 Cơ sở và ứng dụng
+IoT 3 https://www.mooc- list.com/course/developers-guide-exploring- and-visualizing-iot-data-coursera
+TT Mã môn học Tên môn học Số
+TC Mã MH trước,
+MH tiên quyết 1 LLCT150105 Những NLCB của CN Mác – Lênin 5 2 LLCT230214 Đường lối cách mạng của ĐCSVN 3 3 GELA220405 Pháp luật đại cương 2 4 PHED110513 Giáo dục thể chất 1 1 5 PHED130715 Giáo dục thể chất 3 3
+Học kỳ 1: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 CPRL130064 Ngôn ngữ lập trình C 3 (2+1) 4 INBE130165 Nhập môn ngành KTYS 3 (2+1) 3 LLCT120314 Tư tưởng Hồ Chí Minh 2 2 MATH130101 Toán 1 3 5 PHED110513 Giáo dục thể chất 2
+Tổng 11
+Học kỳ 2: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 MATH130201 Toán 2 3 MATH130101 2 PHYS130102 Vật lý 1 3 3 MATH130401 Xác xuất - thống kê ứng dụng 3 4 BAEL340662 Điện tử cơ bản 4 5 ELCI140144 Mạch điện 4 MATH130101
+Tổng 17
+Học kỳ 3: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 PHYS120202 Vật lý 2 3 PHYS130102 2 MATH130301 Toán 3 3 MATH130201 3 SISY330164 Tín hiệu và hệ thống 3 ELCI140144 4 GCHE130103 Hoá đại cương 3 5 DIGI330163 Kỹ thuật số 3 BAEL340662 6 ELPR320762 TT điện tử 2 BAEL340662 7 PHYS110302 Thí nghiệm vật lý 1 1
+Tổng 18
+Học kỳ 4: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 2 AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 MATH130201 1 BISI340665 Xử lý tín hiệu y sinh 4 SISY330164 6 HUAN330265 Sinh lý người và động vật 3 4 MEDE330465 Thiết kế mạch điện tử y sinh 3 BAEL340662 3 MICR330363 Vi xử lý 3 DIGI330163 7 PHYS110402 Thí nghiệm vật lý 2 1 5 PRDI310263 TT kỹ thuật số 1 DIGI330163 1 LLCT150105 Những NLCB của CN Mác – Lênin 5 2 LLCT230214 Đường lối cách mạng của ĐCSVN 3 3 GELA220405 Pháp luật đại cương 2 4 PHED110513 Giáo dục thể chất 1 1 5 PHED130715 Giáo dục thể chất 3 3
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 CPRL130064 Ngôn ngữ lập trình C 3 (2+1) 4 INBE130165 Nhập môn ngành KTYS 3 (2+1) 3 LLCT120314 Tư tưởng Hồ Chí Minh 2 2 MATH130101 Toán 1 3 5 PHED110513 Giáo dục thể chất 2
+Tổng 11
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 MATH130201 Toán 2 3 MATH130101 2 PHYS130102 Vật lý 1 3 3 MATH130401 Xác xuất - thống kê ứng dụng 3 4 BAEL340662 Điện tử cơ bản 4 5 ELCI140144 Mạch điện 4 MATH130101
+Tổng 17
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 PHYS120202 Vật lý 2 3 PHYS130102 2 MATH130301 Toán 3 3 MATH130201 3 SISY330164 Tín hiệu và hệ thống 3 ELCI140144 4 GCHE130103 Hoá đại cương 3 5 DIGI330163 Kỹ thuật số 3 BAEL340662 6 ELPR320762 TT điện tử 2 BAEL340662 7 PHYS110302 Thí nghiệm vật lý 1 1
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 2 AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 MATH130201 1 BISI340665 Xử lý tín hiệu y sinh 4 SISY330164 6 HUAN330265 Sinh lý người và động vật 3 4 MEDE330465 Thiết kế mạch điện tử y sinh 3 BAEL340662 3 MICR330363 Vi xử lý 3 DIGI330163 7 PHYS110402 Thí nghiệm vật lý 2 1 5 PRDI310263 TT kỹ thuật số 1 DIGI330163 8 Tự chọn cơ sở ngành 3
+Tổng 22
+Học kỳ 5: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 BIIM330965 Xử lý ảnh y sinh 3 BISI340665 2 BIPR311665 TT Xử lý tín hiệu Y Sinh 1 3 DEMD330565 Thiết bị y tế 3 4 PRMI320463 TT Vi xử lý 2 MICR330363 5 TSEP321765 TT mạch điện tử y sinh 2 MEDE330565 7 ELPR311065 Đồ án Điện tử số 1 8 EMSY437764 Hệ thống nhúng 3 MICR330363 9 TESO330765 Công nghệ cảm biến y sinh 3 DIGI330163 10 Tự chọn KH XHNV 1 2 11 Tự chọn KH XHNV 2 2
+Tổng 22
+Học kỳ 6: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 MIPR311165 Đồ án vi xử lý 1 PRMI320463 2 CAPR411265 Đề tài Capstone 1 3 BIOE330865 An toàn trong y tế 3 4 BIMP311865 TT Xử lý ảnh Y Sinh 1 BISI340665 5 MEPR311565 TT Thiết bị y tế 1 DEMD330565 6 TSEP311965 TT công nghệ cảm biến y sinh 1 7 ESPR427064 TT hệ thống nhúng 1 EMSY437764 8 IMSY332065 Hệ thống thông tin y tế 3 INBE130165 10 Tự chọn chuyên ngành/Liên ngành 1 3 11 Tự chọn chuyên ngành/Liên ngành 2 3
+Tổng 18
+Học kỳ 7: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 MEPR411365 Đồ án thiết bị y tế 1 DEMD330565 2 GRPR442065 TT tốt nghiệp 4 3 BUCO121465 Liên hệ Doanh nghiệp 2
+Tổng 7
+Học kỳ 8: (ghi cả các học phần bắt buộc và tự chọn)
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết 1 GRAD472165 Khóa luận tốt nghiệp 7
+Tổng 7 8 Tự chọn cơ sở ngành 3
+Tổng 22
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 BIIM330965 Xử lý ảnh y sinh 3 BISI340665 2 BIPR311665 TT Xử lý tín hiệu Y Sinh 1 3 DEMD330565 Thiết bị y tế 3 4 PRMI320463 TT Vi xử lý 2 MICR330363 5 TSEP321765 TT mạch điện tử y sinh 2 MEDE330565 7 ELPR311065 Đồ án Điện tử số 1 8 EMSY437764 Hệ thống nhúng 3 MICR330363 9 TESO330765 Công nghệ cảm biến y sinh 3 DIGI330163 10 Tự chọn KH XHNV 1 2 11 Tự chọn KH XHNV 2 2
+Tổng 22
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 MIPR311165 Đồ án vi xử lý 1 PRMI320463 2 CAPR411265 Đề tài Capstone 1 3 BIOE330865 An toàn trong y tế 3 4 BIMP311865 TT Xử lý ảnh Y Sinh 1 BISI340665 5 MEPR311565 TT Thiết bị y tế 1 DEMD330565 6 TSEP311965 TT công nghệ cảm biến y sinh 1 7 ESPR427064 TT hệ thống nhúng 1 EMSY437764 8 IMSY332065 Hệ thống thông tin y tế 3 INBE130165 10 Tự chọn chuyên ngành/Liên ngành 1 3 11 Tự chọn chuyên ngành/Liên ngành 2 3
+Tổng 18
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 MEPR411365 Đồ án thiết bị y tế 1 DEMD330565 2 GRPR442065 TT tốt nghiệp 4 3 BUCO121465 Liên hệ Doanh nghiệp 2
+Tổng 7
+TT Mã MH Tên MH Số TC Mã MH trước,
+MH tiên quyết 1 GRAD472165 Khóa luận tốt nghiệp 7
+Tổng 7 9. Mô tả vắn tắt nội dung và khối lượng các học phần 9.1 Toán 1 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần Toán 1 cung cấp các kiến thức cơ bản về giới hạn, tính liên tục và phép tính vi tích phân của hàm một biến. 9.2 Toán 2 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán 1
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần Toán 2 cung cấp các kiến thức cơ bản về phép tính tích phân của hàm một biến, chuỗi số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong không gian. 9.3 Toán 3 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán 1, Toán 2
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về hàm vectơ, hàm nhiều biến, đạo hàm riêng, tích phân bội, tích phân đường, tích phân mặt và giải tích vectơ. Ứng dụng và định hướng giải quyết trong một số mô hình bài toán thực tế.. 9.4 Xác suất thống kê ứng dụng 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán 2
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần này bao gồm thống kê mô tả, xác suất sơ cấp, biến ngẫu nhiên và luật phân phối xác suất, các số đặc trưng của biến ngẫu nhiên, ước lượng tham số, kiểm định giả thuyết, tương quan và hồi qui tuyến tính. 9.5 Vật lý 1 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán 1
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý bao gồm các phần cơ học và nhiệt học làm cơ sở cho việc tiếp cận các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị các kiến thức về vật lý để khảo sát sự chuyển động, năng lượng và các hiện tượng vật lý liên quan đến các đối tượng trong tự nhiên có kích thước từ phân tử đến cỡ hành tinh. Sau khi học xong học phần sinh viên sẽ có khả năng ứng dụng những kiến thức đã học trong nghiên cứu khoa học cũng như trong phát triển kỹ thuật và công nghệ hiện đại. 9.6 Vật lý 2 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vật lý 1, Thí nghiệm Vật lý 1, Toán 1, Toán 2
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung :
+Thuyết tương đối Einstein: thuyết tương đối hẹp, thuyết tương đối rộng. Quang học: quang học sóng và các hiện tượng giao thoa, nhiễu xạ ánh sang, quang học lượng tử và các hiện tượng quang điện, Compton. Vật lý lượng tử: các giả thuyết de
+Broglie và Heisenberg, phương trình Schrödinger và chuyển động của vi hạt, sự lượng tử hóa các đại lượng vật lý.
+Môn học dựa vào các bài thực hành giúp người học có cái nhìn trực quan hơn về các sự vật hiện tượng đã được học trong lý thuyết gồm các bài thực hành: lý thuyết về các phép tính sai số, xác định mômen quán tính của bánh xe và lực ma sát của ổ trục, xác định gia tốc trọng trường bằng con lắc vật lý, xác định tỷ số nhiệt dung phân tử của chất khí, khảo sát mạch cộng hưởng RLC- Đo RLC bằng dao động ký điện tử, khảo sát đặc tính của diode và transistor, xác định điện tích riêng của electron bằng phương pháp magnetron, khảo sát nhiễu xạ tia Laser qua cách tử phẳng. xác định bước sóng tia Laser, khảo sát hiện tượng bức xạ nhiệt- nghiệm định luật Stefan- Boltzman, khảo sát hiện tượng quang điện ngoài- xác định hằng số
+Planck. 9.7 Thí nghiệm vật lý 1 1
+Phân bố thời gian học tập: 1(0/1/6)
+Môn học trước: Vật lý 1, Toán 1
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.8 Hóa đại cương 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức cơ bản về hóa học nhằm đặt nền tảng cho sinh viên khả năng đọc hiểu các tài liệu trong các những lĩnh vực khoa học, kỹ thuật có liên quan đến hóa học.
+Học phần này giúp sinh viên (i) hiểu được bản chất nguyên tử và phân tử, từ đó giải thích các tính chất của vật chất; (ii) phát triển khả năng giải quyết vấn đề định lượng cơ bản liên quan đến nhiệt động lực học, động học phản ứng, cân bằng hóa học, tính chất dung dịch và các quá trình điện hóa.
+Học phần này là nền tảng để sinh viên có những hiểu biết cần thiết về thế giới vật chất xung quanh, nhận thức mối liên hệ giữa hóa học và các ngành kỹ thuật. Bên cạnh đó, học phần này còn đáp ứng cho khả năng học tập của sinh viên ở trình độ cao hơn hoặc đại học văn bằng hai. 9.9 Ngôn ngữ lập trình C 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho Sinh viên kiến thức cơ bản về định nghĩa, phân loại và mục đích sử dụng cơ bản của các loại ngôn ngữ lập trình khác nhau. Môn học cũng cung cấp cho SV kiến thức về các cấu trúc dữ liệu, cấu trúc điều khiển trong ngôn ngữ C và C#.
+Học phần giúp cho SV có kiến thức và kỹ năng tốt trong việc thiết kế, thực thi các chương trình điều khiển và các chương trình quản lý, giám sát trên máy vi tính. 9.10 Thí nghiệm vật lý 2 1
+Phân bố thời gian học tập: 1(0/1/6)
+Môn học trước: Toán 1, Toán 2, Vật lý 1, thí nghiệm vật lý 1, Vật lý 2
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Thí nghiệm các nguyên lý vật lý 2 gồm một đơn vị học phần có 9 bài thí nghiệm về điện từ học và quang học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ đại học ngành kỹ thuật những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.11 Mạch điện 4
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Toán cao cấp 1,2,3
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần môn Mạch điện cung cấp cho sinh viên các kiến thức về hai định luật Kirchhoff 1,2. Các phương pháp phân tích mạch : biến đổi tương đương, phương pháp thế nút, phương pháp dòng mắt lưới. Các định lý về mạch: định lý Thevenin-Norton , định lý cân bằng công suất, định lý xếp chồng. Áp dụng số phức để giải bài toán xác lập điều hòa. Mạch hỗ cảm, mạch chứa khuếch đại thuật toán, Mạch ba pha đối xứng và không đối xứng, Mạng hai cửa, Phân tích mạch trong miền thời gian, phân tích mạch trong miền tần số, giản đồ bode, Mạch phi tuyến. 9.12 Điện tử cơ bản 4
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Vật lý
+Môn học tiên quyết: Mạch điện
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên những kiến thức cơ bản về vật liệu chế tạo linh kiện điện tử. Trình bày cấu trúc, đặc trưng và ứng dụng của các linh kiện điện tử cơ bản như Diode, Transistor, SCR, TRIAC,
+DIAC, OP-AMP và các linh kiện 4 lớp bán dẫn, linh kiện quang điện tử. Hướng dẫn sinh viên cách phân tích, tính toán các thông số và thiết kế các mạch điện tử cơ bản như: mạch chỉnh lưu, mạch xén, mạch nguồn DC, mạch khuếch đại tín hiệu nhỏ, mạch khuếch đại công suất, mạch transistor ngắt dẫn, mạch dao động, các mạch điều khiển dùng SCR, TRAC, DIAC, quang trở, op-to và các mạch điện tử ứng dụng trong thực tế. 9.13 Kỹ thuật số 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử cơ bản
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức về các hệ thống số, các cổng logic cơ bản, các định lý cơ bản của đại số Boole. Sinh viên còn được học cấu trúc hoạt động các vi mạch số cơ bản TTL và CMOS, các thông số đặc tính của vi mạch số, phân loại các họ vi mạch, nguyên lý chuyển đổi giữa tín hiệu tương tự và tín hiệu số, cấu trúc hoạt động và ứng dụng của bộ nhớ, nguyên lý các mạch dao động số. Sau cùng, môn học cung cấp cho sinh viên những kiến thức về tính toán, nhận biết các mạch tổ hợp, mạch tuần tự, đề ra và giải quyết những vấn đề mạch số, và rồi thiết kế những hệ thống số. 9.14 Vi xử lý 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Kỹ thuật số
+Môn học tiên quyết: Điện tử cơ bản
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về vai trò chức năng của vi xử lý, hệ thống vi xử lý, sự ra đời của vi điều khiển. Cấu trúc bên trong vi điều khiển 8 bit, nguyên lý hoạt động của vi điều khiển 8 bit. Cấu trúc và nguyên lý hoạt động các thiết bị ngoại vi của vi điều khiển như timer/counter, chuyển đổi tương tự sang số, ngắt, điều chế độ rộng xung, truyền dữ liệu UART, SPI, I2C. Các kiến thức cơ bản về ngôn ngữ lập trình hợp ngữ và kiến thức chuyên sâu về ngôn ngữ C để lập trình cho các ứng dụng điều khiển của vi điều khiển, các mạch ứng dụng dùng vi điều khiển. 9.15 Tín hiệu và hệ thống 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Mạch Điện; Hàm biến phức và Biến đổi Laplace
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Giới thiệu phương pháp xử lý tín hiệu tương tự đang được nghiên cứu và ứng dụng trong công nghệ điện-điện tử: Các ý niệm cơ bản về tín hiệu và hệ thống tương tự. Các phương pháp mô tả và xử lý tín hiệu tương tự trong miền thời gian. Ứng dụng phương pháp toán tử trong xử lý tín hiệu tương tự. Các phương pháp mô tả và xử lý tín hiệu tương tự trong miền tần số. Các ứng dụng. 9.16 Sinh lý người và động vật 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Sinh lý học giải thích các yếu tố hóa học và vật lý là nguyên nhân của nguồn gốc, phát triển và tiến triển của đời sống.Lĩnh vực rộng lớn của sinh lý học được phân chia thành sinh lý học tế bào, sinh lý học thực vật, sinh lý học người và động vật. Sinh lý học người và động vật giải thích các cơ chế và đặc điểm riêng biệt của người và động vật mà nó tạo nên sự sống, môn Giải phẫu và sinh lý học người và động vật giải thích cấu trúc, các chức năng của các mô, cơ quan và hệ thống cùng với các cơ chế điều hòa và kiểm soát của cơ thể. 9.17 Hễ thống thông tin y tế 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Kiến thức về các hệ thống thông tin được sử dụng trong các ứng dụng hệ thống chăm sóc sức khỏe, xu hướng phát triển của các hệ thống phục vụ sự phát triển của chăm sóc sức khỏe, quy trình xây dựng và vận hành một hệ thống tin y tế. 9.18 Thiết kế mạch điện tử y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Mạch điện, Điện tử cơ bản, Kỹ thuật số
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần môn thiết kế mạch điện tử y sinh cung cấp cho người học kiến thức liên quan đến việc thiết kế các mạch điện tử dựa trên cơ sở các kiến thức về mạch điện tử sử dụng trong y sinh. Các mạch khuếch đại tín hiệu y sinh sử dụng mạch khuếch đại thuật toán Opamp, các mạch lọc tín hiệu y sinh (mạch lọc thông thấp, thông cao, thông dãi…), các mạch đo giao tiếp cảm biến y sinh như tín hiệu điện tim, điện não, điện cơ. 9.19 Thiết bị y tế 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này có ba thành phần: bài giảng trên lớp, thí nghiệm, và đề tài môn học. Phần bài giảng nhấn mạnh đến các nguyên tắc thiết kế trang thiết bị y tế và phân tích tín hiệu y sinh. Các chủ đề bao gồm nguồn gốc của điện thế sinh học, đặc điểm của các loại tín hiệu sinh học khác nhau, các cảm biến, bộ khuếch đại, thiết bị analog và số, và giao diện máy tính. Phần thí nghiệm bao gồm thiết kế, xây dựng, và kiểm tra các mạch điện và giao diện máy tính để đo nhiều loại tín hiệu sinh học khác nhau. Phần đề tài bao gồm việc thiết kế một thiết bị y tế mà có thể được dùng cho nghiên cứu cao hơn về y khoa. 9.20 Xử lý tín hiệu y sinh 4
+Phân bố thời gian học tập: 4(4/0/8)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Học phần bao gồm 07 chương. Ở chương 1, sự chuyển tiếp từ tín hiệu thời gian liên tục sang tín hiệu thời gian rời rạc được xem xét chi tiết từ lý thuyết lấy mẫu cho đến sự hồi phục tín hiệu sau khi xử lý qua hệ thống xử lý số tín hiệu. Các tín hiệu rời rạc, hệ thống rời rạc cùng với các phân tích về đặc tính, đặc trưng cũng được trình bày cho người học ở chương 2. Nội dung chương 3 liên quan đến việc ứng dụng các phép toán, những đặc trưng của tín hiệu, hệ thống trên miền thời gian. Chương 4 trang bị cho người học các kiến thức về phép biến đổi Z và ứng dụng trong việc xác định hàm truyền, đáp ứng xung, đáp ứng bậc và đáp ứng ra của hệ thống. Khảo sát tính ổn định, nhân quả của hệ thống dựa trên giản đồ cực – zero, xây dựng hàm truyền tổng quát từ phân bố cực – zero trên mặt phẳng phức của z. Chương 5,6 được trình bày tín hiệu và hệ thống rời rạc được phân tích trên miền tần số từ các phân tích DTFS, DTFT, DFT và biến đổi
+Fourier nhanh FFT. Ở chương 7 đưa ra các phương pháp thiết kế cho các mạch lọc số FIR và IIR. 9.21 Công nghệ cảm biến y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Việc sử dụng các loại cảm biến khác nhau tăng lên nhanh chóng trong các công nghệ hiện đại. Hiện nay rất nhiều các ứng dụng liên quan đến cảm biến được tìm thấy trong nhiều lĩnh vực khác nhau bao gồm công nghệ môi trường, kỹ thuật chế tạo, công nghiệp tự động và công nghệ y sinh.
+Nội dung môn học này tập trung vào cơ sở lý thuyết, nguyên lý làm việc và ứng dụng của các loại cảm biến. Ngoài ra môn học này cũng đề cập đến các kỹ thuật đo lường, xử lý tín hiệu cảm biến và hệ thống đo lường cảm biến. 9.22 An toàn trong y tế 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học trang bị cho người học những kiến thức và kỹ năng cơ bản liên quan đến an toàn điện và an toàn bức xạ trong y tế. Nội dung chia làm hai phần chính gồm, nội dung thứ nhất, các tiêu chí trong an toàn điện, trong quá trình vận hành làm việc nhằm đảm bảo an toàn cho người vận hành và thiết bị. nội dung thứ hai, cung cấp cho người học những thông số cơ bản trong hệ thống bức xạ điện từ như CT, X-quang hay MRI và các phương pháp giảm ảnh hưởng của bức xạ đối với bệnh nhân và người vận hành. 9.23 Xử lý ảnh y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về xử lý tín hiệu và hình ảnh y sinh sinh như EEG, EMG, fNIRS, CT-Scaner và MRI. Học phần khái quát từ kiến thức cơ bản về tín hiệu và hình ảnh y sinh và những toán tử liên quan cho xử lý tín hiệu và hình ảnh y sinh, đến các phép biến đổi. Lọc. Sau đó là phần giới thiệu về phép trích đặc trưng, mạng nơ-ron. 9.24 Hệ thống nhúng 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học kiến thức về kiến trúc hệ thống nhúng, nguyên lý về hệ điều hành nhúng, hệ điều hành thời gian thực. 9.25 Đồ án điện tử số 1
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hiện một đề tài (mô phỏng, thi công) tổng hợp kiến thức các môn học cơ sở ngành. 9.26 Đồ án vi xử lý 1
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hiện một đề tài (mô phỏng, thi công board) tổng hợp kiến thức các môn học cơ sở chuyên ngành. 9.27 Đồ án thiết bị y tế 1
+Phân bố thời gian học tập: 1(1/0/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hiện một đề tài (mô phỏng, thi công board) về thiết bị y tế. 9.28 Kỹ năng công nghiệp 2
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức những tình huống thường xảy ra trong môi trường công nghiệp và cách tiếp cận, giải quyết vấn đề xảy ra. Từ đó giúp sinh viên hình thành các kỹ năng để hoài nhập nhanh trong môi trường công nghiệp sau khi ra trường. Cụ thể, khóa học sẽ dạy cho sinh viên về con đường và sự nghiệp kỹ sư, những phân tích trong thất bại và thành công, những cách xử lý dữ liệu và những kinh nghiệm làm việc. 9.29 Trường điện từ 1
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Các khái niệm và phương trình cơ bản của trường điện từ, Trường điện từ tĩnh, trường điện từ dừng, Trường điện từ biến thiên,
+Bức xạ điện từ, ống dẫn sóng và hộp cộng hưởng. 9.30 Thiết kế mô hình trên máy tính 1
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản trong quy trình thiết kế kỹ thuật và kỹ năng sử dụng phần mềm thiết kế trên máy tính để thiết kế, lắp ráp, xuất bản vẽ kỹ thuật cho các sản phẩm có hình dạng khối cơ bản. Ngoài ra, người học còn được trang bị kiến thức và kỹ năng thiết kế đáp ứng các phương pháp gia công. 9.31 Thiết kế mô hình trên máy tính 2
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản trong quy trình thiết kế kỹ thuật và kỹ năng sử dụng phần mềm thiết kế trên máy tính để thiết kế, lắp ráp, xuất bản vẽ kỹ thuật cho các sản phẩm có hình dạng khối cơ bản. Ngoài ra, người học còn được trang bị kiến thức và kỹ năng thiết kế đáp ứng các phương pháp gia công. 9.32 Lập trình Android ứng dụng điều khiển 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên chuyên ngành
+Công nghệ Kỹ thuật Điện tử viễn thông những kiến thức cơ bản về lập trình ứng dụng trên hệ điều hành di động Android. Giới thiệu các công cụ hỗ trợ phát triển hệ điều hành Android, các thành phần cơ bản của một ứng dụng Android. Trình bày các đối tượng điều khiển, thiết kế giao diện cơ bản trong Android. Nêu các phương thức xử lý sự kiện, các vấn đề liên quan để hoàn thành và đóng gói một ứng dụng.
+Trình bày các công nghệ và các lớp ứng dụng kết nối SMS, bluetooth, wifi, NFC, nhận dạng giọng nói, cảm biến gia tốc,... Kết hợp với các kiến thức nền điện tử, vi xử lý xây dựng các hệ thống ứng dụng điều khiển liên quan. 9.33 Thu thập và điều khiển thiết bị với máy tính 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này trang bị cho sinh viên kiến thức về cấu trúc, phân loại , ứng dụng của hệ thống thu thập dữ liệu và điều khiển, cách thức xử lý và hoạt động của khối xử lý tín hiệu, các khối xử lý dữ liệu trong thực tế, kỹ thuật lập trình để thu thập dữ liệu trong thực tế
+Ngoài ra, sinh viên còn được trang bị kiến thức về OPC và hệ SCADA, các thành phần và chức năng của nó trong hệ SCADA. 9.34 Công nghệ không dây 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức về các công nghệ không dây phổ biến, bao gồm Wifi, Bluetooth, Zigbee, NFC,
+RFID và có thể mở rộng giới thiệu các công nghệ không dây khác có ứng dụng trong lĩnh vực thiết bị y tế. Sinh viên cũng được học về các vấn đề cơ bản trong thông tin vô tuyến như băng tần, kỹ thuật điều chế, kỹ thuật đa truy cập,.. Trong mỗi công nghệ không dây, các vấn đề về bảo mật và ứng dụng của công nghệ đó cũng được giới thiệu. Sinh viên cũng có cơ hội tìm hiểu về phương pháp tích hợp các công nghệ không dây vào trong thiết kế thiết bị y tế và các ứng dụng trong lĩnh vực điện tử y sinh. 9.35 Chuyên đề đặc biệt trong kỹ thuật y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về các máy móc thí nghiệm, các phần mềm kỹ thuật của ngành Kỹ thuật Y sinh, cũng như tìm hiểu các vật tư y tế nói chung. Sau đó là kỹ năng xây dựng và thiết kế thí nghiệm hiệu quả và thực tiễn. Chuyên đề đặc biệt cũng sẽ cung cấp kỹ năng tìm các bài báo quốc tế tin cậy, cũng như phương pháp viết bài Báo khoa học. 9.36 Kinh doanh trong ngành KTYS 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Giới thiệu về dự án, thiết kế, phát triển và chuyển giao công nghệ những sản phẩm Kỹ Thuật Y sinh tiềm năng thông qua đề tài môn học. Bài giảng được cung cấp bởi nhiều người có kinh nghiệm trong kinh doanh thiết bị Kỹ Thuật Y Sinh. Sinh viên sẽ được học những kiến thức thực tế phục vụ cho việc phát triển thiết bị Kỹ Thuật Y Sinh. Những kiến thức đó bao gồm: phát triển sản phẩm thông qua thiết kế và điều khiển, sở hữu trí tuệ và phát minh trong Kỹ Thuật Y Sinh (bao gồm bằng sáng chế), những quy tắc trong lâm sàng bao gồm thiết kế kiểm tra lâm sàng. Giảng viên sẽ nhấn mạnh đến vấn đề điều tra thị trường, quảng bá sản phẩm, chuyển giao công nghệ và kinh thầu sản phẩm Kỹ
+Thuật Y Sinh. Giảng viên cũng sẽ cung cấp những ví dụ cụ thể của những vấn đề trên. 9.37 Những thách thức mang tính kỹ thuật trong Y học 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này được thiết kế dành cho sinh viên quan tâm đến những kỹ thuật cao trong ngành Kỹ thuật Y sinh. Một nhóm các giảng viên về kỹ thuật và y khoa, có kinh nghiệm trong nghiên cứu đa ngành, sẽ tham gia giảng dạy môn học này. Môn học bao gồm các chủ đề về hệ thần kinh trung ương, cơ và xương, phổi và tim. Trong môn học, những tín hiệu sinh học quan trọng, phương pháp đo, thiết bị cần thiết cùng với các ví dụ về những dự án hợp tác giữa trường Kỹ thuật và trường Y sẽ được nhấn mạnh. Môn học bao gồm một đề tài xuyên suốt khóa học. 9.38 Máy học 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về nhận diện mẫu và máy học. Học phần khái quát các thuật toán cơ bản về học có giám sát, học không giám sát, và hệ thống khuyến nghị. 9.39 Vật liệu y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về khoa học vật liệu và tính chất ứng dụng trong y sinh.
+Học phần khái quát từ kiến thức cơ bản về vật liệu, bao gồm cấu trúc, đặc tính cơ khí, tính tương hợp sinh học. Tìm hiếu các phương pháp phân tích, kiểm tra và đánh giá tiêu chuẩn của vật liệu. Sau cùng là các ứng dụng thực tiễn trong lĩnh vực y sinh, những triển vọng và thách thức của vật liệu y sinh trong Y học. 9.40 Công nghệ chẩn đoán hình ảnh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ sở và tổng quan về nguyên lý hoạt động và nguyên tắc vận hành của các thiết bị chẩn đoán hình ảnh hiện đại. Những kiến thức cơ sở và tổng quan này giúp sinh viên có cơ sở để nghiên cứu chuyên sâu về lĩnh vực thiết kế, trang bị, vận hành và bảo trì các thiết bị chẩn đoán hình ảnh phổ biến trong hệ thống y tế. 9.41 Ứng dụng siêu âm và từ trong kỹ thuật và y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bsở và tổng quan về một số ứng dụng cụ tiên tiến của siêu âm và từ trong kỹ thuật và y sinh học. Nội dung gồm hai vấn đề chính: ứng dụng siêu âm – bao gồm tương tác của siêu âm với vật chất, sonochemistry, chẩn đoán vật liệu không phá hủy, ứng dụng siêu âm công suất cao trong điều trị; ứng dụng từ – bao gồm cơ sở về từ học và vật liệu từ, cảm biến từ, ứng dụng nano từ trong y học, từ trường sinh học. 9.42 Thực tập Điện tử 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này hướng dẫn sinh viên thực hành các mạch điện tử cơ bản như mạch chỉnh lưu, mạch xén, mạch nguồn DC, mạch khuếch đại tín hiệu nhỏ, mạch khuếch đại công suất, mạch transistor ngắt dẫn, mạch dao động tạo sóng sin và phi sin, các mạch điều khiển dùng SCR, TRAC, DIAC, quang trở, op-to và các mạch điện tử ứng dụng trong thực tế. 9.43 Thực tập Thiết bị y tế 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này có ba thành phần: bài giảng trên lớp, thí nghiệm, và đề tài môn học. Phần bài giảng nhấn mạnh đến các nguyên tắc thiết kế trang thiết bị y tế và phân tích tín hiệu y sinh. Các chủ đề bao gồm nguồn gốc của điện thế sinh học, đặc điểm của các loại tín hiệu sinh học khác nhau, các cảm biến, bộ khuếch đại, thiết bị analog và số, và giao diện máy tính. Phần thí nghiệm bao gồm thiết kế, xây dựng, và kiểm tra các mạch điện và giao diện máy tính để đo nhiều loại tín hiệu sinh học khác nhau. Phần đề tài bao gồm việc thiết kế một thiết bị y tế mà có thể được dùng cho nghiên cứu cao hơn về y khoa. 9.44 Thực tập kỹ thuật số 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này hướng dẫn sinh viên thực hành các mạch điện tử số như cổng logic, Flip-Flop, mạch đếm, thanh ghi, thiết kế mạch tổ hợp và mạch tuần tự, bộ nhớ, ADC, DAC và các mạch ứng dụng trong thực tế. 9.45 Thực tập vi xử lý 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành lập trình cho vi điều khiển giao tiếp điều khiển led đơn, led 7 đoạn, LCD, led ma trận, bàn phím, thời gian thực, truyền dữ liệu, định thời timer, đếm sản phẩm counter, chuyển đổi
+ADC đo nhiệt độ, các ứng dụng thực tế. 9.46 Thực tập hệ thống nhúng 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học kiến thức về kiến trúc hệ thống nhúng, nguyên lý về hệ điều hành nhúng, hệ điều hành thời gian thực. 9.47 Thực tập Xử lý tín hiệu y sinh 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này giúp sinh viên làm quen với quá trình thu thập dữ liệu tín hiệu y sinh, xử lý thống kê tín hiệu, tiền xử lý và thực hiện xử lý riêng đối với từng tín hiệu điện tim, điện não, fNIRS. 9.48 Thực tập mạch điện tử y sinh 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này hướng dẫn cho người học thực hành các mạch điện tử sử dụng trong y sinh, bao gồm các mạch khuếch đại tín hiệu y sinh sử dụng mạch khuếch đại thuật toán Opamp, các mạch lọc tín hiệu y sinh (mạch lọc thông thấp, thông cao, thông dãi…), các mạch đo giao tiếp cảm biến y sinh như tín hiệu điện tim, điện cơ. 9.49 Thực tập Xử lý ảnh y sinh 1
+Phân bố thời gian học tập: 1(0/1/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Trên cơ sở kiến thức đã học trong môn xử lý ảnh y sinh, người học được thực hiện mô phỏng các quá trình xử lý ảnh y sinh trên phần mềm Matlab và hướng đến thực hiện trên phần cứng xử lý ảnh. 9.50 Thực tập Công nghệ cảm biến y sinh 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này hướng dẫn sinh viên thực hành các loại cảm biến y sinh để đo điện tim, điện cơ, đo huyết áp, dung tích phổi, … Xây dựng các mạch ứng dụng thực tế sử dụng các loại cảm biến này. 9.51 Thực tập tốt nghiệp 4
+Phân bố thời gian học tập: 4(0/4/8)
+Môn học trước: thực tập vi xử lý, Đồ án điện tử 1, Đồ án điện tử 2.
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học rèn luyện cho sinh viên các tố chất của một người kỹ sư kỹ thuật y sinh. Sinh viên được giới thiệu đến các doanh nghiệp trong nước và nước ngoài, các đơn vị chăm sóc sức khỏe, bệnh viện, trung tâm y tế nhằm củng cố kiến thức đã học và rèn luyện tác phong nề nếp, dưới sự hướng dẫn và điều động của đại diện đơn vị tiếp nhận thực tập. 9.52 Đồ án tốt nghiệp 7
+Phân bố thời gian học tập: 7(0/7/14)
+Điều kiện tiên quyết: Đủ điều kiện theo quy định
+Điều kiện môn học trước: Không.
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Sinh viên chọn lựa một trong các lĩnh vực như:
+Thiết kế hệ thống dùng VXL/VDK, Thiết kế và thi công hệ thống dùng PLC, Thiết kế và thi công hệ thống giao tiếp máy tính, Thiết kế và thi công hệ thống điện tử và điện tử công suất, Thiết kế và thi công hệ thống xử lý tín hiệu/hình ảnh tử thiết bị cảm biến, IoT, Ứng dụng liên quan đến Android và RFID để thực hiện đề tài. 1- Cơ sở vật chất phục vụ học tập a. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng -Phòng thực hành điện tử - Phòng thực hành kỹ thuật số - Phòng thực hành vi xử lý - Phòng thực tập y sinh b. Thư viện, trang WEB
+Thư viện Trường Đại Học Sư Phạm Kỹ Thuật TPHCM và tài liệu từ mạng internet 2- Hướng dẫn thực hiện chương trình.
+Sinh viên phải đăng ký các môn học theo định hướng chuyên ngành đã phân cho sinh viên.
+Giờ quy định tính như sau: 1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp = 30 giờ thí nghiệm hoặc thực hành = 45 giờ thực tập = 45 giờ tự học = 45  90 giờ thực tập tại cơ sở. = 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của học phần là bội số của 15. a. Hướng dẫn sử dụng kiến thức giáo dục đại cương  Khối kiến thức Lý luận chính trị và Pháp luật đại cương - Theo qui định của Bộ Giáo dục và Đào tạo.  Khối kiến thức Khoa học Xã hội và Nhân văn - Các học phần tự chọn này là những môn học SV có thể tự chọn trong quá trình học tập, chủ yếu để mở rộng kiến thức (hiểu biết) cho SV, thúc đẩy sự phát triển cá tính của SV, biết trình bày, cách viết (văn phong) đồ án, khóa luận, báo cáo đề tài, dự án, ... - Nhà trường có thể chọn các môn học này (nhiều ngành chọn học) bố trí cho SV học.  Khối kiến thức ngoại ngữ và tin học - Hướng dẫn cách thức tổ chức nâng cao năng lực ngoại ngữ thông qua Đề án Phát triển năng lực ngoại ngữ của Nhà trường. - Trình độ tin học đạt được tương đương trình độ B. Trong trường hợp có nhiều sinh viên khi học phổ thông ở vùng sâu, vùng xa ít có điều kiện học tin học, nhà trường nên mở các lớp bồi dưỡng ngoại khóa về tin học cho nhóm sinh viên này học, tạo điều kiện cho sinh viên đạt mặt bằng chung về trình độ tin học.  Khối kiến thức toán học và khoa học tự nhiên - Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán và khoa học tự nhiên với mức độ ứng dụng, đáp ứng được việc tiếp thu các kiến thức giáo dục chuyên nghiệp. - Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán cơ bản để học ở trình độ sau đại học (đáp ứng được khả năng học tập ở trình độ cao hơn).  Kiến thức Nhập môn ngành đào tạo - Kiến thức Nhập môn ngành đào tạo (3 tín chỉ) là bắt buộc SV ngành Công nghệ kỹ thuật điện tử, truyền thông. Bao gồm: 2 tín chỉ lý thuyết và 1 tín chỉ thực hành. Bố trí học ở học kỳ 1.  Khối kiến thức Giáo dục thể chất và Giáo dục quốc phòng-an ninh - Đây là kiến thức bắt buộc theo qui định của Bộ Giáo dục và Đào tạo. - Học phần GDTC3: SV tự chọn khi đăng ký học phần. - Hai môn Giáo dục thể chất và Giáo dục quốc phòng-an ninh cũng thực hiện tích lũy theo tín chỉ, nhưng được cấp chứng chỉ riêng. b. Hướng dẫn sử dụng kiến thức giáo dục chuyên nghiệp  Khối kiến thức cơ sở ngành - Các học phần cơ sở ngành bắt buộc: Các học phần bắt buộc thuộc khối kiến thức cơ sở ngành. - Các học phần cơ sở ngành tự chọn: Chọn theo các hướng phục vụ kiến thức chuyên ngành.  Khối kiến thức chuyên ngành - Các học phần chuyên ngành bắt buộc Học phần đồ án chuyên ngành do nhiều giảng viên đảm nhận. - Các học phần chuyên ngành tự chọn: Các học phần chuyên ngành tự chọn bao gồm 6TC  Khối kiến thức tốt nghiệp: - Đồ án tốt nghiệp: Dạng đề tài nghiên cứu ứng dụng để giải quyết một số vấn đề kỹ thuật mang tính thực tế liên quan đến ngành học. Căn cứ vào số GV và năng lực GV bố trí số lượng đề tài và số SV thực hiện đề tài.
+Hiệu trưởng Trưởng khoa

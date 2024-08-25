@@ -1,0 +1,1371 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH KỸ THUẬT CÔNG NGHIỆP
+(Ban hành tại Quyết định số 1273/QĐ-ĐHSPKT ngày 03/08/2018 của Hiệu trưởng trường Đại
+học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: KỸ THUẬT CÔNG NGHIỆP
+Ngành đào tạo: KỸ THUẬT CÔNG NGHIỆP
+Tên tiếng Anh: Industrial Engineering
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7520117
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: KỸ THUẬT CÔNG NGHIỆP
+Trình độ đào tạo: Đại học
+Ngành đào tạo: KỸ THUẬT CÔNG NGHIỆP (Industrial Engineering)
+Mã ngành: 7520117
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: Kỹ sư
+(Ban hành tại Quyết định số 1273/QĐ-ĐHSPKT ngày 03/08/2018 của Hiệu trưởng trường Đại
+học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ
+ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: Không
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có khả năng hoạt động trong lĩnh vực thương mại kỹ thuật, quản lý hệ
+thống công nghiệp; có đủ năng lực tự học, tự nghiên cứu và trình độ để có thể tiếp tục học tập ở
+trình độ cao hơn.
+Đào tạo người học có phẩm chất chính trị, đạo đức, có ý thức phục vụ nhân dân, có sức
+khoẻ, đáp ứng yêu cầu xây dựng và bảo vệ Tổ quốc.
+Trang bị cho người học những kiến thức nền tảng cơ bản để phát triển toàn diện; có khả
+năng áp dụng những nguyên lý kỹ thuật cơ bản, kiến thức về lĩnh vực kinh doanh và cách thức
+quản lý hoạt động sản xuất kinh doanh trên cơ sở tiếp thu lý thuyết và tiếp cận thực tế trong môi
+trường kinh doanh, kỹ năng thực hành đủ để đảm đương công việc của người kỹ sư Kỹ thuật
+Công nghiệp: Điều hành sản xuất, Quản lý hệ thống công nghiệp và dịch vụ sản phẩm kỹ thuật.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+1. Có các kiến thức giáo dục đại cương, kiến thức nền tảng kỹ thuật cốt lõi và kiến thức
+chuyên sâu trong lĩnh vực Kỹ thuật Công nghiệp.
+2. Phát triển khả năng học tập suốt đời, kỹ năng giải quyết vấn đề, và các kỹ năng chuyên
+môn trong lĩnh vực Kỹ thuật Công nghiệp để thực hiện tốt trách nhiệm xã hội và đạo đức
+nghề nghiệp.
+3. Nâng cao khả năng giao tiếp và kỹ năng làm việc nhóm.
+4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và quản lý các hệ thống sản
+xuất công nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra
+hiệu năng lực
+1. Có kiến thức và lập luận kỹ thuật
+Sử dụng các kiến thức cơ bản về toán học, khoa học tự nhiên, công nghệ
+1.1. thông tin đáp ứng việc tiếp thu các kiến thức chuyên môn và khả năng học tập 3
+ở trình độ cao hơn
+Phân tích và vận dụng các kiến thức nền tảng kỹ thuật cốt lõi về lĩnh vực Kỹ
+1.2. 4
+thuật Công nghiệp
+Phân tích và vận dụng được các kiến thức chuyên sâu trong lĩnh vực Kỹ thuật
+1.3. 4
+Công nghiệp
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+Phân tích, tổng hợp và giải quyết các vấn đề về lĩnh vực Kỹ thuật Công
+2.1. 5
+nghiệp
+Kiểm tra, thực nghiệm các vấn đề kỹ thuật và thực hiện thành thạo các kỹ
+2.2. 5
+năng chuyên môn trong lĩnh vực Kỹ thuật Công nghiệp
+Khả năng tư duy hệ thống về các vấn đề thuộc lĩnh vực Kỹ thuật Công nghiệp
+2.3. 4
+trong bối cảnh của doanh nghiệp và xã hội
+2.4. Có khả năng học tập suốt đời 3
+Hiểu biết về văn hóa doanh nghiệp và biết cách làm việc trong các tổ chức
+2.5. 3
+công nghiệp, có đạo đức nghề nghiệp
+3. Kỹ năng mềm
+3.1. Có khả năng làm việc độc lập và làm việc nhóm 4
+Giao tiếp hiệu quả dưới nhiều hình thức: văn bản, giao tiếp điện tử, đồ họa và
+3.2. 4
+thuyết trình
+Sử dụng được tiếng Anh trong giao tiếp, nghiên cứu tài liệu và văn bản kỹ
+3.3. 4
+thuật.
+Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+4.
+doanh nghiệp, xã hội và môi trường
+Hình thành ý tưởng, lập kế hoạch, điều hành và quản lý các dự án và hệ thống
+4.1. 5
+sản xuất công nghiệp và dịch vụ kỹ thuật theo yêu cầu
+Ký
+hiệu	Chuẩn đầu ra	Trình độ
+năng lực
+1.	Có kiến thức và lập luận kỹ thuật	
+1.1.	Sử dụng các kiến thức cơ bản về toán học, khoa học tự nhiên, công nghệ
+thông tin đáp ứng việc tiếp thu các kiến thức chuyên môn và khả năng học tập
+ở trình độ cao hơn	3
+1.2.	Phân tích và vận dụng các kiến thức nền tảng kỹ thuật cốt lõi về lĩnh vực Kỹ
+thuật Công nghiệp	4
+1.3.	Phân tích và vận dụng được các kiến thức chuyên sâu trong lĩnh vực Kỹ thuật
+Công nghiệp	4
+2.	Kỹ năng và tố chất cá nhân và chuyên nghiệp	
+2.1.	Phân tích, tổng hợp và giải quyết các vấn đề về lĩnh vực Kỹ thuật Công
+nghiệp	5
+2.2.	Kiểm tra, thực nghiệm các vấn đề kỹ thuật và thực hiện thành thạo các kỹ
+năng chuyên môn trong lĩnh vực Kỹ thuật Công nghiệp	5
+2.3.	Khả năng tư duy hệ thống về các vấn đề thuộc lĩnh vực Kỹ thuật Công nghiệp
+trong bối cảnh của doanh nghiệp và xã hội	4
+2.4.	Có khả năng học tập suốt đời	3
+2.5.	Hiểu biết về văn hóa doanh nghiệp và biết cách làm việc trong các tổ chức
+công nghiệp, có đạo đức nghề nghiệp	3
+3.	Kỹ năng mềm	
+3.1.	Có khả năng làm việc độc lập và làm việc nhóm	4
+3.2.	Giao tiếp hiệu quả dưới nhiều hình thức: văn bản, giao tiếp điện tử, đồ họa và
+thuyết trình	4
+3.3.	Sử dụng được tiếng Anh trong giao tiếp, nghiên cứu tài liệu và văn bản kỹ
+thuật.	4
+4.	Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh
+doanh nghiệp, xã hội và môi trường	
+4.1.	Hình thành ý tưởng, lập kế hoạch, điều hành và quản lý các dự án và hệ thống
+sản xuất công nghiệp và dịch vụ kỹ thuật theo yêu cầu	5
+4.2. Triển khai chế tạo, lắp ráp và kiểm soát chất lượng các trang thiết bị cơ khí 5
+Vận hành, bảo trì và cải tiến các hệ thống sản xuất, qui trình trong công
+4.3. 4
+nghiệp
+4.4. Vận dụng các kiến thức, kỹ năng và thái độ để lãnh đạo trong kỹ thuật 3
+Vận dụng các kiến thức và kỹ năng để khởi nghiệp và kinh doanh trong lĩnh
+4.5. 3
+vực Kỹ thuật Công nghiệp
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các
+hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến
+thức bằng các hành động như giải thích, phân loại, minh họa, suy
+Đạt yêu
+luận, ...
+cầu
+2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản
+phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi
+tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng
+các hành động như phân tích, phân loại, so sánh, tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông
+tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác
+định bằng các hành động như nhận xét, phản biện, đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa
+các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô
+hình/ sản phẩm mới.
+5. Khối lượng kiến thức toàn khoá: 132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể
+chất, Giáo dục Quốc phòng và các môn học ngoại khóa). Phần Ngoại ngữ sẽ thực hiện theo Đề
+án Phát triển năng lực ngoại ngữ của trường và không đưa vào chương trình đào tạo.
+6. Phân bổ khối lượng các khối kiến thức
+Số tín chỉ
+Tên
+Tổng Bắt buộc Tự chọn
+Kiến thức giáo dục đại cương 47 43 4
+Lý luận chính trị + Pháp luật đại cương 12 12
+Khoa học Xã hội và Nhân văn 4 0 4
+Toán và Khoa học tự nhiên 25 25
+Tin học 3 3
+Nhập môn Kỹ thuật Cơ khí 3(2+1) 3(2+1)
+Khối kiến thức chuyên nghiệp 85 71 14
+4.2.	Triển khai chế tạo, lắp ráp và kiểm soát chất lượng các trang thiết bị cơ khí	5
+4.3.	Vận hành, bảo trì và cải tiến các hệ thống sản xuất, qui trình trong công
+nghiệp	4
+4.4.	Vận dụng các kiến thức, kỹ năng và thái độ để lãnh đạo trong kỹ thuật	3
+4.5.	Vận dụng các kiến thức và kỹ năng để khởi nghiệp và kinh doanh trong lĩnh
+vực Kỹ thuật Công nghiệp	3
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các
+hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến
+thức bằng các hành động như giải thích, phân loại, minh họa, suy
+luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản
+phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi
+tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng
+các hành động như phân tích, phân loại, so sánh, tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông
+tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác
+định bằng các hành động như nhận xét, phản biện, đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa
+các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô
+hình/ sản phẩm mới.
+Tên	Số tín chỉ		
+	Tổng	Bắt buộc	Tự chọn
+Kiến thức giáo dục đại cương	47	43	4
+Lý luận chính trị + Pháp luật đại cương	12	12	
+Khoa học Xã hội và Nhân văn	4	0	4
+Toán và Khoa học tự nhiên	25	25	
+Tin học	3	3	
+Nhập môn Kỹ thuật Cơ khí	3(2+1)	3(2+1)	
+Khối kiến thức chuyên nghiệp	85	71	14
+Cơ sở nhóm ngành và ngành 30 27 3
+Chuyên ngành 27 22 5
+Liên ngành 6 0 6
+Thực hành, thực tập xưởng 12 12
+Thực tập tốt nghiệp 3 3
+Khóa luận tốt nghiệp 7 7
+Khối kiến thức GDTC + GDQP (Không tính)
+Giáo dục thể chất 1 1
+Giáo dục thể chất 2 1
+Tự chọn Giáo dục thể chất 3 3
+Giáo dục quốc phòng 165 tiết
+NGOẠI KHÓA (Không tính)
+Lãnh đạo và kinh doanh trong kỹ thuật 2
+7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc
+7.1. Kiến thức giáo dục đại cương
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2
+3. LLCT230214 Đường lối cách mạng của ĐCSVN 3
+4. GELA220405 Pháp luật đại cương 2
+5. MATH132401 Toán 1 3
+6. MATH132501 Toán 2 3
+7. MATH132601 Toán 3 3
+8. MATH132901 Xác suất thống kê ứng dụng 3
+9. INME130125 Nhập môn Kỹ thuật Cơ khí 3(2+1)
+10. AMME131529 Toán ứng dụng trong cơ khí 3
+11. PHYS130902 Vật lý 1 3
+12. PHYS131002 Vật lý 2 3
+13. PHYS111202 Thí nghiệm vật lý 1 1
+14. GCHE130603 Hoá đại cương 3
+15. MEIF134529 Tin học trong kỹ thuật 3
+16. PHED110513 Giáo dục thể chất 1 1 (Không tính)
+17. PHED110613 Giáo dục thể chất 2 1 (Không tính)
+18. PHED130715 Giáo dục thể chất 3 3 (Không tính)
+19. Giáo dục quốc phòng 165 tiết
+Tổng 43
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Cơ sở nhóm ngành và ngành	30	27	3
+Chuyên ngành	27	22	5
+Liên ngành	6	0	6
+Thực hành, thực tập xưởng	12	12	
+Thực tập tốt nghiệp	3	3	
+Khóa luận tốt nghiệp	7	7	
+Khối kiến thức GDTC + GDQP	(Không tính)		
+Giáo dục thể chất 1	1		
+Giáo dục thể chất 2	1		
+Tự chọn Giáo dục thể chất 3	3		
+Giáo dục quốc phòng	165 tiết		
+NGOẠI KHÓA	(Không tính)		
+Lãnh đạo và kinh doanh trong kỹ thuật	2		
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	
+4.	GELA220405	Pháp luật đại cương	2	
+5.	MATH132401	Toán 1	3	
+6.	MATH132501	Toán 2	3	
+7.	MATH132601	Toán 3	3	
+8.	MATH132901	Xác suất thống kê ứng dụng	3	
+9.	INME130125	Nhập môn Kỹ thuật Cơ khí	3(2+1)	
+10.	AMME131529	Toán ứng dụng trong cơ khí	3	
+11.	PHYS130902	Vật lý 1	3	
+12.	PHYS131002	Vật lý 2	3	
+13.	PHYS111202	Thí nghiệm vật lý 1	1	
+14.	GCHE130603	Hoá đại cương	3	
+15.	MEIF134529	Tin học trong kỹ thuật	3	
+16.	PHED110513	Giáo dục thể chất 1	1	(Không tính)
+17.	PHED110613	Giáo dục thể chất 2	1	(Không tính)
+18.	PHED130715	Giáo dục thể chất 3	3	(Không tính)
+19.		Giáo dục quốc phòng	165 tiết	
+Tổng			43	
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. ENDR130123 Vẽ kỹ thuật 1 3
+2. ENME130620 Cơ kỹ thuật 3
+3. SMME230720 Sức bền vật liệu 3 ENME130620
+4. MEMD230323 Nguyên lý - Chi tiết máy 3 SMME230720
+5. MDPR310423 Đồ án Thiết kế máy 1 MEMD230323
+6. TOMT220225 Dung sai - Kỹ thuật đo 2
+7. EXMM210325 Thí nghiệm đo lường cơ khí 1
+8. ENMA220230 Vật liệu học 2
+9. MATE210330 Thí nghiệm vật liệu học 1
+10. ENME320124 Anh văn chuyên ngành cơ khí 2
+11. FMMT330825 Cơ sở công nghệ chế tạo máy 3
+12. BLAW230308 Luật kinh tế 3
+Tổng 27
+7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết và thí nghiệm)
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. INSY331026 Kỹ thuật hệ thống 3
+2. PDIS311226 Đồ án Thiết kế hệ thống công nghiệp 1 INSY331026
+3. CCCT331725 Công nghệ CAD/CAM-CNC 3
+4. AUMP323525 Tự động hoá quá trình sản xuất (CKM) 2
+5. MQMA331326 Quản trị sản xuất và chất lượng 3
+Thiết kế và quản lý trang thiết bị công
+6. FAPL331526 3
+nghiệp
+7. SCMA331226 Quản trị chuỗi cung ứng 3 MQMA331326
+8. LJIT321126 Quản trị sản xuất theo Lean và JIT 2
+9. SEMI321626 Liên hệ Doanh nghiệp 2
+Tổng 22
+7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập công nghiệp)
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. MHAP110127 Thực tập nguội 1
+2. WEPR210430 Thực tập Kỹ thuật Hàn 1
+3. MEPR240227 Thực tập Cơ khí 1 4 WEPR210430
+4. PCCC321825 Thực tập Công nghệ CAD/CAM-CNC 2 CCCT331725
+Thực tập Thiết kế và mô phỏng hệ thống
+5. IEPR321326 2
+kỹ thuật
+Thực tập Thiết kế và mô phỏng hệ thống
+6. IEPR321426 2 IEPR321326
+sản xuất công nghiệp
+7. FAIN430526 Thực tập Tốt nghiệp (KCN) 3
+Tổng 15
+7.2.3. Tốt nghiệp (Chọn một trong hai hình thức sau)
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	ENDR130123	Vẽ kỹ thuật 1	3	
+2.	ENME130620	Cơ kỹ thuật	3	
+3.	SMME230720	Sức bền vật liệu	3	ENME130620
+4.	MEMD230323	Nguyên lý - Chi tiết máy	3	SMME230720
+5.	MDPR310423	Đồ án Thiết kế máy	1	MEMD230323
+6.	TOMT220225	Dung sai - Kỹ thuật đo	2	
+7.	EXMM210325	Thí nghiệm đo lường cơ khí	1	
+8.	ENMA220230	Vật liệu học	2	
+9.	MATE210330	Thí nghiệm vật liệu học	1	
+10.	ENME320124	Anh văn chuyên ngành cơ khí	2	
+11.	FMMT330825	Cơ sở công nghệ chế tạo máy	3	
+12.	BLAW230308	Luật kinh tế	3	
+Tổng			27	
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	INSY331026	Kỹ thuật hệ thống	3	
+2.	PDIS311226	Đồ án Thiết kế hệ thống công nghiệp	1	INSY331026
+3.	CCCT331725	Công nghệ CAD/CAM-CNC	3	
+4.	AUMP323525	Tự động hoá quá trình sản xuất (CKM)	2	
+5.	MQMA331326	Quản trị sản xuất và chất lượng	3	
+6.	FAPL331526	Thiết kế và quản lý trang thiết bị công
+nghiệp	3	
+7.	SCMA331226	Quản trị chuỗi cung ứng	3	MQMA331326
+8.	LJIT321126	Quản trị sản xuất theo Lean và JIT	2	
+9.	SEMI321626	Liên hệ Doanh nghiệp	2	
+Tổng			22	
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	MHAP110127	Thực tập nguội	1	
+2.	WEPR210430	Thực tập Kỹ thuật Hàn	1	
+3.	MEPR240227	Thực tập Cơ khí 1	4	WEPR210430
+4.	PCCC321825	Thực tập Công nghệ CAD/CAM-CNC	2	CCCT331725
+5.	IEPR321326	Thực tập Thiết kế và mô phỏng hệ thống
+kỹ thuật	2	
+6.	IEPR321426	Thực tập Thiết kế và mô phỏng hệ thống
+sản xuất công nghiệp	2	IEPR321326
+7.	FAIN430526	Thực tập Tốt nghiệp (KCN)	3	
+Tổng			15	
+Mã MH tiên
+TT Mã môn học Tên học phần Số tín chỉ
+quyết
+1. GRAT470626 Khóa luận tốt nghiệp 07 “Kiểm tra năng
+Các môn tốt nghiệp 07 lực”
+1. STOG430726 - Chuyên đề tốt nghiệp 1 (KCN) 3
+“Kiểm tra năng
+2. STOG420826 - Chuyên đề tốt nghiệp 2 (KCN) 2
+lực”
+3. STOG420926 - Chuyên đề tốt nghiệp 3 (KCN) 2
+Tổng 07
+Ghi chú: Sinh viên phải đạt kỳ thi “Kiểm tra năng lực” mới đủ điều kiện để làm Khóa luận tốt
+nghiệp hoặc học các môn tốt nghiệp.
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương (SV tích lũy 4 tín chỉ trong các môn học sau)
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. BPLA121808 Kế hoạch khởi nghiệp 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. INMA220305 Nhập môn Quản trị học 2
+4. INLO220405 Nhập môn Logic học 2
+5. SYTH220491 Tư duy hệ thống 2
+6. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+7. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2
+8. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức cơ sở nhóm ngành và ngành (Sinh viên tích lũy 3 tín chỉ trong các môn học sau)
+TT Mã môn học Tên học phần Số tín chỉ Mã MH trước
+1. EEEN230129 Kỹ thuật điện - điện tử 3
+2. PNHY230529 Công nghệ thuỷ lực và khí nén 3
+3. DANA230606 Phân tích dữ liệu 3(2+1)
+4. TEMA331406 Quản trị công nghệ 3
+5. HRMA331206 Quản trị Nguồn nhân lực 3
+Kiến thức chuyên ngành (Sinh viên tích lũy 5 tín chỉ trong các môn học sau)
+TT Mã học phần Tên học phần Số TC Ghi chú
+1. EEEI321925 Trang bị điện - Điện tử trong máy công nghiệp 2
+2. WSIE320425 An toàn lao động và môi trường công nghiệp 2
+Chọn 2 tín
+3. IMAS320525 Bảo trì và bảo dưỡng công nghiệp 2
+chỉ
+4. ERGO221626 Ergonomics 2
+5. BPLA420606 Lập kế hoạch kinh doanh 2
+6. STMA430406 Quản trị chiến lược 3 Chọn 3 tín
+chỉ
+7. BSTA231006 Thống kê trong kinh doanh 3
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH tiên
+quyết
+1.	GRAT470626	Khóa luận tốt nghiệp	07	“Kiểm tra năng
+lực”
+		Các môn tốt nghiệp	07	
+1.	STOG430726	- Chuyên đề tốt nghiệp 1 (KCN)	3	“Kiểm tra năng
+lực”
+2.	STOG420826	- Chuyên đề tốt nghiệp 2 (KCN)	2	
+3.	STOG420926	- Chuyên đề tốt nghiệp 3 (KCN)	2	
+Tổng			07	
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	BPLA121808	Kế hoạch khởi nghiệp	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	INMA220305	Nhập môn Quản trị học	2	
+4.	INLO220405	Nhập môn Logic học	2	
+5.	SYTH220491	Tư duy hệ thống	2	
+6.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+7.	WOPS120390	Kỹ năng làm việc trong môi trường kỹ thuật	2	
+8.	REME320690	Phương pháp nghiên cứu khoa học	2	
+TT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước
+1.	EEEN230129	Kỹ thuật điện - điện tử	3	
+2.	PNHY230529	Công nghệ thuỷ lực và khí nén	3	
+3.	DANA230606	Phân tích dữ liệu	3(2+1)	
+4.	TEMA331406	Quản trị công nghệ	3	
+5.	HRMA331206	Quản trị Nguồn nhân lực	3	
+TT	Mã học phần	Tên học phần	Số TC	Ghi chú
+1.	EEEI321925	Trang bị điện - Điện tử trong máy công nghiệp	2	Chọn 2 tín
+chỉ
+2.	WSIE320425	An toàn lao động và môi trường công nghiệp	2	
+3.	IMAS320525	Bảo trì và bảo dưỡng công nghiệp	2	
+4.	ERGO221626	Ergonomics	2	
+5.	BPLA420606	Lập kế hoạch kinh doanh	2	
+6.	STMA430406	Quản trị chiến lược	3	Chọn 3 tín
+chỉ
+7.	BSTA231006	Thống kê trong kinh doanh	3	
+8. PROM331426 Quản trị dự án công nghiệp 3
+C – Kiến thức liên ngành
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học cơ sở ngành (3 tín
+chỉ) và chuyên ngành (3 tín chỉ). SV nên nhờ tư vấn thêm từ Ban tư vấn để có sự lựa chọn phù
+hợp.
+TT Mã MH Tên MH Số TC Ghi chú
+1. MAMA330906 Quản trị Marketing 3
+Môn học cơ sở
+2. METE230130 Công nghệ kim loại 3
+ngành
+3. MAIS331726 Hệ thống thông tin quản lý 3
+4. MOLD331224 Thiết kế, chế tạo khuôn mẫu 3 Môn học
+chuyên ngành
+5. ACCC330524 CAD/CAM-CNC nâng cao 3
+6. CAED321024 Ứng dụng CAE trong thiết kế 2
+7. ECAE311124 Thí nghiệm CAE 1
+Tổng 18
+D – Các môn học MOOC (Massive Open Online Courses)
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn
+học có trong chương trình đào tạo:
+Số tín Môn học được xét tương đương
+TT Mã môn học Tên môn học
+chỉ MOOC (đường link đăng ký)
+Calculus 1B: Integration
+1. MATH132401 Toán 1 3 https://www.edx.org/course/calculus-1b-
+integration-mitx-18-01-2x-0
+Advanced chemistry
+2. GCHE130603 Hoá đại cương 3 https://www.coursera.org/learn/advance
+d-chemistry
+Introduction to Mechanics, Part 1
+3. PHYS130902 Vật lý 1 3 https://www.edx.org/course/introduction
+-mechanics-part-1-ricex-phys-101-1x
+Introduction to Engineering: Imagine.
+Nhập môn Kỹ thuật Design. Engineer! - FSE 100
+4. INME130125 3(2+1)
+Cơ khí
+https://gfa.asu.edu/courses/online-
+engineering-course
+An toàn lao động và Technological, Social, and Sustainable
+môi trường công Systems - CEE 181
+5. WSIE320425 2
+nghiệp https://gfa.asu.edu/courses/technological
+-social-and-sustainable-systems-cee-181
+8. Kế hoạch giảng dạy
+Ghi chú: Không bố trí các môn sau trong kế hoạch đào tạo mà sinh viên tự sắp xếp từ học kỳ 2
+trở đi theo kế hoạch mở lớp của trường:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT230214 Đường lối cách mạng của ĐCSVN 3
+3. GELA220405 Pháp luật đại cương 2
+8.	PROM331426	Quản trị dự án công nghiệp	3	
+TT	Mã MH	Tên MH	Số TC	Ghi chú
+1.	MAMA330906	Quản trị Marketing	3	Môn học cơ sở
+ngành
+2.	METE230130	Công nghệ kim loại	3	
+3.	MAIS331726	Hệ thống thông tin quản lý	3	
+4.	MOLD331224	Thiết kế, chế tạo khuôn mẫu	3	Môn học
+chuyên ngành
+5.	ACCC330524	CAD/CAM-CNC nâng cao	3	
+6.	CAED321024	Ứng dụng CAE trong thiết kế	2	
+7.	ECAE311124	Thí nghiệm CAE	1	
+Tổng			18	
+TT	Mã môn học	Tên môn học	Số tín
+chỉ	Môn học được xét tương đương
+MOOC (đường link đăng ký)
+1.	MATH132401	Toán 1	3	Calculus 1B: Integration
+https://www.edx.org/course/calculus-1b-
+integration-mitx-18-01-2x-0
+2.	GCHE130603	Hoá đại cương	3	Advanced chemistry
+https://www.coursera.org/learn/advance
+d-chemistry
+3.	PHYS130902	Vật lý 1	3	Introduction to Mechanics, Part 1
+https://www.edx.org/course/introduction
+-mechanics-part-1-ricex-phys-101-1x
+4.	INME130125	Nhập môn Kỹ thuật
+Cơ khí	3(2+1)	Introduction to Engineering: Imagine.
+Design. Engineer! - FSE 100
+https://gfa.asu.edu/courses/online-
+engineering-course
+5.	WSIE320425	An toàn lao động và
+môi trường công
+nghiệp	2	Technological, Social, and Sustainable
+Systems - CEE 181
+https://gfa.asu.edu/courses/technological
+-social-and-sustainable-systems-cee-181
+Technological, Social, and Sustainable
+Systems - CEE 181
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	
+3.	GELA220405	Pháp luật đại cương	2	
+4. PHED110613 Giáo dục thể chất 2 1 (Không tính)
+5. PHED130715 Giáo dục thể chất 3 3 (Không tính)
+Tổng 10
+Học kỳ 1:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. GCHE130603 Hoá đại cương 3
+2. INME130125 Nhập môn Kỹ thuật Cơ khí 3(2+1)
+3. LLCT120314 Tư tưởng Hồ Chí Minh 2
+4. MATH132401 Toán 1 3
+5. MATH132901 Xác suất thống kê ứng dụng 3
+6. MHAP110127 Thực tập nguội 1
+7. PHED110513 Giáo dục thể chất 1 1 (Không tính)
+8. PHYS130902 Vật lý 1 3
+Tổng 18
+Học kỳ 2:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. ENDR130123 Vẽ kỹ thuật 1 3
+2. ENME130620 Cơ kỹ thuật 3
+3. MATH132501 Toán 2 3
+4. PHYS111202 Thí nghiệm vật lý 1 1
+5. PHYS131002 Vật lý 2 3
+6. TOMT220225 Dung sai - Kỹ thuật đo 2
+7. WEPR210430 Thực tập Kỹ thuật Hàn 1
+8. Kiến thức giáo dục đại cương (Tự chọn) 4
+Tổng 20
+Học kỳ 3:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. ENMA220230 Vật liệu học 2
+2. MATE210330 Thí nghiệm vật liệu học 1
+3. MATH132601 Toán 3 3
+4. AMME131529 Toán ứng dụng trong cơ khí 3
+5. MEIF134529 Tin học trong kỹ thuật 3
+6. SMME230720 Sức bền vật liệu 3 ENME130620
+7. EXMM210325 Thí nghiệm đo lường cơ khí 1
+8. MEPR240227 Thực tập Cơ khí 1 4 WEPR210430
+Tổng 20
+Học kỳ 4:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. BLAW230308 Luật kinh tế 3
+4.	PHED110613	Giáo dục thể chất 2	1	(Không tính)
+5.	PHED130715	Giáo dục thể chất 3	3	(Không tính)
+Tổng			10	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	GCHE130603	Hoá đại cương	3	
+2.	INME130125	Nhập môn Kỹ thuật Cơ khí	3(2+1)	
+3.	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+4.	MATH132401	Toán 1	3	
+5.	MATH132901	Xác suất thống kê ứng dụng	3	
+6.	MHAP110127	Thực tập nguội	1	
+7.	PHED110513	Giáo dục thể chất 1	1	(Không tính)
+8.	PHYS130902	Vật lý 1	3	
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	ENDR130123	Vẽ kỹ thuật 1	3	
+2.	ENME130620	Cơ kỹ thuật	3	
+3.	MATH132501	Toán 2	3	
+4.	PHYS111202	Thí nghiệm vật lý 1	1	
+5.	PHYS131002	Vật lý 2	3	
+6.	TOMT220225	Dung sai - Kỹ thuật đo	2	
+7.	WEPR210430	Thực tập Kỹ thuật Hàn	1	
+8.		Kiến thức giáo dục đại cương (Tự chọn)	4	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	ENMA220230	Vật liệu học	2	
+2.	MATE210330	Thí nghiệm vật liệu học	1	
+3.	MATH132601	Toán 3	3	
+4.	AMME131529	Toán ứng dụng trong cơ khí	3	
+5.	MEIF134529	Tin học trong kỹ thuật	3	
+6.	SMME230720	Sức bền vật liệu	3	ENME130620
+7.	EXMM210325	Thí nghiệm đo lường cơ khí	1	
+8.	MEPR240227	Thực tập Cơ khí 1	4	WEPR210430
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	BLAW230308	Luật kinh tế	3	
+2. CCCT331725 Công nghệ CAD/CAM-CNC 3
+3. ENME320124 Anh văn chuyên ngành cơ khí 2
+4. FMMT330825 Cơ sở công nghệ chế tạo máy 3
+5. MEMD230323 Nguyên lý - Chi tiết máy 3 SMME230720
+6. Kiến thức cơ sở ngành (Tự chọn) 3
+7. Kiến thức liên ngành (Tự chọn) 3
+Tổng 20
+Học kỳ 5:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. MDPR310423 Đồ án Thiết kế máy 1 MEMD230323
+2. INSY331026 Kỹ thuật hệ thống 3
+3. PCCC321825 Thực tập Công nghệ CAD/CAM-CNC 2 CCCT331725
+4. MQMA331326 Quản trị sản xuất và chất lượng 3
+5. Thiết kế và quản lý trang thiết bị công
+FAPL331526 3
+nghiệp
+6. Thực tập Thiết kế và mô phỏng hệ thống
+IEPR321326 2
+kỹ thuật
+7. AUMP323525 Tự động hoá quá trình sản xuất (CKM) 2
+8. Kiến thức chuyên ngành (Tự chọn) 2
+Tổng 18
+Học kỳ 6:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. SEMI321626 Liên hệ Doanh nghiệp 2
+2. PDIS311226 Đồ án Thiết kế hệ thống công nghiệp 1 INSY331026
+3. SCMA331226 Quản trị chuỗi cung ứng 3 MQMA331326
+4. LJIT321126 Quản trị sản xuất theo Lean và JIT 2
+5. Thực tập Thiết kế và mô phỏng hệ thống IEPR321326
+IEPR321426 2
+sản xuất công nghiệp
+6. Kiến thức chuyên ngành (Tự chọn) 3
+7. Kiến thức liên ngành (Tự chọn) 3
+Tổng 16
+Học kỳ 7:
+TT Mã MH Tên MH Số TC Mã MH trước
+1. FAIN430526 Thực tập Tốt nghiệp (KCN) 3
+Tổng 3
+Học kỳ 8:
+Mã MH tiên
+TT Mã MH Tên MH Số TC
+quyết
+1. GRAT470626 Khóa luận tốt nghiệp 7 “Kiểm tra năng
+Các học phần thi tốt nghiệp 7 lực”
+2.	CCCT331725	Công nghệ CAD/CAM-CNC	3	
+3.	ENME320124	Anh văn chuyên ngành cơ khí	2	
+4.	FMMT330825	Cơ sở công nghệ chế tạo máy	3	
+5.	MEMD230323	Nguyên lý - Chi tiết máy	3	SMME230720
+6.		Kiến thức cơ sở ngành (Tự chọn)	3	
+7.		Kiến thức liên ngành (Tự chọn)	3	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	MDPR310423	Đồ án Thiết kế máy	1	MEMD230323
+2.	INSY331026	Kỹ thuật hệ thống	3	
+3.	PCCC321825	Thực tập Công nghệ CAD/CAM-CNC	2	CCCT331725
+4.	MQMA331326	Quản trị sản xuất và chất lượng	3	
+5.	FAPL331526	Thiết kế và quản lý trang thiết bị công
+nghiệp	3	
+6.	IEPR321326	Thực tập Thiết kế và mô phỏng hệ thống
+kỹ thuật	2	
+7.	AUMP323525	Tự động hoá quá trình sản xuất (CKM)	2	
+8.		Kiến thức chuyên ngành (Tự chọn)	2	
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	SEMI321626	Liên hệ Doanh nghiệp	2	
+2.	PDIS311226	Đồ án Thiết kế hệ thống công nghiệp	1	INSY331026
+3.	SCMA331226	Quản trị chuỗi cung ứng	3	MQMA331326
+4.	LJIT321126	Quản trị sản xuất theo Lean và JIT	2	
+5.	IEPR321426	Thực tập Thiết kế và mô phỏng hệ thống
+sản xuất công nghiệp	2	IEPR321326
+6.		Kiến thức chuyên ngành (Tự chọn)	3	
+7.		Kiến thức liên ngành (Tự chọn)	3	
+Tổng			16	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước
+1.	FAIN430526	Thực tập Tốt nghiệp (KCN)	3	
+Tổng			3	
+TT	Mã MH	Tên MH	Số TC	Mã MH tiên
+quyết
+1.	GRAT470626	Khóa luận tốt nghiệp	7	“Kiểm tra năng
+lực”
+		Các học phần thi tốt nghiệp	7	
+1. STOG430726 - Chuyên đề tốt nghiệp 1 (KCN) 3
+“Kiểm tra năng
+2. STOG420826 - Chuyên đề tốt nghiệp 2 (KCN) 2
+lực”
+3. STOG420926 - Chuyên đề tốt nghiệp 3 (KCN) 2
+Tổng 7
+Ghi chú: Sinh viên phải đạt kỳ thi “Kiểm tra năng lực” mới đủ điều kiện để làm Khóa luận tốt
+nghiệp hoặc học các môn tốt nghiệp.
+9. Mô tả vắn tắt nội dung và khối lượng các học phần
+9.1 KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG
+1. Những nguyên lý cơ bản của chủ nghĩa Mác-Lê nin Số TC: 05
+- Phân bố thời gian học tập: 5 (5,0,10)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Ngoài chương mở đầu nhằm giới thiệu khái lược về CN
+Mác – Lênin và một số vấn đề chung của môn học. Căn cứ vào mục tiêu môn học, nội
+dung chương trình môn học được cấu trúc thành 3 phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương
+pháp luận triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN
+Mác – Lênin về phương thức sản xuất tư bản chủ nghĩa.
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý
+luận của CN Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội
+hiện thực và triển vọng.
+2. Đường lối cách mạng của Đảng Cộng sản Việt Nam Số TC: 03
+- Phân bố thời gian học tập: 03 (3/0/6)
+- Điều kiện tiên quyết: Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin, Tư tưởng Hồ
+Chí Minh
+- Tóm tắt nội dung học phần: Nội dung chủ yếu của học phần là cung cấp, trang bị cho
+sinh viên những hiểu biết cơ bản có hệ thống về đường lối của Đảng, đặc biệt là đường
+lối trong thời kỳ đổi mới, trên một số lĩnh vực cơ bản của đời sống xã hội.
+3. Tư tưởng Hồ Chí Minh Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết: Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin
+- Tóm tắt nội dung học phần: Ngoài chương mở đầu, nội dung môn học gồm 7 chương:
+Chương I, trình bày về cơ sở, quá trình hình thành và phát triển Tư tưởng Hồ Chí Minh;
+từ Chương II đến Chương VII trình bày những nội dung cơ bản của Tư tưởng Hồ Chí Minh
+theo mục tiêu của môn học.
+4. Pháp luật đại cương Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên tất cả các ngành những
+kiến thức lý luận cơ bản nhất về Nhà nước và pháp luật nói chung, nhà nước và pháp
+luật xã hội chủ nghĩa nói riêng. Từ đó giúp cho sinh viên có nhận thức, quan điểm đúng
+đắn về đường lối, chính sách của Đảng và pháp luật của Nhà nước ta. Đồng thời trang bị
+cho sinh viên những kiến thức cơ bản về hệ thống pháp luật Việt Nam và một số ngành
+luật cụ thể, giúp cho sinh viên hiểu biết hơn về pháp luật để vận dụng vào thực tiễn cuộc
+sống.
+5. Toán 1 Số TC: 03
+1.	STOG430726	- Chuyên đề tốt nghiệp 1 (KCN)	3	“Kiểm tra năng
+lực”
+2.	STOG420826	- Chuyên đề tốt nghiệp 2 (KCN)	2	
+3.	STOG420926	- Chuyên đề tốt nghiệp 3 (KCN)	2	
+Tổng			7	
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về giới hạn,
+tính liên tục và phép tính vi tích phân của hàm một biến.
+6. Toán 2 Số TC: 03
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về phép tính
+tích phân của hàm một biến, chuỗi số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong
+không gian.
+7. Toán 3 Số TC: 03
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này cung cấp các kiến thức cơ bản về hàm
+vectơ, hàm nhiều biến, đạo hàm riêng, tích phân bội, tích phân đường, tích phân mặt và
+giải tích vectơ. Ứng dụng và định hướng giải quyết trong một số mô hình bài toán thực
+tế.
+8. Xác suất thống kê ứng dụng Số TC: 03
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này bao gồm thống kê mô tả, xác suất sơ cấp,
+biến ngẫu nhiên và luật phân phối xác suất, các số đặc trưng của biến ngẫu nhiên, ước
+lượng tham số, kiểm định giả thuyết, tương quan và hồi qui tuyến tính.
+9. Vật lý 1 Số TC: 03
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này cung cấp cho sinh viên những nội dung cơ
+bản của vật lý bao gồm các phần cơ học và nhiệt học làm cơ sở cho việc tiếp cận các
+môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ.
+Sinh viên sẽ được trang bị các kiến thức về vật lý để khảo sát sự chuyển động, năng
+lượng và các hiện tượng vật lý liên quan đến các đối tượng trong tự nhiên có kích thước
+từ phân tử đến cỡ hành tinh. Sau khi học xong học phần sinh viên sẽ có khả năng ứng
+dụng những kiến thức đã học trong nghiên cứu khoa học cũng như trong phát triển kỹ
+thuật và công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 1 đến 22 trong sách Physics for Scientists
+and Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W.
+Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa
+học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và
+kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học
+chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú
+trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải
+các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa
+trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát
+triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết
+quả của các thí nghiệm khác. Đồng thời, sinh viên sẽ biết được giới hạn của mô hình và
+có thể sử dụng chúng trong việc phán đoán.
+10. Vật lý 2 Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này cung cấp cho sinh viên những nội dung cơ
+bản của vật lý gồm các phần điện từ học và quang học làm cơ sở cho việc tiếp cận với
+các môn học chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ.
+Sinh viên sẽ được trang bị những kiến thức về các hiện tượng trong thế giới tự nhiên và
+ứng dụng những kiến thức đó trong nghiên cứu khoa học, trong phát triển kỹ thuật và
+công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 23 đến 38 trong sách Physics for Scientists
+and Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W.
+Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa
+học, các định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và
+kỹ năng lập luận cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học
+chuyên ngành trong chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú
+trọng vào việc kết hợp cung cấp những hiểu biết về các khái niệm với các kỹ năng giải
+các bài tập dạng chuẩn (làm ở nhà) ở cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa
+trên các kết quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát
+triển một mô hình dựa trên các dữ liệu và có thể sử dụng mô hình này để phán đoán kết
+quả của các thí nghiệm khác. Đồng thời, sinh viên sẽ biết được giới hạn của mô hình và
+có thể sử dụng chúng trong việc phán đoán.
+11. Thí nghiệm Vật lý 1 Số TC: 01
+- Phân bố thời gian học tập: 1(0,1,2)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí
+nghiệm về động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là
+môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học
+những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các
+lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai
+kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu.
+12. Hoá đại cương Số TC: 03
+- Phân bố thời gian học tập: 3(3/0/6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho sinh viên kiến thức cơ bản về
+hóa học nhằm đặt nền tảng cho sinh viên khả năng đọc hiểu các tài liệu trong các những
+lĩnh vực khoa học, kỹ thuật có liên quan đến hóa học.
+Học phần này giúp sinh viên (i) hiểu được bản chất nguyên tử và phân tử, từ đó giải
+thích các tính chất của vật chất; (ii) phát triển khả năng giải quyết vấn đề định lượng cơ
+bản liên quan đến nhiệt động lực học, động học phản ứng, cân bằng hóa học, tính chất
+dung dịch và các quá trình điện hóa.
+Học phần này là nền tảng để sinh viên có những hiểu biết cần thiết về thế giới vật chất
+xung quanh, nhận thức mối liên hệ giữa hóa học và các ngành kỹ thuật. Bên cạnh đó,
+học phần này còn đáp ứng cho khả năng học tập của sinh viên ở trình độ cao hơn hoặc
+đại học văn bằng hai.
+13. Nhập môn kỹ thuật Cơ khí Số TC: 03 (2+1)
+- Phân bố thời gian học tập: 3 (2, 1, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần này trang bị cho sinh viên các kiến thức cơ bản
+nhất về lĩnh vực Thiết kế công nghiệp, định hướng nghề nghiệp, các kỹ năng mềm cần
+thiết để có thể tiến hành học tập nâng cao ở các môn học cơ sở ngành và chuyên ngành
+tiếp theo.
+14. Nhập môn Quản trị học Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ
+bản về quản trị, bao gồm những yếu tố môi trường tổng quát nhất tác động đến doanh
+nghiệp và những chức năng cơ bản của quản trị trong tổ chức kinh doanh, bao gồm:
+hoạch định, tổ chức, lãnh đạo, và kiểm tra. Bên cạnh đó, các hoạt động trên lớp được
+thiết kế để nâng cao kỹ năng tìm kiếm thông tin, nói chuyện trước đám đông, tư duy
+phản biện của sinh viên.
+15. Nhập môn Quản trị chất lượng Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ
+bản về chất lượng và quản trị chất lượng. Học phần giới thiệu một số chỉ tiêu và phương
+pháp đánh giá chất lượng trong tổ chức, đồng thời hướng dẫn sinh viên sử dụng các
+phương pháp, kỹ thuật và công cụ để quản lý chất lượng. Học phần cung cấp những
+kiến thức về cách xây dựng và áp dụng hệ thống quản lý chất lượng theo tiêu chuẩn
+trong các doanh nghiệp.
+16. Kế hoạch khởi nghiệp Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Môn học Kế hoạch khởi nghiệp nhằm giới thiệu cho sinh
+viên các khái niệm, mô hình khởi nghiệp, hướng dẫn sinh viên xác định các cơ hội khởi
+nghiệp, đánh giá tính khả thi của một ý tưởng khởi nghiệp và lập kế hoạch khởi nghiệp.
+17. Tư duy hệ thống Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần Tư duy hệ thống trang bị cho sinh viên những
+kiến thức cơ bản về hệ thống, phương pháp luận tư duy hệ thống, các phương pháp tư
+duy sáng tạo; hình thành ở sinh viên khả năng lập luận và giải quyết vấn đề một cách hệ
+thống, logic và sáng tạo.
+18. Kỹ năng làm việc trong môi trường kỹ thuật Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Môn học Kỹ năng làm việc trong môi trường kỹ thuật thuộc
+nhóm môn học tự chọn của khối ngành kỹ thuật công nghệ. Môn học này nhằm hình
+thành cho sinh viên một số kỹ năng làm việc cơ bản trong môi trường kỹ thuật, đặc biệt
+là các kỹ năng làm việc trong môi trường đa văn hóa, hiện đại, có sự thay đổi nhanh
+chóng về công nghệ.
+19. Kỹ năng xây dựng kế hoạch Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ
+bản về phương pháp xây dựng kế hoạch. Hướng dẫn cho người học các kỹ năng tư duy
+và tìm kiếm giải pháp phù hợp với điều kiện và hoàn cảnh bản thân để từ đó người học
+hình thành cho mình kỹ năng xây dựng kế hoạch học tập, kế hoạch cá nhân ngắn hạn và
+dài hạn, kế hoạch cho công việc phù hợp và hiệu quả. Ngoài ra còn hướng dẫn người
+học cách thức và kỹ năng quản lí thời gian và sắp xếp công việc hiệu quả.
+20. Phương pháp nghiên cứu khoa học Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Trong quá trình đào tạo ở trường Đại học, sinh viên không
+chỉ lĩnh hội tri thức từ phía giáo viên, mà học còn phải tự học và tự nghiên cứu. Từ tự
+giác, tích cực và sáng tạo, sinh viên sẽ tìm ra cái mới nhằm giải thích sâu sắc hay có lời
+giải phù hợp đó chính là sinh viên đã nghiên cứu khoa học. Học phần Phương pháp
+nghiên cứu khoa học bao gồm những nội dung về các khái niệm, qui trình và cấu trúc...
+Để từ đó sinh viên định hướng được việc lựa chọn đề tài nghiên cứu, soạn được đề
+cương và áp dụng được các phương pháp nghiên cứu trong khi thu thập và xử lý thông
+tin hợp lý trong khi tiến hành công trình nghiên cứu khoa học. Sinh viên sẽ chủ động
+trong việc đang ký thực hiện đề tài nghiên cứu cấp trường cũng như tiến hành luận văn
+tốt nghiệp hay đồ án tốt nghiệp một cách khoa học và thành công.
+21. Nhập môn Logic học Số TC: 02
+- Phân bố thời gian học tập: 2 (2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho người học kiến thức về quá trình
+nhận thức của con người nhận thức và bản chất của hoạt động tư duy. Người học được
+cung cấp kiến thức về các quy luật cơ bản của tư duy và các hình thức của tư duy qua
+đó rèn luyện tư duy logic, có thể sử dụng chính xác từ, câu trong diễn đạt tư tưởng, có
+kỹ năng lập luận, diễn giải cũng như chứng minh, bác bỏ vấn đề có sức thuyết phục, suy
+nghĩ chín chắn, nhất quán, khắc phục những sai phạm trong tư duy, trong giao tiếp.
+22. Giáo dục thể chất Số TC: 05
+- Phân bố thời gian học tập:
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên một số kiến thức cơ bản
+trong lĩnh vực TDTT, phương pháp tập luyện TDTT cả về lý thuyết và thực hành và
+thực hiện được một số môn thể dục thể thao: Điền kinh, Thể dục, Chương trình tự chọn
+(sinh viên được học một trong các môn thể thao tự chọn sau: Cầu lông, bóng chuyền,
+bóng đá).
+23. Giáo dục quốc phòng Số TC: 04
+- Phân bố thời gian học tập:
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần cung cấp cho sinh viên vấn đề tư duy lý luận
+trong đường lối quân sự của Đảng và một số nội dung cơ bản về công tác quốc phòng,
+về nghệ thuật quân sự Việt Nam, về chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ
+của các thế lực thù địch với cách mạng Việt Nam. Nội dung chủ yếu là:
+1. Một số nội dung cơ bản về đường lối quân sự của Đảng
+2. Một số nội dung cơ bản về công tác quốc phòng
+3. Một số nội dung kỹ thuật và chiến thuật bộ binh
+9.2 KIẾN THỨC CƠ SỞ NGÀNH
+1. Vẽ kỹ thuật 1 Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cho sinh viên những quy tắc cơ bản để
+xây dựng bản vẽ kỹ thuật bao gồm: Các tiêu chuẩn hình thành bản vẽ kỹ thuật, các kỹ
+thuật cơ bản của hình học hoạ hình, các nguyên tắc biểu diễn không gian hình học, các
+phép biến đổi, sự hình thành giao tiếp của các mặt, ..., các yếu tố cơ bản của bản vẽ kỹ
+thuật: Điểm, đường, hình chiếu, hình cắt, các loại bản vẽ chi tiết, vẽ lắp và bản vẽ sơ đồ
+động trên cơ sở tiêu chuẩn TCVN và ISO. Bước đầu làm quen với việc thiết kế trên máy
+tính (vẽ các bản vẽ kỹ thuật) trong không gian hai chiều (2D)
+2. Cơ kỹ thuật Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp những kiến thức nền tảng để tiếp thu
+những học phần cơ sở và chuyên ngành khác của lĩnh vực cơ khí, nội dung học phần
+bao gồm các học phần:
++ Tĩnh học: Các tiên đề tĩnh học, lực, liên kết, phản lực liên kết, phương pháp khảo sát
+các hệ: phẳng, không gian, ngẫu lực và momen, lực ma sát.
++ Động học: các đặc trưng chuyển động của điểm và vật thể, chuyển động tịnh tiến và
+chuyển động quay, chuyển động song phẳng và hợp các chuyển động.
++ Động lực học: các định luật , định lý cơ bản của động lực học, nguyên lý d,Alambert,
+phương trình Lagrange loại II, nguyên lý di chuyển khả dĩ và hiện tượng va chạm
+trong thực tế kỹ thuật.
+3. Sức bền vật liệu Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp kiến thức về
++ Tính toán sức chịu tải của các chi tiết máy và kết cấu kỹ thuật: các điều kiện và khả
+năng chịu lực và biến dạng trong miền đàn hồi của các chi tiết máy và kết cấu kỹ
+thuật, bao gồm: các khái niệm cơ bản về nội lực và ngoại lực, ứng suất và chuyển vị,
+các thuyết bền, các trạng thái chịu lực phẳng và không gian: tính toán về ổn định và
+tải trọng động. Một số bài toán siêu tĩnh thường gặp trong thực tế kỹ thuật.
++ Thí nghiệm cơ học trang bị cho sinh viên các kiến thức và kỹ năng để tiến hành các
+thí nghiệm trên các đối tượng sản phẩm cơ khí chẳng hạn như tiến hành kéo, nén, …
+và qua đó kiểm tra đánh giá được độ bền, khả năng chịu kéo, chịu uốn của các sản
+phẩm cơ khí.
+4. Nguyên lý - Chi tiết máy Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần nghiên cứu cấu trúc, nguyên lý làm việc và
+phương pháp tính toán thiết kế động học và động lực học của cơ cấu truyền động và
+biến đổi chuyển động, các mối ghép và các chi tiết máy thường dùng trong cơ khí. Sau
+khi học, sinh viên có khả năng độc lập giải quyết những vấn đề tính toán và thiết kế các
+chi tiết máy, làm cơ sở để vận dụng trong quá trình tính toán thiết kế và chi tiết máy
+trong thực tế kỹ thuật sau.
+5. Đồ án Thiết kế máy Số TC: 01
+- Phân bố thời gian học tập: 1 (0, 1, 2)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần nghiên cứu cấu trúc, nguyên lý làm việc và
+phương pháp tính toán thiết kế động học và động lực học của các cơ cấu truyền động và
+biến đổi chuyển động, các mối ghép và các chi tiết máy thường dùng trong cơ khí.
+Những vấn đề tính toán và thiết kế các chi tiết máy, vận dụng trong quá trình tính toán
+thiết kế máy và chi tiết máy trong thực tế.
+6. Dung sai - Kỹ thuật đo Số TC: 03 (2+1)
+- Phân bố thời gian học tập: 3 (2, 1, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp các kiến thức cơ bản về
++ Tính đổi lẫn chức năng trong ngành chế tạo máy. Dung sai và lắp ghép các mối
+thông dụng trong ngành chế tạo máy như mối ghép hình trụ trơn, mối ghép then và
+then hoa, mối ghép ren, phương pháp giải bài toán chuỗi kích thước và nguyên tắc cơ
+bản để ghi kích thước trên bản vẽ chi tiết, một số loại dụng cụ đo và phương pháp đo
+các thông số cơ bản của chi tiết.
++ Thí nghiệm kỹ thuật đo lường cơ khí đề cập đến những phương pháp đo các thông số
+cơ bản của chi tiết cơ khí chế tạo máy, giới thiệu dụng cụ thiết bị đo, độ chính xác,
+thao tác, tính sai số và xử lý kết quả đo.
+7. Vật liệu học Số TC: 03 (2+1)
+- Phân bố thới gian học tập: 3 (2, 1, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cho sinh viên
++ Kiến thức chung về cấu tạo kim loại và hợp kim, vật liệu kim loại trong chế tạo cơ
+khí và các kiến thức cơ bản trong nhiệt luyện các vật liệu kim loại để bảo đảm cơ
+tính làm việc. Cung cấp kiến thức cơ bản về cấu tạo, tính chất sử dụng các vật liệu
+polime, chất dẻo, vật liệu composite, cao su, vật liệu keo, v.v.
++ Thí nghiệm vật liệu học trang bị cho sinh viên các kiến thức và kỹ năng để có thể
+kiểm tra đặc tính cơ, lý, hóa, … của vật liệu bằng các thiết bị đo lường hiện đại.
+8. Anh văn chuyên ngành cơ khí Số TC: 2
+- Phân bố thới gian học tập: 2 (2, 0, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: nhằm trang bị cho sinh viên một số thuật ngữ chuyên ngành
+và trình tự thực hiện các công tác chuyên môn để sinh viên có thể đọc và tham khảo các
+giáo trình, tạp chí, quy trình về chuyên ngành của mình; nâng cao kỹ năng đọc hiểu,
+trình bày và viết thuyết minh kỹ thuật, bản vẽ, báo cáo, nhật ký gia công, qui trình công
+nghệ hàn, … bằng tiếng Anh và nâng cao kỹ năng giao tiếp trong tiếng Anh để giúp
+sinh viên có thể tự tin khi làm việc với các chuyên gia nước ngoài.
+9. Cơ sở công nghệ chế tạo máy Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cơ sở lý thuyết về
++ Cắt gọt kim loại, cơ sở lý thuyết của các phương pháp gia công.
++ Độ chính xác gia công và chất lượng bề mặt của chi tiết gia công, các yếu tố ảnh
+hưởng và hướng khắc phục.
++ Chọn chuẩn và gá đặt khi gia công
++ Đặc trưng các quá trình gia công cắt gọt trên các máy vạn năng, chuyên dùng, ...
+10. Kỹ thuật điện – điện tử Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cho sinh viên không chuyên ngành
+điện:
++ Kiến thức cơ bản về mạch điện, cách tính toán mạch điện, nguyên lý cấu tạo, tính
+năng và ứng dụng các loại máy điện cơ bản; cung cấp khái quát về đo lường các đại
+lượng điện. Trên cơ sở đó có thể hiểu được các máy điện, khí cụ điện thường gặp
+trong sản xuất và đời sống.
++ Kiến thức về điện tử cơ bản dạng mạch rời, các mạch tích hợp tương tự và số. Giúp
+sinh viên hiểu được các ứng dụng của kỹ thuật điện tử trong ngành chuyên môn của
+mình.
+11. Công nghệ thủy lực và khí nén Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần Công nghệ thủy lực và khí nén cung cấp kiến thức
+cơ bản về nguyên lý hoạt động và các phương pháp tính toán các hệ thống truyền động
+và điều khiển bằng thủy lực và khí nén. Cũng trong học phần này, các kiến thức về thiết
+kế hệ thống truyền động thủy lực và khí nén cũng được cung cấp.
+12. Công nghệ kim loại Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần nhằm cung cấp cho sinh viên các kiến thức cơ bản
+về công nghệ và thiết bị để gia công kim loại bằng các phương pháp đúc,gia công áp lực
+và hàn, cắt kim loại, phương pháp tạo phôi thích hợp để chuẩn bị cho gia công cắt gọt.
+13. Luật kinh tế Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: pháp luật đại cương
+- Tóm tắt nội dung học phần: Môn học Luật kinh tế từng bước cung cấp cho người học
+những kiến thức nền tảng về triết lý, bản chất, vai trò và chức năng của pháp luật kinh tế
+đối với môi trường kinh doanh. Môn học này cũng sẽ giúp cho người học nhận diện
+được mối quan hệ mật thiết giữa luật và kinh tế học. Theo đó, luật pháp được được coi
+là một yếu tố tạo nên chi phí kinh doanh. Với chủ đích tạo một môi trường học tập từ
+những gì đang diễn ra trong cuộc sống hàng ngày, môn học Luật kinh doanh với một tập
+hợp các tình huống có thật sẽ cung cấp cho người học những kiến thức nền tảng về các
+triết lý của pháp luật nói chung và luật kinh tế nói riêng. Các học thuyết này bao gồm
+học thuyết về quyền sở hữu; học thuyết về quyền tự do kinh doanh; lý thuyết về cạnh
+tranh; thuyết chi phí giao dịch; học thuyết pháp nhân và tính chịu trách nhiệm hữu hạn;
+lý thuyết về uỷ quyền- tác nghiệp; học thuyết về tự do khế ước; học thuyết về điều
+chỉnh thông tin bất cân xứng và quản lý rủi ro; học thuyết về lẽ công bằng…
+13. Quản trị Marketing Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần:
+ Giới thiệu những triết lý kinh doanh hiện đại để tham gia vào kinh tế thị trường
+ Cung cấp một số khái niệm căn bản về Marketing
+ Giúp người học biết cách phân tích thị trường, lựa chọn thị trường mục tiêu
+ Hiểu và triển khai chiến lược Marketing thông qua 4 công cụ của Marketing mix:
+Sản phẩm, Giá, Phân phối, Xúc tiến
+14. Quản trị nguồn nhân lực Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Môn học cung cấp cho sinh viên những kiến thức căn bản
+về nghiệp vụ quản trị Nhân sự. Thông qua lý thuyết kết hợp với thảo luận các tình
+huống, và làm các báo cáo thuyết trình nhóm, sinh viên làm quen với công tác quản trị
+nguồn nhân lực tại các doanh nghiệp, đặc biệt là doanh nghiệp vừa và nhỏ. Môn học tập
+trung nhiều vào phân tích và xử lý tình huống.
+15. Quản trị công nghệ Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Môn học quản trị công nghệ cung cấp các kiến thức cơ sở
+để giúp sinh viên ứng dụng được khoa học quản trị vào lĩnh vực khai thác, sử dụng công
+nghệ phục vụ kế hoạch sản xuất kinh doanh của doanh nghiệp đạt hiệu quả cao. Quản trị
+công nghệ có vai trò thúc đẩy đầu tư phát triển công nghệ của doanh nghiệp, tạo ra vũ
+khí cạnh tranh mạnh mẽ nhất trong nền kinh tế thị trường hiện nay và nó tạo nền tảng
+cho sự tăng trưởng kinh tế của doanh nghiệp.
+Học phần Quản trị công nghệ trang bị cho người học những kiến thức cơ bản về công
+nghệ và kiến thức kỹ năng quản trị công nghệ trong doanh nghiệp công nghiệp.
+Học phần quản trị công nghệ giúp cho học viên có được những kiến thức và kỹ năng cơ
+bản để phân tích đánh giá được năng lực công nghệ, qua đó mà lựa chọn, chuyển giao
+được công nghệ thích hợp phục vụ cho sản xuất kinh doanh của doanh nghiệp đạt hiệu
+quả cao.
+Học phần quản trị công nghệ còn trang bị kiến thức, phương pháp luận về công tác quản
+lý công nghệ phục vụ cho chiến lược đầu tư đổi mới công nghệ trong doanh nghiệp.
+9.3 KIẾN THỨC CHUYÊN NGÀNH
+1. Kỹ thuật hệ thống Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: Không
+- Tóm tắt nội dung học phần: Học phần này cung cấp cho sinh viên những kiến thức về
+các công việc đối với một hệ thống công nghiệp sau: thiết kế hệ thống, chọn lựa thiết bị
+máy móc, sắp xếp tổ chức các thiết bị, thiết kế sản phẩm, dự trù và quản lý nguyên vật
+liệu, thiết kế chi tiết công việc, phân công sản xuất, điều độ sản xuất, quản lý chất lượng
+sản phẩm, quản lý tồn kho, thiết kế và điều hành phân phối sản phẩm. Trong tất cả các
+công việc nêu trên người Kỹ sư KTHTCN đều có tham gia ở khía cạnh tìm kiếm một lời
+giải tối ưu trong những ràng buộc cụ thể của nhà máy, doanh nghiệp. Nhiệm vụ của
+người cán bộ KTHTCN là tìm ra những phương án “tốt nhất” có thể có được khi phải
+cân nhắc một mục tiêu, tiêu chí cụ thể.
+2. Đồ án Thiết kế hệ thống công nghiệp Số TC: 01
+- Phân bố thời gian học tập: 1(0, 1, 2)
+- Điều kiện tiên quyết: Không
+- Tóm tắt nội dung học phần: Học phần này giúp sinh viên vận dụng những kiến thức đã
+học để thiết kế một hệ thống công nghiệp bao gồm thiết kế hệ thống, chọn lựa thiết bị
+máy móc, sắp xếp tổ chức các thiết bị, thiết kế sản phẩm, dự trù và quản lý nguyên vật
+liệu, thiết kế chi tiết công việc, phân công sản xuất, điều độ sản xuất, quản lý chất lượng
+sản phẩm, quản lý tồn kho, thiết kế và điều hành phân phối sản phẩm.
+3. Công nghệ CAD/CAM-CNC Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần giới thiệu các kiến thức về:
++ Các nội dung cơ bản của giải pháp CAD/CAM
++ Các kỹ năng cơ bản như: chọn thứ tự nguyên công, chọn dụng cắt, lập trình gia công
+trên máy CNC
++ Cách khai thác các phần mềm theo các thành phần của công nghệ CAD/CAM
+4. Tự động hóa quá trình sản xuất Số TC: 03 (2+1)
+- Phân bố thời gian học tập: 3 (2, 1, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cho sinh viên kiến thức về nguyên lý
+làm việc của các phần tử và hệ thống điều khiển khí nén, điện - khí nén. Giới thiệu
+nguyên tắc cơ bản để thiết kế mạch điều khiển khí nén, điện - khí nén. Các kiến thức về
+phương tiện tự động hoá của các lĩnh vực sau: điều khiển; cấp phôi; kiểm tra. Cung cấp
+một số khái niệm cơ bản về dây chuyền sản xuất và dây chuyền lắp ráp tự động hoá.
+5. Quản trị sản xuất và chất lượng Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: Không
+- Tóm tắt nội dung học phần: Học phần quản trị sản xuất và chất lượng trang bị cho
+người học những kiến thức nền tảng về cách thức vận hành của một số hệ thống sản
+xuất. Người học sẽ được cung cấp các khái niệm, thuật ngữ trong lĩnh vực sản xuất cũng
+như các kiến thức và kỹ năng về thiết kế quy trình sản xuất, tính toán các thống số trong
+hệ thống sản xuất, đồng thời hiểu được vai trò và nắm bắt công việc của một người làm
+công tác quản lý trong hệ thống sản xuất. Đây là môn học thuộc kiến thức ngành, là
+môn học tiên quyết giúp người học có kiến thức cơ sở để có thể lĩnh hội các kiến thức
+cao hơn, sâu hơn trong chuyên ngành quản trị sản xuất như: quản trị sản xuất 2, quản trị
+sản xuất theo LEAN và JIT, quản trị chuỗi cung ứng. Môn học còn cung cấp những khái
+niệm cơ bản về chất lượng, quản lý chất lượng, các hệ thống chất lượng và cung cấp
+một số công cụ, kỹ thuật trong quản lý chất lượng để thực hiện cải tiến chất lượng trong
+các doanh nghiệp sản xuất và dịch vụ
+6. Thiết kế và quản lý trang thiết bị công nghiệp Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: Không
+- Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên những kiến thức cơ bản cần
+thiết về:
+ Thiết kế sản phẩm, qui trình và lập kế hoạch
+ Hệ thống dòng qui trình, mối quan hệ các hoạt động, và yêu cầu về không gian
+ Các yêu cầu về nhân lực
+ Kiểm soát nguyên vật liệu
+ Mô hình lập kế hoạch mặt bằng và các thuật toán thiết kế
+ Vận hành nhà xưởng
+ Hệ thống sản xuất
+ Hệ thống trang thiết bị
+ Các mô hình lập kế hoạch trang thiết bị định lượng
+ Đánh giá và lựa chọn bản kế hoạch trang thiết bị.
+7. Quản lý chuỗi cung ứng Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: Không
+- Tóm tắt nội dung học phần: Môn học này cung cấp cho người học những kiến thức cơ
+bản về chuỗi cung ứng trong hoạt động sản xuất kinh doanh. Chuỗi cung ứng bao gồm
+các công ty và hoạt động kinh doanh cần để thiết kế, sản xuất, phân phối và sử dụng sản
+phẩm hay dịch vụ. Các hoạt động kinh doanh tùy thuộc vào chuỗi cung ứng cung cấp
+cho họ những gì họ cần để tồn tại và phát triển. Mỗi doanh nghiệp phù hợp với một
+hoặc nhiều chuỗi cung ứng và có vai trò nhất định trong từng chuỗi cung ứng đó. Vì vậy
+việc hiểu rõ và áp dụng hợp lý chuỗi cung ứng đóng vai trò sống còn trong hoạt động
+sản xuất kinh doanh
+8. Quản trị sản xuất theo Lean và JIT Số TC: 02
+- Phân bố thời gian học tập: 2(2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần Quản trị sản xuất theo LEAN và quản trị sản xuất
+theo 6 Sigma giới thiệu những phương pháp quản trị hiện đại nhằm tinh gọn sản xuất và
+gia tăng hiệu quả kinh doanh. Hai triết lý này được xây dựng bởi Công ty Toyota nhằm
+đưa ra mô hình quản lý sản xuất hướng đến giảm tối đa chi phí trong sản xuất thông qua
+việc loại bỏ các lãng phí, thực hiện hệ thống sản xuất linh hoạt, hạn chế sự gián đoạn
+trong sản xuất, giảm thời gian hiệu chỉnh và thời gian gia công và tối thiểu hóa hàng tồn
+kho. Hệ thống quản lý sản xuất theo JIT chú trọng xây dựng hệ thống cân bằng thông
+qua nguyên lý “chỉ cung cấp các đơn vị sản phẩm với lượng cần thiết trong thời gian
+cần thiết”. Sau đó, mô hình sản xuất theo LEAN ra đời tập trung vào việc loại bỏ các
+lãng phí trong quá trình vận hành hệ thống sản xuất JIT nhằm rút ngắn thời gian từ khi
+nhận được đơn hàng cho đến khi giao sản phẩm cho khách hàng.
+9. An toàn lao động và môi trường công nghiệp Số TC: 02
+- Phân bố thời gian học tập: 2 (2, 0, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần trang bị cho sinh viên những kiến thức cơ bản về
+các sự cố trong lao động và các quy phạm về an toàn lao động, các biện pháp kỹ thuật
+về an toàn lao động, bảo vệ môi trường.
+10. Trang bị điện – điện tử trong máy công nghiệp Số TC: 02
+- Phân bố thời gian học tập: 2 (2, 0, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp kiến thức về cơ sở truyền động điện,
+các loại động cơ điện và khí cụ điện, các mạch điện cơ bản và sơ đồ điện của một số
+máy công tác điển hình. Các kiến thức cơ bản về điện tử và điện tử công suất trong các
+máy công nghiệp: các thiết bị điều khiển lập trình (PLC), thiết bị biến đổi tần số dòng
+điện xoay chiều, …
+11. Bảo trì bảo dưỡng công nghiệp Số TC: 03 (2+1)
+- Phân bố thời gian học tập: 3 (2, 1, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần giới thiệu các kiến thức về:
++ Tổ chức quản lý bảo trì bảo dưỡng công nghiệp
++ Lập kế hoạch bảo trì bảo dưỡng cụ thể cho một thiết bị công nghiệp
++ Lập kế hoạch tháo lắp chi tiết máy
++ Điều chỉnh các hệ thống thiết bị công nghiệp
++ Bảo trì cụm thiết bị theo kế hoạch
++ Thí nghiệm Bảo trì và bảo dưỡng công nghiệp trang bị cho sinh viên các kiến thức và
+kỹ năng để có thể tiến hành hoạt động bảo trì, bảo dưỡng cho các cơ cấu, bộ phận
+máy theo đúng qui trình và đảm bảo an toàn, …
+12. Kế hoạch kinh doanh Số TC: 02
+- Phân bố thời gian học tập: 2(2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần này trang bị cho người học những kiến thức cơ
+bản về việc lập kế hoạch kinh doanh, bao gồm vai trò của việc lập kế hoạch kinh doanh
+trong doanh nghiệp, cấu trúc của một bản kế hoạch kinh doanh, và cách viết bản kế
+hoạch kinh doanh chi tiết và tóm tắt, với các bản kế hoạch kinh doanh chức năng như
+Kế hoạch Marketing, Kế hoạch sản xuất, Kế hoạch nhân sự, Kế hoạch tài chính.
+13. Ergonomics Số TC: 02
+- Phân bố thời gian học tập: 2(2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Học phần trang bị cho sinh viên những kiến thức về đặc
+tính của con người như đặc tính tâm sinh lý nhân trắc học, sự vận động của người; mối
+quan hệ tượng hỗ giữa người với môi trường sống bao gồm: thị giác, thính giác, xúc
+giác, khứu giác, kích thước và sự vận động cơ thể người với môi trường. Trên cơ sở
+khoa học đó giúp sinh viên biết vận dụng kiến thức Ergonomics trong thiết kế sản phẩm
+công nghiệp, thiết kế vùng làm việc, thiết kế chỗ đứng và chỗ ngồi cho công nhân khi
+làm việc, thiết kế bộ phận điều khiển, hiển thị và thông tin.
+14. Hệ thống thông tin quản lý (MIS) Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết: Quản trị học căn bản, Tin học căn bản
+- Tóm tắt nội dung học phần: Học phần này cung cấp cho sinh viên những kiến thức tổng
+quát về công nghệ thông tin, các thành phần và các lọai hệ thống thông tin, từ đó có thể
+đưa ra những chiến lược ứng dụng công nghệ thông tin phù hợp trong quản lý doanh
+nghiệp, nâng cao năng lực cạnh tranh trong xu hướng thời đại mới.
+15. Quản trị chiến lược Số TC: 03
+- Phân bố thời gian học tập: 3(3,0,6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Quản trị chiến lược xem xét tình hình hoạt động của doanh
+nghiệp, các vấn đề về lập chiến lược và thực thi chiến lược theo quan điểm của giám
+đốc doanh nghiêp, cung cấp khung tổng quát để quản lý tổ chức và các bộ phận chức
+năng. Những ai có kế hoạch nghề nghiệp đảm trách chức vụ quản lý cao cấp, chủ doanh
+nghiệp vừa và nhỏ, hoặc phụ trách các bộ phận chức năng sẽ thấy môn học này hữu ích
+trong việc nâng cao hiệu quả của tổ chức.
+16. Thiết kế, chế tạo khuôn mẫu Số TC: 03
+- Phân bố thời gian học tập: 3 (3, 0, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần giới thiệu đến sinh viên các kiến thức về:
++ Khuôn mẫu và các loại khuôn mẫu để tạo hình các chi tiết bằng kim loại
++ Trang bị kiến thức thiết kế, đường lối thiết kế và chế tạo một số bộ phận khuôn mẫu
+cơ khí thông dụng: dập nguội, dập nóng, đúc áp lực.
++ Thiết kế qui trình công nghệ gia công khuôn mẫu cơ khí
++ Thí nghiệm thiết kế khuôn mẫu nhằm trang bị cho sinh viên kỹ năng thiết kế tạo hình
+lòng khuôn, lựa chọn phương án công nghệ, thiết kế qui trình công nghệ gia công,
+lựa chọn thiết bị gia công thích hợp, tính toán các thông số công nghệ.
+17. Liên hệ Doanh nghiệp Số TC: 02
+- Phân bố thời gian học tập: 2(2,0,4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: môn học này để triển khai mô hình đào tạo liên kết với
+doanh nghiệp, cập nhật công nghệ mới từ chuyên gia và tư tưởng “Sáng tạo và khởi
+nghiệp”. Môn học sẽ được triển khai linh hoạt, phân bố nhiều đợt theo các hình thức
+sau:
++ Tập trung (5 tiết/1 buổi, 3 buổi = 1 tín chỉ): Khoa và bộ môn sẽ mời chuyên gia từ
+các doanh nghiệp đến báo cáo và sinh viên đăng ký tham gia.
++ Gửi sinh viên đến doanh nghiệp để tham dự một chuyên đề, tìm hiểu công nghệ mới.
+Sau mỗi buổi tham dự tại trường hoặc tại doanh nghiệp, sinh viên sẽ viết báo cáo,
+khoa xác nhận và cử giảng viên chấm điểm.
+9.4 THỰC TẬP
+1. Thực tập nguội Số TC: 01
+- Phân bố thời gian học tập: 1 (0, 1, 2)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần cung cấp cho sinh viên các kiến thức và kỹ năng
+cơ bản trong công nghệ gia công cơ khí với dụng cụ cầm tay và một số thiết bị gia công
+đơn giản: vạch dấu, đục, dũa, cưa, uốn nắn, khoan khoét doa, cắt ren, cao, ... ; đo các
+kích thước bằng tay, bằng các dụng cụ cầm tay: thước cặp, thước vuông, pan-me, ca líp
+…
+2. Thực tập Kỹ thuật hàn Số TC: 01
+- Phân bố thời gian học tập: 1 (0, 1, 2)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần hướng dẫn
++ Khái niệm, định nghĩa về hàn điện hồ quang; Cấu tạo nguyên lý hoạt động của máy
+hàn thông thường, các loại que hàn; Cấu tạo nguyên lý hoạt động của máy hàn
+MIG/MAG & TIG;
++ Thực hành được bài tập căn bản nhất về hàn điện hồ quang, hàn MIG/MAG & TIG.
+3. Thực tập cơ khí 1 Số TC: 04
+- Phân bố thời gian học tập: 4 (0, 4, 8)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần hướng dẫn thực tập gồm các bài gia công cơ bản
+về: tiện, mài nhằm giúp cho sinh viên củng cố kiến thức lý thuyết đã học được ở các
+môn cốt lõi, chuẩn bị cho việc học tập các kiến thức chuyên ngành và trang bị một số kỹ
+năng cơ bản của nghề tiện, mài làm cơ sở cho các nội dung lý thuyết chuyên ngành và
+thực tập kế tiếp.
+4. Thực tập Công nghệ CAD/CAM-CNC Số TC: 02
+- Phân bố thời gian học tập: 2 (0, 2, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần giới thiệu các kiến thức về:
++ Các kỹ năng cơ bản như: chọn thứ tự nguyên công, chọn dụng cắt, lập trình gia công
+trên máy CNC.
++ Cách khai thác các phần mềm theo các thành phần của công nghệ CAD/CAM.
+5. Thực tập Thiết kế và mô phỏng hệ thống kỹ thuật Số TC: 02
+- Phân bố thời gian học tập: 2 (0, 2, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần hướng dẫn thực tập cơ bản về lập kế hoạch sản
+xuất và điều hành sản xuất tại các nhà máy, cơ sở sản xuất cơ khí cụ thể là thiết kế hệ
+thống, chọn lựa thiết bị máy móc, sắp xếp tổ chức các thiết bị, thiết kế sản phẩm, dự trù
+và quản lý nguyên vật liệu, thiết kế chi tiết công việc, phân công sản xuất, điều độ sản
+xuất, quản lý chất lượng sản phẩm, quản lý tồn kho, thiết kế và điều hành phân phối sản
+phẩm.
+6. Thực tập Thiết kế và mô phỏng hệ thống sản xuất công nghiệp Số TC: 02
+- Phân bố thời gian học tập: 2 (0, 2, 4)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: học phần hướng dẫn thực tập nâng cao trong việc lập kế
+hoạch sản xuất và điều hành sản xuất tại các nhà máy, cơ sở sản xuất cơ khí cụ thể là
+thiết kế hệ thống, chọn lựa thiết bị máy móc, sắp xếp tổ chức các thiết bị, thiết kế sản
+phẩm, dự trù và quản lý nguyên vật liệu, thiết kế chi tiết công việc, phân công sản xuất,
+điều độ sản xuất, quản lý chất lượng sản phẩm, quản lý tồn kho, thiết kế và điều hành
+phân phối sản phẩm.
+7. Thực tập tốt nghiệp Số TC: 03
+- Phân bố thời gian học tập: 3 (0, 3, 6)
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: là nội dung giúp sinh viên làm quen với tổ chức sản xuất
+trong lĩnh vực cơ khí, sinh viên được tổ chức tham quan kiến tập các xí nghiệp cơ khí,
+tìm hiểu cơ cấu tổ chức xí nghiệp, tham gia trực tiếp vào quá trình sản xuất và điều hành
+sản xuất của nhà máy, xí nghiệp. Ngoài ra, sinh viên còn biết cách trình bày và thực
+hiện được một báo cáo thực tập tốt nghiệp hoàn chỉnh.
+9.5 TỐT NGHIỆP
+Khóa luận tốt nghiệp Số TC: 07
+Khóa luận tốt nghiệp là các đề tài nghiên cứu ứng dụng để giải quyết một vấn đề công
+nghệ kỹ thuật cụ thể mang tính thực tế liên quan đến ngành học do sinh viên tự chọn hoặc theo
+gợi ý của giáo viên hướng dẫn.
+Khóa luận tốt nghiệp nhằm trang bị cho sinh viên những kỹ năng vận dụng những kiến
+thức đã học để giải quyết một vấn đề cụ thể trong thực tế. Nội dung bao gồm tổng hợp các kiến
+thức đã học làm cơ sở để giải quyết vấn đề; phân tích lựa chọn phương án và cách thức giải
+quyết vấn đề; đánh giá kết quả và bảo vệ thành quả đã thực hiện.
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+- Phòng thí nghiệm Đo lường Cơ khí
+- Phòng thí nghiệm Vật liệu học
+- Phòng thí nghiệm Trang bị điện
+- Phòng thí nghiệm Bảo trì và bảo dưỡng công nghiệp
+- Phòng thí nghiệm Thủy lực – Khí nén
+- Xưởng thực hành nghề (nguội, tiện, phay, bào, mài)
+- Xưởng thực hành Kỹ thuật Hàn
+- Phòng thí nghiệm CAD/CAM-CNC
+- Phòng máy tính
+- Phòng thí nghiệm Kỹ thuật Công nghiệp
+10.2. Thư viện, trang Web
+- Thư viện trường Đại học Sư phạm Kỹ thuật Tp. Hồ Chí Minh
+- Thư viện các bộ môn thuộc Khoa Cơ khí Chế tạo máy
+- Danh mục các trang web (xem trong bộ đề cương chi tiết)
+11. Hướng dẫn thực hiện chương trình
+a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ
+thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau:
+1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm hoặc thực hành
+= 45 giờ tự học
+= 45  90 giờ thực tập tại cơ sở.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15.
+b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu các
+khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển trình độ
+ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học trong học
+kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học chương trình phát
+triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa

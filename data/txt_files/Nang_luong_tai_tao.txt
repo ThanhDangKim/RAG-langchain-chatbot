@@ -1,0 +1,764 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập−Tự do−Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+1. CHƯƠNG TRÌNH ĐÀO TẠO
+Tên chương trình: Công nghệ Kỹ thuật Năng lượng Tái tạo
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Công nghệ Kỹ thuật Năng lượng tái tạo
+Tên tiếng Anh: Renewable Energy Engineering Technology
+Mã ngành: 7510208
+Hình thức đào tạo: Chính quy
+Văn bằng tốt nghiệp: Kỹ sư
+(Ban hành tại quyết định số...........ngày.......................................của Hiệu trưởng trường Đại
+học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1.1. Thời gian đào tạo: 4 năm
+1.2. Đối tượng tuyển sinh: Tốt nghiệp Trung học phổ thông hoặc tương đương
+1.3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+ Thang điểm: 10
+ Quy trình đào tạo: Đào tạo chính quy tập trung, thực hiện theo Quy chế đào tạo đại
+học và cao đẳng hệ chính quy (qui chế ban hành theo quyết định số 43/2007/GDĐT)
+ Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế ban hành theo quyết định số 43/2007/GDĐT.
+Điều kiện riêng: Không
+1.4. Mục tiêu đào tạo và chuẩn đầu ra
+1.4.1 Mục đích
+Đào tạo kỹ sư ngành Năng lượng tái tạo có phẩm chất chính trị, đạo đức; có kiến thức toàn
+diện về các nguyên lý, quy luật tự nhiên–xã hội, kiến thức khoa học cơ bản, kiến thức cơ sở
+và chuyên ngành về năng lượng tái tạo; có kỹ năng thực hành, khả năng làm việc độc lập,
+sáng tạo và giải quyết những vấn đề trong lĩnh vực năng lượng; có khả năng học tập nâng cao
+trình độ; đáp ứng nhu cầu xã hội, phục vụ nhân dân, phục vụ yêu cầu phát triển kinh tế–xã
+hội và hội nhập quốc tế của đất nước.
+1.4.2 Mục tiêu đào tạo
+1. Có kiến thức và lập luận kỹ thuật
+2. Phát triển năng lực khám phá tri thức, tư duy hệ thống, giải quyết các vấn đề chuyên
+ngành công nghệ năng lượng tái tạo.
+3. Có các kỹ năng làm việc
+4. Phát triển kỹ năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ năng
+lượng tái tạo phù hợp với nhu cầu xã hội.
+1.4.3 Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra
+hiệu năng lực
+1. KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT
+Ứng dụng các kiến thức cơ bản về toán học và khoa học tự nhiên trong kỹ thuật và có khả
+1.1 3
+năng học tập ở trình độ cao hơn
+1.2 Ứng dụng kiến thức cơ sở ngành trong lĩnh vực năng lượng tái tạo 3
+Ứng dụng kiến thức chuyên môn trong việc tính toán, thiết kế, vận hành, thử nghiệm và
+1.3 3
+chẩn đoán các hệ thống năng lượng
+2. KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP
+Nhận thức tầm quan trọng của đạo đức nghề nghiệp và tác phong làm việc chuyên nghiệp
+2.1 4
+trong lĩnh vực năng lượng tái tạo
+2.2 Phân tích, giải thích và lập luận giải quyết các vấn đề năng lượng tái tạo 4
+2.3 Thực nghiệm và khám phá tri thức các vấn đề năng lượng tái tạo 3
+2.4 Khả năng tư duy và suy nghĩ hệ thống đến các vấn đề năng lượng tái tạo 3
+2.5 Thực hiện thành thạo các kỹ năng nghề trong lĩnh vực năng lượng tái tạo 3
+3. KỸ NĂNG GIAO TIẾP và LÀM VIỆC THEO NHÓM
+3.1 Có kỹ năng sáng tạo và khởi nghiệp 4
+3.2 Có khả năng lãnh đạo, làm việc nhóm và học tập suốt đời 3
+3.3 Có kỹ năng giao tiếp và sử dụng tiếng Anh 3
+HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN HÀNH TRONG
+4. BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ MÔI TRƯỜNG – QUÁ TRÌNH SÁNG
+TẠO
+4.1 Hình thành ý tưởng về các hệ thống trong lĩnh vực năng lượng tái tạo 4
+4.2 Tính toán, thiết kế và mô phỏng các hệ thống trong lĩnh vực năng lượng tái tạo 4
+4.3 Triển khai có hệ thống các hoạt động trong lĩnh vực năng lượng tái tạo 5
+Ký
+hiệu	Chuẩn đầu ra	Trình độ
+năng lực
+1.	KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT	
+1.1	Ứng dụng các kiến thức cơ bản về toán học và khoa học tự nhiên trong kỹ thuật và có khả
+năng học tập ở trình độ cao hơn	3
+1.2	Ứng dụng kiến thức cơ sở ngành trong lĩnh vực năng lượng tái tạo	3
+1.3	Ứng dụng kiến thức chuyên môn trong việc tính toán, thiết kế, vận hành, thử nghiệm và
+chẩn đoán các hệ thống năng lượng	3
+2.	KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP	
+2.1	Nhận thức tầm quan trọng của đạo đức nghề nghiệp và tác phong làm việc chuyên nghiệp
+trong lĩnh vực năng lượng tái tạo	4
+2.2	Phân tích, giải thích và lập luận giải quyết các vấn đề năng lượng tái tạo	4
+2.3	Thực nghiệm và khám phá tri thức các vấn đề năng lượng tái tạo	3
+2.4	Khả năng tư duy và suy nghĩ hệ thống đến các vấn đề năng lượng tái tạo	3
+2.5	Thực hiện thành thạo các kỹ năng nghề trong lĩnh vực năng lượng tái tạo	3
+3.	KỸ NĂNG GIAO TIẾP và LÀM VIỆC THEO NHÓM	
+3.1	Có kỹ năng sáng tạo và khởi nghiệp	4
+3.2	Có khả năng lãnh đạo, làm việc nhóm và học tập suốt đời	3
+3.3	Có kỹ năng giao tiếp và sử dụng tiếng Anh	3
+4.	HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN HÀNH TRONG
+BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ MÔI TRƯỜNG – QUÁ TRÌNH SÁNG
+TẠO	
+4.1	Hình thành ý tưởng về các hệ thống trong lĩnh vực năng lượng tái tạo	4
+4.2	Tính toán, thiết kế và mô phỏng các hệ thống trong lĩnh vực năng lượng tái tạo	4
+4.3	Triển khai có hệ thống các hoạt động trong lĩnh vực năng lượng tái tạo	5
+4.4 Vận hành, quản lý các hệ thống trong lĩnh vực năng lượng tái tạo 5
+5 CHUẨN ĐẦU RA MỞ RỘNG
+Có khả năng lãnh đạo, làm việc nhóm và giải quyết các vấn đề kỹ thuật liên quan trong
+5.1 3
+ngành năng lượng tái tạo
+5.2 Có kiến thức khởi nghiệp, kinh doanh trong lĩnh vực năng lượng tái tạo 3
+1.4.4 Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động
+như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng
+các hành động như giải thích, phân loại, minh họa, suy luận, ...
+Đạt yêu cầu
+2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như
+mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận
+và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như
+phân tích, phân loại, so sánh, tổng hợp,...
+Thành thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo
+các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành
+động như nhận xét, phản biện, đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/
+bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới.
+1.5. Khối lượng kiến thức toàn khoá:
+132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng và các
+môn học ngoại khóa). Phần Ngoại ngữ sẽ thực hiện theo Đề án Phát triển năng lực ngoại ngữ
+của trường và không đưa vào chương trình đào tạo.
+4.4	Vận hành, quản lý các hệ thống trong lĩnh vực năng lượng tái tạo	5
+5	CHUẨN ĐẦU RA MỞ RỘNG	
+5.1	Có khả năng lãnh đạo, làm việc nhóm và giải quyết các vấn đề kỹ thuật liên quan trong
+ngành năng lượng tái tạo	3
+5.2	Có kiến thức khởi nghiệp, kinh doanh trong lĩnh vực năng lượng tái tạo	3
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động
+như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng
+các hành động như giải thích, phân loại, minh họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như
+mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận
+và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như
+phân tích, phân loại, so sánh, tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo
+các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành
+động như nhận xét, phản biện, đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/
+bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới.
+1.6. Phân bổ khối lượng các khối kiến thức
+Số tín chỉ
+Khối kiến thức
+Tổng Bắt buộc Tự chọn
+Giáo dục đại cương 49 39 10
+Lý luận chính trị + Pháp luật đại cương 12 12
+Khoa học Xã hội và Nhân văn 4 4
+Toán và Khoa học tự nhiên 28 22 6
+Tin học 2 2
+Nhập môn ngành Năng lượng tái tạo 3 3
+Kiến thức giáo dục Chuyên nghiệp 83 72 11
+Cơ sở nhóm ngành và ngành 29 25 4
+Chuyên ngành 30 23 7
+Liên ngành 6 6
+Ngành Năng lượng Tái tạo được xây dựng dựa
+trên các ngành sau: CNKT Năng lượng Tái tạo,
+CNKT Nhiệt, CNKT Điện-Điện tử, CNKT Tự
+động hóa, CN Thông tin,
+Nên phần kiến thức liên ngành đã được xây
+dựng trong chương trình đào tạo chính
+Thí nghiệm, thực tập, thực hành 14 14
+Thực tập tốt nghiệp 3 3
+Khóa luận tốt nghiệp 7 7
+Khối kiến thức GDTC + GDQP Không TL
+Giáo dục thể chất 1 1
+Giáo dục thể chất 2 1
+Tự chọn Giáo dục thể chất 3 3
+Giáo dục quốc phòng 165 tiết
+NGOẠI KHÓA Không TL
+Thực tập thực tế 1
+Chuyên đề thực tế 2
+Ghi chú: Sinh viên phải vượt qua kỳ thi “kiểm tra năng lực” để đủ điều kiện làm khoá luận
+tốt nghiệp
+Khối kiến thức	Số tín chỉ		
+	Tổng	Bắt buộc	Tự chọn
+Giáo dục đại cương	49	39	10
+Lý luận chính trị + Pháp luật đại cương	12	12	
+Khoa học Xã hội và Nhân văn	4		4
+Toán và Khoa học tự nhiên	28	22	6
+Tin học	2	2	
+Nhập môn ngành Năng lượng tái tạo	3	3	
+Kiến thức giáo dục Chuyên nghiệp	83	72	11
+Cơ sở nhóm ngành và ngành	29	25	4
+Chuyên ngành	30	23	7
+Liên ngành
+Ngành Năng lượng Tái tạo được xây dựng dựa
+trên các ngành sau: CNKT Năng lượng Tái tạo,
+CNKT Nhiệt, CNKT Điện-Điện tử, CNKT Tự
+động hóa, CN Thông tin,
+Nên phần kiến thức liên ngành đã được xây
+dựng trong chương trình đào tạo chính	6		6
+Thí nghiệm, thực tập, thực hành	14	14	
+Thực tập tốt nghiệp	3	3	
+Khóa luận tốt nghiệp	7	7	
+Khối kiến thức GDTC + GDQP	Không TL		
+Giáo dục thể chất 1	1		
+Giáo dục thể chất 2	1		
+Tự chọn Giáo dục thể chất 3	3		
+Giáo dục quốc phòng	165 tiết		
+NGOẠI KHÓA	Không TL		
+Thực tập thực tế	1		
+Chuyên đề thực tế	2		
+1.7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+1.7.1. Khối kiến thức giáo dục đại cương
+Số tín
+TT Mã môn học TÊN HỌC PHẦN Mã MH trước
+chỉ
+A. KHỐI KIẾN THỨC BẮT BUỘC 39
+I. Lý luận chính trị + Pháp luật 12
+1 LLCT150105 Các NL cơ bản của CN Mác-Lênin 5
+2 LLCT230214 Đường lối CM của ĐCSVN 3
+3 LLCT120314 Tư tưởng Hồ Chí Minh 2
+4 GELA220405 Pháp luật đại cương 2
+II. Toán học và KHTN 22
+1 MATH132401 Toán 1 3
+2 MATH132501 Toán 2 3
+3 MATH132601 Toán 3 3
+4 MATH132901 Xác suất thống kê ứng dụng 3
+5 PHYS130902 Vật lý 1 3
+6 PHYS131002 Vật lý 2 3
+7 PHYS111202 Thí nghiệm vật lý 1 1
+8 GCHE130603 Hoá học cho kỹ thuật 3
+III. Nhập môn ngành Năng lượng Tái tạo 3 (2+1)
+IV. Tin học 2
+1 OOPC326964 Tin học dành cho kỹ sư _Lập trình C 2
+B. KHỐI KIẾN THỨC TỰ CHỌN 10
+V. Khoa học xã hội nhân văn 4
+1 GEFC220105 Kinh tế học đại cương 2
+2 IQMA220205 Nhập môn quản trị chất lượng 2
+3 INMA220305 Nhập môn quản trị học 2 Chọn 1 môn
+4 INLO220405 Nhập môn logic học 2
+5 IVNC320905 Cơ sở văn hóa Việt Nam 2
+6 INSO321005 Nhập môn xã hội học 2
+7 ENPS220591 Tâm lý học kỹ sư 2
+8 SYTH220491 Tư duy hệ thống 2 Chọn 1 môn
+9 LESK120190 Kỹ năng học tập đại học 2
+10 PLSK120290 Kỹ năng xây dựng kế hoạch 2
+TT	Mã môn học	TÊN HỌC PHẦN	Số tín
+chỉ	Mã MH trước
+A. KHỐI KIẾN THỨC BẮT BUỘC			39	
+I. Lý luận chính trị + Pháp luật			12	
+1	LLCT150105	Các NL cơ bản của CN Mác-Lênin	5	
+2	LLCT230214	Đường lối CM của ĐCSVN	3	
+3	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+4	GELA220405	Pháp luật đại cương	2	
+II. Toán học và KHTN			22	
+1	MATH132401	Toán 1	3	
+2	MATH132501	Toán 2	3	
+3	MATH132601	Toán 3	3	
+4	MATH132901	Xác suất thống kê ứng dụng	3	
+5	PHYS130902	Vật lý 1	3	
+6	PHYS131002	Vật lý 2	3	
+7	PHYS111202	Thí nghiệm vật lý 1	1	
+8	GCHE130603	Hoá học cho kỹ thuật	3	
+III. Nhập môn ngành Năng lượng Tái tạo			3 (2+1)	
+IV. Tin học			2	
+1	OOPC326964	Tin học dành cho kỹ sư _Lập trình C	2	
+B. KHỐI KIẾN THỨC TỰ CHỌN			10	
+V. Khoa học xã hội nhân văn			4	
+1	GEFC220105	Kinh tế học đại cương	2	Chọn 1 môn
+2	IQMA220205	Nhập môn quản trị chất lượng	2	
+3	INMA220305	Nhập môn quản trị học	2	
+4	INLO220405	Nhập môn logic học	2	
+5	IVNC320905	Cơ sở văn hóa Việt Nam	2	
+6	INSO321005	Nhập môn xã hội học	2	
+7	ENPS220591	Tâm lý học kỹ sư	2	
+8	SYTH220491	Tư duy hệ thống	2	
+9	LESK120190	Kỹ năng học tập đại học	2	
+10	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+11 WOPS120390 Kỹ năng làm việc trong môi trường kỹ 2
+thuật
+12 BPLA121808 Kế hoạch khởi nghiệp 2
+13 REME320690 Phương pháp nghiên cứu khoa học 2
+VI. Toán học và KHTN 6
+1 MATH133101 Toán cao cấp dành cho kỹ sư 1 3
+Chọn 2 môn
+2 MATH133201 Toán cao cấp dành cho kỹ sư 2 3
+3 PHYS131102 Vật lý 3 3
+VII. Khác (các khoa đề xuất)
+C. KHỐI KIẾN THỨC GDTC + GDQP
+VIII. Giáo dục thể chất -
+1 PHED110513 Giáo dục thể chất 1 -
+2 PHED110613 Giáo dục thể chất 2 -
+3 PHED130715 Tự chọn Giáo dục thể chất 3 -
+IX. Giáo dục quốc phòng 165 tiết
+Ghi chú:
+(1): đã loại bỏ 9 tín chỉ tiếng Anh (bắt buộc)
++ Các khối ngành kỹ thuật bắt buộc phải đưa các môn Vật lý 1, Vật lý 2, Hóa học đại cương vào
+chương trình đào tạo trừ ngành thuộc khoa Công nghệ thông tin và khoa Công nghệ may & thời trang
+xem xét các môn học trên để đưa vào chương trình.
++ Các học phần Giáo dục thể chất và Giáo dục quốc phòng không tính trong tổng số tín chỉ
+7.2. Danh mục các môn học thuộc khối kiến thức chuyên nghiệp
+TT Mã môn học TÊN HỌC PHẦN Số tín chỉ Mã MH trước
+A. KHỐI KIẾN THỨC BẮT BUỘC 72
+I. Cơ sở ngành và ngành 25
+1 ELCI130144 Kỹ thuật Điện – Điện tử 3
+2 MICR330363 Kỹ thuật Vi Xử Lý 3
+3 ELMA240344 Máy điện và Khí cụ điện 4
+4 PLCS330846 Điều khiển lập trình (PLC) 3
+5 THEAT333432 Nhiệt động lực học và Truyền nhiệt 3
+6 ENDR130123 Vẽ kỹ thuật 1 3
+7 STRE325932 Các nguồn Năng lượng 2
+8 FLUI220132 Cơ học lưu chất ứng dụng 2
+9 TRSY621732 Hệ Thống Nhiệt Lạnh 2
+11	WOPS120390	Kỹ năng làm việc trong môi trường kỹ
+thuật	2	
+12	BPLA121808	Kế hoạch khởi nghiệp	2	
+13	REME320690	Phương pháp nghiên cứu khoa học	2	
+VI. Toán học và KHTN			6	
+1	MATH133101	Toán cao cấp dành cho kỹ sư 1	3	Chọn 2 môn
+2	MATH133201	Toán cao cấp dành cho kỹ sư 2	3	
+3	PHYS131102	Vật lý 3	3	
+VII. Khác (các khoa đề xuất)				
+C. KHỐI KIẾN THỨC GDTC + GDQP				
+VIII. Giáo dục thể chất			-	
+1	PHED110513	Giáo dục thể chất 1	-	
+2	PHED110613	Giáo dục thể chất 2	-	
+3	PHED130715	Tự chọn Giáo dục thể chất 3	-	
+IX. Giáo dục quốc phòng			165 tiết	
+TT	Mã môn học	TÊN HỌC PHẦN	Số tín chỉ	Mã MH trước
+A. KHỐI KIẾN THỨC BẮT BUỘC			72	
+I. Cơ sở ngành và ngành			25	
+1	ELCI130144	Kỹ thuật Điện – Điện tử	3	
+2	MICR330363	Kỹ thuật Vi Xử Lý	3	
+3	ELMA240344	Máy điện và Khí cụ điện	4	
+4	PLCS330846	Điều khiển lập trình (PLC)	3	
+5	THEAT333432	Nhiệt động lực học và Truyền nhiệt	3	
+6	ENDR130123	Vẽ kỹ thuật 1	3	
+7	STRE325932	Các nguồn Năng lượng	2	
+8	FLUI220132	Cơ học lưu chất ứng dụng	2	
+9	TRSY621732	Hệ Thống Nhiệt Lạnh	2	
+II. Chuyên ngành 23
+1 PFCO320232 Bơm, Quạt, Máy nén 2
+2 MGDG533045 Lưới điện có nguồn phân tán (Micro 3
+grid)
+3 WEAP633145 Điện gió và ứng dụng 3
+4 SEAP633245 Điện mặt trời và ứng dụng 3
+5 POEL330262 Thiết bị biến đổi điện năng (điện tử 3
+công suất)
+6 ENAE321832 Kiểm toán và tiết kiệm năng lượng 2
+7 STEA421332 Năng lượng Nhiệt mặt trời và ứng dụng 2
+8 FECE625332 Pin Nhiên Liệu 2
+9 TFPR314532 Đồ án môn học 1 (Năng lượng tái tạo) 1
+10 PRSE613345 Đồ án môn học 2 (Điện mặt trời) 1
+11 PLCR311146 Đồ án môn học 3 (Điều khiển hệ thống) 1
+III. Thực tập xưởng 14
+1 PREM320744 TT máy điện và khí cụ điện 2
+2 POEP 330232 TT thiết bị chuyển đổi điện năng 3
+3 RENP635132 TT hệ thống điện gió và mặt trời 3
+4 PRMI310463 TT vi xử lý 1
+5 PPLC321346 TT Điều khiển lập trình 2
+7 RESP633532 TT vận hành hệ thống nhiệt–lạnh 3
+IV. Thực tập tốt nghiệp(UNTH736732) 3
+V. Khóa luận tốt nghiệp(UNTH776832) 7
+B. KHỐI KIẾN THỨC TỰ CHỌN 11
+I. Cơ sở ngành và ngành 4
+1 STRT321732 Chuyên đề Nhiệt 2
+Chọn 2 môn
+2 THME221432 Đo lường nhiệt
+2 TC
+3 LTRI321345 Kỹ thuật chiếu sáng dân dụng và công
+nghiệp 2
+II. Chuyên Ngành 7
+1 IMAPM 332345 Quản trị CN & QLDA điện 3
+2 BMSY322045 Hệ thống BMS 3
+3 SCDA 430946 Hệ thống SCADA 3
+II. Chuyên ngành					23	
+1	PFCO320232			Bơm, Quạt, Máy nén	2	
+2	MGDG533045			Lưới điện có nguồn phân tán (Micro
+grid)	3	
+3	WEAP633145			Điện gió và ứng dụng	3	
+4		SEAP633245		Điện mặt trời và ứng dụng	3	
+5	POEL330262			Thiết bị biến đổi điện năng (điện tử
+công suất)	3	
+6	ENAE321832			Kiểm toán và tiết kiệm năng lượng	2	
+7	STEA421332			Năng lượng Nhiệt mặt trời và ứng dụng	2	
+8	FECE625332			Pin Nhiên Liệu	2	
+9	TFPR314532			Đồ án môn học 1 (Năng lượng tái tạo)	1	
+10		PRSE613345		Đồ án môn học 2 (Điện mặt trời)	1	
+11	PLCR311146			Đồ án môn học 3 (Điều khiển hệ thống)	1	
+III. Thực tập xưởng					14	
+1	PREM320744			TT máy điện và khí cụ điện	2	
+2	POEP 330232			TT thiết bị chuyển đổi điện năng	3	
+3	RENP635132			TT hệ thống điện gió và mặt trời	3	
+4	PRMI310463			TT vi xử lý	1	
+5	PPLC321346			TT Điều khiển lập trình	2	
+7	RESP633532			TT vận hành hệ thống nhiệt–lạnh	3	
+IV. Thực tập tốt nghiệp(UNTH736732)					3	
+V. Khóa luận tốt nghiệp(UNTH776832)					7	
+B. KHỐI KIẾN THỨC TỰ CHỌN					11	
+I. Cơ sở ngành và ngành					4	
+1	STRT321732			Chuyên đề Nhiệt	2	Chọn 2 môn
+2 TC
+2	THME221432			Đo lường nhiệt	2	
+3	LTRI321345			Kỹ thuật chiếu sáng dân dụng và công
+nghiệp	2	
+II. Chuyên Ngành					7	
+1	IMAPM 332345			Quản trị CN & QLDA điện	3	
+2	BMSY322045			Hệ thống BMS	3	
+3	SCDA 430946			Hệ thống SCADA	3	
+4 MSET331145 Ứng dụng Matlab trong kỹ thuật điện 3
+5 BMSY332045 Nguồn dự phòng và hệ ATS 3
+6 PQE320755 Chất lượng điện năng 3
+Chọn 1 môn
+7 REPR320745 Bảo vệ và tự động hóa hệ thống điện 3 3TC và 2 môn 2
+công nghiệp TC
+8 HEEX321532 Thiết bị trao đổi nhiệt 2
+9 ERMA626032 Năng lượng và quản lý năng lượng 2
+10 ENEC320832 Kinh tế năng lượng 2
+11 THPP331032 Nhà máy nhiệt điện 3
+III. Liên Ngành
+Ngành Năng lượng Tái tạo được xây dựng dựa trên các ngành
+sau: CNKT Năng lượng Tái tạo, CNKT Nhiệt, CNKT Điện-Điện
+tử, CNKT Tự động hóa, CN Thông tin,
+Phần kiến thức liên ngành đã được xây dựng trong chương trình
+đào tạo chính
+1 PLCS330846 Điều khiển lập trình (PLC) 3
+2 ELMA240344 Máy điện và Khí cụ điện 4
+4 HEEX321532 Thiết bị trao đổi nhiệt 2
+5 ENEC320832 Kinh tế năng lượng 2
+6 STRT321732 Chuyên đề nhiệt 2
+7 TRSY621732 Hệ thống Nhiệt Lạnh 2
+8 PFCO320232 Bơm, Quạt, Máy nén 2
+9 OOPC326964 Tin học dành cho kỹ sư _Lập trình C 2
+10 POEL330262 Thiết bị biến đổi điện năng (điện tử 3
+công suất)
+11 MICR330363 Kỹ thuật Vi Xử Lý 3
+12 ELCI130144 Kỹ thuật Điện – Điện tử 3
+13 MGDG533045 Lưới điện có nguồn phân tán (Micro 3
+grid)
+4	MSET331145	Ứng dụng Matlab trong kỹ thuật điện	3	Chọn 1 môn
+3TC và 2 môn 2
+TC
+5	BMSY332045	Nguồn dự phòng và hệ ATS	3	
+6	PQE320755	Chất lượng điện năng	3	
+7	REPR320745	Bảo vệ và tự động hóa hệ thống điện
+công nghiệp	3	
+8	HEEX321532	Thiết bị trao đổi nhiệt	2	
+9	ERMA626032	Năng lượng và quản lý năng lượng	2	
+10	ENEC320832	Kinh tế năng lượng	2	
+11	THPP331032	Nhà máy nhiệt điện	3	
+III. Liên Ngành
+Ngành Năng lượng Tái tạo được xây dựng dựa trên các ngành
+sau: CNKT Năng lượng Tái tạo, CNKT Nhiệt, CNKT Điện-Điện
+tử, CNKT Tự động hóa, CN Thông tin,
+Phần kiến thức liên ngành đã được xây dựng trong chương trình
+đào tạo chính			6	
+1	PLCS330846	Điều khiển lập trình (PLC)	3	
+2	ELMA240344	Máy điện và Khí cụ điện	4	
+4	HEEX321532	Thiết bị trao đổi nhiệt	2	
+5	ENEC320832	Kinh tế năng lượng	2	
+6	STRT321732	Chuyên đề nhiệt	2	
+7	TRSY621732	Hệ thống Nhiệt Lạnh	2	
+8	PFCO320232	Bơm, Quạt, Máy nén	2	
+9	OOPC326964	Tin học dành cho kỹ sư _Lập trình C	2	
+10	POEL330262	Thiết bị biến đổi điện năng (điện tử
+công suất)	3	
+11	MICR330363	Kỹ thuật Vi Xử Lý	3	
+12	ELCI130144	Kỹ thuật Điện – Điện tử	3	
+13	MGDG533045	Lưới điện có nguồn phân tán (Micro
+grid)	3	
+1.7.3. Danh mục các môn học MOOCs (Massive Open Online Courses)
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo
+tiên tiến, SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét
+tương đương với các môn học có trong chương trình đào tạo:
+Môn học được xét tương đương
+TT Mã môn học Tên môn học Số tín
+(link đăng ký)
+ASU, 2 credits, 16 weeks,
+Nhập môn ngành 3
+1 INTE130132 https://gfa.asu.edu/courses/online-
+công nghệ kỹ thuật (2+1)
+engineering-course
+ASU, 4 credits, 8 weeks,
+Năng lượng và
+2 STRE435532 3 https://gfa.asu.edu/courses/introduction
+quản lý năng lượng
+-solar-systems-astronomy
+University of Michigan, 8 weeks,
+https://www.mooc-
+Nhiệt động học kỹ
+3 THER230232 3 list.com/course/introduction-
+thuật
+thermodynamics-transferring-energy-
+here-there-coursera
+1.8. Kế hoạch giảng dạy
+Ghi chú: Không bố trí các môn sau trong kế hoạch đào tạo mà sinh viên tự sắp xếp
+từ học kỳ 2 trở đi theo kế hoạch mở lớp của trường:
+Tên môn học Số tín chỉ Mã MH
+TT Mã môn học
+trước
+1 LLCT150105 Những NLCB của CN Mác – Lênin 5
+2 LLCT230214 Đường lối cách mạng của ĐCSVN 3
+3 GELA220405 Pháp luật đại cương 2
+4 PHED110613 Giáo dục thể chất 2 1 Không TL
+5 PHED130715 Giáo dục thể chất 3 3 Không TL
+Tổng 10
+TT	Mã môn học	Tên môn học	Số tín	Môn học được xét tương đương
+(link đăng ký)
+1	INTE130132	Nhập môn ngành
+công nghệ kỹ thuật	3
+(2+1)	ASU, 2 credits, 16 weeks,
+https://gfa.asu.edu/courses/online-
+engineering-course
+2	STRE435532	Năng lượng và
+quản lý năng lượng	3	ASU, 4 credits, 8 weeks,
+https://gfa.asu.edu/courses/introduction
+-solar-systems-astronomy
+3	THER230232	Nhiệt động học kỹ
+thuật	3	University of Michigan, 8 weeks,
+https://www.mooc-
+list.com/course/introduction-
+thermodynamics-transferring-energy-
+here-there-coursera
+TT	Mã môn học	Tên môn học	Số tín chỉ	Mã MH
+trước
+1	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2	LLCT230214	Đường lối cách mạng của ĐCSVN	3	
+3	GELA220405	Pháp luật đại cương	2	
+4	PHED110613	Giáo dục thể chất 2	1	Không TL
+5	PHED130715	Giáo dục thể chất 3	3	Không TL
+Tổng			10	
+Học kỳ 1:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 INRE133132 Nhập môn ngành năng lượng tái tạo 3 (2+1)
+2 MATH132401 Toán 1 3
+3 GCHE130603 Hóa học cho kỹ thuật 3
+4 PHYS130102 Vật lý 1 3
+5 LLCT120314 Tư tưởng Hồ Chí Minh 2
+6 Môn tự chọn (KHXH&NV) (1) 2
+7 PHED110513 Giáo dục thể chất 1 1 Không TL
+Tổng: 16
+Học kỳ 2:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 MATH132501 Toán 2 3
+2 PHYS120202 Vật lý 2 3
+3 PHYS111202 Thí nghiệm vật lý 1 1
+4 OOPC326964 Tin học dành cho kỹ sư _Lập trình C 2 (1+1)
+5 Tự chọn Khoa học XH&NV 2 2
+6 MATH132901 Xác suất thống kê ứng dụng 3
+7 ENDR130123 Vẽ kỹ thuật 1 3
+Tổng: 17
+Học kỳ 3:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 MATH132601 Toán 3 3
+2 MATH 133101 Toán cao cấp dành cho kỹ sư 1 3
+3 MATH 133201 Toán cao cấp dành cho kỹ sư 2 3 Chọn 2 môn
+4 PHYS 131102 Vật lý 3 3
+5 THEAT333432 Nhiệt động lực học và Truyền nhiệt 3
+6 FLUI220132 Cơ học lưu chất ứng dụng 2
+7 STRE325932 Các nguồn Năng lượng 2
+8 PFCO320232 Bơm, Quạt, Máy nén 2
+9 ELCI130144 Kỹ thuật Điện – Điện tử 3
+Tổng: 21
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	INRE133132	Nhập môn ngành năng lượng tái tạo	3 (2+1)	
+2	MATH132401	Toán 1	3	
+3	GCHE130603	Hóa học cho kỹ thuật	3	
+4	PHYS130102	Vật lý 1	3	
+5	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+6		Môn tự chọn (KHXH&NV) (1)	2	
+7	PHED110513	Giáo dục thể chất 1	1	Không TL
+Tổng:			16	
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	MATH132501	Toán 2	3	
+2	PHYS120202	Vật lý 2	3	
+3	PHYS111202	Thí nghiệm vật lý 1	1	
+4	OOPC326964	Tin học dành cho kỹ sư _Lập trình C	2 (1+1)	
+5		Tự chọn Khoa học XH&NV 2	2	
+6	MATH132901	Xác suất thống kê ứng dụng	3	
+7	ENDR130123	Vẽ kỹ thuật 1	3	
+Tổng:			17	
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	MATH132601	Toán 3	3	
+2	MATH 133101	Toán cao cấp dành cho kỹ sư 1	3	Chọn 2 môn
+3	MATH 133201	Toán cao cấp dành cho kỹ sư 2	3	
+4	PHYS 131102	Vật lý 3	3	
+5	THEAT333432	Nhiệt động lực học và Truyền nhiệt	3	
+6	FLUI220132	Cơ học lưu chất ứng dụng	2	
+7	STRE325932	Các nguồn Năng lượng	2	
+8	PFCO320232	Bơm, Quạt, Máy nén	2	
+9	ELCI130144	Kỹ thuật Điện – Điện tử	3	
+Tổng:			21	
+Học kỳ 4:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+3 ELMA240344 Máy điện và Khí cụ điện 4
+2 MICR330363 Kỹ thuật Vi Xử Lý 3
+1 PLCS330846 Điều khiển lập trình (PLC) 3
+4 STEA421332 Năng lượng Nhiệt mặt trời và ứng dụng 2
+5 LTRI321345 Kỹ thuật chiếu sáng dân dụng và công
+nghiệp
+6 STRT321732 Chuyên đề Nhiệt 2
+Chọn 2 môn
+7 THME221432 Đo lường nhiệt
+8 TRSY621732 Hệ Thống Nhiệt Lạnh 2
+9 FECE625332 Pin Nhiên Liệu 2
+Tổng: 20
+Học kỳ 5:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 MGDG533045 Lưới điện có nguồn phân tán (Micro 3
+grid)
+2 POEL330262 Thiết bị biến đổi điện năng (điện tử 3
+công suất)
+3 ENAE321832 Kiểm toán và tiết kiệm năng lượng 2
+4 IMAPM322345 Quản trị CN & QLDA điện 3
+5 BMSY322045 Hệ thống BMS 3
+6 SCDA 430946 Hệ thống SCADA 3
+7 MSET321145 Ứng dụng Matlab trong kỹ thuật điện 3 Chọn 1 môn
+8 BMSY322045 Nguồn dự phòng và hệ ATS 3
+9 PQE320755 Chất lượng điện năng 3
+10 REPR320745 Bảo vệ và tự động hóa hệ thống điện 3
+công nghiệp
+11 THPP331032 Nhà máy nhiệt điện 3
+12 PRMI310463 TT vi xử lý 1
+13 PREM320744 TT máy điện và khí cụ điện 2
+14 POEP330232 TT thiết bị chuyển đổi điện năng 3
+15 PPLC321346 TT Điều khiển lập trình 2
+Tổng: 19
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+3	ELMA240344	Máy điện và Khí cụ điện	4	
+2	MICR330363	Kỹ thuật Vi Xử Lý	3	
+1	PLCS330846	Điều khiển lập trình (PLC)	3	
+4	STEA421332	Năng lượng Nhiệt mặt trời và ứng dụng	2	
+5	LTRI321345	Kỹ thuật chiếu sáng dân dụng và công
+nghiệp	2	Chọn 2 môn
+6	STRT321732	Chuyên đề Nhiệt	2	
+7	THME221432	Đo lường nhiệt	2	
+8	TRSY621732	Hệ Thống Nhiệt Lạnh	2	
+9	FECE625332	Pin Nhiên Liệu	2	
+Tổng:			20	
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	MGDG533045	Lưới điện có nguồn phân tán (Micro
+grid)	3	
+2	POEL330262	Thiết bị biến đổi điện năng (điện tử
+công suất)	3	
+3	ENAE321832	Kiểm toán và tiết kiệm năng lượng	2	
+4	IMAPM322345	Quản trị CN & QLDA điện	3	Chọn 1 môn
+5	BMSY322045	Hệ thống BMS	3	
+6	SCDA 430946	Hệ thống SCADA	3	
+7	MSET321145	Ứng dụng Matlab trong kỹ thuật điện	3	
+8	BMSY322045	Nguồn dự phòng và hệ ATS	3	
+9	PQE320755	Chất lượng điện năng	3	
+10	REPR320745	Bảo vệ và tự động hóa hệ thống điện
+công nghiệp	3	
+11	THPP331032	Nhà máy nhiệt điện	3	
+12	PRMI310463	TT vi xử lý	1	
+13	PREM320744	TT máy điện và khí cụ điện	2	
+14	POEP330232	TT thiết bị chuyển đổi điện năng	3	
+15	PPLC321346	TT Điều khiển lập trình	2	
+Tổng:			19	
+Học kỳ 6:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 WEAP633145 Điện gió và ứng dụng 3
+2 SEAP633245 Điện mặt trời và ứng dụng 3
+3 HEEX321532 Thiết bị trao đổi nhiệt 2
+4 ERMA626032 Năng lượng và quản lý năng lượng 2 Chọn 2 môn
+5 ENEC320832 Kinh tế năng lượng 2
+6 PREN615032 Đồ án môn học 1 (Năng lượng tái tạo) 1
+7 PRSE613345 Đồ án môn học 2 (Điện mặt trời) 1
+8 PLCR311146 Đồ án môn học 3 (Điều khiển hệ thống) 1
+9 RESP633532 TT vận hành hệ thống nhiệt−lạnh 3
+10 RENP635132 TT hệ thống điện gió và mặt trời 3
+Tổng: 19
+Học kỳ 7:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 UNTH736732 Thực tập tốt nghiệp 3
+Tổng: 3
+Học kỳ 8:
+TT Mã HP Tên học phần Số TC HP tiên quyết
+1 UNTH776832 Khóa luận tốt nghiệp 7
+Tổng: 7
+TT	Mã HP			Tên học phần	Số TC	HP tiên quyết
+1	WEAP633145			Điện gió và ứng dụng	3	
+2		SEAP633245		Điện mặt trời và ứng dụng	3	
+3	HEEX321532			Thiết bị trao đổi nhiệt	2	Chọn 2 môn
+4	ERMA626032			Năng lượng và quản lý năng lượng	2	
+5	ENEC320832			Kinh tế năng lượng	2	
+6	PREN615032			Đồ án môn học 1 (Năng lượng tái tạo)	1	
+7		PRSE613345		Đồ án môn học 2 (Điện mặt trời)	1	
+8	PLCR311146			Đồ án môn học 3 (Điều khiển hệ thống)	1	
+9	RESP633532			TT vận hành hệ thống nhiệt−lạnh	3	
+10	RENP635132			TT hệ thống điện gió và mặt trời	3	
+Tổng:					19	
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	UNTH736732	Thực tập tốt nghiệp	3	
+Tổng:			3	
+TT	Mã HP	Tên học phần	Số TC	HP tiên quyết
+1	UNTH776832	Khóa luận tốt nghiệp	7	
+Tổng:			7	
+1.9. Hướng dẫn thực hiện chương trình.
+Giờ quy định tính như sau:
+1 tín chỉ= 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm
+= 45 giờ tự học hoặc thực hành
+= 45  90 giờ thực tập tại cơ sở ngoài trường.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của học phần là bội số của 15.
+1.9.1. Hướng dẫn sử dụng kiến thức giáo dục đại cương
+1.9.1.1 Khối kiến thức Lý luận chính trị và Pháp luật đại cương
+Theo qui định của Bộ Giáo dục và Đào tạo.
+1.9.1.2. Khối kiến thức Khoa học Xã hội và Nhân văn
+Các học phần tự chọn này là những môn học SV có thể tự chọn trong quá trình học tập, chủ
+yếu để mở rộng kiến thức (hiểu biết) cho SV, thúc đẩy sự phát triển cá tính của SV, biết trình
+bày, cách viết (văn phong) đồ án, khóa luận, báo cáo đề tài, dự án, ...
+Nhà trường có thể chọn các môn học này (nhiều ngành chọn học) bố trí cho SV học.
+1.9.1.3 Khối kiến thức ngoại ngữ và tin học
+100% học phần là bắt buộc.
+Có thể bố trí học phần Anh văn 1 học ở học kỳ đầu tiên hoặc bố trí học ở học kỳ 2.
+Có thể tổ chức kiểm tra, phân loại trình độ anh văn đầu vào cho sinh viên ngay sau khi nhập
+học đầu học kỳ 1. Nếu sinh viên đạt yêu cầu đầu vào cho học học phần Anh văn 1 vào học kỳ
+1. Nếu chưa đạt, đề nghị sinh viên tự học nâng cao trình độ, sau đó cho đăng ký học.
+Trình độ tiếng Anh đạt được tương đương 450 điểm TOEIC (đáp ứng được khả năng học tập
+ở trình độ cao hơn, đáp ứng giao tiếp với khách hàng, hỗ trợ cho việc tự nghiên cứu và tiếp
+thu công nghệ mới,..)
+Trình độ tin học đạt được tương đương trình độ B. Trong trường hợp có nhiều sinh viên khi
+học phổ thông ở vùng sâu, vùng xa ít có điều kiện học tin học, nhà trường nên mở các lớp bồi
+dưỡng ngoại khóa về tin học cho nhóm sinh viên này học, tạo điều kiện cho sinh viên đạt mặt
+bằng chung về trình độ tin học.
+1.9.1.4. Khối kiến thức toán học và khoa học tự nhiên
+Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán và khoa học tự nhiên với mức độ
+ứng dụng, đáp ứng được việc tiếp thu các kiến thức giáo dục chuyên nghiệp.
+Khối lượng khối kiến thức này đảm bảo đủ kiến thức toán cơ bản để học ở trình độ sau đại
+học (đáp ứng được khả năng học tập ở trình độ cao hơn).
+1.9.1.5. Kiến thức Nhập môn ngành đào tạo
+Kiến thức Nhập môn ngành đào tạo (3 tín chỉ) là bắt buộc sinh viên ngành Năng lượng tái
+tạo. Bao gồm: 2 tín chỉ lý thuyết và 1 tín chỉ thực hành. Bố trí học ở học kỳ 1.
+1.9.1.6. Khối kiến thức Giáo dục thể chất và Giáo dục quốc phòng-an ninh
+100% học phần là bắt buộc.
+Theo qui định của Bộ Giáo dục và Đào tạo.
+Học phần GDTC3: SV tự chọn khi đăng ký học phần.
+Hai môn Giáo dục thể chất và Giáo dục quốc phòng-an ninh cũng thực hiện tích lũy theo tín
+chỉ, nhưng được cấp chứng chỉ riêng.
+1.9.2. Hướng dẫn sử dụng kiến thức giáo dục chuyên nghiệp
+1.9.2.1. Khối kiến thức cơ sở ngành
+Các học phần bắt buộc thuộc khối kiến thức cơ sở ngành năng lượng tái tạo là phần kiến thức
+cơ sở chung cho ngành năng lượng tái tạo và nhóm ngành kỹ thuật điện-điện tử.
+Đối với học phần tự chọn cơ sở ngành năng lượng tái tạo, sinh viên chọn theo các môn học tự
+chọn theo các lĩnh vực thế mạnh của khoa và các môn học về quản lý để áp dụng trong thực
+tế sau khi tốt nghiệp.
+1.9.2.2. Khối kiến thức chuyên ngành
+1.9.2.2.1. Các học phần chuyên ngành bắt buộc
+Bao gồm các học phần lý thuyết được bố trí cho phù hợp với tiến trình tiếp thu kiến thức của
+người học.
+Các giảng viên đảm nhận giảng dạy học phần lý thuyết có học hàm, học vị thạc sĩ trở lên.
+1.9.2.2.1. Các học phần chuyên ngành và liên ngành tự chọn
+SV chọn 9 tín chỉ trong các môn học tự chọn do khoa bố trí theo định hướng phát triển.
+1.9.2.3. Khối kiến thức chuyên ngành (các học phần TH xưởng, TTTN)
+Các học phần thực tập xưởng chuyên ngành và thực tập tốt nghiệp bắt buộc
+-Bao gồm 15 tín chỉ thực hành kỹ năng bố trí phù hợp với việc ứng dụng kiến thức lý thuyết
+trong việc thực tập các kỹ năng chuyên ngành năng lượng tái tạo.
+-Trong học kỳ 7 bố trí 3 tín chỉ thực tập tốt nghiệp, sinh viên sẽ tham gia công tác sản xuất ở
+doanh nghiệp, nhằm giúp sinh viên có những kiểm nghiệm thực tế về khối lượng kiến thức đã
+tích lũy qua các học phần. Đây là những nội dung quan trọng giúp sinh viên hoàn thành các
+đồ án cũng như những học phần sẽ phải học để tốt nghiệp, hoàn tất chương trình đào tạo. Học
+phần Thực tập tốt nghiệp bố trí 6 ngày/1 tuần (6 tuần). Học phần này, khoa liên hệ cơ sở
+ngoài trường bố trí cho sinh viên thực tập ngoài trường.
+1.9.2.4. Khối kiến thức tốt nghiệp
+Tổ chức cho sinh viên thực hiện (khối kiến thức tốt nghiệp) với hình thức:
+Khóa luận tốt nghiệp: Sinh viên thực hiện các đề tài nghiên cứu lý thuyết, hoặc ứng dụng để
+giải quyết một số vấn đề kỹ thuật mang tính thực tế liên quan đến chuyên ngành năng lượng
+tái tạo. Căn cứ vào số lượng và năng lực giảng viên để bố trí số lượng đề tài với số SV thực
+hiện đề tài.

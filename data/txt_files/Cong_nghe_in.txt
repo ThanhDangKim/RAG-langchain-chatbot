@@ -1,0 +1,1792 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH: CÔNG NGHỆ KỸ THUẬT IN
+(Ban hành tại Quyết định số 1273/QĐ-ĐHSPKT ngày 03/08/2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT IN
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT IN
+Tên tiếng Anh: PRINTING ENGINEERING TECHNOLOGY
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7510801
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT IN
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT IN
+Mã ngành: 7510801
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: KỸ SƯ
+(Ban hành tại Quyết định số 1273/QĐ-ĐHSPKT ngày 03/08/2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ
+ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ
+ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: Không
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Đào tạo sinh viên trở thành kỹ sư ngành Công nghệ Kỹ thuật in có kiến thức khoa học cơ
+bản, kiến thức cơ sở ngành và chuyên ngành Công nghệ Kỹ thuật in, có khả năng phân tích, giải
+quyết vấn đề và đánh giá các giải pháp công nghệ, có năng lực xây dựng và quản trị doanh nghiệp
+sản xuất in, có kỹ năng giao tiếp và làm việc nhóm, có thái độ nghề nghiệp phù hợp với yêu cầu
+của ngành và xã hội. Sinh viên ngành Công nghệ Kỹ thuật in sau khi ra trường có thể làm việc
+trong các doanh nghiệp sản xuất in trong và ngoài nước, các cơ sở đào tạo Công nghệ Kỹ thuật in.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+1. Kiến thức và lập luận kỹ thuật.
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp.
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp.
+4. Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh doanh nghiệp, xã hội và
+môi trường – Khả năng sáng tạo.
+Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra
+hiệu năng lực
+1. CÓ KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT
+Hiểu biết và khả năng sử dụng các nguyên tắc cơ bản trong khoa học xã hội và tự
+1.1. 3
+nhiên.
+Có kiến thức nền tảng kỹ thuật cốt lõi về công nghệ kỹ thuật in từ thiết kế đến chế
+1.2. 4
+bản, in và hoàn tất sản phẩm in.
+Có kiến thức kỹ thuật nâng cao để áp dụng vào phân tích, đánh giá công nghệ,
+1.3. 4
+kỹ thuật, mỹ thuật, quản lý quá trình sản xuất in.
+2. CÓ KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP
+Có khả năng phân tích, tổng hợp, khái quát hóa vấn đề và đưa ra các giải pháp,
+2.1. 4
+các phương án giải quyết các vấn đề kỹ thuật nghề in.
+Có khả năng tiến hành các thử nghiệm từ chọn mẫu đến thực hiện, đo lường,
+2.2. 4
+đánh giá giả thuyết thí nghiệm.
+Có khả năng xác định và đánh giá một hệ thống sản xuất in từ thiết bị đến tổ
+2.3. 4
+chức sản xuất, kiểm tra chất lượng.
+2.4. Đề xuất các ý kiến, lập kế hoạch thực hiện, dự đoán và chấp nhận rủi ro. 4
+2.5. Có trình độ tin học, kỹ năng cập nhật thông tin trong lĩnh vực kỹ thuật. 4
+3. CÓ KỸ NĂNG GIAO TIẾP: LÀM VIỆC THEO NHÓM VÀ GIAO TIẾP
+3.1. Tổ chức, làm việc nhóm hiệu quả để giải quyết các vấn đề nghề nghiệp. 4
+3.2. Giao tiếp hiệu quả với người khác bằng nhiều hình thức khác nhau. 4
+3.3. Sử dụng tiếng Anh chuyên ngành in. 4
+HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN HÀNH
+4. TRONG BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ MÔI TRƯỜNG –
+QUÁ TRÌNH SÁNG TẠO
+Có đạo đức nghề nghiệp, ý thức kỷ luật và tác phong công nghệp, có khả năng
+4.1. 4
+đánh giá xu hướng phát triển của ngành in.
+4.2. Phân tích được công việc của các vị trí công tác trong doanh nghiệp in, mối liên 3
+Ký
+hiệu	Chuẩn đầu ra	Trình độ
+năng lực
+1.	CÓ KIẾN THỨC VÀ LẬP LUẬN KỸ THUẬT	
+1.1.	Hiểu biết và khả năng sử dụng các nguyên tắc cơ bản trong khoa học xã hội và tự
+nhiên.	3
+1.2.	Có kiến thức nền tảng kỹ thuật cốt lõi về công nghệ kỹ thuật in từ thiết kế đến chế
+bản, in và hoàn tất sản phẩm in.	4
+1.3.	Có kiến thức kỹ thuật nâng cao để áp dụng vào phân tích, đánh giá công nghệ,
+kỹ thuật, mỹ thuật, quản lý quá trình sản xuất in.	4
+2.	CÓ KỸ NĂNG VÀ TỐ CHẤT CÁ NHÂN VÀ CHUYÊN NGHIỆP	
+2.1.	Có khả năng phân tích, tổng hợp, khái quát hóa vấn đề và đưa ra các giải pháp,
+các phương án giải quyết các vấn đề kỹ thuật nghề in.	4
+2.2.	Có khả năng tiến hành các thử nghiệm từ chọn mẫu đến thực hiện, đo lường,
+đánh giá giả thuyết thí nghiệm.	4
+2.3.	Có khả năng xác định và đánh giá một hệ thống sản xuất in từ thiết bị đến tổ
+chức sản xuất, kiểm tra chất lượng.	4
+2.4.	Đề xuất các ý kiến, lập kế hoạch thực hiện, dự đoán và chấp nhận rủi ro.	4
+2.5.	Có trình độ tin học, kỹ năng cập nhật thông tin trong lĩnh vực kỹ thuật.	4
+3.	CÓ KỸ NĂNG GIAO TIẾP: LÀM VIỆC THEO NHÓM VÀ GIAO TIẾP	
+3.1.	Tổ chức, làm việc nhóm hiệu quả để giải quyết các vấn đề nghề nghiệp.	4
+3.2.	Giao tiếp hiệu quả với người khác bằng nhiều hình thức khác nhau.	4
+3.3.	Sử dụng tiếng Anh chuyên ngành in.	4
+4.	HÌNH THÀNH Ý TƯỞNG, THIẾT KẾ, TRIỂN KHAI, VÀ VẬN HÀNH
+TRONG BỐI CẢNH DOANH NGHIỆP, XÃ HỘI VÀ MÔI TRƯỜNG –
+QUÁ TRÌNH SÁNG TẠO	
+4.1.	Có đạo đức nghề nghiệp, ý thức kỷ luật và tác phong công nghệp, có khả năng
+đánh giá xu hướng phát triển của ngành in.	4
+4.2.	Phân tích được công việc của các vị trí công tác trong doanh nghiệp in, mối liên	3
+hệ giữa các vị trí công tác.
+4.3. Có khả năng hình thành ý tưởng và xây dựng các hệ thống sản xuất in. 5
+Có khả năng thiết kế quy trình sản xuất in từ thiết kế đến chế bản, in, thành
+4.4. 5
+phẩm sau in.
+Triển khai kế hoạch sản xuất từ thiết kế đến chế bản, in, thành phẩm sau in, quy
+4.5. 5
+trình kiểm soát chất lượng, quản lý màu.
+Phân tích để lựa chọn vật liệu phù hợp, vận hành thành thạo các thiết bị từ chế
+4.6. 5
+bản đến in và thành phẩm sau in.
+4.7. Có khả năng lãnh đạo doanh nghiệp sản xuất in. 3
+4.8. Có khả năng kinh doanh trong ngành in. 3
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+Đạt yêu
+2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+5. Khối lượng kiến thức toàn khoá: 132 tín chỉ
+(không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+	hệ giữa các vị trí công tác.	
+4.3.	Có khả năng hình thành ý tưởng và xây dựng các hệ thống sản xuất in.	5
+4.4.	Có khả năng thiết kế quy trình sản xuất in từ thiết kế đến chế bản, in, thành
+phẩm sau in.	5
+4.5.	Triển khai kế hoạch sản xuất từ thiết kế đến chế bản, in, thành phẩm sau in, quy
+trình kiểm soát chất lượng, quản lý màu.	5
+4.6.	Phân tích để lựa chọn vật liệu phù hợp, vận hành thành thạo các thiết bị từ chế
+bản đến in và thành phẩm sau in.	5
+4.7.	Có khả năng lãnh đạo doanh nghiệp sản xuất in.	3
+4.8.	Có khả năng kinh doanh trong ngành in.	3
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất
+sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 48
+A. Khối kiến thức bắt buộc 34
+I. Lý luận chính trị + Pháp luật 12
+1 Các NL cơ bản của CN Mác-Lênin 5
+2 Đường lối CM của ĐCSVN 3
+3 Tư tưởng Hồ Chí Minh 2
+4 Pháp luật đại cương 2
+II. Toán học và KHTN 19
+1 Toán 1 3
+2 Toán 2 3
+6 Xác suất - Thống kê ứng dụng 3
+7 Vật lý 1 3
+8 Vật lý 2 3
+9 Thí nghiệm vật lý 1 1
+10 Hoá học cho kỹ thuật 3
+III. Nhập môn ngành 3 (2+1)
+B. Khối kiến thức tự chọn 14
+IV. Tin học 3
+1 Tin học dành cho kỹ sư 3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục) 6
+VI. Toán học và KHTN 5
+1 Hóa lý in 3
+2 Hóa hữu cơ 2
+VII. Khác 0
+C. Khối kiến thức GDTC + GDQP
+VIII. Giáo dục thể chất
+1 Giáo dục thể chất 1 1
+2 Giáo dục thể chất 2 1
+3 Tư chọn Giáo dục thể chất 3 3
+IX. Giáo dục quốc phòng 165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 84
+Cơ sở nhóm ngành và ngành
+Cơ sở ngành 59
+Chuyên ngành
+Thí nghiệm, thực tập, thực hành 16
+Trong đó, thực tập tốt nghiệp
+Khóa luận tốt nghiệp 7
+TT	TÊN HỌC PHẦN	Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG		48
+A. Khối kiến thức bắt buộc		34
+I. Lý luận chính trị + Pháp luật		12
+1	Các NL cơ bản của CN Mác-Lênin	5
+2	Đường lối CM của ĐCSVN	3
+3	Tư tưởng Hồ Chí Minh	2
+4	Pháp luật đại cương	2
+II. Toán học và KHTN		19
+1	Toán 1	3
+2	Toán 2	3
+6	Xác suất - Thống kê ứng dụng	3
+7	Vật lý 1	3
+8	Vật lý 2	3
+9	Thí nghiệm vật lý 1	1
+10	Hoá học cho kỹ thuật	3
+III. Nhập môn ngành		3 (2+1)
+B. Khối kiến thức tự chọn		14
+IV. Tin học		3
+1	Tin học dành cho kỹ sư	3(2+1)
+V. Khoa học xã hội nhân văn (theo danh mục)		6
+VI. Toán học và KHTN		5
+1	Hóa lý in	3
+2	Hóa hữu cơ	2
+VII. Khác		0
+C. Khối kiến thức GDTC + GDQP		
+VIII. Giáo dục thể chất		
+1	Giáo dục thể chất 1	1
+2	Giáo dục thể chất 2	1
+3	Tư chọn Giáo dục thể chất 3	3
+IX. Giáo dục quốc phòng		165 tiết
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP		84
+Cơ sở nhóm ngành và ngành		59
+Cơ sở ngành		
+Chuyên ngành		
+Thí nghiệm, thực tập, thực hành
+Trong đó, thực tập tốt nghiệp		16
+Khóa luận tốt nghiệp		7
+7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc
+7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2 LLCT150105
+3. LLCT230214 LLCT120314,
+Đường lối cách mạng của ĐCSVN 3
+LLCT150105
+4. GELA220405 Pháp luật đại cương 2
+5. INPR130155 Nhập môn ngành Công nghệ Kỹ thuật In 3(2+1)
+6. MATH132401 Toán 1 3
+7. MATH132501 Toán 2 3 MATH132401
+8. MATH132901 Xác suất - Thống kê ứng dụng 3 MATH132501
+9. PHYS130902 Vật lý 1 3 MATH132401
+10. PHYS131002 Vật lý 2 3 PHYS130902
+11. PHYS111202 Thí nghiệm vật lý 1 1 PHYS130902
+12. GCHE130603 Hóa học cho kỹ thuật 3
+13. PHED110513 Giáo dục thể chất 1 1
+14. PHED110613 Giáo dục thể chất 2 1
+15. PHED130715 Giáo dục thể chất 3 3
+16. - Giáo dục quốc phòng 165 tiết
+Tổng 34
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. ENDR130123 Vẽ kỹ thuật 1 3
+2. CONE230156 Máy tính & Mạng máy tính 3
+3. MEPR230455 Cơ điện tử trong ngành in 3 PRTE330555
+4. GEPR230255 Đại cương về sản xuất in 3(2+1)
+5. CTRE230256 LT màu và phục chế trong ngành in 3 GEPR230255
+6. SEMM330755 An toàn lao động và QL bảo trì thiết bị 3
+7. ENGR330356 Anh văn chuyên ngành in 3 GEPR230255
+8. PRMA230257 Vật liệu in 3(2+1) GEPR230255
+9. LAPM210357 Thực hành - Thí nghiệm vật liệu in 1 PRMA230257
+Tổng 25(23+2)
+7.2.2.a Kiến thức chuyên ngành (cho các học phần lý thuyết và thí nghiệm)
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+Chuyên ngành …
+1. GRDE330456 Nghệ thuật trình bày ấn phẩm 3 PRIP310956
+2. PRGD310556 ĐA Nghệ thuật trình bày ấn phẩm 1
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	LLCT150105
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	LLCT120314,
+LLCT150105
+4.	GELA220405	Pháp luật đại cương	2	
+5.	INPR130155	Nhập môn ngành Công nghệ Kỹ thuật In	3(2+1)	
+6.	MATH132401	Toán 1	3	
+7.	MATH132501	Toán 2	3	MATH132401
+8.	MATH132901	Xác suất - Thống kê ứng dụng	3	MATH132501
+9.	PHYS130902	Vật lý 1	3	MATH132401
+10.	PHYS131002	Vật lý 2	3	PHYS130902
+11.	PHYS111202	Thí nghiệm vật lý 1	1	PHYS130902
+12.	GCHE130603	Hóa học cho kỹ thuật	3	
+13.	PHED110513	Giáo dục thể chất 1	1	
+14.	PHED110613	Giáo dục thể chất 2	1	
+15.	PHED130715	Giáo dục thể chất 3	3	
+16.	-	Giáo dục quốc phòng	165 tiết	
+Tổng			34	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	ENDR130123	Vẽ kỹ thuật 1	3	
+2.	CONE230156	Máy tính & Mạng máy tính	3	
+3.	MEPR230455	Cơ điện tử trong ngành in	3	PRTE330555
+4.	GEPR230255	Đại cương về sản xuất in	3(2+1)	
+5.	CTRE230256	LT màu và phục chế trong ngành in	3	GEPR230255
+6.	SEMM330755	An toàn lao động và QL bảo trì thiết bị	3	
+7.	ENGR330356	Anh văn chuyên ngành in	3	GEPR230255
+8.	PRMA230257	Vật liệu in	3(2+1)	GEPR230255
+9.	LAPM210357	Thực hành - Thí nghiệm vật liệu in	1	PRMA230257
+Tổng			25(23+2)	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+Chuyên ngành …				
+1.	GRDE330456	Nghệ thuật trình bày ấn phẩm	3	PRIP310956
+2.	PRGD310556	ĐA Nghệ thuật trình bày ấn phẩm	1	
+3. DIIM330656 Công nghệ xử lý ảnh kỹ thuật số 3(2+1) GEPR230255
+4. PLMA330756 Công nghệ Chế tạo khuôn in 3(2+1) GEPR230255
+5. PRPR310856 ĐA chế bản 1 GEPR230255
+6. PRTE330555 Công nghệ in 3 GEPR230255
+7. PRJP310655 ĐA Công nghệ in 1 PRTE330555
+8. POPR330457 Công nghệ gia công sau in 3 GEPR230255
+9. PRPO310457 ĐA Công nghệ gia công sau in 1 POPR330457
+10. PRMA330657 Kinh tế & Tổ chức sản xuất in 3(2+1) GEPR230255
+11. PRPM310757 ĐA Kinh tế & Tổ chức sản xuất in 1 PRMA330657
+12. PRQM330855 Quản lý chất lượng sản phẩm in 3 PRTE330555
+13. PPQM310955 ĐA Quản lý chất lượng sản phẩm in 1 PRQM330855
+14. Phát triển KN Lãnh đạo và Kinh doanh 2
+Tổng 28(25+3)
+7.2.2.b Kiến thức chuyên ngành (các học phần thực hành xưởng, thực tập công nghiệp)
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+Chuyên ngành …
+1. PRIP310956 TT Xử lý ảnh 1 GEPR230255
+2. PRCG311056 TT Đồ hoạ 1 GEPR230255
+3. PRLT311156 TT Dàn trang 1 GEPR230255
+4. PRPM311456 TT Chế tạo khuôn In 1 PLMA330756
+5. PRPA311256 TT Kiểm tra và xử lý file 1 GEPR230255
+6. PDPF310857 TT TK cấu trúc bao bì và định hình hộp 1 GEPR230255
+7. PRDI311356 TT Bình trang điện tử 1 GEPR230255
+8. PROP321055 TT In offset 2 PRTE330555
+9. PRPP320957 TT Thành phẩm 2 POPR330457
+Tổng 11
+7.2.3. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. THES471955 Khóa luận tốt nghiệp 7 Đạt kỳ thi kiểm
+2. SPTO421955 Chuyên đề 1 2 tra năng lực
+3. SPTO422256 Chuyên đề 2 2 “Qualified
+4. SPTO431857 Chuyên đề 3 3 exam”
+Tổng 7
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified
+exam”
+B – Phần tự chọn:
+Kiến thức giáo dục đại cương
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. MPRE130156 Ứng dụng Matlab trong Công nghệ in 3(2+1) MATH132401
+3.	DIIM330656	Công nghệ xử lý ảnh kỹ thuật số	3(2+1)	GEPR230255
+4.	PLMA330756	Công nghệ Chế tạo khuôn in	3(2+1)	GEPR230255
+5.	PRPR310856	ĐA chế bản	1	GEPR230255
+6.	PRTE330555	Công nghệ in	3	GEPR230255
+7.	PRJP310655	ĐA Công nghệ in	1	PRTE330555
+8.	POPR330457	Công nghệ gia công sau in	3	GEPR230255
+9.	PRPO310457	ĐA Công nghệ gia công sau in	1	POPR330457
+10.	PRMA330657	Kinh tế & Tổ chức sản xuất in	3(2+1)	GEPR230255
+11.	PRPM310757	ĐA Kinh tế & Tổ chức sản xuất in	1	PRMA330657
+12.	PRQM330855	Quản lý chất lượng sản phẩm in	3	PRTE330555
+13.	PPQM310955	ĐA Quản lý chất lượng sản phẩm in	1	PRQM330855
+14.		Phát triển KN Lãnh đạo và Kinh doanh	2	
+Tổng			28(25+3)	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+Chuyên ngành …				
+1.	PRIP310956	TT Xử lý ảnh	1	GEPR230255
+2.	PRCG311056	TT Đồ hoạ	1	GEPR230255
+3.	PRLT311156	TT Dàn trang	1	GEPR230255
+4.	PRPM311456	TT Chế tạo khuôn In	1	PLMA330756
+5.	PRPA311256	TT Kiểm tra và xử lý file	1	GEPR230255
+6.	PDPF310857	TT TK cấu trúc bao bì và định hình hộp	1	GEPR230255
+7.	PRDI311356	TT Bình trang điện tử	1	GEPR230255
+8.	PROP321055	TT In offset	2	PRTE330555
+9.	PRPP320957	TT Thành phẩm	2	POPR330457
+Tổng			11	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	THES471955	Khóa luận tốt nghiệp	7	Đạt kỳ thi kiểm
+tra năng lực
+“Qualified
+exam”
+2.	SPTO421955	Chuyên đề 1	2	
+3.	SPTO422256	Chuyên đề 2	2	
+4.	SPTO431857	Chuyên đề 3	3	
+Tổng			7	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	MPRE130156	Ứng dụng Matlab trong Công nghệ in	3(2+1)	MATH132401
+2. OCHE226903 Hóa hữu cơ 2 GCHE130603
+3. PHCH130157 Hóa lý in 3 GCHE130603
+Tổng 8
+Khối kiến thức các học phần thuộc nhóm Khoa học xã hội – nhân văn: 4TC (SV chọn 2
+trong các học phần sau):
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. GEEC220105 Kinh tế học đại cương 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. INMA220305 Nhập môn Quản trị học 2
+4. INLO220405 Nhập môn Logic học 2
+5. CSVH230338 Cơ sở văn hoá Việt Nam 2
+6. INSO321005 Nhập môn Xã hội học 2
+7. ENPS220591 Tâm lý học kỹ sư 2
+8. SYTH220491 Tư duy hệ thống 2
+9. LESK120190 Kỹ năng học tập đại học 2
+10. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+11. WOPS120390 KN làm việc trong môi trường kỹ thuật 2
+12. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức giáo dục chuyên nghiệp (Sinh viên chọn 6TC trong các học phần sau)
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. DPRF431556 Kiểm tra và xử lý dữ liệu 3 DIIM330656
+2. COMA431756 Quản trị màu 3 CTRE230256
+3. OFPR431255 Các công nghệ In đặc biệt 3 PRTE330555
+4. PAPR431355 Công nghệ In bao bì 3 PRTE330555
+5. CDPF431257 TK cấu trúc và thành phẩm bao bì 3 POPR330457
+6. VAAD421057 CN TP sách và gia tăng giá trị tờ in 3 POPR330457
+Kiến thức chuyên ngành (Sinh viên chọn 1trong 3 hướng thực tập – 6TC)
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. MPPP421856 Thực tập chuyên ngành Trước In 1 2 DPRF431556
+2. MPPP431956 Thực tập chuyên ngành Trước In 2 3 COMA431756
+3. WSPP422156 Thực tập tốt nghiệp Trước In 2 DPRF431556
+4. MPPR421555 Thực tập theo chuyên ngành In 1 2 PAPR431355
+5. MPPR431655 Thực tập theo chuyên ngành In 2 3 OFPR431255
+6. WSPR421855 Thực tập tốt nghiệp In 2 PAPR431355
+7. MPPO421357 Thực tập chuyên ngành Sau In 1 2 CDPF431257
+8. MPPO431457 Thực tập chuyên ngành Sau In 2 3 VAAD421057
+9. WSPO421657 Thực tập tốt nghiệp Sau In 2 CDPF431257
+2.		OCHE226903		Hóa hữu cơ	2	GCHE130603
+3.	PHCH130157			Hóa lý in	3	GCHE130603
+Tổng					8	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	GEEC220105	Kinh tế học đại cương	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	INMA220305	Nhập môn Quản trị học	2	
+4.	INLO220405	Nhập môn Logic học	2	
+5.	CSVH230338	Cơ sở văn hoá Việt Nam	2	
+6.	INSO321005	Nhập môn Xã hội học	2	
+7.	ENPS220591	Tâm lý học kỹ sư	2	
+8.	SYTH220491	Tư duy hệ thống	2	
+9.	LESK120190	Kỹ năng học tập đại học	2	
+10.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+11.	WOPS120390	KN làm việc trong môi trường kỹ thuật	2	
+12.	REME320690	Phương pháp nghiên cứu khoa học	2	
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	DPRF431556	Kiểm tra và xử lý dữ liệu	3	DIIM330656
+2.	COMA431756	Quản trị màu	3	CTRE230256
+3.	OFPR431255	Các công nghệ In đặc biệt	3	PRTE330555
+4.	PAPR431355	Công nghệ In bao bì	3	PRTE330555
+5.	CDPF431257	TK cấu trúc và thành phẩm bao bì	3	POPR330457
+6.	VAAD421057	CN TP sách và gia tăng giá trị tờ in	3	POPR330457
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	MPPP421856	Thực tập chuyên ngành Trước In 1	2	DPRF431556
+2.	MPPP431956	Thực tập chuyên ngành Trước In 2	3	COMA431756
+3.	WSPP422156	Thực tập tốt nghiệp Trước In	2	DPRF431556
+4.	MPPR421555	Thực tập theo chuyên ngành In 1	2	PAPR431355
+5.	MPPR431655	Thực tập theo chuyên ngành In 2	3	OFPR431255
+6.	WSPR421855	Thực tập tốt nghiệp In	2	PAPR431355
+7.	MPPO421357	Thực tập chuyên ngành Sau In 1	2	CDPF431257
+8.	MPPO431457	Thực tập chuyên ngành Sau In 2	3	VAAD421057
+9.	WSPO421657	Thực tập tốt nghiệp Sau In	2	CDPF431257
+C – Kiến thức liên ngành:
+- Sinh viên có thể chọn 6 tín chỉ liên ngành (trong khoa hoặc trong trường) để thay thế cho
+các học phần chuyên ngành trong phần tự chọn:
+- Xem danh sách các học phần được đề xuất bên dưới, hoặc Sinh viên có thể tự chọn các
+học phần nằm ngoài danh sách được đề xuất trên tinh thần các học phần hỗ trợ hướng phát triển
+nghề nghiệp sau này. SV nên nhờ tư vấn thêm từ Ban tư vấn để có sự lựa chọn phù hợp.
+STT Mã học phần Tên học phần Số tín chỉ
+1. BRDE434056 Thiết kế 3 (TK AP nhận diện thương hiệu) 3(1+2)
+2. PADE434156 Thiết kế 5 (Thiết kế bao bì nhãn hiệu) 3(1+2)
+3. ETDR336429 Truyền động điện 3
+4. AUCO330329 Điều khiển tự động 3
+D – Các học phần MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến, SV có thể
+tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các học phần có trong
+chương trình đào tạo
+Số tín Học phần được xét tương đương
+STT Mã học phần Tên học phần
+chỉ MOOC (đường link đăng ký)
+PHCH130157 Hóa lý in 3 https://www.coursera.org/learn/physical-
+1.
+chemistry.
+COMA431756 Quản trị màu 3 http://connect.idealliance.org/g7/educatio
+2.
+n/colortrainingcmp
+CONE230156 Máy tính & Mạng 3 https://ocw.mit.edu/courses/electrical-
+máy tính engineering-and-computer-science/6-
+3.
+829-computer-networks-fall-
+2002/index.htm
+E – Học phần liên kết doanh nghiệp: Chương trình dành ra 2tc để tổ chức các buổi báo cáo
+chuyên đề của doanh nghiệp. Mỗi buổi báo cáo tương ứng 5 tiết. Nội dung do Khoa quyết định.
+F – Lãnh đạo và kinh doanh trong kỹ thuật: Sinh viên sẽ được bố trí 2 tin chỉ đi thực tế tại
+doanh nghiệp vào cuối học kỳ 4. Đây được xem là điều kiện cần để sinh viên được đăng ký thực
+tập tốt nghiệp vào học kỳ 7.
+8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để
+sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+STT Mã học phần Tên học phần Số tín chỉ
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 LLCT150105
+STT	Mã học phần	Tên học phần	Số tín chỉ	
+1.	BRDE434056	Thiết kế 3 (TK AP nhận diện thương hiệu)	3(1+2)	
+2.	PADE434156	Thiết kế 5 (Thiết kế bao bì nhãn hiệu)	3(1+2)	
+3.	ETDR336429	Truyền động điện	3	
+4.	AUCO330329	Điều khiển tự động	3	
+STT	Mã học phần	Tên học phần	Số tín
+chỉ	Học phần được xét tương đương
+MOOC (đường link đăng ký)
+1.	PHCH130157	Hóa lý in	3	https://www.coursera.org/learn/physical-
+chemistry.
+2.	COMA431756	Quản trị màu	3	http://connect.idealliance.org/g7/educatio
+n/colortrainingcmp
+3.	CONE230156	Máy tính & Mạng
+máy tính	3	https://ocw.mit.edu/courses/electrical-
+engineering-and-computer-science/6-
+829-computer-networks-fall-
+2002/index.htm
+STT	Mã học phần	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	LLCT150105
+3. LLCT120314 Tư tưởng Hồ Chí Minh 2 LLCT150105
+4. PHED110613 Giáo dục thể chất 2 1
+5. PHED130715 Giáo dục thể chất 3 3
+Học kỳ 1:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. CONE230156 Máy tính & Mạng máy tính 3
+2. ENDR130123 Vẽ kỹ thuật 1 3
+3. GCHE130603 Hóa học đại cương 3
+4. GELA220405 Pháp luật đại cương 2
+5. GEPR230255 Đại cương về sản xuất in 3(2+1)
+6. INPR130155 Nhập môn ngành Công nghệ Kỹ thuật In 3(2+1)
+7. MATH132401 Toán 1 3
+Tổng 20
+Học kỳ 2:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. CTRE230256 LT màu và phục chế trong ngành in 3 GEPR230255
+2. LAPM210357 Thực hành - Thí nghiệm vật liệu in 1 GEPR230255
+3. MATH132501 Toán 2 3 MATH132401
+4. PHYS111202 Thí nghiệm vật lý 1 1 MATH132401
+5. PHYS130902 Vật lý 1 3 MATH132401
+6. PRCG311056 TT Đồ hoạ 1 GEPR230255
+7. PRIP310956 TT Xử lý ảnh 1 GEPR230255
+8. PRMA230257 Vật liệu in 3(2+1) GEPR230255
+Tổng 16
+Học kỳ 3:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. PHCH130157 Hóa lý in 3 GCHE130603
+2. PHYS131002 Vật lý 2 3 PHYS130902
+3. GRDE330456 Nghệ thuật trình bày ấn phẩm 3 PRIP310956
+4. Tự chọn KHXHNV 1 2
+5. PLMA330756 Công nghệ Chế tạo khuôn in 3(2+1) GEPR230255
+6. PRLT311156 TT Dàn trang 1 GEPR230255
+7. PRDI311356 TT Bình trang điện tử 1 GEPR230255
+8. PDPF310857 TT TK cấu trúc bao bì và định hình hộp 1 GEPR230255
+Tổng 17
+Học kỳ 4:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. DIIM330656 Công nghệ xử lý ảnh kỹ thuật số 3(2+1) GEPR230255
+3.	LLCT120314	Tư tưởng Hồ Chí Minh	2	LLCT150105
+4.	PHED110613	Giáo dục thể chất 2	1	
+5.	PHED130715	Giáo dục thể chất 3	3	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	CONE230156	Máy tính & Mạng máy tính	3	
+2.	ENDR130123	Vẽ kỹ thuật 1	3	
+3.	GCHE130603	Hóa học đại cương	3	
+4.	GELA220405	Pháp luật đại cương	2	
+5.	GEPR230255	Đại cương về sản xuất in	3(2+1)	
+6.	INPR130155	Nhập môn ngành Công nghệ Kỹ thuật In	3(2+1)	
+7.	MATH132401	Toán 1	3	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	CTRE230256	LT màu và phục chế trong ngành in	3	GEPR230255
+2.	LAPM210357	Thực hành - Thí nghiệm vật liệu in	1	GEPR230255
+3.	MATH132501	Toán 2	3	MATH132401
+4.	PHYS111202	Thí nghiệm vật lý 1	1	MATH132401
+5.	PHYS130902	Vật lý 1	3	MATH132401
+6.	PRCG311056	TT Đồ hoạ	1	GEPR230255
+7.	PRIP310956	TT Xử lý ảnh	1	GEPR230255
+8.	PRMA230257	Vật liệu in	3(2+1)	GEPR230255
+Tổng			16	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	PHCH130157	Hóa lý in	3	GCHE130603
+2.	PHYS131002	Vật lý 2	3	PHYS130902
+3.	GRDE330456	Nghệ thuật trình bày ấn phẩm	3	PRIP310956
+4.		Tự chọn KHXHNV 1	2	
+5.	PLMA330756	Công nghệ Chế tạo khuôn in	3(2+1)	GEPR230255
+6.	PRLT311156	TT Dàn trang	1	GEPR230255
+7.	PRDI311356	TT Bình trang điện tử	1	GEPR230255
+8.	PDPF310857	TT TK cấu trúc bao bì và định hình hộp	1	GEPR230255
+Tổng			17	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	DIIM330656	Công nghệ xử lý ảnh kỹ thuật số	3(2+1)	GEPR230255
+2. ENGR330356 Anh văn chuyên ngành in 3 GEPR230255
+3. OCHE226903 Hóa hữu cơ 2 GCHE130603
+4. POPR330457 Công nghệ gia công sau in 3 GEPR230255
+5. PRGD310556 Đồ án Nghệ thuật trình bày ấn phẩm 1 GRDE330456
+6. PRPA311256 TT Kiểm tra và xử lý file 1 GEPR230255
+7. PRPM311456 TT Chế tạo khuôn In 1 GEPR230255
+8. PRTE330555 Công nghệ in 3 GEPR230255
+Tổng 17
+Học kỳ 5:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. Tự chọn chuyên ngành (Lý thuyết) 1 3
+2. Tự chọn chuyên ngành (Lý thuyết) 2 3
+3. PRPR310856 ĐA chế bản 1 DIIM330656
+4. PRJP310655 ĐA Công nghệ in 1 PRTE330555
+5. PRPO310457 ĐA Công nghệ gia công sau in 1 POPR330457
+6. MEPR230455 Cơ điện tử trong ngành in 3 PRTE330555
+7. Tự chọn KHXHNV 2 2
+8. PROP321055 TT In offset 2 PRTE330555
+9. PRPP320957 TT Thành phẩm 2 POPR330457
+10. Liên kết doanh nghiệp 2
+Tổng 20
+Học kỳ 6:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. PRQM330855 Quản lý chất lượng sản phẩm in 3 PRTE330555
+2. SEMM330755 An toàn lao động và QL bảo trì thiết bị 3
+3. PRMA330657 Kinh tế & Tổ chức sản xuất in 3(2+1) GEPR230255
+4. Tự chọn hướng TTCN 1 3
+5. Tự chọn hướng TTCN 2 2
+6. MPRE130156 Ứng dụng Matlab trong Công nghệ in 3(2+1) GEPR230255
+7. MATH132901 Xác suất - Thống kê ứng dụng 3 MATH132501
+Tổng 20
+Học kỳ 7:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. Thực tập tốt nghiệp 2
+2. PRPM310757 ĐA Kinh tế & Tổ chức sản xuất in 1 PRMA330657
+3. PPQM310955 ĐA Quản lý chất lượng sản phẩm in 1 PRQM330855
+Tổng 4
+Học kỳ 8:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. THES471955 Khóa luận tốt nghiệp 7
+2.	ENGR330356			Anh văn chuyên ngành in	3	GEPR230255
+3.		OCHE226903		Hóa hữu cơ	2	GCHE130603
+4.	POPR330457			Công nghệ gia công sau in	3	GEPR230255
+5.	PRGD310556			Đồ án Nghệ thuật trình bày ấn phẩm	1	GRDE330456
+6.	PRPA311256			TT Kiểm tra và xử lý file	1	GEPR230255
+7.	PRPM311456			TT Chế tạo khuôn In	1	GEPR230255
+8.	PRTE330555			Công nghệ in	3	GEPR230255
+Tổng					17	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.		Tự chọn chuyên ngành (Lý thuyết) 1	3	
+2.		Tự chọn chuyên ngành (Lý thuyết) 2	3	
+3.	PRPR310856	ĐA chế bản	1	DIIM330656
+4.	PRJP310655	ĐA Công nghệ in	1	PRTE330555
+5.	PRPO310457	ĐA Công nghệ gia công sau in	1	POPR330457
+6.	MEPR230455	Cơ điện tử trong ngành in	3	PRTE330555
+7.		Tự chọn KHXHNV 2	2	
+8.	PROP321055	TT In offset	2	PRTE330555
+9.	PRPP320957	TT Thành phẩm	2	POPR330457
+10.		Liên kết doanh nghiệp	2	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	PRQM330855	Quản lý chất lượng sản phẩm in	3	PRTE330555
+2.	SEMM330755	An toàn lao động và QL bảo trì thiết bị	3	
+3.	PRMA330657	Kinh tế & Tổ chức sản xuất in	3(2+1)	GEPR230255
+4.		Tự chọn hướng TTCN 1	3	
+5.		Tự chọn hướng TTCN 2	2	
+6.	MPRE130156	Ứng dụng Matlab trong Công nghệ in	3(2+1)	GEPR230255
+7.	MATH132901	Xác suất - Thống kê ứng dụng	3	MATH132501
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.		Thực tập tốt nghiệp	2	
+2.	PRPM310757	ĐA Kinh tế & Tổ chức sản xuất in	1	PRMA330657
+3.	PPQM310955	ĐA Quản lý chất lượng sản phẩm in	1	PRQM330855
+Tổng			4	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	THES471955	Khóa luận tốt nghiệp	7	
+Tổng 7
+9. Mô tả vắn tắt nội dung và khối lượng các học phần
+9.1. Toán 1 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này cung cấp cho người học các kiến thức cơ bản về giới hạn, tính liên tục và phép tính
+vi tích phân của hàm một biến.
+9.2. Hóa học cho kỹ thuật 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này trang bị cho sinh viên kiến thức cơ bản về hóa học nhằm đặt nền tảng cho sinh viên
+theo học các hướng sâu hơn trong các những lĩnh vực khoa học và kỹ thuật.
+Học phần này giúp sinh viên hiểu được bản chất phân tử, phát triển khả năng giải quyết vấn đề
+định lượng cơ bản liên quan đến nhiệt động lực học, động học phản ứng, cân bằng hóa học, tính chất
+dung dịch và pin điện hóa.
+Đây chính là nền tảng để sinh viên tiếp thu các kiến thức cơ sở ngành và chuyên ngành liên quan
+và cung cấp kiến thức cơ bản về khoa học tự nhiên nhằm đáp ứng cho khả năng học tập ở trình độ cao
+hơn hoặc đại học văn bằng hai.
+9.3. Pháp luật đại cương 2 tín chỉ
+- Phân bố thời gian học tập: 2(2/0/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần trang bị cho sinh viên tất cả các ngành những kiến thức cơ bản về những kiến thức lý
+luận cơ bản nhất về Nhà nước và pháp luật nói chung, nhà nước và pháp luật xã hội chủ nghĩa nói
+riêng. Từ đó giúp cho sinh viên có nhận thức, quan điểm đúng đắn về đường lối, chính sách của Đảng
+và pháp luật của Nhà nước. Đồng thời trang bị cho sinh viên những kiến thức cơ bản về hệ thống pháp
+luật Việt Nam và một số ngành luật cụ thể, giúp cho sinh viên hiểu biết hơn về pháp luật để vận dụng
+vào thực tiễn cuộc sống.
+9.4. Những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin 5 tín chỉ
+Tổng	7	
+- Phân bố thời gian học tập: 5(5/0/10)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Ngoài chương mở đầu nhằm giới thiệu khái lược về CN Mác – Lênin và một số vấn đề chung của
+học phần. Căn cứ vào mục tiêu học phần, nội dung chương trình học phần được cấu trúc thành ba
+phần, 9 chương.
+Phần thứ nhất có 3 chương bao quát những nội dung cơ bản về thế giới quan và phương pháp luận
+triết học của CN Mác – Lênin.
+Phần thứ hai có 3 chương trình bày 3 nội dung trọng tâm là học thuyết kinh tế của CN Mác –
+Lênin về phương thức sản xuất tư bản chủ nghĩa.
+Phần thứ 3 có 3 chương, trong đó có 2 chương khái những nội dung cơ bản thuộc lý luận của CN
+Mác – Lênin về chủ nghĩa xã hội và 1 chương khái quát chủ nghĩa xã hội hiện thực và triển vọng.
+9.5. Tư tưởng Hồ Chí Minh 2 tín chỉ
+- Phân bố thời gian học tập: 2(2/0/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Những nguyên lý cơ bản của Chủ nghĩa Mác – Lênin
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Ngoài chương mở đầu, nội dung học phần gồm 7 chương:
+Chương I, trình bày về cơ sở, quá trình hình thành và phát triển Tư tưởng Hồ Chí Minh;
+Từ Chương II đến Chương VII trình bày những nội dung cơ bản của Tư tưởng Hồ Chí Minh theo
+mục tiêu của học phần.
+9.6. Đường lối cách mạng của Đảng Cộng sản Việt Nam 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết Những nguyên lý cơ bản của chủ nghĩa Mác-Lênin và môn Tư tưởng
+Hồ Chí Minh.
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Nội dung chủ yếu của học phần là cung cấp, trang bị cho sinh viên những hiểu biết cơ bản có hệ
+thống về đường lối của Đảng, đặc biệt là đường lối trong thời kỳ đổi mới, trên một số lĩnh vực cơ bản
+của đời sống xã hội. Ngoài chương mở đầu, nội dung học phần gồm 08 chương:
+Chương I: Sự ra đời của Đảng Cộng sản Việt Nam và Cương lĩnh chính trị đầu tiên của Đảng;
+Chương II: Đường lối đấu tranh giành chính quyền (1930-1945); Chương III: Đường lối kháng chiến
+chống thực dân Pháp và đế quốc Mỹ xâm lược (1945-1975); Chương IV: Đường lối công nghiệp hoá;
+Chương V: Đường lối xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa; Chương VI:
+Đường lối xây dựng hệ thống chính trị; Chương VII: Đường lối xây dựng văn hoá và giải quyết các
+vấn đề xã hội; Chương VIII: Đường lối đối ngoại.
+9.7. Giáo dục thể chất 1 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Sinh viên phải có sức khỏe bình thường, những trường hợp đặc biệt
+phải có hồ sơ bệnh án và giấy xác nhận của y tế.
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần trang bị cho sinh viên kiến thức khái quát về lịch sử phát triển thể thao và phong trào
+Olimpic, lợi ích của việc tập luyện TDTT và các nguyên tắc, phương pháp tập luyện TDTT. Kỹ thuật
+nhảy xa kiểu ưỡn thân và chạy cự ly trung bình. Các bài test kiểm tra tiêu chuẩn rèn luyện thân thể theo
+quy định của Bộ Giáo dục đào tạo.
+9.8. Giáo dục thể chất 2 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Sinh viên có sức khỏe bình thường, những trường hợp đặc biệt phải có
+hồ sơ bệnh án và giấy xác nhận của y tế
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Khái quát lịch sử phát triển, đặc điểm, tác dụng, luật thi đấu môn bóng chuyền. Kỹ thuật di
+chuyển, đệm bóng (chuyền bóng thấp tay), chuyền bóng cao tay trước mặt, phát bóng cao tay và thấp
+tay, kỹ thuật đập bóng, chắn bóng, đội hình thi đấu.
+9.9. Giáo dục thể chất 3 3 tín chỉ
+- Phân bố thời gian học tập: 3(1/2/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Sinh viên có sức khỏe bình thường, những trường hợp đặc biệt
+phải có hồ sơ bệnh án và giấy xác nhận của y tế.
+- Học phần song hành: Không
+- Điều kiện tiên quyết:
+- Tóm tắt nội dung học phần: Sinh viên được quyền chọn 1 trong 4 học phần sau:
++ Bóng đá:
+Giúp sinh viên nắm được những điều luật cơ bản, phương pháp tổ chức thi đấu, trọng tài và các
+nguyên lý kỹ thuật cơ bản của môn bóng đá
+Có khả năng thực hiện những kỹ thuật cơ bản và kỹ năng vận động của môn bóng đá. Có thể tự
+rèn luyện để tham gia thi đấu giải thể thao cấp cơ sở.
++ Cầu lông:
+Khái quát lịch sử phát triển môn cầu lông, đặc điểm, tác dụng của tập luyện cầu lông đối với người
+tập, luật thi đấu môn cầu lông, công tác tổ chức thi thi đấu, trọng tài.
+Các nguyên lý kỹ thuật cơ bản: Kỹ thuật di chuyển, cách cầm vợt, cầm cầu, kỹ thuật phát cầu,
+đánh cầu bổng cao tay, kỹ thuật đập cầu, bỏ nhỏ, chiến thuật. luật thi đấu.
++ Karatedo:
+Học phần trang bị cho sinh viên những kiến thức cơ bản về môn võ Karatedo. Ý nghĩa, tác dụng,
+lịch sử phát triển, những nghi thức, thuật ngữ kỹ thuật, hệ thống kỹ thuật, quyền thuật, đối luyện, các
+kỹ thuật tự vệ và luật thi đấu môn Karatedo.
++ Taekwondo:
+Học phần trang bị cho sinh viên những kiến thức cơ bản về môn võ Taekwondo. Ý nghĩa, tác
+dụng, lịch sử phát triển, những nghi thức, thuật ngữ kỹ thuật, hệ thống kỹ thuật, quyền thuật, đối luyện,
+các kỹ thuật tự vệ và luật thi đấu môn Taekwondo.
+9.10. Nhập môn ngành Công nghệ Kỹ thuật in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp cho người học hiểu biết cơ bản về: ngành công nghiệp in ; vai trò vị trí của
+ngành in trong đời sống xã hội, thị trường lao động ngành in ; các cơ hội nghề nghiệp của các kỹ sư in.
+Học phần cung cấp cho người học các hiểu biết cơ bản về chương trình đào tạo kỹ sư công nghệ in, các
+kỹ năng cần thiết cho quá trình học tập, như chuẩn đầu ra và chương trình đào tạo công nghệ in, các
+phân ngành đào tạo, hướng phát triển sau khi ra trường ; các phương pháp tìm kiếm, phân loại và xử lý
+thông tin chuyên môn ; cách thức nghiên cứu khoa học liên quan đến ngành in ; cách thức xác lập và
+thực hiện các thực nghiệm chuyên ngành ; cách thức làm các báo cáo khoa học (viết và trình bày) liên
+quan đến ngành nghề ; quản lý hiệu quả thời gian và nguồn lực bản thân. Trong quá trình học tập sinh
+viên được hướng dẫn tham quan các mô hình doanh nghiệp in, thực hiện 1 bài tập về thiết kế và sản
+xuất 1 sản phẩm in đơn giản.
+9.11. Đại cương về sản xuất in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp các kiến thức cơ bản về ngành công nghiệp in như: lịch sử phát triển ngành in
+và vai trò ngành in trong đời sống xã hội ; các sản phẩm in, phân loại các sản phẩm in ; cơ sở lý thuyết
+và nguyên lý của quá trình tách màu và tram hóa hình ảnh ứng dụng trong phục chế hình ảnh truyền
+thống và kỹ thuật số; các nguyên lý, quy trình,các đặc điểm công nghệ chính và thiết bị của các công
+nghệ chế bản, công nghệ in từ truyền thống đến hiện đại cũng như các đặc điểm công nghệ, thiết bị
+thành phẩm cho các dạng sản phẩm khác nhau.
+9.12. Vẽ kỹ thuật 1 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên các kiến thức và kỹ năng cơ bản về:
+- Các quy tắc, quy định của tiêu chuẩn nhà nước về bản vẽ kỹ thuật.
+- Phương pháp các hình chiếu vuông góc, các loại hình biểu diễn sử dụng trong vẽ kỹ thuật.
+- Kỹ năng đọc, hiểu và biết cách thiết lập các bản vẽ kỹ thuật sử dụng trong lĩnh vực kỹ thuật.
+- Sử dụng CAD trong vẽ kỹ thuật.
+- Rèn luyện tác phong làm việc khoa học, tính cẩn thận, ý thức tổ chức kỷ luật của người làm công
+tác kỹ thuật.
+9.13. Máy tính & Mạng máy tính 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp kiến thức về máy tính và mạng máy tính, bao gồm: các đặc điểm cơ bản của
+các thành phần phần cứng máy tính; đặc điểm cơ bản của các hệ điều hành máy tính; kiến thức về
+Internet, Email; khai thác Internet và các dịch vụ trên nền điện toán đám mây; kiến thức căn bản về
+mạng, thiết bị mạng LAN, giao thức mạng.
+9.14. Toán 2 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần Toán 2 cung cấp các kiến thức cơ bản về phép tính tích phân của hàm một biến, chuỗi
+số, chuỗi lũy thừa, véctơ trong mặt phẳng và trong không gian.
+9.15. Vật lý 1 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Toán 1
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý bao gồm các phần cơ
+học và nhiệt học làm cơ sở cho việc tiếp cận các học phần chuyên ngành trình độ đại học các
+ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị các kiến thức về vật lý để khảo
+sát sự chuyển động, năng lượng và các hiện tượng vật lý liên quan đến các đối tượng trong tự
+nhiên có kích thước từ phân tử đến cỡ hành tinh. Sau khi học xong học phần sinh viên sẽ có khả
+năng ứng dụng những kiến thức đã học trong nghiên cứu khoa học cũng như trong phát triển kỹ
+thuật và công nghệ hiện đại.
+Nội dung của học phần gồm các chương từ 1 đến 22 trong sách Physics for Scientists and
+Engineers with Modern Physics, 9th Edition của các tác giả R.A. Serway và J.W. Jewett.
+Các nội dung của học phần này nhằm giúp sinh viên làm quen với phương pháp khoa học, các
+định luật cơ bản của vật lý, phát triển hiểu biết về khoa học vật lý nói chung và kỹ năng lập luận
+cũng như các chiến lược để chuẩn bị cho việc học tập các lớp khoa học chuyên ngành trong
+chương trình dành cho kỹ sư. Để đạt mục tiêu này, học phần sẽ chú trọng vào việc kết hợp cung
+cấp những hiểu biết về các khái niệm với các kỹ năng giải các bài tập dạng chuẩn (làm ở nhà) ở
+cuối mỗi chương.
+Bên cạnh đó, học phần sẽ giúp sinh viên hiểu cách xây dựng các mô hình toán học dựa trên các kết
+quả thực nghiệm, biết cách ghi nhận, trình bày, phân tích số liệu và phát triển một mô hình dựa trên các
+dữ liệu và có thể sử dụng mô hình này để phán đoán kết quả của các thí nghiệm khác. Đồng thời, sinh
+viên sẽ biết được giới hạn của mô hình và có thể sử dụng chúng trong việc phán đoán.
+9.16. Thí nghiệm vật lý 1 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Vậy lý 1
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất
+điểm động lực học vật rắn và nhiệt học. Đây là học phần bổ sung cho sinh viên thuộc khối ngành công
+nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên,
+kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai
+kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu.
+9.17. Vật liệu in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp những kiến thức căn bản về các loại vật liệu chính sử dụng trong ngành in
+(giấy, mực, keo, màng, carton gợn sóng, nhũ nóng và nhũ lạnh…). Các kiến thức cung cấp bao gồm:
+thành phần cấu tạo, tính chất cơ lý, tính chất công nghệ, phân loại… Học phần cũng cung cấp thêm các
+kiến thức giúp sinh viên lựa chọn vật liệu phù hợp với điều kiện sản xuất và kinh tế.
+9.18. Thực hành - Thí nghiệm vật liệu in 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Môn học cung cấp cho SV những kỹ năng : xác định các tính chất cơ học (độ dày, định lượng,
+hướng sớ giấy), xác định tính chất quang học (độ trắng, màu, hướng ngã màu) của giấy, các tính chất
+này là cơ sở giúp sinh viên lựa chọn loại giấy in phù hợp với các quá trình in, thành phẩm; xác định
+được các đặc tính của mực in như (độ nhớt, độ mịn của mực, thông số màu của mực); sử dụng thành
+thạo các thiết bị đo trong phòng thí nghiệm, để đo lường và đánh giá các tính chất của vật liệu in làm
+cơ sở cho việc đánh giá chất lượng sản phẩm in, canh chỉnh thông số thiết bị tương ứng với tính chất
+của vật liệu trong quá trình chế bản, in, thành phẩm.
+9.19. Lý thuyết màu và phục chế trong ngành in 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp cho sinh viên kiến thức cơ bản về màu sắc và ứng dụng của màu sắc trong
+công nghệ in ; kiến thức về các phương pháp phục chế trong ngành in từ bài mẫu cho đến sản phẩm in,
+chú trọng đến phục chế theo phương pháp kỹ thuật số.
+9.20. Thực tập xử lý ảnh 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện cho người học những kỹ năng cơ bản về kỹ thuật xử lý hình ảnh như: thực
+hiện được các lệnh cơ bản trong phần mềm xử lý ảnh; chọn hình ảnh và vùng hình ảnh để xử lý; cắt
+ghép hình ảnh; chỉnh sửa hình ảnh, chỉnh sửa màu sắc hình ảnh, thay đổi hệ màu của hình ảnh cho phù
+hợp với công nghệ in; xác lập kích thước; độ phân giải hình ảnh phù hợp cho từng công nghệ in; kiểm
+tra tổng quát chất lượng tài liệu trước khi in; in tài liệu.
+9.21. Thực tập đồ hoạ 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện cho người học những kỹ năng cơ bản về kỹ thuật đồ họa: thực hiện được các
+lệnh cơ bản trong phần mềm đồ họa; vẽ được các hình cơ bản; xử lý chữ trong phần mềm đồ họa; chọn
+được các đối tượng để thực hiện các thao tác xử lý; kết hợp các hình cơ bản thành các hình phức tạp;
+nhập hình ảnh và thu phóng hình ảnh; kỹ năng cơ bản khi pha màu và tô màu trong các phần mềm đồ
+họa; kiểm tra tổng quát chất lượng tài liệu trước khi in; in tài liệu.
+9.22. Hóa lý In 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Hóa đạ cương, Hóa hữu cơ, Vật lý đại cương
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần Hóa lý In trang bị cho sinh viên những kiến thức cơ bản về: Hệ keo và vai trò của hệ
+keo trong kỹ thuật nói chung và trong ngành in nói riêng (Khái niệm cơ bản về hệ keo: hệ phân tán, bề
+mặt dị thể, bề mặt riêng và độ phân tán; Các tính chất của dung dịch keo: tính chất quang, tính động
+học, tính chất bề mặt và tính chất điện của hệ keo; Các phương pháp điều chế keo và làm bền hệ keo;
+Các hệ bán keo và phân tán thô). Hóa lý màu sắc: các khái niệm cơ bản về ánh sáng, các đại lượng đo
+ánh sáng và đo bức xạ, các nguyên nhân gây ra màu sắc, sự tương tác giữa ánh sáng với vật chất và các
+đặc tính của các chất tạo màu dye và pigment. Đại cương về polymer và vai trò của polymer với ngành
+in, bao bì (Khái niệm về polymer, các loại nhựa nhiệt dẻo, nhựa nhiệt rắn, các chất đàn hồi, một số loại
+nhựa nhiệt dẻo). Các tính chất của polymer (tính chất cơ học – liên quan đế ứng suất, độ biến dạng của
+polymer; tính chất về nhiệt – liên quan đến sự kết tinh, nóng chảy và chuyển hóa thủy tinh của
+polymer, Các phương pháp tổng hợp và gia công polymer ứng dụng trong sản xuất mực in, vecni, keo
+dán và bao bì mềm).
+9.23. Vật lý 2 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Vậy lý 1, TN Vật lý 1, Toán 1, 2
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên những nội dung cơ bản của vật lý bao gồm các phần quang
+học, lý thuyết tương đối hẹp của Einstein, cơ học lượng tử cơ sở cho việc tiếp cận với các học phần
+chuyên ngành trình độ đại học các ngành khoa học, kỹ thuật và công nghệ. Sinh viên sẽ được trang bị
+những kiến thức về các hiện tượng tự nhiên trong thế giới vi mô ở cấp độ tương đối tính và ứng dụng
+những kiến thức đó trong nghiên cứu khoa học, trong phát triển kỹ thuật và công nghệ hiện đại.
+Thông qua học phần này, người học sẽ nhận ra rằng vật chất có lưỡng tính sóng - hạt; vì vậy để
+nghiên cứu, giải thích các hiện tượng, các quá trình, quy luật vận động của tự nhiên trong thế giới vi
+mô phải dựa trên cơ học tương đối tính và cơ học lượng tử. Các lý thuyết này cung cấp kiến thức và kỹ
+năng nền tảng để hiểu được các hiện tượng, quy luật của các quá trình xảy ra bên trong nguyên tử, do
+đó là cơ sở cho sự phát triển của khoa học và ứng dụng trong kỹ thuật, công nghệ hiện đại như kỹ thuật
+điện-điện tử, công nghệ máy tính, công nghệ nano, điều khiển tự động, công nghệ bức xạ, năng lượng,
+y học...
+9.24. Nghệ thuật trình bày ấn phẩm 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp những kiến thức căn bản về nghệ thuật trình bày ấn phẩm: màu mỹ thuật, pha
+màu mỹ thuật, cảm nhận cường độ màu, sắc độ của màu, nghệ thuật chữ, bố cục, nguyên tắc thị giác.
+Cách thức xây dựng những mô-tip trang trí dựa trên các đối tượng thật. Phương pháp trình bày ấn
+phẩm bằng cách vẽ tay, phác hình bằng nét và các phần mềm máy tính nhằm làm tăng tính thẩm mỹ và
+giá trị của ấn phẩm.
+9.25. Tự chọn khoa học xã hội nhân văn 2 tín chỉ
+- Phân bố thời gian học tập: 2(2/0/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần: Sinh viên lựa chọn 3 trong 12 học phần sau:
++ Kinh tế học đại cương:
+Môn Kinh tế học đại cương cung cấp cho sinh viên không chuyên ngành kinh tế những kiến
+thức cơ bản về kinh tế, những hiện tượng thực tế đang diễn ra trong nền kinh tế dưới góc độ vi mô
+cũng như vĩ mô.
++ Nhập môn quản trị chất lượng:
+Học phần này trang bị cho người học những kiến thức cơ bản về chất lượng và quản trị chất
+lượng. Học phần giới thiệu một số chỉ tiêu và phương pháp đánh giá chất lượng trong tổ chức,
+đồng thời hướng dẫn sinh viên sử dụng các phương pháp, kỹ thuật và công cụ để quản lý chất
+lượng. Học phần cung cấp những kiến thức về cách xây dựng và áp dụng hệ thống quản lý chất
+lượng theo tiêu chuẩn trong các doanh nghiệp.
++ Nhập môn quản trị học:
+Học phần này trang bị cho người học những kiến thức cơ bản về quản trị, bao gồm những yếu
+tố môi trường tổng quát nhất tác động đến doanh nghiệp và những chức năng cơ bản của quản trị
+trong tổ chức kinh doanh, bao gồm: hoạch định, tổ chức, lãnh đạo, và kiểm tra.
+Bên cạnh đó, các hoạt động trên lớp được thiết kế để nâng cao kỹ năng tìm kiếm thông tin, nói
+chuyện trước đám đông, tư duy phản biện của sinh viên.
++ Nhập môn Logic học:
+Học phần này trang bị cho người học kiến thức về quá trình nhận thức của con người nhận thức và
+bản chất của hoạt động tư duy. Người học được cung cấp kiến thức về các quy luật cơ bản của tư duy
+và các hình thức của tư duy qua đó rèn luyện tư duy logic, có thể sử dụng chính xác từ, câu trong diễn
+đạt tư tưởng, có kỹ năng lập luận, diễn giải cũng như chứng minh, bác bỏ vấn đề có sức thuyết phục,
+suy nghĩ chín chắn, nhất quán, khắc phục những sai phạm trong tư duy, trong giao tiếp.
++ Cơ sở văn hóa Việt Nam:
+Học phần này được thiết kế cho sinh viên năm thứ hai ở bậc đại học nhằm cung cấp cho sinh viên
+những kiến thức cơ bản về văn hóa nói chung, văn hóa Việt Nam nói riêng; giúp sinh viên nắm bắt
+những đặc trưng cơ bản của văn hóa Việt Nam từ truyền thống đến hiện đại; biết tự định hướng trong
+thế giới thông tin đa dạng, đa chiều hiện nay, tiếp thu có chọn lọc những tinh hoa văn hóa của nhân loại
+trên nền tảng bảo tồn và phát triển những giá trị truyền thống tốt đẹp của dân tộc và con người Việt
+Nam một cách chủ động, tích cực. Bên cạnh đó, học phần này còn giúp hỗ trợ cho sinh viên hình thành
+và rèn luyện một số kĩ năng học tập tích cực như: kĩ năng tìm kiếm tài liệu tham khảo, kĩ năng thuyết
+trình trước đám đông, kĩ năng làm việc nhóm.
++ Nhập môn xã hội học:
+Học phần trang bị cho sinh viên không chuyên ngành xã hội học, trường Đại học sư phạm kỹ thuật
+Tp. Hồ Chí Minh những kiến thức cơ bản về hệ thống lý luận Xã hội học, lịch sử hình thành và phát
+triển của ngành khoa học xã hội trong tiến trình phát triển của nhận thức, tiến bộ xã hội và khoa học kỹ
+thuật; các khái niệm, phạm trù và các lĩnh vực nghiên cứu chính của khoa học xã hội học trong đời
+sống con người thông qua các phương pháp và kỹ thuật nghiên cứu, học tập học phần xã hội học.
++ Tâm lý học kỹ sư:
+Để tạo nên sự tương tác giữa công nghệ và con người, sinh viên các ngành kỹ thuật công nghệ cần
+hiểu được đặc điểm tâm lý cơ bản của con người. Học phần Tâm lý học kỹ sư sẽ cung cấp cho sinh
+viên các ngành kỹ thuật công nghệ các kiến thức về tâm lý con người và ứng dụng các kiến thức này
+vào thiết kế hệ thống kỹ thuật phù hợp với con người.
++ Tư duy hệ thống:
+Học phần Tư duy hệ thống trang bị cho sinh viên những kiến thức cơ bản về hệ thống, phương
+pháp luận tư duy hệ thống, các phương pháp tư duy sáng tạo; hình thành ở sinh viên khả năng lập luận
+và giải quyết vấn đề một cách hệ thống, logic và sáng tạo.
++ Kỹ năng học tập đại học:
+Học phần “Kỹ năng học tập đại học” trang bị cho người học những kiến thức về phương pháp học
+tập ở đại học để sinh viên áp dụng rèn luyện hình thành các kỹ năng học tập ở bậc đại học, nhằm vận
+dụng được các kỹ năng này trong quá trình học tập ở trường đại học và sau này nhằm nâng cao hiệu
+quả học tập và nghiên cứu của bản thân. Qua học phần này hình thành ở người học khả năng tổ chức
+và thực hiện học tập một cách hệ thống, logic và khoa học.
++ Kỹ năng xây dựng kế hoạch:
+Học phần này trang bị cho người học những kiến thức cơ bản về phương pháp xây dựng kế hoạch.
+Hướng dẫn cho người học các kỹ năng tư duy và tìm kiếm giải pháp phù hợp với điều kiện và hoàn
+cảnh bản thân để từ đó người học hình thành cho mình kỹ năng xây dựng kế hoạch học tập, kế hoạch
+cá nhân ngắn hạn và dài hạn, kế hoạch cho công việc phù hợp và hiệu quả. Ngoài ra còn hướng dẫn
+người học cách thức và kỹ năng quản lí thời gian và sắp xếp công việc hiệu quả.
++ Kỹ năng làm việc trong môi trường kỹ thuật:
+Học phần Kỹ năng làm việc trong môi trường kỹ thuật thuộc nhóm học phần tự chọn của khối
+ngành kỹ thuật công nghệ. Học phần này nhằm hình thành cho sinh viên một số kỹ năng làm việc cơ
+bản trong môi trường kỹ thuật, đặc biệt là các kỹ năng làm việc trong môi trường đa văn hóa, hiện đại,
+có sự thay đổi nhanh chóng về công nghệ.
++ Phương pháp nghiên cứu khoa học:
+Trong quá trình đào tạo ở trường Đại học, sinh viên không chỉ lĩnh hội tri thức từ phía giáo viên,
+mà học còn phải tự học và tự nghiên cứu. Từ tự giác, tích cực và sáng tạo, sinh viên sẽ tìm ra cái mới
+nhằm giải thích sâu sắc hay có lời giải phù hợp đó chính là sinh viên đã nghiên cứu khoa học. Học
+phần Phương pháp nghiên cứu khoa học bao gồm những nội dung về các khái niệm, qui trình và cấu
+trúc... Để từ đó sinh viên định hướng được việc lựa chọn đề tài nghiên cứu, soạn được đề cương và áp
+dụng được các phương pháp nghiên cứu trong khi thu thập và xử lý thông tin hợp lý trong khi tiến
+hành công trình nghiên cứu khoa học. Sinh viên sẽ chủ động trong việc đang ký thực hiện đề tài nghiên
+cứu cấp trường cũng như tiến hành luận văn tốt nghiệp hay đồ án tốt nghiệp một cách khoa học và
+thành công.
+9.26. Công nghệ chế tạo khuôn in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp những kiến thức căn bản về công nghệ chế tạo khuôn in của các phương pháp
+in khác nhau (offset, typô, ống đồng, flexo, in lưới). Các kiến thức cung cấp bao gồm (cho cả công
+nghệ Analog và Digital): cấu trúc vật liệu làm khuôn; quy trình công nghệ làm khuôn in; các thiết bị
+chính dùng trong quá trình làm khuôn in; phương pháp kiểm tra chất lượng khuôn in… Ngoài ra, học
+phần còn cung cấp phần kiến thức mang tính chuyên sâu giúp sinh viên biết cách làm khuôn in đúng và
+phù hợp điều kiện in (cách in, vật liệu in) và cách làm thành phẩm.
+9.27. Thực tập dàn trang 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện cho người học những kỹ năng cơ bản về kỹ thuật dàn trang sách, báo, tạp chí:
+kỹ năng nhập dữ liệu, kỹ năng làm việc với chữ, đoạn văn bản, khoảng cách dòng, khoảng cách giữa
+các từ, các ký tự…; kỹ năng nhập hình ảnh, thu phóng hình ảnh. Kỹ năng cơ bản khi pha màu và tô
+màu trong các phần mềm dàn trang; kỹ năng cơ bản khi làm việc với tài liệu có nhiều trang: trang chủ,
+đánh số trang tự động; kiểm tra tổng quát chất lượng tài liệu trước khi in, in tài liệu.
+9.28. Thực tập bình trang điện tử 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần nhằm rèn luyện các kỹ năng cơ bản về bình trang điện tử phục vụ cho in ấn như: tạo các
+loại Template (Plate template, Scheme template, Job template…); qui trình bình sách, báo, tạp chí; qui
+trình bình bao bì, nhãn hàng; thiết lập các giá trị bù trừ trong bình trang: bù trừ xén, vào bìa, gấp…
+9.29. Thực tập thiết kế cấu trúc bao bì và định hình hộp 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần giúp người học hình thành các kỹ năng cơ bản về thiết kế cấu trúc cho hộp gấp và thành
+phẩm định hình hộp.
+Về mảng thiết kế cấu trúc cho hộp gấp học phần giúp người học: xác định các yêu cầu về câu trúc
+hộp cho 1 sản phẩm; xác lập các thông số chính về cấu trúc hộp ( kiểu dáng; kích thước; và vật liệu)
+phù hợp với yêu cầu của sản phẩm ; thiết lập công thức cho sơ đồ bế hộp cho 1 số hộp cơ bản ; dựng
+các sơ đồ bế hộp từ các thư viện mẫu hoặc tự thiết lập sơ đồ bế hộp sử dụng phần mềm chuyên dụng;
+thiết lập và quản lý các bộ thư viện mẫu cá nhân; thiết lập sơ đồ tờ in hộp; xuất dữ liệu về sơ đồ bế hộp.
+Mảng khác học phần cung cấp cho người học những kỹ năng: thực hiện các công việc định hình
+các sản phẩm hộp (cắt; cấn bế hộp; gấp dán hộp; gia công cửa sổ, quai xách…) bao gồm các công việc
+thủ công cũng như vận hành, canh chỉnh thiết bị.
+9.30. Hóa hữu cơ 2 tín chỉ
+- Phân bố thời gian học tập: 2(2/0/4)
+- Học phần trước: Hóa học cho kỹ thuật
+- Học phần tiên quyết:
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần Hóa hữu cơ là học phần thuộc nhóm cơ sở ngành nhằm cung cấp cho sinh viên những
+kiến thức cơ sở về danh pháp, đồng phân, cấu trúc, hóa lập thể, tính chất và tổng hợp các nhóm hợp
+chất hữu cơ, bao gồm Hydrocarbon, Alcohol, Aldehyde, Ketone, Carboxylic acid và các dẫn xuất của
+chúng.
+9.31. Công nghệ xử lý ảnh kỹ thuật số 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp kiến thức về các thiết bị đọc và ghi dữ liệu kỹ thuật số: cấu tạo và nguyên lý
+hoạt động của máy quét, máy chụp ảnh kỹ thuật số, máy ghi phim, ghi bản; cách thức thiết lập thông số
+cho máy quét, máy ảnh kỹ thuật số, nhận dạng ký tự… ;thiết lập thông số cho quá trình xử lý dữ liệu:
+định dạng dữ liệu, xử lý dữ liệu, quá trình tách màu, trame hoá…; kiến thức về Postscript, lỗi
+Postscript. Kiến thức về RIP, PDF và quản trị màu; các kiến thức cơ bản về phòng tránh lỗi trong chế
+bản.
+9.32. Anh văn chuyên ngành In 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần nhằm củng cố kiến thức và rèn luyện kỹ năng anh văn chuyên ngành bằng cách thông
+qua các bài đọc chọn lọc có nội dung liên quan đến các công đoạn sản xuất in, sinh viên được hướng
+dẫn cách thức xử lý một đoạn văn như: đọc lướt để nắm ý chung của đoạn văn. Phân tích cấu trúc các
+câu để hiểu rõ, hoàn toàn chính xác nội dung các câu chủ đề. Đoán ý nghĩa các từ không biết nhờ cấu
+tạo từ và ngữ cảnh. Tra từ điển các từ chính yếu trong câu. Tóm tắt ý chính đoạn văn. Hiểu chính xác ý
+nghĩa và phát âm chuẩn một số từ chuyên môn thường gặp trong ngành in.
+9.33. Công nghệ in 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này giúp sinh viên khái quát hóa các vấn đề : phân loại các kỹ thuật in theo quan điểm
+hiện đại; khái quát đặc điểm, nguyên lý và ứng dụng của một số các kỹ thuật in truyền thống và các kỹ
+thuật in không dùng bản in; cấu tạo và nguyên lý hoạt động của các thiết bị của kỹ thuật in truyền
+thống và hiện đại; trang bị kiến thức về qui trình in, chuẩn bị vật tư cho quá trình sản xuất…; cấu hình
+tiêu chuẩn của hệ thống in truyền thống, in kỹ thuật số và sự kết hợp của chúng; đặc tính và ứng dụng
+của công nghệ in trong sản xuất thực tế; các kỹ thuật in chuyên dụng, những sản phẩm in đặc biệt.
+9.34. Công nghệ gia công sau in 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần trang bị cho SV kiến thức về quá trình gia công sau in bao gồm các công đoạn gia tăng
+giá trị tờ in lẫn các công đoạn định hình sản phẩm in, cụ thể các kiến thức về: các dạng sản phẩm in;
+quy trình gia công sau in cho các dạng sản phẩm in (báo, tạp chí, sách bìa mềm, bìa cứng, bao bì các
+loại, nhãn hàng, văn hóa phẩm); công nghệ, thiết bị, các vật tư sử dụng và các tiêu chí, tiêu chuẩn đánh
+giá chất lượng các công đoạn trong quá trình gia công sau in (cắt, gấp, bắt cuốn, đóng kim, khâu chỉ,
+vào bìa keo, đóng sách bìa cứng, tráng phủ, dán ghép màng, ép nhũ, cấn bế hộp, dán ghép hộp, định
+hình túi bao bì mềm ); caùc moái lieân heä giöõa khaâu thaønh phaåm vôùiø caùc khaâu cheá baûn,
+in vaø öùng duïng trong vieäc chuaån bò toát ñaàu vaøo cho khaâu sau in (cuï theå treân maquette
+bình baûn, tôø in).
+9.35. Đồ án nghệ thuật trình bày ấn phẩm 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Nghệ thuật trình bày ấn phẩm
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Người học ứng dụng các kiến thức đã học ở các học phần trước như: phối màu, bố cục, trang trí,
+cách điệu, các nguyên lý thiết kế, kỹ năng sử dụng các phần mềm thiết kế.... để tạo ra sản phẩm cụ thể
+nhằm nâng cao kỹ năng thiết kế ấn phẩm. Các sản phẩm thiết kế bao gồm: logo, danh thiếp, giấy tiêu
+đề, bao thư, tờ gấp, poster quảng cáo sản phẩm, poster quảng cáo thương hiệu, bao bì sản phẩm, túi
+xách...
+9.36. Thực tập Kiểm tra và xử lý file 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần nhằm rèn luyện các kỹ năng cơ bản về kiểm tra và xử lý dữ liệu đồ họa để có được dữ
+liệu “sạch” trước khi tiến hành chế tạo khuôn in hoặc in. Các kỹ năng rèn luyện bao gồm: Kiểm tra, xử
+lý được sự phù hợp của nội dung, bố cục so với bài mẫu. Kiểm tra, xử lý được hình ảnh bị lỗi, đáp ứng
+được yêu cầu chế tạo khuôn in hoặc in tương ứng. Kiểm tra, xử lý được Font chữ bị lỗi. Kiểm tra, xử lý
+được màu sắc bị lỗi. Kiểm tra, xử lý được các lỗi về Trapping, Overprint, Hairline…
+9.37. Thực tập chế tạo khuôn in 1 tín chỉ
+- Phân bố thời gian học tập: 1(0/1/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện cho người học những kỹ năng cơ bản về chế tạo khuôn in theo công nghệ
+truyền thống và công nghệ CTP, bao gồm:
+Kiểm tra phim, bản trước khi phơi. Vận hành thiết bị phơi bản. Kiểm tra thời gian chiếu sáng,
+chiếu sáng. Xác lập các thông số khi phơi bản. Kiểm tra dung dịch hiện hình, dung dịch bảo vệ khuôn
+in. Kiểm tra chất lượng khuôn in sau khi hoàn tất.
+Kiểm tra bản trước khi ghi. Vận hành thiết bị ghi bản: máy ghi, máy hiện. Kiểm tra tốc độ và
+cường độ ghi. Xác lập đường dẫn cho file PDF, file mô tả quá trình RIP, file mô tả vật tư, file mô tả
+thiết bi… Thực hiện qui trình ghi bản. Kiểm tra dung dịch hiện hình, dung dịch bảo vệ khuôn in CTP.
+Kỹ năng cơ bản để kiểm tra chất lượng khuôn in CTP sau khi hoàn tất.
+9.38. Kiểm tra và xử lý dữ liệu 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp các kiến thức chuyên sâu về kiểm tra và xử lý dữ liệu phù hợp với từng điều
+kiện in trong từng công nghệ in (Offset, Ống đồng, Flexo, In lưới và in Kỹ thuật số). Các kiến thức
+cung cấp bao gồm: Các điều kiện in theo tiêu chuẩn ISO; Yêu cầu về chuyển đổi dữ liệu; Các quy
+trình chuẩn tạo, kiểm tra và chỉnh sửa file PDF chất lượng cao. Học phần cũng cung cấp thêm các kiến
+thức về các kỹ thuật phụ trợ để xử lý file: Trapping, overprint…
+9.39. Quản trị màu 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần
+Học phần cung cấp cho sinh viên kiến thức về quản trị màu, các thông số liên quan đến quản trị
+màu, cách thức vận hành và tạo hồ sơ màu cho thiết bị nhập hình ảnh, thiết bị xử lý hình ảnh và thiết bị
+xuất hình ảnh; sinh viên có khả năng thiết lập và vận hành lưu đồ quản trị màu.
+9.40. Công nghệ in offset 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này trang bị kiến thức kỹ thuật chuyên môn về công nghệ in offset. Cụ thể: qui trình sản
+xuất in; các đặc thù của in offset; vai trò của in offset trong dây chuyền phục chế và mối liên hệ của kỹ
+thuật in này với các công đoạn trước in và sau in; vật liệu in, xử lý vật liệu trước in , ảnh hưởng vật liệu
+trong quá trình in ; các kỹ thuật canh chỉnh: kỹ thuật canh chỉnh chồng màu, canh chỉnh màu sắc…; kỹ
+thuật vận hành điều khiển các thiết bị trên hệ thống máy in offset tờ rời và in cuộn; quản lý và kiểm tra
+chất lượng In
+9.41. Công nghệ in bao bì 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung câp kiến thức về các công nghệ in bao bì bao gồm hai kỹ thuật phổ biến là in Flexo
+và in lõm. Nội dung gồm có: đặc điểm công nghệ của 2 phương pháp In ; cấu trúc thiết bị ; các thành
+phần hỗ trợ ; quy trình vận hành; đặc điểm và ứng dụng tương ứng với các loại vật liệu và dòng sản
+phẩm ; phương pháp kiểm tra chất lượng bản in; phương pháp kiểm tra chất lượng sản phẩm in; xây
+dựng quy trình sản xuất và kiểm tra chất lượng ; các ứng dụng trong thực tế.
+9.42. Công nghệ thành phẩm sách và Gia tăng giá trị tờ in 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp cho người học các kiến thức chuyên sâu về định hình một số ấn phẩm thông
+dụng như: sách bìa mềm, sách bìa cứng, sổ đóng lò xo, sổ ghi chú, sách bồi, lịch...Bên cạnh đó, học
+phần cũng cung cấp cho người học kiến thức về các hiệu ứng gia tăng giá trị tờ in và các phương pháp
+tạo ra các hiệu ứng, các phương án, phương pháp gia công cho từng hiệu ứng (tráng phủ,dán màng, ép
+nhũ,dập chìm nổi, cán gân..); công nghệ, thiết bị sử dụng, vật tư thích hợp, cách lựa chọn vật tư, xác
+lập thông số thiết bị, tiêu chuẩn kiểm tra chất lượng cho từng phương án gia công; ưu và nhược điểm
+của từng phương án; ảnh hưởng của các công đoạn gia tăng giá trị tờ in đến việc gia công các công
+đoạn sau, biện pháp hạn chế và khắc phục các ảnh hưởng.
+9.43. Thiết kế cấu trúc và thành phẩm bao bì 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Moân hoïc cung caáp nhöõng kieán thöùc veà cấu trúc, thiết kế cấu trúc bao bì và coâng
+ngheä thaønh phaåm các dạng bao bì (bao bì mềm, bao bì hộp gấp, bao bì cacton dợn sóng, các
+dạng túi giấy, nhãn hàng và các dạng bao bì khác).
+Để giúp người học có các kiến thức và kỹ năng thiết kế cấu trúc bao bì học phần giới thiệu
+về: cấu trúc và công năng sử dụng của các dạng bao bì mềm, bao bì hộp gấp, bao bì cacton dợn
+sóng,các dạng túi giấy,nhãn hàng và các dạng bao bì khác; đưa ra các bước tiến hành thiết kế cấu
+trúc hệ thống bao bì cho 1 sản phẩm; ứng dụng của các phần mềm CAD trong thiết kế cấu trúc
+bao bì.
+Về mảng thành phẩm bao bì và nhãn hàng, học phần trình bày từ quy trình thành phẩm các loại
+bao bì (hộp giấy, bao bì mềm dạng túi,cuộn, nhãn hàng ), các phương pháp gia công công đoạn ( cấn
+bế, dán hộp, cắt bế nhãn, dán cửa sồ, định hình bao bì mềm..) đến các vấn đề liên quan đến quá trình
+sản xuất : cấu tạo , nguyên lý vận hành, quy trình vận hành thiết bị, cách lựa chọn vật tư; xác định các
+thông số thiết bị phù hợp với đặc điểm sản phẩm và điều kiện sản xuất và cuôi cùng là các vấn đề
+liên quan đến kiểm soát chất lượng sản phẩm như: yếu tố ảnh hưởng, các lỗi thường gặp, nguyên nhân
+và cách khắc phục, mối liên hệ giữa các công đoạn trong quá trình thành phẩm, tiêu chuẩn và phương
+pháp kiểm tra cho từng công đoạn, xây dựng quy trình kiểm soát chất lượng, tiêu chí kiểm tra, đánh giá
+cho từng dòng sản phẩm.
+9.44. Đồ án chế bản 1 tín chỉ
+- Phân bố thời gian học tập: 1(1/0/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Sinh viên chọn một sản phẩm cụ thể để thực hiện những công việc sau: xác định phương pháp in
+của sản phẩm để chọn phương pháp chế bản tương ứng; xác định các thông số liên quan đến vật liệu,
+màu sắc, cách thức thành phẩm; lập quy trình chế bản cho sản phẩm (lựa chọn thiết bị, phần mềm, cách
+thức kiểm tra chất lượng); thiết lập các thông số cho quá trình chế bản; lập quy trình kiểm tra chất
+lượng; viết phiếu yêu cầu chế bản cho sản phẩm trên.
+9.45. Đồ án Công nghệ in 1 tín chỉ
+- Phân bố thời gian học tập: 1(1/0/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Sinh vieân töï löïa choïn moät saûn phaåm in thöïc teá vôùi söï ñoàng yù cuûa giaùo vieân
+höôùng daãn vaø: xaùc ñònh loaïi saûn phaåm vaø vaät lieäu söû duïng; laäp quy trình coâng
+ngheä in cho moät saûn phaåm in treân bao goàm: caùc ñaëc ñieåm veà coâng ngheä, quy trình
+saûn xuaát, trang thieát bò, quy trình kieåm tra vaø phöông thöùc ñaùnh giaù chaát löôïng saûn
+phaåm phuø hôïp vôùi ñaëc ñieåm saûn phaåm; thieát laäp thoâng soá cho quaù trình saûn
+xuaát; löïa choïn phöông thöùc in phuø hôïp thoâng soá cuûa thieát bò; thieát laäp quy trình
+kieåm tra, vieát phieáu höôùng daãn saûn xuaát cho saûn phaåm ñaõ löïa choïn treân.
+9.46. Đồ án Công nghệ gia công sau in 1 tín chỉ
+- Phân bố thời gian học tập: 1(1/0/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Sinh vieân töï löïa choïn moät saûn phaåm in thöïc teá vôùi söï ñoàng yù cuûa giaùo vieân
+höôùng daãn vaø: phaân tích caáu truùc saûn phaåm in cuï theå laø xaùc ñònh kieåu daùng, kích
+thöôùc, vaät lieäu saûn phaåm in phuø hôïp vôùi caùc yeâu caàu vaø chöùc naêng cuûa saûn
+phaåm; laäp quy trình coâng ngheä sau in cho saûn phaåm in ñaõ choïn; trình baøy caùc moái
+lieân heä giöõa khaâu thaønh phaåm vôùiø caùc khaâu cheá baûn; phaân tích vaø löïa choïn
+ñöôïc giaûi phaùp coâng ngheä khaû thi, thích hôïp vôùi ñaëc ñieåm saûn phaåm cho töøng
+coâng ñoaïn trong quaù trình thaønh phaåm saûn phaåm treân (choïn phöông phaùp gia coâng
+töøng coâng ñoaïn, thieát bò, caùc thoâng soá kyõ thuaät caàn thieát laäp,vaät tö, quy trình
+kieåm tra, tieâu chí vaø tieâu chuaån kieåm tra); vieát phieáu höôùng daãn saûn xuaát.
+9.47. Cơ điện tử trong ngành in 3 tín chỉ
+- Phân bố thời gian học tập: 3 (3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần trang bị cho SV kiến thức về: các thiết bị điện, điện tử thường dùng trong các thiết bị
+sản xuất in; các nguyên tắc, hệ thống hóa quá trình phân tích, xử lý thông tin trong quá trình làm việc
+của hệ thống tự động; qui trình hoạt động của các thiết bị tự động hóa trong các lọai máy dùng trong
+công đọan chế bản, in và thành phẩm.
+9.48. Thực tập in offset 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần thực hành in offset tờ rời giúp cho SV có thể trực tiếp tìm hiểu thực tế về máy in offset
+tờ rời đã được học lý thuyết trong môn Đại cương in và Công nghệ in offset cũng như tìm hiểu một số
+các thiết bị về tự động hóa đã được học ở môn An toàn và bảo trì, Cơ điện tử trong ngành in. Điều này
+đặc biệt quan trọng đối với những SV có định hướng sẽ theo chuyên ngành In, còn đối với những SV
+sẽ theo học chuyên ngành trước in và sau in thì học phần này sẽ giúp SV có thể xác định được vài trò
+và tầm quan trọng của quá trình in trong toàn bộ quy trình sản xuất in, bao gồm: quy trình vận hành
+máy in; cấu trúc máy in và nguyên lý vận hành của các bộ phận. Mặt khác học phần cung cấp cho SV
+các kỹ năng cơ bản: vận hành và kiểm soát hệ thống cấp mực, cấp ẩm; kiểm soát vật liệu trong quá
+trình in; thiết lập thông số mực, kiểm soát chồng màu, màu sắc; cách thức kiểm tra trong quá trình in;
+vệ sinh công nghiệp.
+9.49. Thực tập thành phẩm 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần củng cố kiến thức về quy trinh thành phẩm cho người học đồng thời rèn luyện cho
+người học những kỹ năng cơ bản về thành phẩm sản phẩm in từ các kỹ năng chuẩn bị quá trình sản
+xuất như lập quy trình thành phẩm cho một sản phẩm cơ bản (sách bìa cứng, sách bìa mềm cà gáy keo,
+sách khâu chỉ, sách đóng ghim, nhãn hàng,bao bì hộp gấp); đến các kỹ năng về vận hành bao gồm việc
+thiết lập những thông số kỹ thuật cho các thiết bị thành phẩm (ép nhũ,cắt, gấp,khâu chỉ, vào bìa
+keo….), vận hành các thiết bị thành phẩm như: máy ép nhũ,cắt, máy gấp, máy đóng ghim, máy vào bìa
+keo, máy khâu chỉ, tinh toán kích thước vật tư và thực hiện các công việc làm sách bìa cứng thủ công
+và cuối cùng là các kỹ năng kiểm tra chất lượng tờ in và bán thành phẩm trong các công đoạn thành
+phẩm.
+9.50. Quản lý chất lượng sản phẩm in 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Trong học phần này SV được cung cấp kiến thức và kỹ năng giải quyết các vấn đề về chất lượng
+in, tiêu chuẩn hóa quá trình sản xuất in nhằm mục đích hạn chế tối đa lỗi phát sinh trong quá trình sản
+xuất. Các kiến thức bao gồm: các đặc tính của quy trình chế bản ảnh hưởng đến thuộc tính bản in;
+kiểm tra bản in, tờ in thông qua thang đo; mối liên hệ giữa các thông số đo và các đặc tính in (chất
+lượng); các quy trình kiểm tra, tiêu chuẩn hóa trong quá trình sản xuất in; các chuẩn đo lường trong
+ngành in; các vấn đề làm giảm chất lượng khi xây dựng quy trình sản xuất cho mỗi kỹ thuật in; đặc
+trưng của các phương pháp và kỹ thuật in tác động đến chất lượng; ảnh hưởng của vật liệu in đến chất
+lượng và quá trình in.
+9.51. An toàn lao động và quản lý bảo trì thiết bị 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần đề cập đến: các quy tắc an toàn lao động; vệ sinh công nghiệp đối với ngành in;các loại
+hóa chất sử dụng trong quá trình sản xuất và ảnh hưởng của chúng đến người sử dụng; các yếu tố ảnh
+hưởng của chúng môi trường cũng như cách xử lý chất thải. Song song đó học phần này cũng cung cấp
+cho SV kiến thức về vai trò và mục tiêu của công tác vệ sinh bảo trì cũng như phân tích và lựa chọn
+giải pháp bảo trì thích hợp trong sản xuất. Học phần cũng nhấn mạnh đến tầm quan trọng của công
+việc bảo trì thiết bị trong hoạt động sản xuất, môi trường sản xuất, phương tiện bảo vệ người lao động
+trong quá trình làm việc
+9.52. Kinh tế & tổ chức sản xuất in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp các kiến thức cơ bản về kinh tế, cách tổ chức và quản lý quá trình sản xuất in,
+hoạch định giá thành ngành in; các kiến thức cơ bản về tổ chức sản xuất các sản phẩm in cụ thể từ
+công đoạn nhận hàng đến chuẩn bị sản xuất, định giá, hoạch định lịch trình và theo dõi tiến độ sản xuất
+đến quản lý chất lượng sản phẩm cho đơn hàng in nhằm mang lại hiệu quả cao nhất.
+Ngoài ra học phần còn giới thiệu các kiến thức về luật xuất bản và các phương pháp tổ chức sản
+xuất và quản lý chất lượng hiện đại như : ISO; 5S; Sản xuất tinh gọn; quản lý chất lượng toàn diện.
+9.53. Thực tập chuyên ngành Trước In 1 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp những kiến thức nâng cao trong việc thiết kế một số ấn phẩm như bao bì hộp
+giấy, túi giấy, brochure. Bên cạnh đó, học phần còn giúp sinh viên tổng hợp các kiến thức về thiết kế
+mỹ thuật, kết hợp với kỹ năng xử lý file để cho ra các sản phẩm thiết kế có giá trị thẩm mỹ và phù hợp
+với kỹ thuật in ấn. Ngoài ra, học phần còn hướng dẫn sinh viên cách trình bày một bộ hồ sơ xin việc
+(Portfolio) với phong cách riêng của từng cá nhân, giúp các em có thể diễn đạt trước công ty tiềm năng
+các kỹ năng của mình bằng hình ảnh trong suốt bốn năm nghiên cứu ở bậc đại học.
+9.54. Thực tập chuyên ngành In 1 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Đây là quá trình rèn luyện kỹ năng điều khiển, vận hành hệ thống máy in offset tờ rời. Bao gồm:
+thực hành các thao tác từ cơ bản như gắn bản in, vỗ giấy; kiểm tra và định vị dẫn truyền vật liệu; kiểm
+soát cân bằng mực nước; canh chỉnh chồng nhiều màu; canh chỉnh màu sắc theo yêu cầu;vận hành in
+sản lượng. Qua học phần này, người học hiểu rõ cấu trúc của thiết bị in tờ rời, các nguyên tắc vận hành
+hệ thống, an toàn lao động. Canh chỉnh thiết bị, điều chỉnh và kiểm soát trong quá trình in.
+9.55. Thực tập chuyên ngành Sau In 1 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp cho người học các kỹ năng chuyên sâu về thiết kế cấu trúc hệ thống bao bì và
+định hình bao bì. Về mảng thiết kế cấu trúc cho bao bì học phần giúp người học: xác định các yêu cầu
+về câu trúc hệ thồng bao bì từ cấp 1 đến cấp 3 cho 1 sản phẩm; sử dung công cụ thiết kế 3D xác lập các
+thông số chính về cấu trúc từng cấp bao bì (kiểu dáng; kích thước; và vật liệu) phù hợp với yêu cầu của
+sản phẩm ; sử dụng phần mềm thiết kế chuyên dụng ArtiosCAD để thiết lập thông số về kích thước và
+sơ đồ dàn trang bao bì các cấp; tạo và quản lý bộ thư viên điện tử mẫu hộp cá nhân ; thiết kế các mẫu
+mới và thiết lập công thức để có thể tái sử dụng; xây dựng và quản lý cơ sở dữ liệu về vật liệu; xây
+dựng và quản lý cơ sở dữ liệu các báo cáo sản xuất (report tự động).
+Mảng khác học phần cung cấp cho người học những kỹ năng chuyên sâu về ứng dụng các công
+cụ sản xuất của ArtiosCad vào việc: sắp xếp và chon phương án bố trí hộp tối ưu trên tờ in; sử dụng
+ArtosCAD, plug-in của ArtiosCAD trong IA và phần mềm bình trang điện tử để dàn trang và bình bản
+trong sản xuất bao bì hộp; tạo file khuôn cấn bế và các khuôn gia công tráng phủ, khuôn xé rìa tự động,
+chỉ bế thông minh; tạo file cho việc xử lý dao ; xây dựng và quản lý cơ sở dữ liệu về sản xuất (máy In,
+máy bế).
+9.56. Thực tập chuyên ngành Trước In 2 3 tín chỉ
+- Phân bố thời gian học tập: 3(0/3/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện cho người học những kỹ năng chuyên sâu về quản lý màu và chế tạo
+khuôn in theo công nghệ Computer to Plate (CTP), bao gồm:
+Xây dựng qui trình quản lý màu. Định chuẩn thiết bị. Tuyến tính thuyết bị. Xây dựng hồ sơ
+màu thiết bị. Đánh giá qui trình quản lý màu.
+Vận hành lưu đồ chế bản kỹ thuật số. Vận hành thành thạo thiết bị ghi bản, hiện bản, thiết bị đo.
+Bảo dưỡng thiết bị chế bản. Xác lập cường độ, tốc độ ghi phù hợp cho từng loại bản. Sử dụng thành
+thạo các phần mềm liên quan đến quá trình RIP. Kiểm tra chất lượng khuôn in. Canh chỉnh, định chuẩn
+thiết bị, phát hiện và xử lý các lỗi xảy ra trong quá trình chế tạo khuôn in theo công nghệ CTP.
+9.57. Thực tập chuyên ngành In 2 3 tín chỉ
+- Phân bố thời gian học tập: 3(0/3/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này là phần thực tập nâng cao, nhằm hoàn thiện các kỹ năng đã học trong học phần TT
+chuyên ngành I. Trong học phần này SV tham gia trực tiếp Sản xuất thực tế. Bao gồm: vận hành máy
+in, sản xuất sản phẩm in hoàn chỉnh (offset, Flexo, in lõm);đặc tính của các loại vật liệu trong các kỹ
+thuật in khác nhau (offset, Flexo, in lõm); hệ thống hóa quá trình làm việc thực tế; canh chỉnh và hiệu
+chỉnh thiết bị; kiểm soát và giữ ổn định sản phẩm In.
+9.58. Thực tập chuyên ngành Sau In 2
+- Phân bố thời gian học tập: 3(0/3/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần cung cấp cho người học các kiến thức, kỹ năng chuyên sâu về các phương pháp gia
+công nhằm gia tăng giá trị tờ in và các phương án thành phẩm một số ấn phẩm thông dụng như : sách
+bìa mềm, sách bìa cứng, sổ đóng lò xo, sổ ghi chú, sách bồi, lịch, bao bì hộp giấy...Người học vận dụng
+các kiến thức, kỹ năng đã học để phân tích đặc điểm ấn phẩm, nhận dạng các hiệu ứng có trên ấn phẩm
+từ đó đề xuất các phương án sản xuất phù hợp với điều kiện sản xuất thực tế, lựa chọn các nguyên vật
+liệu phù hợp, vận hành các thiết bị thành phẩm để sản xuất các ấn phẩm, phân tích được những nguyên
+nhân gây ra sai hỏng trong quá trình thực hiện, cách khắc phục sai hỏng.
+9.59. Ứng dụng Matlab trong Công nghệ in 3 tín chỉ
+- Phân bố thời gian học tập: 3(2/1/6)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần Ứng dụng Matlab trong Công nghệ in cung cấp các kiến thức mô phỏng bằng máy tính
+cho các kỹ sư chuyên ngành in, cụ thể là sử dụng phần mềm Matlab để mô hình hóa màu sắc và xử lý
+ảnh số, là học phần nền tảng thuộc nhóm cơ sở ngành, là một công cụ trợ giúp tính toán cho việc học
+các môn chuyên ngành in sau này.
+9.60. Xác suất - Thống kê ứng dụng 3 tín chỉ
+- Phân bố thời gian học tập: 3(3/0/6)
+- Học phần trước: Toán 2
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần này bao gồm thống kê mô tả, xác suất sơ cấp, biến ngẫu nhiên và luật phân phối xác
+suất, các số đặc trưng của biến ngẫu nhiên, ước lượng tham số, kiểm định giả thuyết, tương quan và hồi
+qui tuyến tính.
+9.61. Thực tập tốt nghiệp 2 tín chỉ
+- Phân bố thời gian học tập: 2(0/2/4)
+- Học phần trước: Không
+- Học phần tiên quyết: Đã từng tham gia kiến tập tại doanh nghiệp
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Học phần rèn luyện sinh viên những kỹ năng nâng cao đối với chuyên ngành sinh viên đã chọn.
+Học phần trang bị những kỹ năng cần thiết để sinh viên có thể ứng dụng thực tế sau khi tốt nghiệp.
+9.62. Đồ án Kinh tế & tổ chức sản xuất in 1 tín chỉ
+- Phân bố thời gian học tập: 1 (1/0/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Sinh viên tự lựa chọn một sản phẩm in thực tế, và phương án công nghệ và thiết bị của 1 nhà máy
+in với sự đồng ý của giáo viên hướng dẫn và xác định các đặc điểm kỹ thuật của sản phẩm; lập quy
+trình thực hiện cho sản phẩm in trên từ chê bản, in đến thành phẩm ; lựa chọn phương án công nghệ,
+thiết bị cho sản phẩm in trên phù hợp với đặc điểm của sản phẩm cùng phương án công nghệ, thiết bị
+của nhà máy; lựa chọn và dự trù vật tư; tính toán khối lượng công việc phải thực hiện cho từng công
+đoạn; ước lượng giá thành cho sản phẩm in; tính toán thời gian sản xuất và hoạch định lịch trình sản
+xuất; thiết lập quy trình kiểm tra
+9.63. Đồ án Quản lý chất lượng sản phẩm in 1 tín chỉ
+- Phân bố thời gian học tập: 1(1/0/2)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+- Tóm tắt nội dung học phần:
+Chất lượng là yếu tố phù hợp với yêu cầu, mỗi sản phẩm có yêu cầu về chất lượng khác nhau.
+Tương tự như vậy mỗi công đoạn trong quá trình sản xuất in đều phải được kiểm tra để tránh
+sai sót cho công đoạn sau. Đồ án này giúp cho sinh viên xây dựng tiêu chuẩn hóa quá trình
+trong từng công đoạn của quá trình sản xuất in. Một số nội dung chính:
+- Thiết bị đo và ứng dụng.
+- Thông số và cách xây dựng thông số kiểm tra phù hợp với điều kiện thực tế.
+- Sử dụng thang đo phù hợp với tiêu chuẩn đo kiểm.
+- Testform và hiệu chỉnh thiết bị.
+- Xây dựng quy trình kiểm tra.
+- Tiêu chuẩn hóa quá trình.
+9.64. Khóa luận tốn nghiệp 7 tín chỉ
+- Phân bố thời gian học tập: 7(0/7/14)
+- Học phần trước: Không
+- Học phần tiên quyết: Không
+- Học phần song hành: Không
+Học phần này giúp hệ thống lại/ nâng cao những kiến thức đã học trong chương trình.
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+Tên phòng thí nghiệm,
+Số Danh mục trang thiết bị chính
+xưởng, trạm trại, cơ sở
+TT hỗ trợ thí nghiệm, thực hành
+thực hành
+1 Phòng máy tính  Máy vi tính nối mạng (IBM).
+ Máy vi tính Macintosh.
+Số
+TT	Tên phòng thí nghiệm,
+xưởng, trạm trại, cơ sở
+thực hành	Danh mục trang thiết bị chính
+hỗ trợ thí nghiệm, thực hành
+1	Phòng máy tính	 Máy vi tính nối mạng (IBM).
+ Máy vi tính Macintosh.
+ Máy quét hình chuyên dung.
+2 Xưởng phơi bản  Bàn bình phim.
+ Bàn ép phim.
+ Máy phơi bản.
+3 Phòng công nghệ chế  Máy tính nối mạng.
+bản hiện đại (CTP)
+ Chu trình làm việc với đầy đủ các phần mềm chế bản
+chuyên dụng hiện đại cho công nghệ CTP bao gồm :
+kiểm tra file PDF, bình trang điện tử, RIP, điều khiển
+thiết bị ghi bản.
+ Thiết bị ghi bản offset.
+ Thiết bị hiện bản.
+ Các thang đo và kiểm tra.
+ Máy in phun mực màu khổ lớn dung cho việc in thử.
+4 Xưởng In và phòng thí  Máy in Offset 1 màu.
+nghiệm in offset
+ Máy 2 màu.
+ Máy cắt giấy.
+ Máy pha trộn mực in.
+ Bộ phim âm bản & dương bản kiểm tra chất lượng tờ
+in.
+ Máy đo màu (quang phổ).
+5 Phòng thí nghiệm thiết  Máy tính.
+kế cấu trúc bao bì và thử
+ Chu trình làm việc với đầy đủ các phần mềm phần
+nghiệm bao bì
+mềm thiết kế cấu trúc hộp và hỗ trợ thiết kế khuôn bế
+hộp, khuôn tráng phủ, khuôn xé rìa, khuôn lót bế
+hộp…
+ Phần mềm điều khiển thiết bị làm thử mẫu hộp áp
+dụng công nghệ bế không dùng khuôn.
+ Thiết bị bế không dung khuôn và làm thử mẫu hộp.
+ Thiết bị bồi tờ in với cacton dợn song.
+ Thiết bị thử độ bền nén của hộp.
+6 Xưởng thành phẩm  Máy gấp sách.
+ Máy đóng kim.
+ Máy khâu chỉ.
+ Máy vào bìa keo.
+ Máy ép nhũ.
+ Máy dán màng.
+ Máy bế.
+7 Phòng thí nghiệm vật  Máy thử độ bền giấy.
+liệu In
+ Máy đo độ nhớt mực in.
+		 Máy quét hình chuyên dung.
+2	Xưởng phơi bản	 Bàn bình phim.
+ Bàn ép phim.
+ Máy phơi bản.
+3	Phòng công nghệ chế
+bản hiện đại (CTP)	 Máy tính nối mạng.
+ Chu trình làm việc với đầy đủ các phần mềm chế bản
+chuyên dụng hiện đại cho công nghệ CTP bao gồm :
+kiểm tra file PDF, bình trang điện tử, RIP, điều khiển
+thiết bị ghi bản.
+ Thiết bị ghi bản offset.
+ Thiết bị hiện bản.
+ Các thang đo và kiểm tra.
+ Máy in phun mực màu khổ lớn dung cho việc in thử.
+4	Xưởng In và phòng thí
+nghiệm in offset	 Máy in Offset 1 màu.
+ Máy 2 màu.
+ Máy cắt giấy.
+ Máy pha trộn mực in.
+ Bộ phim âm bản & dương bản kiểm tra chất lượng tờ
+in.
+ Máy đo màu (quang phổ).
+5	Phòng thí nghiệm thiết
+kế cấu trúc bao bì và thử
+nghiệm bao bì	 Máy tính.
+ Chu trình làm việc với đầy đủ các phần mềm phần
+mềm thiết kế cấu trúc hộp và hỗ trợ thiết kế khuôn bế
+hộp, khuôn tráng phủ, khuôn xé rìa, khuôn lót bế
+hộp…
+ Phần mềm điều khiển thiết bị làm thử mẫu hộp áp
+dụng công nghệ bế không dùng khuôn.
+ Thiết bị bế không dung khuôn và làm thử mẫu hộp.
+ Thiết bị bồi tờ in với cacton dợn song.
+ Thiết bị thử độ bền nén của hộp.
+6	Xưởng thành phẩm	 Máy gấp sách.
+ Máy đóng kim.
+ Máy khâu chỉ.
+ Máy vào bìa keo.
+ Máy ép nhũ.
+ Máy dán màng.
+ Máy bế.
+7	Phòng thí nghiệm vật
+liệu In	 Máy thử độ bền giấy.
+ Máy đo độ nhớt mực in.
+ Thiết bị đo độ mịn hạt mực in.
+ Thiết bị đo độ dày vật liệu in (giấy, cạc tông, màng
+nhựa….).
+ Thiết bị đo nhiệt độ, độ pH dung dịch nước máng.
+ Thiết bị đo độ cứng tấm cao su.
+ Thiết bị quan sát bề mặt vật liệu in (phóng to 200 lần).
+ Máy đo mật độ màu phản quang.
+ Máy đo màu (quang phổ).
+10.2. Thư viện, trang WEB
+www.fgam.hcmute.edu.vn
+11. Hướng dẫn thực hiện chương trình.
+Khi bố trí các học phần, cần chú ý tính tiên quyết, tính song hành của các học phần lý thuyết và
+thực hành của chương trình đào tạo.
+Các môn cơ sở và chuyên ngành (cả lý thuyết lẫn thực tập) sắp xếp học kể từ học kỳ thứ hai.
+Nhưng trong học kỳ 1 sinh viên học ngay môn Nhập môn ngành đào tạo và Đại cương sản xuất
+in vì đây là học phần có tính định hướng nghề, giúp cho sinh viên tiếp cận ngành in, có cái nhìn
+tổng quan về ngành nghề sẽ gắn bó lâu dài sau này. Trong học kỳ 1 nên tổ chức cho sinh viên đi
+tham quan các nhà máy in (hoạt động ngoại khóa).
+Từ học kỳ 1 đến học kỳ 6, bố trí cho sinh viên học các môn thuộc:
+- Khối kiến thức đại cương 48 đvht
+- Khối kiến thức cơ sở ngành 25 đvht
+- Khối kiến thức chuyên ngành 32 đvht
+- Khối lượng thực tập qua ban 11 đvht
+Trong đó học kỳ 4 được xếp tối đa 16 đvht để sinh viên có thời gian trải nghiệm thực tế tại các
+doanh nghiệp, nhằm giúp các em dễ dàng tiếp thu kiến thức ở các học phần sau.
+Qua các học phần lý thuyết và thực tập bắt buộc này sinh viên sẽ được trang bị các kiến thức,
+khả năng và kỹ năng cơ bản mà người kỹ sư Công nghệ kỹ thuật in cần phải có.
+Từ học kỳ 6, sau khi học xong các học phần lý thuyết và thực tập bắt buộc trên, sinh viên sẽ
+được hướng dẫn chọn học các học phần lý thuyết chuyên sâu tùy theo sở thích, khả năng học
+tập và nhu cầu tuyển dụng của các đơn vị sản xuất ngành in. Các sinh viên được phép chọn tối
+thiểu 6 đvht từ các học phần tự chọn. Phần thực tập tự chọn sinh viên sẽ được hướng dẫn chọn
+phần thực tập theo 3 nhóm chuyên ngành sâu: trước in, in hay sau in.
+Học kỳ 7, sau khi học xong lý thuyết chuyên sâu, sinh viên sẽ được sắp xếp để thực tập tốt
+nghiệp tại công ty.
+Học kỳ 8 sinh viên sẽ phải hoàn tất các khối lượng sau:
+- Khối lượng thực tập chuyên ngành 5 đvht
+- Khóa luận tốt nghiệp 7 đvht
+		 Thiết bị đo độ mịn hạt mực in.
+ Thiết bị đo độ dày vật liệu in (giấy, cạc tông, màng
+nhựa….).
+ Thiết bị đo nhiệt độ, độ pH dung dịch nước máng.
+ Thiết bị đo độ cứng tấm cao su.
+ Thiết bị quan sát bề mặt vật liệu in (phóng to 200 lần).
+ Máy đo mật độ màu phản quang.
+ Máy đo màu (quang phổ).
+Khối lượng thực tập chuyên ngành cùng với khối kiến thức chuyên sâu giúp cho sinh viên có nền
+tảng vững chắc về lý thuyết và thực hành trong quá trình sản xuất in. Nhờ đó sinh viên mau chóng
+phát huy khả năng ngay sau khi tốt nghiệp, khi nhận một công việc phù hợp với chuyên ngành sâu
+đã chọn.
+Hiệu trưởng Trưởng khoa

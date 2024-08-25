@@ -1,0 +1,531 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CÔNG NGHỆ KỸ THUẬT
+ĐIỆN TỬ - VIỄN THÔNG (Ban hành tại Quyết định số……ngày…./…./2018 của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+Tên tiếng Anh: Electronics and Communications Engineering Technology
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7510302
+Hình thức đào tạo: CHÍNH QUI
+Tp. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+Mã ngành: 7510302
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp: (Ban hành tại Quyết định số……ngày …./…./2018 của Hiệu trưởng trường Đại học Sư phạm Kỹ thuật Thành phố Hồ Chí Minh) 1. Thời gian đào tạo: 4 năm 2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học 3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp  Thang điểm: 10  Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT  Điều kiện tốt nghiệp: - Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín chỉ ban hành theo quyết định số 17/VBHN-BGDĐT - Điều kiện của chuyên ngành: Công nghệ kỹ thuật điện tử - viễn thông 4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có kiến thức khoa học cơ bản, kiến thức cơ sở và chuyên ngành về điện tử, viễn thông, có khả năng phân tích, giải quyết vấn đề và đánh giá các giải pháp, có năng lực xây dựng và quản trị các hệ thống điện tử, viễn thông, có kỹ năng giao tiếp và làm việc nhóm, có thái độ nghề nghiệp phù hợp đáp ứng được các yêu cầu phát triển của ngành và xã hội. Sinh viên sau khi tốt nghiệp có thể làm việc tại các cơ quan, tổ chức chuyên về điện tử, viễn thông, các đơn vị ứng dụng điện tử, viễn thông và các cơ sở đào tạo điện tử, viễn thông. Sau khi tốt nghiệp 5 – 7 năm thì sinh viên có thể trở thành giám đốc, trưởng phòng hoặc trưởng nhóm trong các cơ quan tổ chức chuyên về điện tử, viễn thông, các đơn vị ứng dụng điện tử, viễn thông và có thể trở thành trưởng ngành trong các cơ sở đào tạo điện tử, viễn thông.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực: 1. Có kiến thức nền tảng về khoa học xã hội và khoa học tự nhiên. 2. Phát triển khả năng rèn luyện để khám phá tri thức, giải quyết vấn đề, tư duy hệ thống và nắm vững các thuộc tính chuyên môn và rèn luyện cá tính riêng khác. 3. Kỹ năng giao tiếp: phát triển khả năng tiến bộ về giao tiếp và làm việc trong các nhóm đa kỹ năng. 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai, vận hành các hệ thống điện tử, viễn thông trong bối cảnh xã hội và doanh nghiệp.
+Chuẩn đầu ra (Program outcomes)
+Ký Trình độ
+Chuẩn đầu ra hiệu năng lực 1. Có kiến thức và lập luận kỹ thuật
+Có hiểu biết và khả năng sử dụng các nguyên tắc cơ bản trong khoa học xã hội và tự 1.1. 4.0 nhiên
+Có khả năng vận dụng các nền tảng kỹ thuật cốt lõi trong lĩnh vực điện tử và viễn thông 1.2. như giải tích mạch điện, phân tích mạch điện tử, vi điều khiển, công nghệ mạng, thiết bị 4.5 và điều khiển hệ thống điện.
+Chứng tỏ kiến thức chuyên sâu về kỹ thuật chuyên môn liên quan đến hệ thống viễn 1.3. thông và mạng, thiết kế vi mạch điện tử và tích hợp, thiết kế hệ thống điện tử, điều 5.0 khiển lập trình hệ thống điện - điện tử, xử lý tín hiệu và hình ảnh.
+Phát triển khả năng tự rèn luyện để khám phá tri thức, giải quyết vấn đề, suy nghĩ 2. hệ thống, và nắm vững các kỹ năng chuyên môn và cá nhân khác 2.1. Chứng tỏ khả năng phân tích và giải quyết vấn đề kỹ thuật. 5.0 2.2. Có khả năng khảo sát và thực nghiệm các vấn đề kỹ thuật. 5.0 2.3. Có khả năng suy nghĩ một cách toàn diện và có tính hệ thống. 5.0
+Thành thạo các kỹ năng cá nhân đóng góp vào sự thành công trong hoạt động kỹ thuật: 2.4. 4.6 sáng kiến, linh hoạt, sáng tạo, tìm tòi, và quản lý thời gian.
+Thành thạo các kỹ năng chuyên môn đóng góp vào sự thành công trong hoạt động kỹ 2.5. 5.0 thuật: đạo đức nghề nghiệp, tính chính trực, vị thế trong ngành, hoạch định nghề nghiệp. 3. Phát triển các kỹ năng giao tiếp và kỹ năng làm việc theo nhóm 3.1. Nổ lực trong làm việc theo nhóm. 5.0
+Chứng tỏ khả năng giao tiếp hiệu quả dưới dạng văn bản viết, văn bản điện tử, đồ 3.2. 5.0 họa và thuyết trình. 3.3. Chứng tỏ khả năng giao tiếp bằng tiếng Anh. 5.0
+Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ 4. thống máy tính và hệ thống phần mềm hỗ trợ trong bối cảnh xã hội và môn trường doanh nghiệp 4.1. Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ thuật. 5.0 4.2. Hiểu rõ giá trị về văn hóa doanh nghiệp và làm việc hiệu quả trong tổ chức. 5.0
+Hình thành ý tưởng thiết kế các hệ thống điện tử - viễn thông bao gồm xác định yêu 4.3. 5.0 cầu, định nghĩa chức năng, mô hình hóa và quản lý dự án.
+Thiết kế các hệ thống điện tử - viễn thông phức tạp bằng cách vận dụng các kiến 4.4. 5.0 thức về toán học, khoa học và kỹ thuật và triển khai các giai đoạn quá trình thiết kế. 4.5. Thực hiện các hệ thống điện tử/viễn thông và quản lý các quy trình thực hiện. 5.0
+Vận hành các hệ thống điện tử/viễn thông phức tạp cũng như quản lý các quá trình 4.6. 5.0 và thao tác vận hành. 4.7. Có năng lực lãnh đạo trong kỹ thuật. 3.0
+Ký hiệu Chuẩn đầu ra Trình độ năng lực 1. Có kiến thức và lập luận kỹ thuật 1.1. Có hiểu biết và khả năng sử dụng các nguyên tắc cơ bản trong khoa học xã hội và tự nhiên 4.0 1.2. Có khả năng vận dụng các nền tảng kỹ thuật cốt lõi trong lĩnh vực điện tử và viễn thông như giải tích mạch điện, phân tích mạch điện tử, vi điều khiển, công nghệ mạng, thiết bị và điều khiển hệ thống điện. 4.5 1.3. Chứng tỏ kiến thức chuyên sâu về kỹ thuật chuyên môn liên quan đến hệ thống viễn thông và mạng, thiết kế vi mạch điện tử và tích hợp, thiết kế hệ thống điện tử, điều khiển lập trình hệ thống điện - điện tử, xử lý tín hiệu và hình ảnh. 5.0 2. Phát triển khả năng tự rèn luyện để khám phá tri thức, giải quyết vấn đề, suy nghĩ hệ thống, và nắm vững các kỹ năng chuyên môn và cá nhân khác 2.1. Chứng tỏ khả năng phân tích và giải quyết vấn đề kỹ thuật. 5.0 2.2. Có khả năng khảo sát và thực nghiệm các vấn đề kỹ thuật. 5.0 2.3. Có khả năng suy nghĩ một cách toàn diện và có tính hệ thống. 5.0 2.4. Thành thạo các kỹ năng cá nhân đóng góp vào sự thành công trong hoạt động kỹ thuật: sáng kiến, linh hoạt, sáng tạo, tìm tòi, và quản lý thời gian. 4.6 2.5. Thành thạo các kỹ năng chuyên môn đóng góp vào sự thành công trong hoạt động kỹ thuật: đạo đức nghề nghiệp, tính chính trực, vị thế trong ngành, hoạch định nghề nghiệp. 5.0 3. Phát triển các kỹ năng giao tiếp và kỹ năng làm việc theo nhóm 3.1. Nổ lực trong làm việc theo nhóm. 5.0 3.2. Chứng tỏ khả năng giao tiếp hiệu quả dưới dạng văn bản viết, văn bản điện tử, đồ họa và thuyết trình. 5.0 3.3. Chứng tỏ khả năng giao tiếp bằng tiếng Anh. 5.0 4. Phát triển khả năng hình thành ý tưởng, thiết kế, triển khai và vận hành các hệ thống máy tính và hệ thống phần mềm hỗ trợ trong bối cảnh xã hội và môn trường doanh nghiệp 4.1. Nhận thức được tầm quan trọng của bối cảnh xã hội trong hoạt động kỹ thuật. 5.0 4.2. Hiểu rõ giá trị về văn hóa doanh nghiệp và làm việc hiệu quả trong tổ chức. 5.0 4.3. Hình thành ý tưởng thiết kế các hệ thống điện tử - viễn thông bao gồm xác định yêu cầu, định nghĩa chức năng, mô hình hóa và quản lý dự án. 5.0 4.4. Thiết kế các hệ thống điện tử - viễn thông phức tạp bằng cách vận dụng các kiến thức về toán học, khoa học và kỹ thuật và triển khai các giai đoạn quá trình thiết kế. 5.0 4.5. Thực hiện các hệ thống điện tử/viễn thông và quản lý các quy trình thực hiện. 5.0 4.6. Vận hành các hệ thống điện tử/viễn thông phức tạp cũng như quản lý các quá trình và thao tác vận hành. 5.0 4.7. Có năng lực lãnh đạo trong kỹ thuật. 3.0 4.8. Có khả năng kinh doanh trong kỹ thuật. 3.0
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ...
+Đạt yêu 2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động
+Thành như phân tích, phân loại, so sánh, tổng hợp,... 4.0 < TĐNL ≤ 5.0 thạo Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới. 5. Khối lượng kiến thức toàn khoá: 132 tín chỉ (không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng) 6. Phân bổ khối lượng các khối kiến thức
+TT DANH MỤC Số TC
+I KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A Khối kiến thức bắt buộc 37 1 Lý luận chính trị + Pháp luật 12 2 Toán học và KHTN 22 3 Nhập môn ngành CNKT Máy Tính 3 (2+1)
+B Khối kiến thức tự chọn 12 1 Tin học 3 2 Khoa học xã hội nhân văn (theo danh mục) 4 3 Toán học và KHTN 5
+C Khối kiến thức GDTC + GDQP 1 Giáo dục thể chất 5 2 Giáo dục quốc phòng 165 tiết
+II KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83 1 Cơ sở nhóm ngành và ngành 2 Cơ sở ngành 62 3 Chuyên ngành 4 Thí nghiệm, thực tập, thực hành 14 5 Trong đó, thực tập tốt nghiệp 2 6 Khóa luận tốt nghiệp 7 4.8. Có khả năng kinh doanh trong kỹ thuật. 3.0
+Trình độ năng lực Mô tả ngắn 0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận diện, xác định,... 1.0 < TĐNL ≤ 2.0 Đạt yêu cầu Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu, kiến thức bằng các hành động như giải thích, phân loại, minh họa, suy luận, ... 2.0 < TĐNL ≤ 3.0 Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng, bài báo cáo,... 3.0 < TĐNL ≤ 4.0 Thành thạo Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng thể bằng các hành động như phân tích, phân loại, so sánh, tổng hợp,... 4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/ thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã được xác định bằng các hành động như nhận xét, phản biện, đề xuất,... 5.0 < TĐNL ≤ 6.0 Xuất sắc Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu trúc/ mô hình/ sản phẩm mới.
+TT DANH MỤC Số TC
+I KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 49
+A Khối kiến thức bắt buộc 37 1 Lý luận chính trị + Pháp luật 12 2 Toán học và KHTN 22 3 Nhập môn ngành CNKT Máy Tính 3 (2+1)
+B Khối kiến thức tự chọn 12 1 Tin học 3 2 Khoa học xã hội nhân văn (theo danh mục) 4 3 Toán học và KHTN 5
+C Khối kiến thức GDTC + GDQP 1 Giáo dục thể chất 5 2 Giáo dục quốc phòng 165 tiết
+II KHỐI KIẾN THỨC CHUYÊN NGHIỆP 83 1 Cơ sở nhóm ngành và ngành 62 2 Cơ sở ngành 3 Chuyên ngành 4 Thí nghiệm, thực tập, thực hành 14 5 Trong đó, thực tập tốt nghiệp 2 6 Khóa luận tốt nghiệp 7 7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – Phần bắt buộc 7.1. Kiến thức giáo dục đại cương
+Mã MH trước,
+TT Mã môn học Tên học phần Số TC
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác - Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH130101 Toán 1 3 6. MATH130201 Toán 2 3 7. MATH130301 Toán 3 3 8. IECE130564 Nhập môn ngành CNKT ĐT-VT 3(2+1) Đổi mã MH 9. MATH130401 Xác xuất thống kê ứng dụng 3 10. PHYS130102 Vật lý 1 3 11. PHYS120202 Vật lý 2 3 12. PHYS110302 Thí nghiệm vật lý 1 1 13. GCHE130103 Hoá đại cương A1 3 14. CPRL130064 Ngôn ngữ lập trình C 3 15. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 16. PHYS110402 Thí nghiệm vật lý 2 1
+Khối kiến thức GDTC + GDQP 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165tiết 21. Tự chọn kiến thức giáo dục đại cương 4
+Tổng 49 7.2. Kiến thức giáo dục chuyên nghiệp 7.2.1. Kiến thức cơ sở nhóm ngành và ngành
+Mã MH trước,
+TT Mã môn học Tên học phần Số TC
+MH tiên quyết
+Cơ sở nhóm ngành và ngành 1. ELCI240144 Mạch điện 4 2. BAEL340662 Điện tử cơ bản 4 ELCI240144 3. DIGI330163 Kỹ thuật số 3 4. MICR330363 Vi xử lý 3 DIGI330163
+Cơ sở ngành 5. SISY330164 Tín hiệu và hệ thống 3 MATH130101 6. DACO430664 Kỹ thuật truyền số liệu 3 SISY330164 7. EMSY435664 Hệ thống nhúng 3 MICR330363 8. DSPR431264 Xử lý tín hiệu số 3 SISY330164
+Tự chọn cơ sở ngành 06
+Tổng 32
+TT Mã môn học Tên học phần Số TC Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác - Lênin 5 2. LLCT120314 Tư tưởng Hồ Chí Minh 2 3. LLCT230214 Đường lối cách mạng của ĐCSVN 3 4. GELA220405 Pháp luật đại cương 2 5. MATH130101 Toán 1 3 6. MATH130201 Toán 2 3 7. MATH130301 Toán 3 3 8. IECE130564 Nhập môn ngành CNKT ĐT-VT 3(2+1) Đổi mã MH 9. MATH130401 Xác xuất thống kê ứng dụng 3 10. PHYS130102 Vật lý 1 3 11. PHYS120202 Vật lý 2 3 12. PHYS110302 Thí nghiệm vật lý 1 1 13. GCHE130103 Hoá đại cương A1 3 14. CPRL130064 Ngôn ngữ lập trình C 3 15. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 16. PHYS110402 Thí nghiệm vật lý 2 1
+Khối kiến thức GDTC + GDQP 17. PHED110513 Giáo dục thể chất 1 1 18. PHED110613 Giáo dục thể chất 2 1 19. PHED130715 Giáo dục thể chất 3 3 20. - Giáo dục quốc phòng 165tiết 21. Tự chọn kiến thức giáo dục đại cương 4
+Tổng 49
+TT Mã môn học Tên học phần Số TC Mã MH trước,
+MH tiên quyết
+Cơ sở nhóm ngành và ngành 1. ELCI240144 Mạch điện 4 2. BAEL340662 Điện tử cơ bản 4 ELCI240144 3. DIGI330163 Kỹ thuật số 3 4. MICR330363 Vi xử lý 3 DIGI330163
+Cơ sở ngành 5. SISY330164 Tín hiệu và hệ thống 3 MATH130101 6. DACO430664 Kỹ thuật truyền số liệu 3 SISY330164 7. EMSY435664 Hệ thống nhúng 3 MICR330363 8. DSPR431264 Xử lý tín hiệu số 3 SISY330164
+Tự chọn cơ sở ngành 06
+Tổng 32 7.2.2.a Kiến thức chuyên ngành (Học phần lý thuyết và thí nghiệm)
+Mã môn học Số Mã MH trước,
+TT Tên học phần
+TC MH tiên quyết
+Hướng Viễn thông - Vi mạch 1. FADV336764 Thiết kế FPGA/ASIC với Verilog 3 DIGI330163 2. COSY330464 Hệ thống viễn thông 3 SISY330164 3. MIEN330364 Kỹ thuật siêu cao tần 3 4. WCSY431364 Hệ thống thông tin vô tuyến 3 5. ICDV436264 Thiết kế mạch tích hợp VLSI 3 6. ITFA436064 Cơ sở và ứng dụng IoT 3 7. SEPR411464 Đồ án 1 1 Thay đổi mã 8. SEPR411664 Đồ án 2 1 Thay đổi mã 9. INEN429164 Sáng tạo và khởi nghiệp 2 10. Tự chọn chuyên ngành 06
+Hướng Điện tử công nghiệp 1. POEL330262 Điện tử công suất 3 2. PLCS330846 Điều khiển lập trình 3 3. IMPR432463 Xử lý ảnh 3 4. DSIC330563 Thiết kế vi mạch số với HDL 3 5. SETE331963 Công nghệ cảm biến 3 6. APCA331363 Lập trình Android ứng dụng điều khiển 3 MICR330363 7. ELPR310863 Đồ án 1 1 8. ELPR310963 Đồ án 2 1 9. BUCO124565 Liên hệ Doanh nghiệp 2 10. Tự chọn chuyên ngành 06
+Tổng 28 7.2.2.b Kiến thức chuyên ngành (Học phần thực hành xưởng, thực tập công nghiệp)
+Số Mã MH trước,
+STT Mã môn học Tên học phần
+TC MH tiên quyết 1. ELPR320762 TT Điện tử 2 BAEL340662 2. PRDI310263 TT Kỹ thuật số 1 DIGI330163 3. PRMI320463 TT Vi xử lý 2 MICR330363 4. EMSL415664 TT Hệ thống nhúng 1 Thay đổi mã 5. DACL411164 TT Kỹ thuật truyền số liệu 1 Thay đổi mã
+Chuyên ngành Điện tử Viễn Thông 6. ITFL416064 TT Cơ sở và ứng dụng IoT 1 7. ICDL416264 TT Thiết kế mạch tích hợp VLSI 1 8. WCSL411364 TT Hệ thống thông tin vô tuyến 1 9. DSPL411264 TT Xử lý tín hiệu số 1 Thay đổi mã 10. FADL316764 TT Thiết kế FPGA/ASIC với Verilog 1 11. COSL420764 TT Hệ thống viễn thông 2 Thay đổi mã 12. INTE423064 TT Tốt nghiệp 2 Thay đổi mã
+Chuyên ngành Điện tử công nghiệp 1. PRIM311063 TT Xử lý ảnh 1 IMPR432463 2. POEP320262 TT Điện tử công suất 2 BAEL340662 3. PRDS320663 TT Thiết kế vi mạch số với HDL 2 DSIC330563
+TT Mã môn học Tên học phần Số
+TC Mã MH trước,
+MH tiên quyết
+Hướng Viễn thông - Vi mạch 1. FADV336764 Thiết kế FPGA/ASIC với Verilog 3 DIGI330163 2. COSY330464 Hệ thống viễn thông 3 SISY330164 3. MIEN330364 Kỹ thuật siêu cao tần 3 4. WCSY431364 Hệ thống thông tin vô tuyến 3 5. ICDV436264 Thiết kế mạch tích hợp VLSI 3 6. ITFA436064 Cơ sở và ứng dụng IoT 3 7. SEPR411464 Đồ án 1 1 Thay đổi mã 8. SEPR411664 Đồ án 2 1 Thay đổi mã 9. INEN429164 Sáng tạo và khởi nghiệp 2 10. Tự chọn chuyên ngành 06
+Hướng Điện tử công nghiệp 1. POEL330262 Điện tử công suất 3 2. PLCS330846 Điều khiển lập trình 3 3. IMPR432463 Xử lý ảnh 3 4. DSIC330563 Thiết kế vi mạch số với HDL 3 5. SETE331963 Công nghệ cảm biến 3 6. APCA331363 Lập trình Android ứng dụng điều khiển 3 MICR330363 7. ELPR310863 Đồ án 1 1 8. ELPR310963 Đồ án 2 1 9. BUCO124565 Liên hệ Doanh nghiệp 2 10. Tự chọn chuyên ngành 06
+Tổng 28
+STT Mã môn học Tên học phần Số
+TC Mã MH trước,
+MH tiên quyết 1. ELPR320762 TT Điện tử 2 BAEL340662 2. PRDI310263 TT Kỹ thuật số 1 DIGI330163 3. PRMI320463 TT Vi xử lý 2 MICR330363 4. EMSL415664 TT Hệ thống nhúng 1 Thay đổi mã 5. DACL411164 TT Kỹ thuật truyền số liệu 1 Thay đổi mã
+Chuyên ngành Điện tử Viễn Thông 6. ITFL416064 TT Cơ sở và ứng dụng IoT 1 7. ICDL416264 TT Thiết kế mạch tích hợp VLSI 1 8. WCSL411364 TT Hệ thống thông tin vô tuyến 1 9. DSPL411264 TT Xử lý tín hiệu số 1 Thay đổi mã 10. FADL316764 TT Thiết kế FPGA/ASIC với Verilog 1 11. COSL420764 TT Hệ thống viễn thông 2 Thay đổi mã 12. INTE423064 TT Tốt nghiệp 2 Thay đổi mã
+Chuyên ngành Điện tử công nghiệp 1. PRIM311063 TT Xử lý ảnh 1 IMPR432463 2. POEP320262 TT Điện tử công suất 2 BAEL340662 3. PRDS320663 TT Thiết kế vi mạch số với HDL 2 DSIC330563 4. PPLC321346 TT Điều khiển lập trình 2 PLCS330846 5. INTE324463 TT Tốt nghiệp 2
+Tổng 16 7.2.4. Tốt nghiệp (Sinh viên chọn một trong hai hình thức sau)
+Số Mã MH trước,
+STT Mã môn học Tên học phần
+TC MH tiên quyết
+Hướng Viễn thông – Vi mạch 1. Hoạt động ngoại khóa 00
+Đạt kỳ thi kiểm 2. CAPR473964 Khóa luận tốt nghiệp 07 tra năng lực
+Tổng 7
+Hướng Điện tử công nghiệp 3. Hoạt động ngoại khóa 00
+Đạt kỳ thi kiểm 4. GRAD474563 Khóa luận tốt nghiệp 7 tra năng lực
+Tổng 7
+B – Phần tự chọn:
+Khối kiến thức Khoa học xã hội – nhân văn (SV chọn 02 trong số các môn học sau):
+Số Mã MH trước,
+STT Mã môn học Tên môn học
+TC MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2
+Kiến thức cơ sở ngành (Sinh viên chọn 02 trong số các môn học sau)
+Số Mã MH trước,
+STT Mã môn học Tên học phần
+TC MH tiên quyết 1. ELFI230344 Trường điện từ 3 2. COEL330264 Điện tử thông tin 3 3. ACSY330346 Hệ thống điều khiển tự động 3 4. SEME431744 Đo lường và cảm biến 3 5. EEME430843 Vật liệu Điện - Điện tử 3 6. ELIN331245 Khí cụ điện 3 4. PPLC321346 TT Điều khiển lập trình 2 PLCS330846 5. INTE324463 TT Tốt nghiệp 2
+Tổng 16
+STT Mã môn học Tên học phần Số
+TC Mã MH trước,
+MH tiên quyết
+Hướng Viễn thông – Vi mạch 1. Hoạt động ngoại khóa 00 2. CAPR473964 Khóa luận tốt nghiệp 07 Đạt kỳ thi kiểm tra năng lực
+Tổng 7
+Hướng Điện tử công nghiệp 3. Hoạt động ngoại khóa 00 4. GRAD474563 Khóa luận tốt nghiệp 7 Đạt kỳ thi kiểm tra năng lực
+Tổng 7
+STT Mã môn học Tên môn học Số
+TC Mã MH trước,
+MH tiên quyết 1. GEFC220105 Kinh tế học đại cương 2 2. IQMA220205 Nhập môn quản trị chất lượng 2 3. INMA220305 Nhập môn Quản trị học 2 4. INLO220405 Nhập môn Logic học 2 5. IVNC320905 Cơ sở văn hoá Việt Nam 2 6. INSO321005 Nhập môn Xã hội học 2 7. ENPS220591 Tâm lý học kỹ sư 2 8. SYTH220491 Tư duy hệ thống 2 9. LESK120190 Kỹ năng học tập đại học 2 10. PLSK120290 Kỹ năng xây dựng kế hoạch 2 11. WOPS120390 Kỹ năng làm việc trong môi trường kỹ thuật 2 12. REME320690 Phương pháp nghiên cứu khoa học 2
+STT Mã môn học Tên học phần Số
+TC Mã MH trước,
+MH tiên quyết 1. ELFI230344 Trường điện từ 3 2. COEL330264 Điện tử thông tin 3 3. ACSY330346 Hệ thống điều khiển tự động 3 4. SEME431744 Đo lường và cảm biến 3 5. EEME430843 Vật liệu Điện - Điện tử 3 6. ELIN331245 Khí cụ điện 3
+Kiến thức chuyên ngành (Sinh viên chọn 2 môn học theo chuyên ngành của mình)
+Số Mã MH trước,
+STT Mã môn học Tên học phần
+TC MH tiên quyết
+Tự chọn (Điện tử Viễn Thông) 6 1. AWPR330964 Anten và truyền sóng 3 2. MICI421964 Mạch siêu cao tần 2 3. FOCO432064 Thông tin quang 3 4. DICO432264 Thông tin số 3 5. INTH422164 Lý thuyết thông tin 3 6. IMPR432463 Xử lý ảnh 3 7. TETM423164 Chuyên đề công nghệ viễn thông 3 8. MOCO431864 Hệ thống thông tin di động 3 (Hiệu chỉnh tên) 9. CCNW432364 Mạng truyền thông máy tính 3 10. AIFA436864 Cơ sở và ứng dụng AI 3
+Tự chọn (Điện tử công nghiệp) 6 1. TVMU331563 Truyền hình số và đa phương tiện 3 2. MALE330863 Máy học 3 IMPR432463 3. ITFA436064 Cơ sở và ứng dụng IoT 3 4. BISI331863 Xử lý tín hiệu và hình ảnh y sinh 3 5. ADMI330763 Vi xử lý nâng cao 3 MICR330363 6. PLCN432946 Truyền thông công nghiệp 3 7. BIME331965 Thiết kế mô hình trên máy tính 3 8. INSK331663 Kỹ năng công nghiệp 3
+C – Kiến thức liên ngành:
+Sinh viên có thể chọn 6 tín chỉ liên ngành để thay thế cho các môn học chuyên ngành trong phần tự chọn:
+Số
+STT Mã môn học Tên môn học Ghi chú
+TC 1. INRO331129 Robot công nghiệp 3 2. HCIN431979 Tương tác người máy 3 3. SCDA430946 Hệ thống SCADA 3 4. ROTE430946 Kỹ thuật robot 3 5. ELPS330345 Cung cấp điện 3 6. APEN331329 Lập trình ứng dụng trong kỹ thuật 3
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn học có trong chương trình đào tạo:
+Số Môn học được xét tương đương MOOC
+TT Mã môn học Tên môn học
+TC (đường link đăng ký)
+Beginning C++ Programming - From 1. CPRL130064 Ngôn ngữ lập trình C 3 Beginner to Beyond (https://www.udemy.com/beginning-c-plus-
+STT Mã môn học Tên học phần Số
+TC Mã MH trước,
+MH tiên quyết
+Tự chọn (Điện tử Viễn Thông) 6 1. AWPR330964 Anten và truyền sóng 3 2. MICI421964 Mạch siêu cao tần 2 3. FOCO432064 Thông tin quang 3 4. DICO432264 Thông tin số 3 5. INTH422164 Lý thuyết thông tin 3 6. IMPR432463 Xử lý ảnh 3 7. TETM423164 Chuyên đề công nghệ viễn thông 3 8. MOCO431864 Hệ thống thông tin di động 3 (Hiệu chỉnh tên) 9. CCNW432364 Mạng truyền thông máy tính 3 10. AIFA436864 Cơ sở và ứng dụng AI 3
+Tự chọn (Điện tử công nghiệp) 6 1. TVMU331563 Truyền hình số và đa phương tiện 3 2. MALE330863 Máy học 3 IMPR432463 3. ITFA436064 Cơ sở và ứng dụng IoT 3 4. BISI331863 Xử lý tín hiệu và hình ảnh y sinh 3 5. ADMI330763 Vi xử lý nâng cao 3 MICR330363 6. PLCN432946 Truyền thông công nghiệp 3 7. BIME331965 Thiết kế mô hình trên máy tính 3 8. INSK331663 Kỹ năng công nghiệp 3
+STT Mã môn học Tên môn học Số
+TC Ghi chú 1. INRO331129 Robot công nghiệp 3 2. HCIN431979 Tương tác người máy 3 3. SCDA430946 Hệ thống SCADA 3 4. ROTE430946 Kỹ thuật robot 3 5. ELPS330345 Cung cấp điện 3 6. APEN331329 Lập trình ứng dụng trong kỹ thuật 3
+TT Mã môn học Tên môn học Số
+TC Môn học được xét tương đương MOOC (đường link đăng ký) 1. CPRL130064 Ngôn ngữ lập trình C 3 Beginning C++ Programming - From
+Beginner to Beyond (https://www.udemy.com/beginning-c-plus- plus-programming/)
+Artificial Intelligence 2. MALE331063 Máy học 3 (https://www.edx.org/course/artificial- intelligence-ai-columbiax-csmm-101x-2)
+A developer's guide to Exploring and
+Cơ sở và ứng dụng Visualizing IoT Data (https://www.mooc- 3. ITFA436064 3
+IoT list.com/course/developers-guide-exploring- and-visualizing-iot-data-coursera) 8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng đào tạo sẽ mở lớp trong các học kỳ để sinh viên tự lên kế hoạch học tập:
+Số Mã MH trước,
+TT Mã môn học Tên môn học
+TC MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. GELA220405 Pháp luật đại cương 2 4. PHED110513 Giáo dục thể chất 1 1 5. PHED130715 Giáo dục thể chất 3 3
+Học kỳ 1:
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. CPRL130064 Ngôn ngữ lập trình C 3 2. GCHE130603 Hoá đại cương A1 3 3. IECE130564 Nhập môn ngành CNKT ĐT-VT 3 4. LLCT120314 Tư tưởng Hồ Chí Minh 2 5. MATH130101 Toán 1 3 6. PHED110613 Giáo dục thể chất 2 1 7. PHYS130102 Vật lý 1 3
+Tổng 18
+Học kỳ 2:
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 2. ELCI240144 Mạch điện 4 3. MATH130201 Toán 2 3 4. MATH130401 Xác xuất thống kê ứng dụng 3 5. PHYS110302 Thí nghiệm vật lý 1 1 6. PHYS120202 Vật lý 2 3
+Tổng 18
+Học kỳ 3: plus-programming/) 2. MALE331063 Máy học 3 Artificial Intelligence (https://www.edx.org/course/artificial- intelligence-ai-columbiax-csmm-101x-2) 3. ITFA436064 Cơ sở và ứng dụng
+IoT 3 A developer's guide to Exploring and
+Visualizing IoT Data (https://www.mooc- list.com/course/developers-guide-exploring- and-visualizing-iot-data-coursera)
+TT Mã môn học Tên môn học Số
+TC Mã MH trước,
+MH tiên quyết 1. LLCT150105 Những NLCB của CN Mác – Lênin 5 2. LLCT230214 Đường lối cách mạng của ĐCSVN 3 3. GELA220405 Pháp luật đại cương 2 4. PHED110513 Giáo dục thể chất 1 1 5. PHED130715 Giáo dục thể chất 3 3
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. CPRL130064 Ngôn ngữ lập trình C 3 2. GCHE130603 Hoá đại cương A1 3 3. IECE130564 Nhập môn ngành CNKT ĐT-VT 3 4. LLCT120314 Tư tưởng Hồ Chí Minh 2 5. MATH130101 Toán 1 3 6. PHED110613 Giáo dục thể chất 2 1 7. PHYS130102 Vật lý 1 3
+Tổng 18
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. AMEE341944 Toán ứng dụng cho kỹ sư Điện Điện Tử 4 2. ELCI240144 Mạch điện 4 3. MATH130201 Toán 2 3 4. MATH130401 Xác xuất thống kê ứng dụng 3 5. PHYS110302 Thí nghiệm vật lý 1 1 6. PHYS120202 Vật lý 2 3
+Tổng 18
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. BAEL340662 Điện tử cơ bản 4 ELCI240144 2. MATH130301 Toán 3 3 3. PHYS110402 Thí nghiệm vật lý 2 1 4. DIGI330163 Kỹ thuật số 3 BAEL340662 5. SISY330164 Tín hiệu và hệ thống 3 6. Tự chọn cơ sở ngành 1 3 7. Tự chọn cơ sở ngành 2 3
+Tổng 20
+Học kỳ 4:
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. DACO430664 Kỹ thuật truyền số liệu 3 2. MICR330363 Vi xử lý 3 DIGI330163 3. ELPR320762 TT điện tử 2 4. PRDI310263 TT kỹ thuật số 1 5. DACL411164 TT Kỹ thuật truyền số liệu 1
+Hướng Viễn Thông - Vi mạch 6. COSY330464 Hệ thống viễn thông 3 SISY330164 7. FADV336764 Thiết kế FPGA/ASIC với Verilog 3 DIGI330163
+Hướng Điện Tử Công Nghiệp 8. POEL330262 Điện tử công suất 3 9. PLCS330846 Điều khiển lập trình 3
+Tổng 16
+Học kỳ 5:
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. EMSY435664 Hệ thống nhúng 3 2. DSPR431264 Xử lý tín hiệu số 3 3. PRMI320463 TT vi xử lý 2 MICR330363
+Hướng Viễn Thông - Vi mạch 4. WCSY431364 Hệ thống thông tin vô tuyến 3 5. ICDV436264 Thiết kế mạch tích hợp VLSI 3 6. DSPL411264 TT xử lý tín hiệu số 1 7. FADL316764 TT thiết kế FPGA/ASIC với Verilog 1 8. COSL420764 TT hệ thống viễn thông 2
+Hướng Điện Tử Công Nghiệp 9. DSIC330563 Thiết kế vi mạch số với HDL 3 10. PPLC321346 TT Điều khiển lập trình 2 11. POEP320262 TT điện tử công suất 2 BAEL340662 12. IMPR432463 Xử lý ảnh 3
+Tổng 18
+Học kỳ 6:
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. BAEL340662 Điện tử cơ bản 4 ELCI240144 2. MATH130301 Toán 3 3 3. PHYS110402 Thí nghiệm vật lý 2 1 4. DIGI330163 Kỹ thuật số 3 BAEL340662 5. SISY330164 Tín hiệu và hệ thống 3 6. Tự chọn cơ sở ngành 1 3 7. Tự chọn cơ sở ngành 2 3
+Tổng 20
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. DACO430664 Kỹ thuật truyền số liệu 3 2. MICR330363 Vi xử lý 3 DIGI330163 3. ELPR320762 TT điện tử 2 4. PRDI310263 TT kỹ thuật số 1 5. DACL411164 TT Kỹ thuật truyền số liệu 1
+Hướng Viễn Thông - Vi mạch 6. COSY330464 Hệ thống viễn thông 3 SISY330164 7. FADV336764 Thiết kế FPGA/ASIC với Verilog 3 DIGI330163
+Hướng Điện Tử Công Nghiệp 8. POEL330262 Điện tử công suất 3 9. PLCS330846 Điều khiển lập trình 3
+Tổng 16
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. EMSY435664 Hệ thống nhúng 3 2. DSPR431264 Xử lý tín hiệu số 3 3. PRMI320463 TT vi xử lý 2 MICR330363
+Hướng Viễn Thông - Vi mạch 4. WCSY431364 Hệ thống thông tin vô tuyến 3 5. ICDV436264 Thiết kế mạch tích hợp VLSI 3 6. DSPL411264 TT xử lý tín hiệu số 1 7. FADL316764 TT thiết kế FPGA/ASIC với Verilog 1 8. COSL420764 TT hệ thống viễn thông 2
+Hướng Điện Tử Công Nghiệp 9. DSIC330563 Thiết kế vi mạch số với HDL 3 10. PPLC321346 TT Điều khiển lập trình 2 11. POEP320262 TT điện tử công suất 2 BAEL340662 12. IMPR432463 Xử lý ảnh 3
+Tổng 18
+Số Mã MH trước,
+TT Mã MH Tên MH
+TC MH tiên quyết 1. EMSL415664 TT hệ thống nhúng 1
+Hướng Viễn Thông - Vi mạch 2. ITFA436064 Cơ sở và ứng dụng IoT 3 3. MIEN330364 Kỹ thuật siêu cao tần 3 4. ITFL416064 TT Cơ sở và ứng dụng IoT 1 5. ICDL416264 TT Thiết kế mạch tích hợp VLSI 1 6. WCSL411364 TT hệ thống thông tin vô tuyến 1 7. Tự chọn chuyên ngành/Liên ngành 1 3 8. Tự chọn chuyên ngành/Liên ngành 2 3 9. SEPR411464 Đồ án 1 1
+Hướng Điện Tử Công Nghiệp 10. APCA331363 Lập trình Android ứng dụng điều khiển 3 MICR330363 11. SETE331963 Công nghệ cảm biến 3 12. PRIM311063 TT Xử lý ảnh 1 13. PRDS320663 TT thiết kế vi mạch số với HDL 2 DSIC330563 14. Tự chọn chuyên ngành/Liên ngành 1 3 15. Tự chọn chuyên ngành/Liên ngành 2 3 16. ELPR310863 Đồ án 1 1
+Tổng 17
+Học kỳ 7:
+Số Mã MH trước,
+TT Mã HP Môn
+TC MH tiên quyết 1. Tự chọn KH XHNV 1 2 2. Tự chọn KH XHNV 2 2
+Hướng Viễn Thông – Vi Mạch 1. SEPR411664 Đồ án 2 1 2. INEN429164 Sáng tạo và khởi nghiệp 2 3. INTE423064 TT tốt nghiệp 2
+Hướng Điện Tử Công Nghiệp 4. ELPR310963 Đồ án 2 1 5. BUCO124565 Liên hệ Doanh nghiệp 2 6. GRPR324463 TT tốt nghiệp 2
+Tổng 5+4
+Học kỳ 8:
+Số Mã MH trước,
+TT Mã HP Môn
+TC MH tiên quyết
+Hướng Viễn Thông 1 CAPR473964 Khóa luận tốt nghiệp 7
+Hướng Điện Tử Công Nghiệp 1 GRAD474563 Khóa luận tốt nghiệp 7
+Tổng 7
+TT Mã MH Tên MH Số
+TC Mã MH trước,
+MH tiên quyết 1. EMSL415664 TT hệ thống nhúng 1
+Hướng Viễn Thông - Vi mạch 2. ITFA436064 Cơ sở và ứng dụng IoT 3 3. MIEN330364 Kỹ thuật siêu cao tần 3 4. ITFL416064 TT Cơ sở và ứng dụng IoT 1 5. ICDL416264 TT Thiết kế mạch tích hợp VLSI 1 6. WCSL411364 TT hệ thống thông tin vô tuyến 1 7. Tự chọn chuyên ngành/Liên ngành 1 3 8. Tự chọn chuyên ngành/Liên ngành 2 3 9. SEPR411464 Đồ án 1 1
+Hướng Điện Tử Công Nghiệp 10. APCA331363 Lập trình Android ứng dụng điều khiển 3 MICR330363 11. SETE331963 Công nghệ cảm biến 3 12. PRIM311063 TT Xử lý ảnh 1 13. PRDS320663 TT thiết kế vi mạch số với HDL 2 DSIC330563 14. Tự chọn chuyên ngành/Liên ngành 1 3 15. Tự chọn chuyên ngành/Liên ngành 2 3 16. ELPR310863 Đồ án 1 1
+Tổng 17
+TT Mã HP Môn Số
+TC Mã MH trước,
+MH tiên quyết 1. Tự chọn KH XHNV 1 2 2. Tự chọn KH XHNV 2 2
+Hướng Viễn Thông – Vi Mạch 1. SEPR411664 Đồ án 2 1 2. INEN429164 Sáng tạo và khởi nghiệp 2 3. INTE423064 TT tốt nghiệp 2
+Hướng Điện Tử Công Nghiệp 4. ELPR310963 Đồ án 2 1 5. BUCO124565 Liên hệ Doanh nghiệp 2 6. GRPR324463 TT tốt nghiệp 2
+Tổng 5+4
+TT Mã HP Môn Số
+TC Mã MH trước,
+MH tiên quyết
+Hướng Viễn Thông 1 CAPR473964 Khóa luận tốt nghiệp 7
+Hướng Điện Tử Công Nghiệp 1 GRAD474563 Khóa luận tốt nghiệp 7
+Tổng 7 9. Mô tả vắn tắt nội dung và khối lượng các môn học 9.1. Toán 1 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học giúp người học ôn tập lại các kiến thức toán học phổ thông và cao cấp: các kiến thức về tập hợp số: số hữu tỉ, số thực, số phức. Giới hạn: hàm số, giới hạn hàm số, hàm số liên tục. Phép tính vi phân hàm một biến: đạo hàm, vi phân, khai triển Taylor-Maclaurin, khảo sát hàm số, đường cong trong tọa độ cực. Phép tính tích phân của hàm một biến: tích phần bất định, tích phân xác định, tích phân suy rộng. Chuỗi: chuỗi số, chuỗi hàm, chuỗi lũy thừa, chuỗi Taylor-Maclaurin, chuỗi Fourier, khai triển Fourier, chuỗi lượng giác. 9.2. Toán 2 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán cao cấp 1
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Ma trận-định thức: ma trận, các dạng ma trận, ma trận nghịch đảo, định thức, hạng của ma trận. Hệ phương trình tuyến tính: Hệ tuyến tính, qui tắc Cramer, phương pháp Gauss, hệ thuần nhất. Không gian vector: Không gian vector, không gian con, độc lập tuyến tính, phụ thuộc tuyến tính, cơ sở, số chiều, không gian Euclide. Chéo hóa ma trận-dạng toàn phương: trị riêng, vector riêng, không gian riêng, chéo hóa ma trận, dạng toàn phương, dạng chính tắc, các mặt bậc 2. Phép tính vi phân của hàm nhiều biến: hàm nhiều biến, đạo hàm, vi phân, cực trị hàm nhiều biến, ứng dụng phép tính vi phân vào hình học trong không gian. 9.3. Toán 3 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán cao cấp 1
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung về: Tích phân bội: tích phân kép, ứng dụng tính diện tích miền phẳng, tính diện tích mặt cong, thể tích vật thể, tích phân bội ba, ứng dụng tính thể tích vật thể. Tích phân đường : Tích phân đường loại một, ứng dụng, tích phân đường loại hai, ứng dụng, công thức Green, điều kiện tích phân đường không phụ thuộc vào đường lấy tích phân. Tích phân mặt : tích phân mặt loại một, loại hai, công Ostrogratski, trường vector, thông lượng và độ phân kỳ, công thức Ostrogratski dưới dạng vector, công thức Stokes, hoàn lưu và vector xoáy, công thức Stokes dạng vector. 9.4. Xác suất thống kê ứng dụng 3
+Phân bố thời gian học tập: 3 (3/0/6)
+Môn học trước: Toán 1, Toán 2
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : các khái niệm cơ bản trong lý thuyết xác suất: Quy tắc đếm, tổ hợp, chỉnh hợp, hoán vị, nhị thức
+Newton, phép thử, biến cố, xác suất, xác suất có điều kiện. Biến số ngẫu nhiên : Biến số ngẫu nhiên, luật phân phối xác suất của biến ngẫu nhiên, đặc trưng số của biến ngẫu nhiên: kỳ vọng, phương sai, Mod, Med. Các phân phối xác suất thường dùng : phân phối nhị thức, phân phối Poisson, phân phối chuẩn, phân phối Student. Lý thuyết mẫu : khái niệm đám đông, mẫu ngẫu nhiên, thống kê trên mẫu, phương pháp lấy mẫu, đặc trưng của mẫu, phân phối của các đặc trung mẫu, cách tính các đặc trưng mẫu. Lý thuyết ược lượng : khái niệm ước lượng, ước lượng điểm, ước lượng khoảng. Kiểm định giả thuyết thống kê : khái niệm sai lầm loại I và II, mức ý nghĩa của kiểm định, kiểm định về trung bình, kiểm định về tỉ lệ, kiểm định về sự bằng nhau của 2 trung bình, 2 tỉ lệ, kiểm định về tính độc lập. Tương quan và hồi qui: biến số ngẫu nhiên 2 chiều, hệ số tương quan , hệ số tương quan mẫu, bảng tương quan thực nghiệm, đường hồi qui thực nghiệm. 9.5. Vật lý 1 3
+Phân bố thời gian học tập: 2(2/1/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : cơ học: động học chất điểm, động lực học chất điểm, các định luật bảo toàn, chuyển động vật rắn.
+Nhiệt động lực: nội dung thuyết động học phân tử, nguyên lý I Nhiệt động, nguyên lý II
+Nhiệt động. Điện và từ: điện trường, từ trường, điện từ trường biến thiên. 9.6. Vật lý 2 2+1
+Phân bố thời gian học tập: 2(2/1/4)
+Môn học trước: Không
+Môn học tiên quyết: Không
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học cung cấp cho người học nội dung : Thuyết tương đối Einstein: thuyết tương đối hẹp, thuyết tương đối rộng. Quang học: quang học sóng và các hiện tượng giao thoa, nhiễu xạ ánh sang, quang học lượng tử và các hiện tượng quang điện, Compton. Vật lý lượng tử: các giả thuyết de Broglie và Heisenberg, phương trình
+Schrödinger và chuyển động của vi hạt, sự lượng tử hóa các đại lượng vật lý.
+Môn học dựa vào các bài thực hành giúp người học có cái nhìn trực quan hơn về các sự vật hiện tượng đã được học trong lý thuyết gồm các bài thực hành: lý thuyết về các phép tính sai số, xác định mômen quán tính của bánh xe và lực ma sát của ổ trục, xác định gia tốc trọng trường bằng con lắc vật lý, xác định tỷ số nhiệt dung phân tử của chất khí, khảo sát mạch cộng hưởng RLC- Đo RLC bằng dao động ký điện tử, khảo sát đặc tính của diode và transistor, xác định điện tích riêng của electron bằng phương pháp magnetron, khảo sát nhiễu xạ tia Laser qua cách tử phẳng. xác định bước sóng tia Laser, khảo sát hiện tượng bức xạ nhiệt- nghiệm định luật Stefan- Boltzman, khảo sát hiện tượng quang điện ngoài- xác định hằng số Planck. 9.7. Tín hiệu và hệ thống 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: hàm biến phức và biến đổi Laplace
+Môn học tiên quyết: hàm biến phức và biến đổi Laplace
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Giới thiệu phương pháp xử lý tín hiệu tương tự đang được nghiên cứu và ứng dụng trong công nghệ điện-điện tử: Các ý niệm cơ bản về tín hiệu và hệ thống tương tự. Các phương pháp mô tả và xử lý tín hiệu tương tự trong miền thời gian. Ứng dụng phương pháp toán tử trong xử lý tín hiệu tương tự. Các phương pháp mô tả và xử lý tín hiệu tương tự trong miền tần số. Các ứng dụng. 9.8. Đồ án 1 (ĐTCN) 1
+Phân bố thời gian học tập: 1(1/0/3)
+Môn học trước: kỹ thuật số
+Môn học tiên quyết: kỹ thuật số
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hiện một đề tài (mô phỏng, thi công) tổng hợp kiến thức các môn học cơ sở ngành. 9.9. Thiết kế vi mạch số với HDL 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: kỹ thuật số
+Môn học tiên quyết: kỹ thuật số
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Giới thiệu nguyên lý cấu tạo các thiết bị lập trình PLD,
+FPGA, giới thiệu ngôn ngữ lập trình VHDL, Verilog để lập trình thiết kế các mạch tổ hợp, các mạch tuần tự, các mạch điện ứng dụng, phương pháp thiết kế mạch. 9.10. Kỹ thuật truyền số liệu 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: kỹ thuật số
+Môn học tiên quyết: kỹ thuật số
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Cung cấp cho sinh viên cách nhìn thống nhất của lãnh vực rộng của thông tin máy tính và số liệu, nhấn mạnh những nguyên lý cơ bản và những chủ đề thiết yếu liên quan đến kỹ thuật truyền số liệu, dồn kênh, tách kênh, kỹ thuật sửa sai, điều khiển luồng, ngoài ra môn học còn đề cập đến các dịch vụ chuyển dữ liệu giữa các thiết bị trong mạch và giữa các mạng với nhau. 9.11. Đồ án 2 (ĐTCN) 1
+Phân bố thời gian học tập: 1(1/0/3)
+Môn học trước: Vi xử lý, điều khiển lập trình, thiết kế vi mạch số với HDL.
+Môn học tiên quyết: Vi xử lý, điều khiển lập trình, thiết kế vi mạch số với HDL.
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hiện một đề tài (mô phỏng, thi công board) tổng hợp kiến thức các môn học cơ sở chuyên ngành. 9.12. Hệ thống nhúng 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: vi xử lý, Điều khiển lập trình
+Môn học tiên quyết: vi xử lý, Điều khiển lập trình
+Môn học song hành: Không
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học kiến thức về kiến trúc hệ thống nhúng, nguyên lý về hệ điều hành nhúng, hệ điều hành thời gian thực. 9.13. Trường điện từ 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Toán cao cấp 1, 2. Vật lí đại cương 1, 2.
+Môn học tiên quyết: Toán cao cấp 1, 2. Vật lí đại cương 1, 2.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Các khái niệm và phương trình cơ bản của trường điện từ,
+Trường điện từ tĩnh, trường điện từ dừng, Trường điện từ biến thiên, Bức xạ điện từ, ống dẫn sóng và hộp cộng hưởng. 9.14. Máy học 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Xử lý tín hiệu và xử lý ảnh số.
+Môn học tiên quyết: Xử lý tín hiệu và xử lý ảnh số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về máy học. Học phần khái quát từ kiến thức cơ bản về máy học, trong đó học cách để xây dựng hệ thống học và thích nghi cho ứng dụng thực tế. Những đề tài của khóa học là những khái niệm học, nhận dạng dùng nơron, máy vector hổ trợ và những phương pháp. Khóa học sẽ có những đề tài, giới thiệu phần mềm và một số ứng dụng trên tín hiệu và hình ảnh. 9.15. Công nghệ cảm biến 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Xử lý tín hiệu và xử lý ảnh số.
+Môn học tiên quyết: Xử lý tín hiệu và xử lý ảnh số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Việc sử dụng các loại cảm biến khác nhau tăng lên nhanh chóng trong các công nghệ hiện đại. Hiện nay rất nhiều các ứng dụng liên quan đến cảm biến được tìm thấy trong nhiều lĩnh vực khác nhau bao gồm công nghệ môi trường, kỹ thuật chế tạo, công nghiệp tự động và công nghệ y sinh. Nội dung môn học này tập trung vào cơ sở lý thuyết, nguyên lý làm việc và ứng dụng của các loại cảm biến. Ngoài ra môn học này cũng đề cập đến các kỹ thuật đo lường, xử lý tín hiệu cảm biến và hệ thống đo lường cảm biến. 9.16. Xử lý tín hiệu số 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử thông tin, Tín hiệu và hệ thống.
+Môn học tiên quyết: Điện tử thông tin, Tín hiệu và hệ thống.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên các khái niệm cơ bản về Xử lý tín hiệu số như: lấy mẫu, lượng tử hóa, biến đổi Z, … thực hiện và thiết kế các mạch lọc số và các ứng dụng. 9.17. Xử lý ảnh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Xử lý tín hiệu số.
+Môn học tiên quyết: Xử lý tín hiệu số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên cơ sở toán học về xử lý ảnh số (Nhân chập, lọc, DFT, FFT, DCT, Wavelets, …), một số kỹ thuật xử lý ảnh số (Tăng cường ảnh, khôi phục ảnh, tách biên, phân đoạn ảnh, nhận dạng ảnh, nén ảnh, khôi phục ảnh). 9.18. Điều khiển lập trình 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vi xử lý, Kỹ thuật số.
+Môn học tiên quyết: Vi xử lý, Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về các phương pháp xác định ngõ ra của cảm biến, cách tính toán giá trị ngõ ra theo yêu cầu, các kiểu kết nối các loại cảm biến và cơ cấu chấp hành với bộ điều khiển PLC, chức năng và nguyên lý hoạt động của PLC và ứng dụng tập lệnh. 9.8. Thí nghiệm vật lý 1 1
+Phân bố thời gian học tập: 1(0/1/6)
+Môn học trước: Toán 1.
+Môn học tiên quyết: Vật lý 1.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Thí nghiệm vật lý 1 gồm một đơn vị học phần có 9 bài thí nghiệm về động học, động lực học chất điểm động lực học vật rắn và nhiệt học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ cao đẳng và đại học những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.9. Thí nghiệm vật lý 2 1
+Phân bố thời gian học tập: 1(0/1/6)
+Môn học trước: Toán 1, Vật lý 1, thí nghiệm vật lý 1.
+Môn học tiên quyết: Toán 1, Vật lý 1, thí nghiệm vật lý 1.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Thí nghiệm các nguyên lý vật lý 2 gồm một đơn vị học phần có 9 bài thí nghiệm về điện từ học và quang học. Đây là môn học bổ sung cho sinh viên thuộc khối ngành công nghệ hệ đại học ngành kỹ thuật những kiến thức về bản chất các hiện tượng vật lý xảy ra trong tự nhiên, kiểm tra lại các lý thuyết vật lý đã được học trong chương trình nhằm rèn luyện cho các kỹ sư tương lai kỹ năng quan sát, tiến hành thí nghiệm, đo đạc và tính toán, phân tích, xử lý số liệu. 9.18. Thực tập vi xử lý 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Vi xử lý.
+Môn học tiên quyết: Vi xử lý.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành lập trình cho vi điều khiển giao tiếp điều khiển led đơn, led 7 đoạn, LCD, led ma trận, bàn phím, thời gian thực, truyền dữ liệu, định thời timer, đếm sản phẩm counter, chuyển đổi ADC đo nhiệt độ, các ứng dụng thực tế. 9.19. Thực tập kỹ thuật số 1
+Phân bố thời gian học tập: 1(0/1/4)
+Môn học trước: Kỹ thuật số.
+Môn học tiên quyết: Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành các mạch điện tử số như cổng logic, flip flop, mạch đếm, thanh ghi, thiết kế mạch tổ hợp và mạch tuần tự, bộ nhớ, adc, dac và các mạch ứng dụng trong thực tế. 9.20. Thực tập hệ thống nhúng 1
+Phân bố thời gian học tập: 1(0/1/4)
+Môn học trước: Hệ thống nhúng.
+Môn học tiên quyết: Hệ thống nhúng.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học kiến thức về kiến trúc hệ thống nhúng, nguyên lý về hệ điều hành nhúng, hệ điều hành thời gian thực. 9.21. Thực tập điện tử 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Môn mạch điện, điện tử cơ bản, thực tập điện.
+Môn học tiên quyết: Môn mạch điện, điện tử cơ bản, thực tập điện.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học người học thực hiện các nội dung về cách sử dụng các thiết bị đo trong kỹ thuật điện tử; Cách nhận dạng các linh kiện điện tử cơ bản như:
+R, L, C, diode, BJT, FET, OPAMP; Kiểm chứng các mạch ứng dụng cơ bản của các linh kiện điện tử giữa lý thuyết và thực tế, từ đó phân tích họat động của mạch trên thực tế;
+Vận dụng các mạch ứng dụng vào thực tế, phân tích họat động các mạch điện tử cơ bản trong thực tế. 9.22. Thực tập điện tử công suất 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Điện tử công suất.
+Môn học tiên quyết: Điện tử công suất.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này người học thực hiện các nội dung về lắp ráp các mạch, phân tích quá trình hoạt động, vẽ dạng sóng, đo kiểm các thông số cơ bản của các mạch chỉnh lưu, mạch điều chỉnh, đóng ngắt điện áp xoay chiều, mạch nghịch lưu, mạch biến đổi điện áp DC – DC; Xác định sự cố, khắc phục và sửa chữa các mạch thực tập tại xưởng và trong thực tế; Tính toán thiết kế các mạch tạo xung điều khiển đồng bộ, các mạch điều chế… 9.23. Thực tập thiết kế vi mạch số với HDL 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Thiết kế vi mạch số với HDL.
+Môn học tiên quyết: Thiết kế vi mạch số với HDL.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Hướng dẫn sinh viên thực hành lập trình thiết kế mạch điện tử số bằng ngôn ngữ VHDL sử dụng vi mạch lập trình PLD và FPGA, các ứng dụng thực tế. 9.24. Thực tập điều khiển lập trình 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Điều khiển lập trình.
+Môn học tiên quyết: Điều khiển lập trình.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này người học thực hiện các nội dung về kết nối các loại cảm biến vào bộ điều khiển; tính toán và lựa chọn thiết bị lập trình phù hợp theo yêu cầu và lập trình điều khiển cho hệ thống công nghiệp theo yêu cầu. 9.25 Thực tập tốt nghiệp 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Thực tập điều khiển lập trình, thực tập vi xử lý, Đồ án điện tử 1, Đồ án điện tử 2.
+Môn học tiên quyết: Thực tập điều khiển lập trình, thực tập vi xử lý, Đồ án điện tử 1, Đồ án điện tử 2.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Sinh viên được giới thiệu đến các công ty trong nước và nước ngoài, các đơn vị sản xuất trong ngành công nghiệp chuyên về điện tử để tập sự, làm các công việc thực tế của một kỹ sư điện tử -viễn thông tương lai dưới sự hướng dẫn và điều động của đơn vị tiếp nhận thực tập. 9.26. Tiểu luận tốt nghiệp 7
+Phân bố thời gian học tập: 7(0/7/14)
+Môn học trước: Đủ điều kiện học các môn tốt nghiệp, Thực tập tốt nghiệp.
+Môn học tiên quyết: Đủ điều kiện học các môn tốt nghiệp, Thực tập tốt nghiệp.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Sinh viên chọn lựa một trong các lĩnh vực như: chuyển mạch, truyền dẫn và mạng viễn thông, VHDL, xử lý tín hiệu số, hệ thống nhúng để thực hiện đề tài. 9.27. Hệ thống viễn thông 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử cơ bản 2, Điện tử thông tin.
+Môn học tiên quyết: Điện tử cơ bản 2, Điện tử thông tin.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên các khái niệm cơ bản về viễn thông như: tín hiệu, phổ, SNR, BER…các kỹ thuật điều chế trong hệ thống thông tin tương tự, số, kỹ thuật ghép kênh, phân kênh, chuyển mạch & tổng đài và sơ lược về các hệ thống thông tin. 9.28. Kỹ thuật siêu cao tần 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử thông tin.
+Môn học tiên quyết: Điện tử thông tin.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trình bày các lý thuyết cơ sở của kỹ thuật siêu cao tần như: Hiện tượng truyền sóng, đồ thị Smith, phối hợp trở kháng 9.29. Hệ thống thông tin vô tuyến 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Hệ thống viễn thông.
+Môn học tiên quyết: Hệ thống viễn thông.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên các khái niệm cơ bản về hệ thống thông tin vô tuyến như: thông tin di động 2G, 3G, 4G và 5G, thông tin vi ba, thông tin vệ tinh; các giải pháp thông tin vô tuyến năng cao khả năng tái sử dụng tần số, bảo mật, dung lượng, phân tập và thu thập năng lượng; các hệ thống thông tin sử dụng các phương thức đa truy cập khác. 9.30. Thực tập kỹ thuật truyền số liệu 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Thực tập kỹ thuật số, Kỹ thuật truyền số liệu.
+Môn học tiên quyết: Thực tập kỹ thuật số, Kỹ thuật truyền số liệu.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học nhằm trang bị các kiến thức thực tế trong kỹ thuật truyền số liệu, kết nối các thiết bị mạng thông tin số, máy tính, khảo sát các giao thức truyền dữ liệu… 9.31. Thực tập Xử lý tín hiệu số 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Xử lý tín hiệu số.
+Môn học tiên quyết: Xử lý tín hiệu số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học giúp sinh viên làm quen với ngôn ngữ lập trình và lập trình cho chip DSP…, thực hiện các mạch lọc số mô phỏng trên máy tính và chạy thực trên kit DSP với các tín hiệu chuẩn và audio. 9.32. Thực tập hệ thống viễn thông 2
+Phân bố thời gian học tập: 2(0/2/4)
+Môn học trước: Hệ thống viễn thông, TT Điện tử thông tin.
+Môn học tiên quyết: Không.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học nhằm trang bị các kiến thức thực tế về mạch điện tử thông tin, mạch hệ thống thu phát AM, FM, mạch điều chế số, chiếu chế xung. 9.33. Anten và truyền sóng 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Trường điện từ, Điện tử thông tin, Kỹ thuật mạch siêu cao tần.
+Môn học tiên quyết: Trường điện từ, Điện tử thông tin, Kỹ thuật mạch siêu cao tần.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trình bày cơ sở toán học về lý thuyết antenna, truyền sóng. Truyền sóng trên đường dây dẫn và qua các ống dẫn sóng. Phương thức truyền sóng vô tuyến và truyền qua cáp quang. Giới thiệu và mô tả đặc tính của anten. Lý thuyết anten và hệ thống bức xạ 9.34. Mạch siêu cao tần 2
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Cơ sở Kỹ thuật siêu cao tần.
+Môn học tiên quyết: Cơ sở Kỹ thuật siêu cao tần.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học đề cập đến các linh kiện trong mạch siêu cao tần, mạch khuếch đại siêu cao tần, mạch dao động, mạch chia công suất, các dạng mạch ghép. 9.35. Thông tin quang 2
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hệ thống viễn thông.
+Môn học tiên quyết: Hệ thống viễn thông.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên các khái niệm cơ bản về hệ thống thông tin dùng sợi quang như: biến đổi điện - quang, quang - điện, điều chế, khuếch đại tín hiệu quang, ghép kênh, các kỹ thuật và thiết bị ghép nối sợi quang, các hệ thống thông tin quang kết hợp, mạng thông tin quang, SNR, BER và các ứng dụng của các hệ thống thông tin quang. 9.36. Thông tin số 2
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Hệ thống viễn thông 2.
+Môn học tiên quyết: Hệ thống viễn thông 2.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên các khái niệm cơ bản về hệ thống thông tin số như: sơ đồ khối hệ thống thông tin số, kênh truyền, mã hoá nguồn, mã hoá kênh, vấn đề đồng bộ sóng mang, dung lượng kênh của hệ thống, các bộ thu tối ưu trên kênh truyền có nhiễu AWGN, bộ cân bằng, các hệ thống đa kênh, đa sóng mang, đa người sử dụng và kỹ thuật trải phổ trong thông tin số, … 9.37. Kỹ thuật số 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử cơ bản.
+Môn học tiên quyết: Điện tử cơ bản.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức về các hệ thống số, các cổng logic cơ bản, các định lý cơ bản của đại số Boole. Sinh viên còn được học cấu trúc hoạt động các vi mạch số cơ bản TTL và CMOS, các thông số đặc tính của vi mạch số, phân loại các họ vi mạch, nguyên lý chuyển đổi giữa tín hiệu tương tự và tín hiệu số, cấu trúc hoạt động và ứng dụng của bộ nhớ, nguyên lý các mạch dao động số.
+Sau cùng, môn học cung cấp cho sinh viên những kiến thức về tính toán, nhận biết các mạch tổ hợp, mạch tuần tự, đề ra và giải quyết những vấn đề mạch số, và rồi thiết kế những hệ thống số. 9.38. Truyền hình số và đa phương tiện 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Kỹ thuật số.
+Môn học tiên quyết: Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Tổng quan về hệ thống audio và video, hệ thống thu phát thanh AM và FM, hệ thống thu phát hình trắng đen, thu phát hình màu. Khái niệm cơ bản về hệ thống số, hệ thống thu-phát thanh số, hệ thống truyền hình số, phối hợp tín hiệu bít nối tiếp và ghép, nén tín hiệu audio và video số, truyền hình có độ phân giải cao (HDTV), truyền hình multimedia và video ảnh số. 9.39. Xử lý tín hiệu và hình ảnh y sinh 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Kỹ thuật số.
+Môn học tiên quyết: Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này nhằm cung cấp cho người học những kiến thức cơ bản về xử lý tín hiệu và hình ảnh y sinh sinh như EEG, EMG, fNIRS, CT-Scaner và
+MRI. Học phần khái quát từ kiến thức cơ bản về tín hiệu và hình ảnh y sinh và những toán tử liên quan cho xử lý tín hiệu và hình ảnh y sinh, đến các phép biến đổi. Lọc. Sau đó là phần giới thiệu về phép trích đặc trưng, mạng nơ-ron. 9.40. Vi xử lý nâng cao 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vi xử lý.
+Môn học tiên quyết: Vi xử lý.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về họ vi điều khiển ARM cortex 32 bit, đây là họ vi điều khiển có cấu trúc mạnh, tích hợp đầy đủ tất cả ngoại vi từ cơ bản đến nâng cao và là họ vi điều khiển ngày nay được sử dụng rất phổ biến. Môn học này sẽ giúp SV sau này ra trường có được cơ hội việc làm tốt hơn vì nhu cầu xã hội hiện nay đang rất cần lĩnh vực lập trình ARM này. 9.41. Vi xử lý 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Kỹ thuật số.
+Môn học tiên quyết: Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này trang bị cho người học các nội dung về vai trò chức năng của vi xử lý, hệ thống vi xử lý, sự ra đời của vi điều khiển. Cấu trúc bên trong vi điều khiển 8 bit, nguyên lý hoạt động của vi điều khiển 8 bit. Cấu trúc và nguyên lý hoạt động các thiết bị ngoại vi của vi điều khiển như timer/counter, chuyển đổi tương tự sang số, ngắt, điều chế độ rộng xung, truyền dữ liệu UART, SPI, I2C. Các kiến thức cơ bản về ngôn ngữ lập trình hợp ngữ và kiến thức chuyên sâu về ngôn ngữ C để lập trình cho các ứng dụng điều khiển của vi điều khiển, các mạch ứng dụng dùng vi điều khiển. 9.42. Thực tập xử lý ảnh 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: Xử lý ảnh.
+Môn học tiên quyết: Xử lý ảnh.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học thực tập xử lý ảnh là môn học thuộc nhóm chuyên ngành nhằm giới thiệu cho sinh viên những kiến thức và kỹ năng thực hành xử lý ảnh trên máy tính bằng phần mềm (Matlab) và trên phần cứng (Raspberry). Thiết kế hệ thống nhận dạng thông qua hình ảnh. 9.43. Lập trình Android ứng dụng điều khiển 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Vi xử lý.
+Môn học tiên quyết: Vi xử lý.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học trang bị cho sinh viên chuyên ngành Công nghệ Kỹ thuật Điện tử viễn thông những kiến thức cơ bản về lập trình ứng dụng trên hệ điều hành di động Android. Giới thiệu các công cụ hỗ trợ phát triển hệ điều hành Android, các thành phần cơ bản của một ứng dụng Android. Trình bày các đối tượng điều khiển, thiết kế giao diện cơ bản trong Android. Nêu các phương thức xử lý sự kiện, các vấn đề liên quan để hoàn thành và đóng gói một ứng dụng. Trình bày các công nghệ và các lớp ứng dụng kết nối SMS, bluetooth, wifi, NFC, nhận dạng giọng nói, cảm biến gia tốc,... Kết hợp với các kiến thức nền điện tử, vi xử lý xây dựng các hệ thống ứng dụng điều khiển liên quan.. 9.44. Thiết kế mạch Điện tử 3
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: Điện tử cơ bản, Kỹ thuật số.
+Môn học tiên quyết: Điện tử cơ bản, Kỹ thuật số.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Trình bày những kiến thức cơ bản và thiết kế mạch ứng dụng mạch nguồn ổn áp và mạch khuếch đại công suất âm tần. Trình bày những kiến thức cơ bản và ứng dụng của một vài cảm biến thông dụng: quang trở, hồng ngoại, cặp nhiệt, điện trở nhiệt, cảm biến vận tốc, cảm biến trọng lực, … Trình bày nguyên lý hoạt động và ứng dụng của một số vi mạch thông dụng trong điều khiển số: IC 555, Opamp (LM741,
+TL082, LM339, ...), ISD2560, … Trình bày một số hệ thống ứng dụng kết hợp. 9.45. Kỹ năng công nghiệp
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Không.
+Môn học tiên quyết: Không.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Môn học này cung cấp cho sinh viên kiến thức những tình huống thường xảy ra trong môi trường công nghiệp và cách tiếp cận, giải quyết vấn đề xảy ra. Từ đó giúp sinh viên hình thành các kỹ năng để hoài nhập nhanh trong môi trường công nghiệp sau khi ra trường. Cụ thể, khóa học sẽ dạy cho sinh viên về con đường và sự nghiệp kỹ sư, những phân tích trong thất bại và thành công, những cách xử lý dữ liệu và những kinh nghiệm làm việc. 9.46. Kinh doanh trong kỹ thuật
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: Không.
+Môn học tiên quyết: Không.
+Môn học song hành: Không.
+Tóm tắt nội dung học phần: Giới thiệu về dự án, thiết kế, phát triển và chuyển giao công nghệ những sản phẩm kỹ thuật tiềm năng thông qua đề tài môn học. Bài giảng được cung cấp bởi nhiều người có kinh nghiệm trong kinh doanh trong kỹ thuật. Sinh viên sẽ được học những kiến thức thực tế phục vụ cho việc phát triển kỹ năng kinh doanh. Giảng viên sẽ nhấn mạnh đến vấn đề điều tra thị trường, quảng bá sản phẩm, chuyển giao công nghệ và kinh thầu sản phẩm kỹ thuật. 10. Cơ sở vật chất phục vụ học tập 10.1 Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng -Phòng thực hành điện tử - Phòng thực hành kỹ thuật số - Phòng thực hành vi xử lý - Phòng thực hành thiết kế vi mạch số - Phòng thực hành viễn thông - Phòng thực hành thiết kế vi mạch - Phòng thực hành xử lý tín hiệu - Phòng thực hành hệ thống nhúng 10.2 Thư viện, trang WEB
+Thư viện Trường Đại Học Sư Phạm Kỹ Thuật TPHCM và tài liệu từ mạng internet 11. Hướng dẫn thực hiện chương trình a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau: 1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp = 30 giờ thí nghiệm hoặc thực hành = 45 giờ tự học = 45  90 giờ thực tập tại cơ sở. = 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15. b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa

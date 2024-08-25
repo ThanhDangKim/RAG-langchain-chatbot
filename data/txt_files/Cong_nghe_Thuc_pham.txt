@@ -1,0 +1,2944 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+NGÀNH CÔNG NGHỆ THỰC PHẨM
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+Tên chương trình: CÔNG NGHỆ THỰC PHẨM
+Ngành đào tạo: CÔNG NGHỆ THỰC PHẨM
+Tên tiếng Anh: FOOD TECHNOLOGY
+Trình độ đào tạo: ĐẠI HỌC
+Mã số: 7540101
+Hình thức đào tạo: CHÍNH QUI
+TP. Hồ Chí Minh, 2018
+BỘ GIÁO DỤC VÀ ĐÀO TẠO CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC SƯ PHẠM KỸ THUẬT Độc lập - Tự do - Hạnh phúc
+THÀNH PHỐ HỒ CHÍ MINH
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: CÔNG NGHỆ THỰC PHẨM
+Trình độ đào tạo: Đại học
+Ngành đào tạo: CÔNG NGHỆ THỰC PHẨM
+Mã ngành: 7540101
+Hình thức đào tạo: CHÍNH QUI
+Văn bằng tốt nghiệp:
+(Ban hành tại Quyết định số 1273 ngày 03 tháng 8 năm 2018 của Hiệu trưởng trường Đại học
+Sư phạm Kỹ thuật Thành phố Hồ Chí Minh)
+1. Thời gian đào tạo: 4 năm
+2. Đối tượng tuyển sinh: Tốt nghiệp phổ thông trung học
+3. Thang điểm, Quy trình đào tạo, điều kiện tốt nghiệp
+Thang điểm: 10
+Quy trình đào tạo: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện tốt nghiệp:
+Điều kiện chung: Theo qui chế đào tạo đại học, cao đẳng hệ chính quy theo hệ thống tín
+chỉ ban hành theo quyết định số 17/VBHN-BGDĐT
+Điều kiện của chuyên ngành: không có
+4. Mục tiêu đào tạo và chuẩn đầu ra
+Mục đích (Goals)
+Sinh viên tốt nghiệp có: (a) phẩm chất chính trị và đạo đức; (b) có ý thức phục vụ nhân
+dân; (c) có sức khỏe; (d) có kiến thức cơ bản và kiến thức cơ sở ngành và chuyên ngành CNTP;
+(e) có khả năng nhận biết, phân tích, giải quyết và đề xuất các giải pháp; (f) có năng lực thiết
+kế, xây dựng và quản lý các hệ thống liên quan đến lĩnh vực CNTP; (g) có kỹ năng giao tiếp và
+làm việc nhóm; (h) có thái độ nghề nghiệp phù hợp đáp ứng được các yêu cầu phát triển của
+ngành và xã hội, đáp ứng yêu cầu xây dựng và bảo vệ tổ quốc.
+Sinh viên sau khi tốt nghiệp có thể làm việc tại các nhà máy, công ty, xí nghiệp, cơ
+quan, tổ chức có liên quan đến lĩnh vực CNTP và các cơ sở đào tạo chuyên ngành CNTP.
+Hướng dẫn: là tuyên bố tổng quát về lý do tồn tại của CTĐT, xác định năng lực về kiến thức,
+năng lực về thực hành nghề nghiệp và là những mong muốn sinh viên ra trường đạt được sau
+5, 7 năm.
+Mục tiêu đào tạo (Objectives)
+Sinh viên tốt nghiệp có kiến thức, kỹ năng và năng lực:
+1. Kiến thức và lập luận kỹ thuật
+2. Kỹ năng và tố chất cá nhân và chuyên nghiệp
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+4. Hình thành ý tưởng, thiết kế, triển khai, và vận hành trong bối cảnh doanh nghiệp, xã
+hội và môi trường – quá trình sáng tạo
+Chuẩn đầu ra (Program outcomes)
+Trình
+Ký độ
+ELO* Chuẩn đầu ra
+hiệu năng
+lực
+1. Có kiến thức và lập luận kỹ thuật
+Áp dụng kiến thức cơ bản trong toán học, khoa học tự nhiên, và khoa
+1.1. 1 3.0
+học xã hội vào lĩnh vực Công nghệ thực phẩm.
+Phân tích được các kiến thức kỹ thuật cốt lõi trong lĩnh vực Công nghệ
+1.2. 2 4.0
+thực phẩm.
+Đánh giá được các kiến thức kỹ thuật nâng cao để giải quyết các vấn đề
+1.3. 3 5.0
+trong lĩnh vực Công nghệ thực phẩm.
+2. Kỹ năng, tố chất cá nhân và chuyên nghiệp
+Đánh giá được các vấn đề liên quan đến lĩnh vực Công nghệ thực
+2.1. 4 5.0
+phẩm.
+Đánh giá được kết quả thực nghiệm trong lĩnh vực Công nghệ thực
+2.2. 5 5.0
+phẩm.
+Đánh giá được các vấn đề ở mức độ hệ thống liên quan đến lĩnh vực
+2.3. 6 5.0
+Công nghệ thực phẩm.
+2.4. 7 Nhận biết được nhu cầu tự học và học tập suốt đời. 3.0
+Nhận biết được các vấn đề về đạo đức, công bằng và các trách nhiệm
+2.5. 8 3.0
+khác phù hợp với pháp luật, qui định/chuẩn mực chung của xã hội.
+3. Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp
+3.1. 9 Tổ chức các hoạt động nhóm để giải quyết các vấn đề chuyên môn. 5.0
+Giao tiếp bằng các hình thức khác nhau để giải quyết các vấn đề
+3.2. 10 5.0
+chuyên môn trong công nghệ thực phẩm.
+Sử dụng được tiếng anh chuyên ngành công nghệ thực phẩm trong giao
+3.3. 11 4.0
+tiếp.
+Hình thành ý tưởng, thiết kế, triển khai và vận hành trong bối
+4.
+cảnh doanh nghiệp, xã hội và môi trường – Quá trình sáng tạo
+Đánh giá được vai trò và trách nhiệm của người kỹ sư công nghệ thực
+4.1. 12 5.0
+phẩm trong xã hội.
+Nhận thức được vai trò và trách nhiệm của người kỹ sư trong doanh
+4.2. 13 5.0
+nghiệp thực phẩm.
+Hình thành ý tưởng và xây dựng được các hệ thống quy trình công
+4.3. 14 6.0
+nghệ, hệ thống quản lý chất lượng.
+Thiết kế được các quy trình công nghệ, các thiết bị và phát triển các sản
+4.4. 15 6.0
+phẩm mới.
+Triển khai các quy trình công nghệ, các hệ thống quản lý chất lượng
+4.5. 16 6.0
+trong công nghệ thực phẩm.
+Vận hành các quy trình công nghệ, các hệ thống quản lý chất lượng
+4.6. 17 6.0
+trong công nghệ thực phẩm
+Ký
+hiệu	ELO*	Chuẩn đầu ra		Trình
+độ
+năng
+lực
+1.		Có kiến thức và lập luận kỹ thuật		
+1.1.	1	Áp dụng kiến thức cơ bản trong toán học, khoa học tự nhiên, và khoa
+học xã hội vào lĩnh vực Công nghệ thực phẩm.		3.0
+1.2.	2		Phân tích được các kiến thức kỹ thuật cốt lõi trong lĩnh vực Công nghệ	4.0
+			thực phẩm.	
+1.3.	3	Đánh giá được các kiến thức kỹ thuật nâng cao để giải quyết các vấn đề
+trong lĩnh vực Công nghệ thực phẩm.		5.0
+2.		Kỹ năng, tố chất cá nhân và chuyên nghiệp		
+2.1.	4	Đánh giá được các vấn đề liên quan đến lĩnh vực Công nghệ thực
+phẩm.		5.0
+2.2.	5	Đánh giá được kết quả thực nghiệm trong lĩnh vực Công nghệ thực
+phẩm.		5.0
+2.3.	6	Đánh giá được các vấn đề ở mức độ hệ thống liên quan đến lĩnh vực
+Công nghệ thực phẩm.		5.0
+2.4.	7	Nhận biết được nhu cầu tự học và học tập suốt đời.		3.0
+2.5.	8	Nhận biết được các vấn đề về đạo đức, công bằng và các trách nhiệm
+khác phù hợp với pháp luật, qui định/chuẩn mực chung của xã hội.		3.0
+3.		Kỹ năng giao tiếp: làm việc theo nhóm và giao tiếp		
+3.1.	9	Tổ chức các hoạt động nhóm để giải quyết các vấn đề chuyên môn.		5.0
+3.2.	10	Giao tiếp bằng các hình thức khác nhau để giải quyết các vấn đề
+chuyên môn trong công nghệ thực phẩm.		5.0
+3.3.	11	Sử dụng được tiếng anh chuyên ngành công nghệ thực phẩm trong giao
+tiếp.		4.0
+4.		Hình thành ý tưởng, thiết kế, triển khai và vận hành trong bối
+cảnh doanh nghiệp, xã hội và môi trường – Quá trình sáng tạo		
+4.1.	12	Đánh giá được vai trò và trách nhiệm của người kỹ sư công nghệ thực
+phẩm trong xã hội.		5.0
+4.2.	13	Nhận thức được vai trò và trách nhiệm của người kỹ sư trong doanh
+nghiệp thực phẩm.		5.0
+4.3.	14	Hình thành ý tưởng và xây dựng được các hệ thống quy trình công
+nghệ, hệ thống quản lý chất lượng.		6.0
+4.4.	15	Thiết kế được các quy trình công nghệ, các thiết bị và phát triển các sản
+phẩm mới.		6.0
+4.5.	16	Triển khai các quy trình công nghệ, các hệ thống quản lý chất lượng
+trong công nghệ thực phẩm.		6.0
+4.6.	17	Vận hành các quy trình công nghệ, các hệ thống quản lý chất lượng
+trong công nghệ thực phẩm		6.0
+4.7. 18 Đánh giá các hoạt động sáng tạo kỹ thuật trong lĩnh vực thực phẩm 2.0
+4.8. 19 Sáng tạo và khởi nghiệp trong lĩnh vực thực phẩm. 2.0
+*ELO: expected learning outcomes
+Thang trình độ năng lực
+Trình độ năng lực Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0 Cơ bản Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0 Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+Đạt yêu
+2.0 < TĐNL ≤ 3.0 cầu Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0 Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+Thành
+thạo
+4.0 < TĐNL ≤ 5.0 Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0 Xuất Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+sắc hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+4.7.	18	Đánh giá các hoạt động sáng tạo kỹ thuật trong lĩnh vực thực phẩm	2.0
+4.8.	19	Sáng tạo và khởi nghiệp trong lĩnh vực thực phẩm.	2.0
+Trình độ năng lực		Mô tả ngắn
+0.0 ≤ TĐNL ≤ 1.0	Cơ bản	Nhớ: Sinh viên ghi nhớ/ nhận ra/ nhớ lại được kiến thức
+bằng các hành động như định nghĩa, nhắc lại, liệt kê, nhận
+diện, xác định,...
+1.0 < TĐNL ≤ 2.0	Đạt yêu
+cầu	Hiểu: Sinh viên tự kiến tạo được kiến thức từ các tài liệu,
+kiến thức bằng các hành động như giải thích, phân loại, minh
+họa, suy luận, ...
+2.0 < TĐNL ≤ 3.0		Áp dụng: Sinh viên thực hiện/ áp dụng kiến thức để tạo ra
+các sản phẩm như mô hình, vật thật, sản phẩm mô phỏng,
+bài báo cáo,...
+3.0 < TĐNL ≤ 4.0	Thành
+thạo	Phân tích: Sinh viên phân tích tài liệu/ kiến thức thành các
+chi tiết/ bộ phận và chỉ ra được mối quan hệ của chúng tổng
+thể bằng các hành động như phân tích, phân loại, so sánh,
+tổng hợp,...
+4.0 < TĐNL ≤ 5.0		Đánh giá: SV đưa ra được nhận định, dự báo về kiến thức/
+thông tin theo các tiêu chuẩn, tiêu chí và chỉ số đo lường đã
+được xác định bằng các hành động như nhận xét, phản biện,
+đề xuất,...
+5.0 < TĐNL ≤ 6.0	Xuất
+sắc	Sáng tạo: SV kiến tạo/ sắp xếp/ tổ chức/ thiết kế/ khái quát
+hóa các chi tiết/ bộ phận theo cách khác/ mới để tạo ra cấu
+trúc/ mô hình/ sản phẩm mới.
+5. Khối lượng kiến thức toàn khoá: 132 tín chỉ
+(không bao gồm khối kiến thức Giáo dục thể chất và Giáo dục Quốc phòng)
+6. Phân bổ khối lượng các khối kiến thức
+TT TÊN HỌC PHẦN Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG 51
+A. Khối kiến thức bắt buộc 37
+I. Lý luận chính trị + Pháp luật 12
+1 Các NL cơ bản của CN Mác-Lênin 5
+2 Đường lối CM của ĐCSVN 3
+3 Tư tưởng Hồ Chí Minh 2
+4 Pháp luật đại cương 2
+II. Toán học và KHTN 22
+1 Toán 1 3
+2 Toán 2 3
+3 Toán 3 3
+4 Vật lý 1 3
+5 Vật lý 2 3
+6 Hoá học cho kỹ thuật 3
+7 Kỹ thuật điện 2
+8 Kỹ thuật nhiệt 2
+III. Nhập môn ngành Công nghệ thực phẩm 3 (2+1)
+B. Khối kiến thức tự chọn (theo ngành đào tạo) 14
+IV. Tin học 3
+1 Tin học văn phòng nâng cao 3 (2+1)
+V. Khoa học xã hội nhân văn (SV tự chọn theo danh mục) 2
+VI. Toán học và KHTN 6
+1 Hóa phân tích 2
+2 Hóa hữu cơ 2
+3 Thí nghiệm hóa hữu cơ 1
+4 Thí nghiệm hóa phân tích 1
+VII. Các môn khác 3
+1 Vẽ kỹ thuật 1 3
+C. Khối kiến thức GDTC + GDQP 165+5
+VIII. Giáo dục thể chất* 5
+1 Giáo dục thể chất 1 1
+2 Giáo dục thể chất 2 1
+3 Giáo dục thể chất 3 (tự chọn) 3
+IX. Giáo dục quốc phòng* 165
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP 81
+Cơ sở nhóm ngành và ngành (lý thuyết) 17
+Chuyên ngành (lý thuyết) 41
+ Bắt buộc 35
+ Tự chọn 6
+TT	TÊN HỌC PHẦN	Số tín chỉ
+KIẾN THỨC GIÁO DỤC ĐẠI CƯƠNG		51
+A. Khối kiến thức bắt buộc		37
+I. Lý luận chính trị + Pháp luật		12
+1	Các NL cơ bản của CN Mác-Lênin	5
+2	Đường lối CM của ĐCSVN	3
+3	Tư tưởng Hồ Chí Minh	2
+4	Pháp luật đại cương	2
+II. Toán học và KHTN		22
+1	Toán 1	3
+2	Toán 2	3
+3	Toán 3	3
+4	Vật lý 1	3
+5	Vật lý 2	3
+6	Hoá học cho kỹ thuật	3
+7	Kỹ thuật điện	2
+8	Kỹ thuật nhiệt	2
+III. Nhập môn ngành Công nghệ thực phẩm		3 (2+1)
+B. Khối kiến thức tự chọn (theo ngành đào tạo)		14
+IV. Tin học		3
+1	Tin học văn phòng nâng cao	3 (2+1)
+V. Khoa học xã hội nhân văn (SV tự chọn theo danh mục)		2
+VI. Toán học và KHTN		6
+1	Hóa phân tích	2
+2	Hóa hữu cơ	2
+3	Thí nghiệm hóa hữu cơ	1
+4	Thí nghiệm hóa phân tích	1
+VII. Các môn khác		3
+1	Vẽ kỹ thuật 1	3
+C. Khối kiến thức GDTC + GDQP		165+5
+VIII. Giáo dục thể chất*		5
+1	Giáo dục thể chất 1	1
+2	Giáo dục thể chất 2	1
+3	Giáo dục thể chất 3 (tự chọn)	3
+IX. Giáo dục quốc phòng*		165
+KHỐI KIẾN THỨC CHUYÊN NGHIỆP		81
+Cơ sở nhóm ngành và ngành (lý thuyết)		17
+Chuyên ngành (lý thuyết)
+ Bắt buộc
+ Tự chọn		41
+Thí nghiệm, thực tập, thực hành 16
+Khóa luận tốt nghiệp 7
+*Kiến thức về Giáo dục thể chất và Giáo dục quốc phòng sẽ không sắp xếp vào 8 học kỳ trong
+chương trình đào tạo. Sinh viên tự sắp xếp thời gian học tập các nội dung này
+Thí nghiệm, thực tập, thực hành	16
+Khóa luận tốt nghiệp	7
+7. Nội dung chương trình (tên và khối lượng các học phần bắt buộc)
+A – PHẦN BẮT BUỘC
+7.1. Kiến thức giáo dục đại cương (49 TC)
+Mã MH trước*,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5
+2. LLCT230214 Đường lối cách mạng của ĐCSVN 3
+3. LLCT120314 Tư tưởng Hồ Chí Minh 2
+4. GELA220405 Pháp luật đại cương 2
+5. MATH132401 Toán 1 3
+6. MATH132501 Toán 2 3
+7. MATH132601 Toán 3 3
+8. PHYS130902 Vật lý 1 3
+9. PHYS131002 Vật lý 2 3
+10. GCHE130603 Hoá đại cương 3
+11. ADMO138685 Tin học văn phòng nâng cao 3 (2+1)
+12. OCHE220203 Hóa hữu cơ 2
+(Organic Chemistry)
+13. ACHE220303 Hóa phân tích 2
+(Analytical Chemistry)
+14. EOCH210403 Thí nghiệm Hóa hữu cơ 1
+(Experiment of Organic Chemistry)
+15. EACH210503 Thí nghiệm Hóa phân tích 1
+(Experiment of Analytical
+Chemistry)
+16. TEDG130120 Vẽ kỹ thuật 1 3
+17. ELEE220144 Kỹ thuật điện 2
+18. THER222932 Kỹ thuật nhiệt 2
+19. INFT330150 Nhập môn ngành Công nghệ thực 3 (2+1)
+phẩm
+(Introduction of Food Technology)
+20. PHED110513 Giáo dục thể chất 1 1
+21. PHED110613 Giáo dục thể chất 2 1
+22. PHED130715 Giáo dục thể chất 3 (tự chọn) 3
+23. Giáo dục quốc phòng 165 tiết
+Tổng 49
+7.2. Kiến thức giáo dục chuyên nghiệp
+7.2.1. Kiến thức cơ sở nhóm ngành và ngành (17 TC)
+Mã MH trước*,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. HETE330250 Quá trình và thiết bị truyền nhiệt 3
+trong Công nghệ thực phẩm
+(Heat Transfer and Equipments)
+2. MTEQ320350 Quá trình và thiết bị truyền khối 2
+trong Công nghệ thực phẩm
+(Mass Transfer and Equipments)
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước*,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	
+2.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	
+3.	LLCT120314	Tư tưởng Hồ Chí Minh	2	
+4.	GELA220405	Pháp luật đại cương	2	
+5.	MATH132401	Toán 1	3	
+6.	MATH132501	Toán 2	3	
+7.	MATH132601	Toán 3	3	
+8.	PHYS130902	Vật lý 1	3	
+9.	PHYS131002	Vật lý 2	3	
+10.	GCHE130603	Hoá đại cương	3	
+11.	ADMO138685	Tin học văn phòng nâng cao	3 (2+1)	
+12.	OCHE220203	Hóa hữu cơ
+(Organic Chemistry)	2	
+13.	ACHE220303	Hóa phân tích
+(Analytical Chemistry)	2	
+14.	EOCH210403	Thí nghiệm Hóa hữu cơ
+(Experiment of Organic Chemistry)	1	
+15.	EACH210503	Thí nghiệm Hóa phân tích
+(Experiment of Analytical
+Chemistry)	1	
+16.	TEDG130120	Vẽ kỹ thuật 1	3	
+17.	ELEE220144	Kỹ thuật điện	2	
+18.	THER222932	Kỹ thuật nhiệt	2	
+19.	INFT330150	Nhập môn ngành Công nghệ thực
+phẩm
+(Introduction of Food Technology)	3 (2+1)	
+20.	PHED110513	Giáo dục thể chất 1	1	
+21.	PHED110613	Giáo dục thể chất 2	1	
+22.	PHED130715	Giáo dục thể chất 3 (tự chọn)	3	
+23.		Giáo dục quốc phòng	165 tiết	
+Tổng			49	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước*,
+MH tiên quyết
+1.	HETE330250	Quá trình và thiết bị truyền nhiệt
+trong Công nghệ thực phẩm
+(Heat Transfer and Equipments)	3	
+2.	MTEQ320350	Quá trình và thiết bị truyền khối
+trong Công nghệ thực phẩm
+(Mass Transfer and Equipments)	2	
+3. MHAP330450 Quá trình và thiết bị cơ học-thủy 3
+lực-khí nén trong Công nghệ thực
+phẩm
+(Mechanical, Hydraulic and Air-
+Compressed Process and
+Equipments)
+4. PHCF320550 Hóa lý 2
+(Physical Chemistry of Food)
+5. FOCH330650 Hóa học thực phẩm 3
+OCHE220203*
+(Food Chemistry)
+6. FOBI320750 Hóa sinh thực phẩm 2
+(Food Biochemistry)
+7. FOMI320850 Vi sinh thực phẩm 2
+(Food Microbiology)
+Tổng 17
+7.2.2. Kiến thức chuyên ngành (các học phần lý thuyết, 35 TC)
+Mã MH trước*,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. FOAD420950 Phụ gia thực phẩm (Food Additives) 2
+2. FOMA421050 Quản lý chất lượng thực phẩm 2
+(Food Management)
+3. FNFS431150 Dinh dưỡng và an toàn thực phẩm 3
+FOMI320850*
+(Food Nutrition and Food Safety)
+4. FOPA421250 Bao bì thực phẩm 2
+(Food Packaging)
+5. FPPD421350 Thiết kế công nghệ và nhà máy thực 2 MHAP330450*,
+phẩm HETE330250*,
+(Food Process and Plant Design) MTEQ320350*
+6. FOSE421450 Đánh giá cảm quan thực phẩm 2
+(Food Sensory Evaluation)
+7. FONA421550 Phân tích thực phẩm 2
+(Food Analysis)
+8. TEFT421650 Anh văn chuyên ngành Công nghệ 2
+thực phẩm
+(Technical English in Food
+Technology)
+9. SOFT431750 Thống kê và qui hoạch thực nghiệm 3 MATH132401*,
+trong Công nghệ thực phẩm MATH132501*,
+(Statistical and Optimization in MATH132601*
+Food Technology)
+10. CEPR421850 Công nghệ chế biến lương thực 2
+(Cereal Processing)
+11. PRBC421950 Công nghệ sản xuất bánh kẹo 2
+(Production of Bakery and
+Confectionary )
+12. PVFB422050 Công nghệ sản xuất rau quả & nước 2
+giải khát
+(Production of Vegetable, Fruit and
+Beverage)
+13. PDRD422150 Công nghệ sản xuất sữa & các sản 2
+phẩm từ sữa
+3.	MHAP330450	Quá trình và thiết bị cơ học-thủy
+lực-khí nén trong Công nghệ thực
+phẩm
+(Mechanical, Hydraulic and Air-
+Compressed Process and
+Equipments)	3	
+4.	PHCF320550	Hóa lý
+(Physical Chemistry of Food)	2	
+5.	FOCH330650	Hóa học thực phẩm
+(Food Chemistry)	3	OCHE220203*
+6.	FOBI320750	Hóa sinh thực phẩm
+(Food Biochemistry)	2	
+7.	FOMI320850	Vi sinh thực phẩm
+(Food Microbiology)	2	
+Tổng			17	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước*,
+MH tiên quyết
+1.	FOAD420950	Phụ gia thực phẩm (Food Additives)	2	
+2.	FOMA421050	Quản lý chất lượng thực phẩm
+(Food Management)	2	
+3.	FNFS431150	Dinh dưỡng và an toàn thực phẩm
+(Food Nutrition and Food Safety)	3	FOMI320850*
+4.	FOPA421250	Bao bì thực phẩm
+(Food Packaging)	2	
+5.	FPPD421350	Thiết kế công nghệ và nhà máy thực
+phẩm
+(Food Process and Plant Design)	2	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+6.	FOSE421450	Đánh giá cảm quan thực phẩm
+(Food Sensory Evaluation)	2	
+7.	FONA421550	Phân tích thực phẩm
+(Food Analysis)	2	
+8.	TEFT421650	Anh văn chuyên ngành Công nghệ
+thực phẩm
+(Technical English in Food
+Technology)	2	
+9.	SOFT431750	Thống kê và qui hoạch thực nghiệm
+trong Công nghệ thực phẩm
+(Statistical and Optimization in
+Food Technology)	3	MATH132401*,
+MATH132501*,
+MATH132601*
+10.	CEPR421850	Công nghệ chế biến lương thực
+(Cereal Processing)	2	
+11.	PRBC421950	Công nghệ sản xuất bánh kẹo
+(Production of Bakery and
+Confectionary )	2	
+12.	PVFB422050	Công nghệ sản xuất rau quả & nước
+giải khát
+(Production of Vegetable, Fruit and
+Beverage)	2	
+13.	PDRD422150	Công nghệ sản xuất sữa & các sản
+phẩm từ sữa	2	
+(Production of Dairy and Related
+Dairy Products)
+14. PTCC422250 Công nghệ sản xuất trà, cà phê, 2
+chocolate
+(Tea, Coffee and Cocao)
+15. MSPR422350 Công nghệ chế biến thịt và thủy sản 2
+(Meat and Seafood Processing)
+16. PPEF412450 Đồ án Quá trình và Thiết bị trong 1 MHAP330450*,
+Công nghệ thực phẩm HETE330250*,
+(Project of Processes and MTEQ320350*
+Equipments in Food Technology)
+17. STFT422550 Liên hệ doanh nghiệp (Special 2
+Topic in Food Technology)
+Tổng 35
+7.2.3. Thí nghiệm, thực tập, thực hành (16 TC)
+Mã MH trước*,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. PPEF412650 Thí nghiệm Quá trình và thiết bị 1 MHAP330450*,
+trong Công nghệ thực phẩm HETE330250*,
+(Experiment of Processes and MTEQ320350*
+Equipments in Food Technology)
+2. PFCB412750 Thí nghiệm Hóa sinh thực phẩm 1
+(Practice of Food Biochemistry)
+3. PFMI422850 Thí nghiệm Vi sinh thực phẩm 2
+(Experiment of Food Microbiology)
+4. PRFA412950 Thí nghiệm Phân tích thực phẩm 1
+(Practice of Food Analysis)
+5. PFSE413050 Thí nghiệm Đánh giá cảm quan 1
+thực phẩm
+(Practice of Food Sensory
+Evaluation)
+6. FAPR413150 Thực tập tốt nghiệp 1 1
+(Factory Practice 1)
+7. FAPR413250 Thực tập tốt nghiệp 2 1
+(Factory Practice 1)
+8. PCPR414750 Thực tập Công nghệ chế biến lương 1
+thực
+(Practice of Cereal Processing)
+9. PBCP414850 Thực tập Công nghệ sản xuất bánh 1
+kẹo
+(Practice of Bakery and
+Confectionary Production)
+10. PVFB414950 Thực tập Công nghệ sản xuất rau 1
+quả và nước giải khát
+(Practice of Vegetable, Fruit and
+Beverage Production)
+11. PDRD415050 Thực tập Công nghệ sản xuất sữa 1
+và các sản phẩm từ sữa
+(Practice of Dairy and Related
+Dairy Production)
+12. PRTC415150 Thực tập Công nghệ sản xuất trà, 1
+		(Production of Dairy and Related
+Dairy Products)		
+14.	PTCC422250	Công nghệ sản xuất trà, cà phê,
+chocolate
+(Tea, Coffee and Cocao)	2	
+15.	MSPR422350	Công nghệ chế biến thịt và thủy sản
+(Meat and Seafood Processing)	2	
+16.	PPEF412450	Đồ án Quá trình và Thiết bị trong
+Công nghệ thực phẩm
+(Project of Processes and
+Equipments in Food Technology)	1	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+17.	STFT422550	Liên hệ doanh nghiệp (Special
+Topic in Food Technology)	2	
+Tổng			35	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước*,
+MH tiên quyết
+1.	PPEF412650	Thí nghiệm Quá trình và thiết bị
+trong Công nghệ thực phẩm
+(Experiment of Processes and
+Equipments in Food Technology)	1	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+2.	PFCB412750	Thí nghiệm Hóa sinh thực phẩm
+(Practice of Food Biochemistry)	1	
+3.	PFMI422850	Thí nghiệm Vi sinh thực phẩm
+(Experiment of Food Microbiology)	2	
+4.	PRFA412950	Thí nghiệm Phân tích thực phẩm
+(Practice of Food Analysis)	1	
+5.	PFSE413050	Thí nghiệm Đánh giá cảm quan
+thực phẩm
+(Practice of Food Sensory
+Evaluation)	1	
+6.	FAPR413150	Thực tập tốt nghiệp 1
+(Factory Practice 1)	1	
+7.	FAPR413250	Thực tập tốt nghiệp 2
+(Factory Practice 1)	1	
+8.	PCPR414750	Thực tập Công nghệ chế biến lương
+thực
+(Practice of Cereal Processing)	1	
+9.	PBCP414850	Thực tập Công nghệ sản xuất bánh
+kẹo
+(Practice of Bakery and
+Confectionary Production)	1	
+10.	PVFB414950	Thực tập Công nghệ sản xuất rau
+quả và nước giải khát
+(Practice of Vegetable, Fruit and
+Beverage Production)	1	
+11.	PDRD415050	Thực tập Công nghệ sản xuất sữa
+và các sản phẩm từ sữa
+(Practice of Dairy and Related
+Dairy Production)	1	
+12.	PRTC415150	Thực tập Công nghệ sản xuất trà,	1	
+cà phê, chocolate
+(Practice of Tea, Coffee and
+Chocolate Production)
+13. PMSP415250 Thực tập Công nghệ chế biến thịt và 1
+thủy sản
+(Practice of Meat and Seafood
+Processing)
+14. PRFT415350 Thí nghiệm Công nghệ lên men 1
+(Experiment of Fermentation
+Technology)
+Tổng 16
+7.2.4. Tốt nghiệp
+(tùy theo số môn học và số tín chỉ đã tích lũy mà sinh viên sẽ học một trong hai hình thức sau)
+Mã MH trước*,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. GRTH473350 Khóa luận tốt nghiệp
+(Graduation thesis)
+2. Các môn tốt nghiệp:
+FOEN423450 a) Kỹ thuật thực phẩm (Food 2
+Đạt kỳ thi kiểm tra
+Engineering)
+năng lực “Qualified
+FOSC423550 b) Khoa học thực phẩm (Food 2
+exam”
+Sciences)
+FOPR423650 c) Các công nghệ chế biến thực 2
+phẩm (Food Processes)
+FMQE413750 d) An toàn trong sản xuất thực phẩm 1
+(Safety in Food Processing)
+Tổng 7
+Điều kiện thực hiện Khóa luận tốt nghiệp: Đạt kỳ thi kiểm tra năng lực “Qualified
+exam”
+Ngoài ra sinh viên cần phải tích lũy đủ 2TC ngoại khóa (không bao gồm trong chương
+trình 132TC) các kiến thức liên quan đến “Lãnh đạo và kinh doanh trong kỹ thuật”, được bố
+trí vào học kỳ hè dưới dạng các sân chơi của Khoa và được xem như điều kiện cần tốt nghiệp.
+		cà phê, chocolate
+(Practice of Tea, Coffee and
+Chocolate Production)		
+13.	PMSP415250	Thực tập Công nghệ chế biến thịt và
+thủy sản
+(Practice of Meat and Seafood
+Processing)	1	
+14.	PRFT415350	Thí nghiệm Công nghệ lên men
+(Experiment of Fermentation
+Technology)	1	
+Tổng			16	
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước*,
+MH tiên quyết
+1.	GRTH473350	Khóa luận tốt nghiệp
+(Graduation thesis)	07	Đạt kỳ thi kiểm tra
+năng lực “Qualified
+exam”
+2.	FOEN423450
+FOSC423550
+FOPR423650
+FMQE413750	Các môn tốt nghiệp:
+a) Kỹ thuật thực phẩm (Food
+Engineering)
+b) Khoa học thực phẩm (Food
+Sciences)
+c) Các công nghệ chế biến thực
+phẩm (Food Processes)
+d) An toàn trong sản xuất thực phẩm
+(Safety in Food Processing)	2
+Tổng			7	
+B – PHẦN TỰ CHỌN
+7.3. Kiến thức giáo dục đại cương (02 TC)
+Khối khoa học xã hội – nhân văn (02 TC)
+(SV chọn 1 môn học, tương ứng 02 TC, trong số các môn học sau):
+Mã MH trước,
+STT Mã môn học Tên học phần Số tín chỉ
+MH tiên quyết
+1. GEFC220105 Kinh tế học đại cương 2
+2. IQMA220205 Nhập môn quản trị chất lượng 2
+3. INMA220305 Nhập môn Quản trị học 2
+4. ENPS220591 Tâm lý học kỹ sư 2
+5. SYTH220491 Tư duy hệ thống 2
+6. LESK120190 Kỹ năng học tập đại học 2
+7. PLSK120290 Kỹ năng xây dựng kế hoạch 2
+8. WOPS120390 Kỹ năng làm việc trong môi trường 2
+kỹ thuật
+9. REME320690 Phương pháp nghiên cứu khoa học 2
+Tổng cộng 2
+C – Kiến thức liên ngành:
+Sinh viên chọn 6 tín chỉ liên ngành trong danh sách các khối liên ngành bên dưới. SV nên nhờ tư vấn
+thêm từ Ban tư vấn để có sự lựa chọn phù hợp
+Số
+STT Mã môn học Tên môn học tín Nhóm ngành đào tạo
+chỉ
+KHỐI LIÊN NGÀNH THỰC PHẨM
+1. FETE424250 Công nghệ lên men 2 Công nghệ Thực phẩm
+(Fermentation
+Technolgy)
+2. FOBI424350 Công nghệ sinh học thực 2 Công nghệ Thực phẩm
+phẩm
+(Food Biotechnology)
+3. FORE424450 Nghiên cứu và phát triển 2 Công nghệ Thực phẩm
+sản phẩm (Food
+Research and
+Development)
+4. LTPF424550 Công nghệ bảo quản lạnh 2 Công nghệ Thực phẩm
+thực phẩm
+(Low Temperature-
+Preservation of Food)
+5. DRTF424650 Công nghệ sấy thực 2 Công nghệ Thực phẩm
+phẩm
+(Drying Technology in
+Food )
+KHỐI LIÊN NGÀNH HÓA HỌC
+6. TOCO423603 Công nghệ chất màu 2 Công nghệ kỹ thuật Hóa học
+7. TFCF423703 Công nghệ hóa hương Công nghệ kỹ thuật Hóa học
+liệu 2
+8. TCOS423803 Công nghệ hóa mỹ phẩm 2 Công nghệ kỹ thuật Hóa học
+STT	Mã môn học	Tên học phần	Số tín chỉ	Mã MH trước,
+MH tiên quyết
+1.	GEFC220105	Kinh tế học đại cương	2	
+2.	IQMA220205	Nhập môn quản trị chất lượng	2	
+3.	INMA220305	Nhập môn Quản trị học	2	
+4.	ENPS220591	Tâm lý học kỹ sư	2	
+5.	SYTH220491	Tư duy hệ thống	2	
+6.	LESK120190	Kỹ năng học tập đại học	2	
+7.	PLSK120290	Kỹ năng xây dựng kế hoạch	2	
+8.	WOPS120390	Kỹ năng làm việc trong môi trường
+kỹ thuật	2	
+9.	REME320690	Phương pháp nghiên cứu khoa học	2	
+Tổng cộng			2	
+Sinh viên chọn 6 tín chỉ liên ngành trong danh sách các khối liên ngành bên dưới. SV nên nhờ tư vấn
+thêm từ Ban tư vấn để có sự lựa chọn phù hợp
+STT	Mã môn học	Tên môn học	Số
+tín
+chỉ	Nhóm ngành đào tạo
+KHỐI LIÊN NGÀNH THỰC PHẨM				
+1.	FETE424250	Công nghệ lên men
+(Fermentation
+Technolgy)	2	Công nghệ Thực phẩm
+2.	FOBI424350	Công nghệ sinh học thực
+phẩm
+(Food Biotechnology)	2	Công nghệ Thực phẩm
+3.	FORE424450	Nghiên cứu và phát triển
+sản phẩm (Food
+Research and
+Development)	2	Công nghệ Thực phẩm
+4.	LTPF424550	Công nghệ bảo quản lạnh
+thực phẩm
+(Low Temperature-
+Preservation of Food)	2	Công nghệ Thực phẩm
+5.	DRTF424650	Công nghệ sấy thực
+phẩm
+(Drying Technology in
+Food )	2	Công nghệ Thực phẩm
+KHỐI LIÊN NGÀNH HÓA HỌC				
+6.	TOCO423603	Công nghệ chất màu	2	Công nghệ kỹ thuật Hóa học
+7.	TFCF423703	Công nghệ hóa hương
+liệu	2	Công nghệ kỹ thuật Hóa học
+8.	TCOS423803	Công nghệ hóa mỹ phẩm	2	Công nghệ kỹ thuật Hóa học
+9. TSCL120803 Kỹ thuật PTN và an toàn Công nghệ kỹ thuật Hóa học
+hóa chất 2
+10. MATH121101 Phương pháp tính 2 Công nghệ kỹ thuật Hóa học
+11. TSEP232003 Kỹ thuật phân riêng 3 Công nghệ kỹ thuật Hóa học
+12. SEPC232503 Thống kê và quy hoạch 3 Công nghệ kỹ thuật Hóa học
+thực nghiệm trong
+CNKT hoá học
+KHỐI LIÊN NGÀNH MÔI TRƯỜNG
+13. HSEN322110 An toàn sức khỏe môi Công nghệ kỹ thuật môi trường
+trường
+14. EIAS323210 Đánh giá tác động môi Công nghệ kỹ thuật môi trường
+trường
+15. WSDN322210 Mạng lưới cấp thoát Công nghệ kỹ thuật môi trường
+nước
+16. CPSD323110 Sản xuất sạch hơn và Công nghệ kỹ thuật môi trường
+Thiết kế bền vững
+KHỐI LIÊN NGÀNH KINH TẾ, CƠ KHÍ
+17. BAMA231209 Makerting cơ bản 3 Kinh tế
+18. TEMA321406 Quản trị công nghệ 3 Kinh tế
+19. MMAT451525 Công nghệ chế tạo máy 3 Cơ khí
+20. MEDI330823 Thiết kế cơ khí 3 Cơ khí
+D – Các môn học MOOC (Massive Open Online Cources):
+Nhằm tạo điều kiện tăng cường khả năng tiếp cận với các chương trình đào tạo tiên tiến,
+SV có thể tự chọn các khóa học online đề xuất trong bảng sau để xét tương đương với các môn
+học có trong chương trình đào tạo:
+Số
+Môn học được xét tương đương
+STT Mã môn học Tên môn học tín
+MOOC (đường link đăng ký)
+chỉ
+1. BIEN325450 Biochemistry Engineering 2 FOBI320750-Hóa sinh thực phẩm
+(https://ocw.mit.edu/courses/chemical
+-engineering/10-442-biochemical-
+engineering-spring-2005/index.htm)
+2. PHCH325550 Physical chemistry 2 PHCF320550-Hóa lý
+(https://ocw.mit.edu/courses/chemistr
+y/5-61-physical-chemistry-fall-2013/)
+3. INEC325650 Introduction of 2 ACHE220303-Hóa phân tích
+Experimental Chemistry (https://ocw.mit.edu/courses/chemistr
+y/5-35-introduction-to-experimental-
+chemistry-fall-2012/)
+4. INHT335750 Introduction of Heat 3 HTE330250-Quá trình và thiết bị
+transfer truyền nhiệt trong CNTP
+(https://ocw.mit.edu/courses/mechanic
+al-engineering/2-051-introduction-to-
+heat-transfer-fall-2015/)
+5. SYMI325850 System Microbiology 2 FOMI320850-Vi sinh thực phẩm
+(https://ocw.mit.edu/courses/biologica
+l-engineering/20-106j-systems-
+microbiology-fall-2006/)
+9.	TSCL120803	Kỹ thuật PTN và an toàn
+hóa chất	2	Công nghệ kỹ thuật Hóa học
+10.	MATH121101	Phương pháp tính	2	Công nghệ kỹ thuật Hóa học
+11.	TSEP232003	Kỹ thuật phân riêng	3	Công nghệ kỹ thuật Hóa học
+12.	SEPC232503	Thống kê và quy hoạch
+thực nghiệm trong
+CNKT hoá học	3	Công nghệ kỹ thuật Hóa học
+KHỐI LIÊN NGÀNH MÔI TRƯỜNG				
+13.	HSEN322110	An toàn sức khỏe môi
+trường	2	Công nghệ kỹ thuật môi trường
+14.	EIAS323210	Đánh giá tác động môi
+trường	2	Công nghệ kỹ thuật môi trường
+15.	WSDN322210	Mạng lưới cấp thoát
+nước	2	Công nghệ kỹ thuật môi trường
+16.	CPSD323110	Sản xuất sạch hơn và
+Thiết kế bền vững	2	Công nghệ kỹ thuật môi trường
+KHỐI LIÊN NGÀNH KINH TẾ, CƠ KHÍ				
+17.	BAMA231209	Makerting cơ bản	3	Kinh tế
+18.	TEMA321406	Quản trị công nghệ	3	Kinh tế
+19.	MMAT451525	Công nghệ chế tạo máy	3	Cơ khí
+20.	MEDI330823	Thiết kế cơ khí	3	Cơ khí
+STT	Mã môn học	Tên môn học	Số
+tín
+chỉ	Môn học được xét tương đương
+MOOC (đường link đăng ký)
+1.	BIEN325450	Biochemistry Engineering	2	FOBI320750-Hóa sinh thực phẩm
+(https://ocw.mit.edu/courses/chemical
+-engineering/10-442-biochemical-
+engineering-spring-2005/index.htm)
+2.	PHCH325550	Physical chemistry	2	PHCF320550-Hóa lý
+(https://ocw.mit.edu/courses/chemistr
+y/5-61-physical-chemistry-fall-2013/)
+3.	INEC325650	Introduction of
+Experimental Chemistry	2	ACHE220303-Hóa phân tích
+(https://ocw.mit.edu/courses/chemistr
+y/5-35-introduction-to-experimental-
+chemistry-fall-2012/)
+4.	INHT335750	Introduction of Heat
+transfer	3	HTE330250-Quá trình và thiết bị
+truyền nhiệt trong CNTP
+(https://ocw.mit.edu/courses/mechanic
+al-engineering/2-051-introduction-to-
+heat-transfer-fall-2015/)
+5.	SYMI325850	System Microbiology	2	FOMI320850-Vi sinh thực phẩm
+(https://ocw.mit.edu/courses/biologica
+l-engineering/20-106j-systems-
+microbiology-fall-2006/)
+8. Kế hoạch giảng dạy
+Các môn không xếp vào kế hoạch giảng dạy, Phòng Đào tạo sẽ mở lớp trong các học kỳ để
+sinh viên tự lên kế hoạch học tập:
+Mã MH trước,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. LLCT150105 Những NLCB của CN Mác – Lênin 5 -
+2. LLCT120314 Tư tưởng Hồ Chí Minh 2 HT_(LLCT150105)
+3. LLCT230214 HT_(LLCT150105)
+Đường lối cách mạng của ĐCSVN 3
+HT_(LLCT120314)
+4. PHED110613 Giáo dục thể chất 2 1
+5. PHED130715 Giáo dục thể chất 3 3
+Tổng 14
+Học kỳ 1:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. ADMO138685 Tin học văn phòng nâng cao 2+1
+2. GCHE130603 Hóa đại cương 3
+3. GELA220405 Pháp luật đại cương 2
+4. INFT330150 Nhập môn ngành Công nghệ thực 3 (2+1)
+phẩm
+5. MATH132401 Toán 1 3
+6. OCHE220203 Hóa hữu cơ 2
+7. PHED110513 Giáo dục thể chất 1 1
+8. PHYS130902 Vật lý 1 3
+9. TEDG130120 Vẽ kỹ thuật 1 3
+Tổng (không kể giáo dục thể chất 1 và Pháp luật đại cương) 20
+Học kỳ 2:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. ACHE220303 Hóa phân tích 2
+2. ELEE220144 Kỹ thuật điện 2
+3. EOCH210403 Thí nghiệm hóa hữu cơ 1
+4. FOCH330650 Hóa học thực phẩm 3
+5. FOMI320850 Vi sinh thực phẩm 2
+6. MATH132501 Toán 2 3
+7. MHAP330450 Quá trình và thiết bị cơ học-thủy lực- 3
+khí nén trong Công nghệ thực phẩm
+8. THER222932 Kỹ thuật nhiệt 2
+Tổng 18
+Học kỳ 3:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. MATH132601 Toán 3 3
+2. PHYS131002 Vật lý 2 3
+3. HETE330250 Quá trình và thiết bị truyền nhiệt trong 3
+TT	Mã MH	Tên MH	Số TC	Mã MH trước,
+MH tiên quyết
+1.	LLCT150105	Những NLCB của CN Mác – Lênin	5	-
+2.	LLCT120314	Tư tưởng Hồ Chí Minh	2	HT_(LLCT150105)
+3.	LLCT230214	Đường lối cách mạng của ĐCSVN	3	HT_(LLCT150105)
+HT_(LLCT120314)
+4.	PHED110613	Giáo dục thể chất 2	1	
+5.	PHED130715	Giáo dục thể chất 3	3	
+Tổng			14	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	ADMO138685	Tin học văn phòng nâng cao	2+1	
+2.	GCHE130603	Hóa đại cương	3	
+3.	GELA220405	Pháp luật đại cương	2	
+4.	INFT330150	Nhập môn ngành Công nghệ thực
+phẩm	3 (2+1)	
+5.	MATH132401	Toán 1	3	
+6.	OCHE220203	Hóa hữu cơ	2	
+7.	PHED110513	Giáo dục thể chất 1	1	
+8.	PHYS130902	Vật lý 1	3	
+9.	TEDG130120	Vẽ kỹ thuật 1	3	
+Tổng (không kể giáo dục thể chất 1 và Pháp luật đại cương)			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	ACHE220303	Hóa phân tích	2	
+2.	ELEE220144	Kỹ thuật điện	2	
+3.	EOCH210403	Thí nghiệm hóa hữu cơ	1	
+4.	FOCH330650	Hóa học thực phẩm	3	
+5.	FOMI320850	Vi sinh thực phẩm	2	
+6.	MATH132501	Toán 2	3	
+7.	MHAP330450	Quá trình và thiết bị cơ học-thủy lực-
+khí nén trong Công nghệ thực phẩm	3	
+8.	THER222932	Kỹ thuật nhiệt	2	
+Tổng			18	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	MATH132601	Toán 3	3	
+2.	PHYS131002	Vật lý 2	3	
+3.	HETE330250	Quá trình và thiết bị truyền nhiệt trong	3	
+Công nghệ thực phẩm
+4. FOBI320750 Hóa sinh thực phẩm 2 ORCH323850*
+5. FONA421550 Phân tích thực phẩm 2
+6. TEFT421650 Anh văn chuyên ngành Công nghệ
+thực phẩm
+7. PHCF320550 Hóa lý 2
+8. PFMI422850 Thí nghiệm Vi sinh thực phẩm 2
+9. EACH210503 Thí nghiệm Hóa phân tích 1
+Tổng 20
+Học kỳ 4:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. CEPR421850 Công nghệ chế biến lương thực 2
+2. FOAD420950 Phụ gia thực phẩm 2
+3. FOBI424350 Công nghệ sinh học thực phẩm 2 FOMI320850*,
+FOBI320750*
+4. FOPA421250 Bao bì thực phẩm 2
+5. FOSE421450 Đánh giá cảm quan thực phẩm 2
+6. MTEQ320350 Quá trình và thiết bị truyền khối trong
+Công nghệ thực phẩm
+7. PFCB412750 Thí nghiệm Hóa sinh thực phẩm 1
+8. PFSE413050 Thí nghiệm Đánh giá cảm quan thực 1
+phẩm
+9. PRBC421950 Công nghệ sản xuất bánh kẹo 2
+10. PRFA412950 Thí nghiệm Phân tích thực phẩm 1
+11. PVFB422050 Công nghệ sản xuất rau quả và nước 2
+giải khát
+Tổng 19
+Học kỳ 5:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. SOFT431750 Thống kê và qui hoạch thực nghiệm 3 MATH132401*,
+trong Công nghệ thực phẩm MATH132501*,
+MATH132601*
+2. PDRD422150 Công nghệ sản xuất sữa và các sản 2
+phẩm từ sữa
+3. PTCC422250 Công nghệ sản xuất trà, cà phê, 2
+chocolate
+4. MSPR422350 Công nghệ chế biến thịt và thủy sản 2
+5. FETE424250 Công nghệ lên men 2
+6. FNFS431150 Dinh dưỡng và an toàn thực phẩm 3 FOMI320850*
+7. Khoa học xã hội – Nhân văn (tự chọn) 2
+8. PPEF412650 Thí nghiệm Quá trình và thiết bị trong 1 MHAP330450*,
+Công nghệ thực phẩm HETE330250*,
+MTEQ320350*
+9. PCPR414750 Thực tập Công nghệ chế biến lương
+thực
+		Công nghệ thực phẩm		
+4.	FOBI320750	Hóa sinh thực phẩm	2	ORCH323850*
+5.	FONA421550	Phân tích thực phẩm	2	
+6.	TEFT421650	Anh văn chuyên ngành Công nghệ
+thực phẩm	2	
+7.	PHCF320550	Hóa lý	2	
+8.	PFMI422850	Thí nghiệm Vi sinh thực phẩm	2	
+9.	EACH210503	Thí nghiệm Hóa phân tích	1	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	CEPR421850	Công nghệ chế biến lương thực	2	
+2.	FOAD420950	Phụ gia thực phẩm	2	
+3.	FOBI424350	Công nghệ sinh học thực phẩm	2	FOMI320850*,
+FOBI320750*
+4.	FOPA421250	Bao bì thực phẩm	2	
+5.	FOSE421450	Đánh giá cảm quan thực phẩm	2	
+6.	MTEQ320350	Quá trình và thiết bị truyền khối trong
+Công nghệ thực phẩm	2	
+7.	PFCB412750	Thí nghiệm Hóa sinh thực phẩm	1	
+8.	PFSE413050	Thí nghiệm Đánh giá cảm quan thực
+phẩm	1	
+9.	PRBC421950	Công nghệ sản xuất bánh kẹo	2	
+10.	PRFA412950	Thí nghiệm Phân tích thực phẩm	1	
+11.	PVFB422050	Công nghệ sản xuất rau quả và nước
+giải khát	2	
+Tổng			19	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	SOFT431750	Thống kê và qui hoạch thực nghiệm
+trong Công nghệ thực phẩm	3	MATH132401*,
+MATH132501*,
+MATH132601*
+2.	PDRD422150	Công nghệ sản xuất sữa và các sản
+phẩm từ sữa	2	
+3.	PTCC422250	Công nghệ sản xuất trà, cà phê,
+chocolate	2	
+4.	MSPR422350	Công nghệ chế biến thịt và thủy sản	2	
+5.	FETE424250	Công nghệ lên men	2	
+6.	FNFS431150	Dinh dưỡng và an toàn thực phẩm	3	FOMI320850*
+7.		Khoa học xã hội – Nhân văn (tự chọn)	2	
+8.	PPEF412650	Thí nghiệm Quá trình và thiết bị trong
+Công nghệ thực phẩm	1	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+9.	PCPR414750	Thực tập Công nghệ chế biến lương
+thực	1	
+10. PBCP414850 Thực tập Công nghệ sản xuất bánh
+kẹo
+11. PVFB414950 Thực tập Công nghệ sản xuất rau quả
+và nước giải khát
+Tổng 20
+Học kỳ 6:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. FORE424450 Nghiên cứu và phát triển sản phẩm 2
+2. FPPD421350 MHAP330450*,
+Thiết kế công nghệ và nhà máy thực
+2 HETE330250*,
+phẩm
+MTEQ320350*
+3. FOMA421050 Quản lý chất lượng thực phẩm 2
+4. PDRD415050 Thực tập Công nghệ sản xuất sữa và
+các sản phẩm từ sữa
+5. PRTC415150 Thực tập Công nghệ sản xuất trà, cà
+phê, chocolate
+6. PMSP415250 Thực tập Công nghệ chế biến thịt và
+thủy sản
+7. PRFT415350 Thí nghiệm Công nghệ lên men 1
+8. PPEF412450 Đồ án Quá trình và thiết bị trong MHAP330450*,
+Công nghệ thực phẩm HETE330250*,
+(môn học làm theo dự án, Project- MTEQ320350*
+based learning course)
+Tổng 11
+Học kỳ 7:
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. FAPR413150 Thực tập tốt nghiệp 1
+(môn học liên kết với doanh nghiệp)
+2. FAPR413250 Thực tập tốt nghiệp 2
+(môn học liên kết với doanh nghiệp)
+3. STFT422550 Liên hệ doanh nghiệp (Special Topic
+in Food Technology)
+Tổng 4
+* Môn học Liên hệ doanh nghiệp sẽ được triển khai theo hình thức thời gian tập trung (5
+tiết/buổi, 3 buổi/1TC) và linh hoạt, phân bố nhiều đợt tùy theo sự bố trí của khoa. SV tham gia
+đầy đủ 6 buổi, viết báo cáo và nộp bài cho Giảng viên phụ trách chấm điểm, có xác nhận của
+Khoa.
+10.	PBCP414850	Thực tập Công nghệ sản xuất bánh
+kẹo	1	
+11.	PVFB414950	Thực tập Công nghệ sản xuất rau quả
+và nước giải khát	1	
+Tổng			20	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	FORE424450	Nghiên cứu và phát triển sản phẩm	2	
+2.	FPPD421350	Thiết kế công nghệ và nhà máy thực
+phẩm	2	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+3.	FOMA421050	Quản lý chất lượng thực phẩm	2	
+4.	PDRD415050	Thực tập Công nghệ sản xuất sữa và
+các sản phẩm từ sữa	1	
+5.	PRTC415150	Thực tập Công nghệ sản xuất trà, cà
+phê, chocolate	1	
+6.	PMSP415250	Thực tập Công nghệ chế biến thịt và
+thủy sản	1	
+7.	PRFT415350	Thí nghiệm Công nghệ lên men	1	
+8.	PPEF412450	Đồ án Quá trình và thiết bị trong
+Công nghệ thực phẩm
+(môn học làm theo dự án, Project-
+based learning course)	1	MHAP330450*,
+HETE330250*,
+MTEQ320350*
+Tổng			11	
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	FAPR413150	Thực tập tốt nghiệp 1
+(môn học liên kết với doanh nghiệp)	1	
+2.	FAPR413250	Thực tập tốt nghiệp 2
+(môn học liên kết với doanh nghiệp)	1	
+3.	STFT422550	Liên hệ doanh nghiệp (Special Topic
+in Food Technology)	2	
+Tổng			4	
+Học kỳ 8:
+(Bộ môn sẽ xem xét và đưa ra các điều kiện để sinh viên thực hiện 1 trong 2 môn học sau)
+Mã MH trước*,
+TT Mã MH Tên MH Số TC
+MH tiên quyết
+1. GRTH4725450 Khóa luận tốt nghiệp
+(Graduation thesis)
+(môn học làm theo dự án, Project-
+based learning course)
+2. Các môn tốt nghiệp:
+FOEN422650 a) Kỹ thuật thực phẩm (Food 2 Đạt kỳ thi kiểm
+Engineering) tra năng lực
+FOSC422750 b) Khoa học thực phẩm (Food 2 “Qualified exam”
+Sciences)
+FOPR422850 c) Các công nghệ chế biến thực phẩm 2
+(Food Processes)
+FMQE412950 d) Quản lý và đánh giá chất lượng 1
+thực phẩm (Food Management and
+Quality Evaluation)
+Tổng 7
+TT	Mã MH	Tên MH	Số TC	Mã MH trước*,
+MH tiên quyết
+1.	GRTH4725450	Khóa luận tốt nghiệp
+(Graduation thesis)
+(môn học làm theo dự án, Project-
+based learning course)	07	Đạt kỳ thi kiểm
+tra năng lực
+“Qualified exam”
+2.	FOEN422650
+FOSC422750
+FOPR422850
+FMQE412950	Các môn tốt nghiệp:
+a) Kỹ thuật thực phẩm (Food
+Engineering)
+b) Khoa học thực phẩm (Food
+Sciences)
+c) Các công nghệ chế biến thực phẩm
+(Food Processes)
+d) Quản lý và đánh giá chất lượng
+thực phẩm (Food Management and
+Quality Evaluation)	2
+Tổng			7	
+9. Mô tả vắn tắt nội dung và khối lượng các học phần
+9.1. Nhập môn ngành Công nghệ thực phẩm
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần nhập môn ngành được thiết kế để trang bị cho người học những khái niệm,
+định nghĩa, các kiến thức, tri thức căn bản về ngành công nghệ thực phẩm. Giúp cho
+người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về ngành
+công nghệ thực phẩm, từ đó có những định hướng cụ thể về khả năng học tập, nghiên
+cứu và phát triển nghề nghiệp tương lai của mình
+Học phần này giúp cho sinh viên về định hướng nghề nghiệp, các kỹ năng mềm cũng
+như nền tảng đạo đức nghề nghiệp.
+9.2. Quá trình và thiết bị truyền nhiệt trong CNTP
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học những khái niệm, định nghĩa, các kiến thức, tri thức căn bản về các
+quá trình truyền nhiệt xảy ra trong công nghệ chế biến thực phẩm: đun nóng, làm nguội,
+ngưng tụ, bay hơi, cô đặc, hấp, thanh trùng và làm lạnh, làm đông …, tính toán cân bằng
+nhiệt, cân bằng vật chất cho các đối tượng công nghệ CNTP, tính toán thiết kế các quá trình
+và tính chọn các thiết bị các hệ thống thiết bị truyền nhiệt; tính toán các dây chuyền công
+nghệ, và kiểm tra năng suất thiết bị.
+Ứng dụng và vận hành các hệ thống thiết bị phục vụ cho quá trình sản xuất một cách hợp lý,
+đồng thời làm nền tảng cho việc thực hiện các đồ án môn học, đồ án khóa luận tốt nghiệp.
+Giúp cho người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về quá
+trình truyền nhiệt trong CNTP, từ đó có những định hướng cụ thể về khả năng học tập,
+nghiên cứu và phát triển nghề nghiệp của mình.
+9.3. Quá trình và thiết bị truyền khối trong CNTP
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học những khái niệm, định nghĩa, các kiến thức, tri thức căn bản về các
+quá trình truyền khối như: quá trình hấp thụ, hấp phụ, trích ly, chưng cất, hòa tan, sấy xảy ra
+trong công nghệ chế biến thực phẩm, ứng dụng và vận hành các hệ thống thiết bị phục vụ
+cho quá trình sản xuất một cách hợp lý, đồng thời làm nền tảng cho việc thực hiện các đồ án
+môn học, đồ án khóa luận tốt nghiệp
+Giúp cho người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về quá
+trình truyền khối, từ đó có những định hướng cụ thể về khả năng học tập, nghiên cứu và phát
+triển nghề nghiệp của mình.
+9.4. Quá trình và thiết bị cơ học-thủy lực-khí nén trong CNTP
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học những khái niệm, định nghĩa, các kiến thức, tri thức căn bản về các
+quá trình thủy lực, khí nén và các quá trình cơ học xảy ra trong công nghệ chế biến thực
+phẩm, ứng dụng và vận hành các hệ thống thiết bị phục vụ cho quá trình sản xuất một cách
+hợp lý, đồng thời làm nền tảng cho việc thực hiện các đồ án môn học, đồ án khóa luận tốt
+nghiệp
+Giúp cho người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về quá
+trình thủy lực, khí nén và các quá trình cơ học, từ đó có những định hướng cụ thể về khả
+năng học tập, nghiên cứu và phát triển nghề nghiệp của mình.
+9.5. Hóa lý
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần trang bị cho sinh viên ngành Công nghệ Thực Phẩm những kiến thức cơ bản về
+căn bản về các hệ keo và các quá trình xảy ra trong hệ keo, từ đó giúp cho sinh viên ngành
+thực phẩm nắm bắt và hiểu sâu hơn về các hệ keo trong thực phẩm, đồng thời làm nền tảng
+cho sinh viên tiếp cận các kiến thức của các môn học thuộc chuyên ngành thực phẩm sau
+này.
+9.6. Hóa học thực phẩm
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các khái niệm, định nghĩa, các kiến thức cơ sở về cấu trúc, tính chất,
+chức năng, tính năng công nghệ của các chất cấu thành thực phẩm bao gồm: nước, protein,
+glucid, lipid, vitamin, các sắc tố, chất mùi và chất khoáng, cơ sở về xúc tác sinh học.
+Giải thích và ứng dụng các tính năng công nghệ của các hợp phần thực phẩm trong quá trình
+chế biến và bảo quản thực phẩm một cách khoa học.
+Đây là môn học cơ sở ngành giúp sinh viên có thể dễ dàng tiếp thu kiến thức của các môn
+học chuyên ngành cũng như giúp sinh viên vững vàng ứng dụng các kiến thức của môn học
+trong nghề nghiệp sau này.
+9.7. Hóa sinh thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: ORCH323850*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ sở về xúc tác sinh học, các con đường trao đổi chất
+và sinh tổng hợp trong trong tế bào sống nói chung và vật liệu thực phẩm nói riêng.
+Xem xét sự tương tác hoá sinh học giữa các thành phần trong thực phẩm và ảnh hưởng của
+những biến đổi này đến quá trình chế biến và bảo quản thực phẩm.
+9.8. Vi sinh thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên những kiến thức cơ bản về vi sinh vật như đặc điểm về
+hình thái, cấu tạo, dinh dưỡng, quá trình sinh trưởng, phát triển, hoạt động sống cũng như vai
+trò quan trọng của vi sinh vật đối với các quá trình chuyển hóa cơ bản của các chất trong
+thiên nhiên nói chung và trong thực phẩm nói riêng.
+Bên cạnh đó, học phần cũng cung cấp cho sinh viên kiến thức về hệ vi sinh vật trong thực
+phẩm, ứng dụng của hệ vi sinh vật có lợi và các phươngpháp ức chế hệ vi sinh vật có hại cho
+thực phẩm.
+Đây là môn học cơ sở ngành giúp sinh viên có thể dễ dàng tiếp thu kiến thức của những môn
+học chuyên ngành cũng như giúp sinh viên vững vàng ứng dụng trong nghề nghiệp sau này.
+Ứng dụng hợp lý và điều khiển các quá trình của vi sinh vật xảy ra trong công nghệ chế biến
+thực phẩm.
+9.9. Phụ gia thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này cung cấp những kiến thức cơ bản nhất về phụ gia được sử dụng trong côn nghệ
+thực phẩm để sau khi hoàn thành môn học, người học có thể lựa chọn được các loại phụ gia
+phù hợp với từng loại nguyên liệu và sản phẩm thông qua tìm hiểu về đặc điểm và tính chất
+của chúng
+9.10. Quản lý chất lượng thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về chất lượng thực phẩm và
+các phương pháp để quản lý chất lượng thực phẩm; cung cấp cho người học các kiến thức và
+kỹ năng để tiến hành các hoạt động quản lý chất lượng thực phẩm trong nhà máy. Đồng thời
+học phần này cung cấp các kiến thức cơ bản về các hệ thống đảm bảo chất lượng thực phẩm
+đang được áp dụng trong các nhà máy sản xuất thực phẩm như: GMP, ISO 9001:2008; ISO
+22001: 2008, HACCP, TQM, 5S, SA 8000… Môn học này sẽ giúp người học nhận thức
+được vai trò và tầm quan trọng của các hoạt động quản lý chất lượng thực phẩm tại các nhà
+máy để sẵn sàng đảm nhận các công việc đó tại nhà máy sản xuất.
+9.11. Dinh dưỡng và an toàn thực phẩm
+Phân bố thời gian học tập: 3(3/0/6)
+Môn học trước: FOMI320850*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ sở về vai trò của các chất dinh dưỡng đối với sức
+khỏe con người. Môn học này cũng trang bị cho sinh viên các kiến thức về các loại độc tố có
+trong thực phẩm cũng như các biện pháp để phòng tránh ngộ độc thực phẩm.
+9.12. Bao bì thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này sẽ trang bị cho sinh viên về kiến thức Kỹ thuật bao bì thực phẩm và ứng dụng
+của kỹ thuật này trong chế biến và bảo quản thực phẩm, đáp ứng được nhu cầu thị hiếu của
+người tiêu dùng và thương mại, xuất khẩu. Trong cuộc sống hiện đại thì thực phẩm ngoài
+chất lượng ra, còn phải chú ý nhiều đến các loại bao bì và mẫu mã để đáp ứng nhu cầu xã
+hội. Bên cạnh đó, bao bì đã tham gia bảo quản thực phẩm sau chế biến nhưng phải thân thiện
+với môi trường.
+Giúp cho người học có kiến thức về chức năng bao bì, phân loại bao bì theo vật liệu, đặc
+tính, cấu tạo, công dụng, phương pháp đóng góibao bì cho thực phẩm đối với các loại bao bì:
+giấy, thủy tinh, kim loại, plasic.
+9.13. Thiết kế công nghệ và nhà máy thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: MHAP330450*, HETE330250*, MTEQ320350*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học Thiết kế công nghệ và nhà máy thực phẩm sẽ cung cấp cho sinh viên những kiến
+thức về cách thiết kế một quy trình công nghệ và lựa chọn thông số công nghệ để sản xuất
+thực phẩm. Mặt khác, sinh viên sẽ được cung cấp các kiến thức nền tảng để xây dựng các lập
+luận kinh tế, kỹ thuật, các nguyên tắc để bố trí nhà máy sản xuất thực phẩm.
+9.14. Đánh giá cảm quan thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần trang bị cho người học những khái niệm, những kiến thức cơ bản về đánh giá cảm
+quan thực phẩm, cũng như cơ chế tương tác của các hợp chất mùi, vị đến các tế bào cảm giác
+trên các giác quan như vị giác và khứu giác. Đồng thời, khóa học này giúp người học được
+tiếp cận với những phương pháp đánh giá cảm quan và cách xử lý số liệu tương ứng được sử
+dụng phổ biến trong đánh giá chất lượng và nghiên cứu phát triển sản phẩm như: phép thử
+phân biệt, phép thử mô tả và phép thử thị hiếu. Hơn nữa, người học còn được giới thiệu về
+một vài phương pháp hiện đại trong nghiên cứu về tâm lý người tiêu dùng.
+9.15. Phân tích thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này sẽ trang bị cho sinh viên những phương pháp xác định các thành phần cơ
+bản của các sản phẩm thực phẩm như: protein, glucid, lipid, khoáng, vitamin và nhiệt lượng
+của các sản phẩm thực phẩm.
+Trang bị cho sinh viện nguyên tắc hoạt động của một số thiết bị hiện đại được sử dụng
+để phân tích hàm lượng và cấu trúc của thực phẩm.
+Trang bị cho sinh viên một số kỹ thuật xử lý các mẫu thực phẩm khác nhau trước khi
+tiến hành phân tích. Từ đó, giúp sinh viên tích lũy đủ kiến thức cũng như kỹ năng thực hành
+cho các phương pháp phân tích ngoài các doanh nghiệp.
+9.16. Anh văn chuyên ngành CNTP
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học những thuật ngữ chuyên ngành bằng tiếng Anh trong lĩnh vực công
+nghệ thực phẩm như: hóa học thực phẩm, hóa sinh thực phẩm, vi sinh thực phẩm, kỹ thuật
+lên men và các quá trình thiết bị trong công nghệ thực phẩm.
+Giúp cho người học có một vốn từ trong lĩnh vực thực phẩm đủ để có thể đọc và hiểu những
+bài báo và sách bằng tiếng Anh. Từ đó, có thể vận dụng vốn từ có đượcđể viết các bài báo
+cáo hay công trình nghiên cứu khoa học bằng tiếng Anh
+9.17. Thống kê và qui hoạch thực nghiệm trong CNTP
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: MATH132401*, MATH132501*, MATH132601*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này là môn học thuộc nhóm chuyên ngành nhằm giới thiệu cho sinh viên những
+kiến thức ứng dụng về tối ưu hóa trong kỹ thuật và công nghệ thực phẩm; áp dụng các công
+cụ hiện đại để giải quyết các bài toán công nghệ thực phẩm với các phương pháp tối ưu.
+Khóa học sẽ giới thiệu về thống kê kỹ thuật, thiết kế và tối ưu hóa thí nghiệm.
+9.18. Công nghệ chế biến lương thực
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này trang bị cho người học những kiến thức cơ bản về nguyên liệu, công nghệ chế
+biến các sản phẩm lương thực như gạo, mì sợi, tinh bột…Môn học này sẽ giúp người học
+nắm được những kiến thức cơ bản về quy trình công nghệ, các biến đổi của sản phẩm trong
+quá trình chế biến, nguyên tắc hoạt động của các loại máy móc sử dụng trong quy trình chế
+biến các sản phẩm lương thực. Trên cơ sở đó, người học sẽ có khả năng nghiên cứu và phát
+triển các sản phẩm lương thực để đa dạng hóa các sản phẩm lương thực hiện nay.
+9.19. Công nghệ sản xuất bánh kẹo
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này cung cấp cho sinh viên những kiến thức sau:
+ Thành phần và chức năng của các nguyên liệu và phụ gia sử dụng trong sản xuất
+bánh và kẹo
+ Quy trình công nghệ sản xuất bánh biscuit và một số dạng bánh khác
+ Quy trình công nghệ sản xuất kẹo cứng và một số loại kẹo khác
+ Tính toán cân bằng vật chất
+ Các vấn đề kiểm soát chất lượng
+9.20. Công nghệ sản xuất rau quả và nước giải khát
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ sở về công nghệ chế biến nước giải khát và công
+nghệ chế biến rau quả.
+Môn học này có 2 phần chính:
+ Phần I: CNSX nước giải khát: Nguyên liệu, qui trình sản xuất, máy và thiết bị, các
+phương pháp kiểm tra các qui trình công nghệ và chất lượng sản phẩm nước giải
+khát.
+ Phần 2: CNCB Rau quả: Nguyên liệu rau quả các loại. Đặc điểm, cấu tạo, thành phần
+hóa học nguyên liệu. Giới thiệu các nguyên tắc, kỹ thuật và các biến đổi trong quá
+trình chế biến một số các sản phẩm từ rau quả nhiệt đới như: rau quả đóng hộp, nước
+rau quả, mứt, rau quả sấy khô,….
+9.21. Công nghệ sản xuất sữa và các sản phẩm từ sữa
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức cơ sở về công nghệ bảo quản và chế biến sữa.
+Môn học này có 2 phần chính:
+Phần 1. Nguyên liệu sữa: Giới thiệu chung về sữa và sự phát triển ngành sữa- Tính chất
+vật lý và thành phần hóa học của sữa- Hệ vi sinh vật sữa- Phương pháp thu nhận và bảo quản
+sữa
+Phần 2. Các sản phẩm sữa: Quy trình công nghệ - Các chỉ tiêu chất lượng của sản
+phẩm
+9.22. Công nghệ sản xuất trà, cà phê, cacao
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này cung cấp cho sinh viên những kiến thức cơ bản về đặc điểm của nguyên liệu
+trà, cà phê và ca cao. Các quy trình công nghệ chế biến các sản phẩm từ trà, cà phê và ca cao.
+Môn học sẽ giúp sinh viên có các kiến thức về nguồn nguyên liệu, thành phần và tính chất
+của nguyên liệu, các biến đổi của nuyên liệu trong quá trình chế biến. Đồng thời nắm vững
+phương pháp, kỹ thuật, các thông số, máy móc, thiết bị của từng quá trình trong một quy
+trình chế biến và các chỉ tiêu đánh giá chất lượng của sản phẩm.
+Môn học cũng giúp sinh viên hình thành phương pháp tư duy khoa học về cách thiết lập, tổ
+chức một quy trình công nghệ chế biến khi được giao cho một nguyên liệu thực phẩm cụ thể
+và yêu cầu đối với thành phẩm.
+9.23. Công nghệ chế biến thịt và thủy sản
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này trang bị cho người học những kiến thức cơ bản về nguyên liệu dùng
+trong thực phẩm và các phương pháp để chế biến thịt và thủy sản. Cung cấp cho người học
+các kiến thức và kỹ năng để hiểu về thực phẩm và công nghệ chế biến thịt và thủy sản, đồng
+thời tiến hành chế biến các sản phẩm thực phẩm trong nhà máy chế biến, đánh giá kiểm tra
+chất lượng sản phẩm. Môn học này sẽ giúp người học nhận thức được vai trò và tầm quan
+trọng của thịt, cá trong dinh dưỡng và chế biến thực phẩm, trong sản xuất công nghiệp.
+Giúp cho sinh viên có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về
+công nghệ chế biến thực phẩm. Đồng thời nâng cao kiến thức về công nghệ chế biến thịt và
+thủy sản sẽ giúp ích cho sinh viên hội nhập kinh tế quốc và có chiến lược về chế biến và xuất
+nhập khẩu sản phẩm thịt, tôm, cá khi xây dựng và hoạch định công nghệ thực phẩm tại các
+nhà máy chế biến thực phẩm.
+9.24. Đồ án Quá trình và thiết bị trong CNTP
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: MHAP330450*, HETE330250*, MTEQ320350*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học về các kiến thức, kỹ năng thực tế, kỹ năng tính toán thiết kế hệ thống
+thiết bị trong CNTP, tính toán thiết kế công nghệ nhà máy, ứng dụng và vận hành các hệ
+thống thiết bị phục vụ cho quá trình sản xuất một cách hợp lý, đồng thời làm nền tảng cho
+việc thực hiện các đồ án khóa luận tốt nghiệp sau này.
+Giúp cho người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về quá
+trình truyền khối, từ đó có những định hướng cụ thể về khả năng học tập, nghiên cứu và phát
+triển nghề nghiệp của mình
+9.25. Chuyên đề về CNTP
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Giới thiệu một số qui trình sản xuất thực tiễn. Giới thiệu các các hoạt động thực tiễn diễn ra
+tại các đơn vị sản xuất, kinh doanh chế biến thực phẩm. Giới thiệu những thành tựu mới
+trong lĩnh vực công nghệ thực phẩm.
+9.26. Thí nghiệm Quá trình và thiết bị trong CNTP
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: MHAP330450*, HETE330250*, MTEQ320350*
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho người học về các kiến thức, kỹ năng thực tế của các quá trình và thiết bị cơ học
+– thủy lực – khí nén, truyền nhiệt, truyền khối xảy ra trong công nghệ chế biến thực phẩm,
+ứng dụng và vận hành các hệ thống thiết bị phục vụ cho quá trình sản xuất một cách hợp lý,
+đồng thời làm nền tảng cho việc thực hiện các đồ án môn học, đồ án khóa luận tốt nghiệp sau
+này.
+Giúp cho người học có phương pháp tiếp cận, phương pháp luận khi học chuyên sâu về quá
+trình và thiết bị cơ học – thủy lực – khí nén, truyền nhiệt, truyền khối trong CNHH&TP, từ
+đó có những định hướng cụ thể về khả năng học tập, nghiên cứu và phát triển nghề nghiệp
+của mình.
+9.27. Thí nghiệm Hóa sinh thực phẩm
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này trang bị cho người học những kiến thức cơ sở về các quá trình xúc tác sinh học.
+Đồng thời, môn học còn giúp cho người học hình thành những nghiên cứu về những yếu tố
+ảnh hưởng tới các quá trình xúc tác sinh học trên. Từ đó, giúp sinh viên tích lũy kiến thức
+cũng như kỹ năng nhằm thực hành và giải thích cho những kết quả phân tích trong các quá
+trình chế biến, bảo quản sản phẩm thực phẩm. Ngoài ra, môn học còn trang bị cho sinh viên
+các kiến thức về cơ chế của các quá trình chuyển hóa và biến đổi thành phần hóa học trong
+thực phẩm ; giúp sinh viên có thể điều khiển hợp lý các quá trình xảy ra trong chế biến và
+bảo quản thực phẩm.
+9.28. Thí nghiệm Vi sinh thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần này cung cấp cho sinh viên những kiến thức cơ bản về vi sinh vật như đặc
+điểm về hình thái, cấu tạo, dinh dưỡng, quá trình sinh trưởng, phát triển, hoạt động sống
+cũng như vai trò quan trọng của vi sinh vật đối với các quá trình chuyển hóa cơ bản của các
+chất trong thiên nhiên nói chung và trong thực phẩm nói riêng. Bên cạnh đó, học phần cũng
+cung cấp cho sinh viên kiến thức về hệ vi sinh vật trong thực phẩm, ứng dụng của hệ vi sinh
+vật có lợi và các phươngpháp ức chế hệ vi sinh vật có hại cho thực phẩm. Đây là môn học cơ
+sở ngành giúp sinh viên có thể dễ dàng tiếp thu kiến thức của những môn học chuyên ngành
+cũng như giúp sinh viên vững vàng ứng dụng trong nghề nghiệp sau này. Ứng dụng hợp lý
+và điều khiển các quá trình của vi sinh vật xảy ra trong công nghệ chế biến thực phẩm.
+9.29. Thí nghiệm phân tích thực phẩm
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Môn học này sẽ trang bị cho sinh viên những phương pháp xác định các thành phần cơ
+bản của các sản phẩm thực phẩm như: protein, glucid và lipid của các sản phẩm thực phẩm.
+Trang bị cho sinh viên một số kỹ thuật xử lý các mẫu thực phẩm khác nhau trước khi
+tiến hành phân tích. Từ đó, giúp sinh viên tích lũy đủ kiến thức cũng như kỹ năng thực hành
+cho các phương pháp phân tích ngoài các doanh nghiệp.
+9.30. Thí nghiệm Đánh giá cảm quan thực phẩm
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Học phần trang bị cho người học những khái niệm, những kiến thức cơ bản về đánh
+giá cảm quan thực phẩm, cũng như cơ chế tương tác của các hợp chất mùi, vị đến các tế bào
+cảm giác trên các giác quan như vị giác và khứu giác. Đồng thời, giúp người học tiếp cận với
+những phương pháp đánh giá cảm quan và cách xử lý số liệu tương ứng được sử dụng phổ
+biến trong đánh giá chất lượng và nghiên cứu phát triển sản phẩm như: phép thử phân biệt,
+phép thử mô tả và phép thử thị hiếu.
+9.31. Thực hành tốt nghiệp 1
+Phân bố thời gian học tập: 1(0/1/2)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Giúp người học có những trải nghiệm trong thực tiễn các công việc tại các đơn vị sản
+xuất, kinh doanh, nghiên cứu liên quan đến lĩnh vực thực phẩm. Giúp người học áp dụng
+được các kiến thức đã học trong thực tiễn.
+9.32. Thực hành tốt nghiệp 1 và 2
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Giúp người học có những trải nghiệm trong thực tiễn các công việc tại các đơn vị sản xuất,
+kinh doanh, nghiên cứu liên quan đến lĩnh vực thực phẩm. Giúp người học áp dụng được các
+kiến thức đã học trong thực tiễn.
+9.33. Khóa luận tốt nghiệp
+Phân bố thời gian học tập: 7(0/7/14)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Trang bị cho sinh viên các kiến thức và các kỹ năng tiếp cận nghiên cứu khoa học,
+vận dụng các kiến thức công nghệ đã học để hoàn thành đề tài nghiên cứu đã chọn.
+9.34. Các môn tốt nghiệp
+Phân bố thời gian học tập: 2(2/0/4)
+Môn học trước: không
+Môn học tiên quyết: không
+Môn học song hành: không
+Tóm tắt nội dung học phần:
+Nhắc lại và nâng cao hơn các kiến thức cơ sở ngành, chuyên ngành đã học
+10. Cơ sở vật chất phục vụ học tập
+10.1. Các xưởng, phòng thí nghiệm và các hệ thống thiết bị thí nghiệm quan trọng
+(Liệt kê các loại xưởng, phòng thí nghiệm sẽ phục vụ đào tạo)
+Bảng 3.1.1. Phòng học, giảng đường, trang thiết bị hỗ trợ giảng dạy
+Loại phòng học Danh mục trang thiết bị chính hỗ trợ
+(Phòng học, giảng giảng dạy
+Số đường, phòng học Diện Tên Số lượng Phục vụ học
+Số lượng
+TT đa phương tiện, tích (m2) thiết bị phần
+phòng học chuyên
+dụng)
+Các học phần lý
+1 Giảng đường 177 26.728
+thuyết
+Phòng học chuyên Anh văn 1,2,3,4,5
+2 01 97
+ngành Ngoại ngữ
+CAD/CAM
+TT Ứng dụng tin
+học trong xây
+dựng
+TT ứng dụng tin
+3 Phòng máy tính 16 1.164 học trong quản lý
+xây dựng
+Các phần sử dụng
+phần mềm
+Bảng 3.1.2. Phòng thí nghiệm, cơ sở thực hành và trang thiết bị phục vụ thí nghiệm, thực hành
+Số Tên phòng thí Diện Danh mục trang thiết bị chính
+TT nghiệm, xưởng, tích hỗ trợ thí nghiệm, thực hành
+Số
+TT	Loại phòng học
+(Phòng học, giảng
+đường, phòng học
+đa phương tiện,
+phòng học chuyên
+dụng)	Số lượng	Diện
+tích (m2)	Danh mục trang thiết bị chính hỗ trợ
+giảng dạy		
+				Tên
+thiết bị	Số lượng	Phục vụ học
+phần
+1	Giảng đường	177	26.728			Các học phần lý
+thuyết
+2	Phòng học chuyên
+ngành Ngoại ngữ	01	97			Anh văn 1,2,3,4,5
+3	Phòng máy tính	16	1.164			CAD/CAM
+TT Ứng dụng tin
+học trong xây
+dựng
+TT ứng dụng tin
+học trong quản lý
+xây dựng
+Các phần sử dụng
+phần mềm
+Số
+TT	Tên phòng thí
+nghiệm, xưởng,	Diện
+tích	Danh mục trang thiết bị chính
+hỗ trợ thí nghiệm, thực hành
+trạm trại, cơ sở thực (m2) Tên thiết bị Số Phục vụ môn
+hành lượng học /học phần
+1 Xưởng Công nghệ Tủ trữ đông Labtech 1 TN CNCB thịt
+Thực phẩm 1 Tủ lạnh 2 và hải sản
+Tủ sấy Memmert 1
+Cân kỹ thuật 1 TT CNCB
+Cân phân tích 1 đường và bánh
+Máy li tâm lắng 1 kẹo
+Máy đo độ nhớt hiện số 1
+Máy đo pH cầm tay 1
+Máy nghiền khô IKA 1
+Máy ép thủy lực 1
+Lò vi sóng 1
+Bộ rây tiêu chuẩn 1
+2 Xưởng Công nghệ Thiết bị sấy đối lưu 1
+Thực phẩm 2 Thiết bị sấy phun 1
+Thiết bị đồng hóa áp lực cao 1
+TN Quá trình,
+Thiết bị lên men 1
+thiết bị
+Máy sấy thăng hoa 1
+Máy cô quay chân không 1
+TT CNCB sữa
+Bể điều nhiệt lạnh, 1
+và các sản phẩm
+Bể điều nhiệt 1
+từ sữa.
+Máy trộn bột 1
+Hệ thống sấy thăng hoa 1
+Tủ sấy chân không 1
+Tủ lạnh 1
+3 Xưởng Công nghệ Autoclave 1
+Thực phẩm 3 Cân kỹ thuật 1
+Cối chày mã não 1
+Thí nghiệm quá
+Lò nướng 1
+trình thiết bị
+Lò vi sóng 1
+Máy cất nước 1
+TT CN chế biến
+Máy cắt thịt 1
+Trà, cà phê,
+Máy ép thủy lực 1
+cacao
+Máy ghép mí chân không 1
+Máy ghép nắp hộp 1
+TT CNCB rau
+Máy lọc nước siêu sạch 1
+quả và nước
+Máy nghiền thô 1
+giải khát.
+Máy trộn bột 1
+Máy xay thịt 1
+Tủ lạnh 1
+4 PTN Hóa sinh Lò nung 2 TN Phân tích
+Tủ sấy 1 TP
+Cân kỹ thuật 1
+	trạm trại, cơ sở thực
+hành	(m2)	Tên thiết bị	Số
+lượng	Phục vụ môn
+học /học phần
+1	Xưởng Công nghệ
+Thực phẩm 1		Tủ trữ đông Labtech	1	TN CNCB thịt
+và hải sản
+TT CNCB
+đường và bánh
+kẹo
+			Tủ lạnh	2	
+			Tủ sấy Memmert	1	
+			Cân kỹ thuật	1	
+			Cân phân tích	1	
+			Máy li tâm lắng	1	
+			Máy đo độ nhớt hiện số	1	
+			Máy đo pH cầm tay	1	
+			Máy nghiền khô IKA	1	
+			Máy ép thủy lực	1	
+			Lò vi sóng	1	
+			Bộ rây tiêu chuẩn	1	
+2	Xưởng Công nghệ
+Thực phẩm 2		Thiết bị sấy đối lưu	1	TN Quá trình,
+thiết bị
+TT CNCB sữa
+và các sản phẩm
+từ sữa.
+			Thiết bị sấy phun	1	
+			Thiết bị đồng hóa áp lực cao	1	
+			Thiết bị lên men	1	
+			Máy sấy thăng hoa	1	
+			Máy cô quay chân không	1	
+			Bể điều nhiệt lạnh,	1	
+			Bể điều nhiệt	1	
+			Máy trộn bột	1	
+			Hệ thống sấy thăng hoa	1	
+			Tủ sấy chân không	1	
+			Tủ lạnh	1	
+3	Xưởng Công nghệ
+Thực phẩm 3		Autoclave	1	Thí nghiệm quá
+trình thiết bị
+TT CN chế biến
+Trà, cà phê,
+cacao
+TT CNCB rau
+quả và nước
+giải khát.
+			Cân kỹ thuật	1	
+			Cối chày mã não	1	
+			Lò nướng	1	
+			Lò vi sóng	1	
+			Máy cất nước	1	
+			Máy cắt thịt	1	
+			Máy ép thủy lực	1	
+			Máy ghép mí chân không	1	
+			Máy ghép nắp hộp	1	
+			Máy lọc nước siêu sạch	1	
+			Máy nghiền thô	1	
+			Máy trộn bột	1	
+			Máy xay thịt	1	
+			Tủ lạnh	1	
+4	PTN Hóa sinh		Lò nung	2	TN Phân tích
+TP
+			Tủ sấy	1	
+			Cân kỹ thuật	1	
+Cân phân tích 1 TN Hóa sinh TP
+Tủ hút khí độc 1
+Bộ chiết chất xơ 1 TN Hóa vô cơ
+Máy lọc nước siêu sạch 1
+Máy khuấy từ gia nhiệt 1
+Máy ly tâm 2
+Bể rửa siêu âm 1
+Bếp cách thủy 1
+Hệ thống chưng cất 1
+Máy xác định hàm lượng 1
+chất béo
+Máy đo nhiệt trị 1
+Máy quang phổ tử ngoại 1
+Máy đo pH để bàn 1
+Bể điều nhiệt 2
+Bơm chân không 1
+Micropipette 2
+Máy lắc 2
+Pipet tự động 1
+5 PTN vi sinh Buồng đếm hồng cầu 1
+Cân kỹ thuật 1
+Kính hiển vi 5
+Máy đo pH để bàn 1
+Máy lắc ống nghiệm 1 TN Công nghệ
+Máy lắc 1 lên men
+Máy đếm khuẩn lạc 1
+Micropipette 6 TN vi sinh vật
+Lò vi sóng 1 TP
+Tủ cấy 1
+Tủ đông 1
+Tủ lạnh 1
+Tủ sấy 1
+10.2. Thư viện, trang Web
+(Liệt kê các thư viện và trang Web mà SV có thể sử dụng đề tìm kiếm tài liệu học tập)
+10.2.1. Thư viện
+- Tổng diện tích thư viện: 2.200m2trong đó diện tích phòng đọc: 580 m2
+- Số chỗ ngồi: 250 ; Số lượng máy tính phục vụ tra cứu: 40
+- Phần mềm quản lý thư viện: NIBOL
+- Thư viện điện tử: http://thuvien.hcmute.edu.vn hoặc http://lib.hcmute.edu.vn
+- Số lượng sách, giáo trình điện tử: 398.655 cuốn (gồm 31.649 đầu sách)
+10.2.2. Danh mục giáo trình, sách chuyên khảo, tạp chí của ngành đào tạo
+Bảng 3.2.2a. Danh mục giáo trình của ngành đào tạo
+			Cân phân tích	1	TN Hóa sinh TP
+TN Hóa vô cơ
+			Tủ hút khí độc	1	
+			Bộ chiết chất xơ	1	
+			Máy lọc nước siêu sạch	1	
+			Máy khuấy từ gia nhiệt	1	
+			Máy ly tâm	2	
+			Bể rửa siêu âm	1	
+			Bếp cách thủy	1	
+			Hệ thống chưng cất	1	
+			Máy xác định hàm lượng
+chất béo	1	
+			Máy đo nhiệt trị	1	
+			Máy quang phổ tử ngoại	1	
+			Máy đo pH để bàn	1	
+			Bể điều nhiệt	2	
+			Bơm chân không	1	
+			Micropipette	2	
+			Máy lắc	2	
+			Pipet tự động	1	
+5	PTN vi sinh		Buồng đếm hồng cầu	1	TN Công nghệ
+lên men
+TN vi sinh vật
+TP
+			Cân kỹ thuật	1	
+			Kính hiển vi	5	
+			Máy đo pH để bàn	1	
+			Máy lắc ống nghiệm	1	
+			Máy lắc	1	
+			Máy đếm khuẩn lạc	1	
+			Micropipette	6	
+			Lò vi sóng	1	
+			Tủ cấy	1	
+			Tủ đông	1	
+			Tủ lạnh	1	
+			Tủ sấy	1	
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+H.-D. Belitz, W.
+Anh văn chuyên
+1. Food Chemistry Grosch, P. Springer 2009
+ngành
+Schieberle
+Oils and Fats in Wiley-
+2. Frank D. Gunstone 2008 CNCB dầu mỡ TP
+the Food Industry Blackwell
+Kỹ thuật ép dầu
+Nguyễn Quang Khoa học kỹ
+3. và chế biến dầu 1993 CNCB dầu mỡ TP
+Lộc và ctv thuật
+mỡ thực phẩm
+The chemistry
+and technology
+Academic
+4. of edible oils and Hoffmann, G. 1989 CNCB dầu mỡ TP
+press
+fats and their
+high fat products
+Đại học
+Quản lý chất
+5. Vũ Quốc Bình Quốc gia Hà 2003 Luật TP
+lượng tòan diện
+nội
+Triển khai luật an QĐ 2194/QĐ -
+6. 2010 Luật TP
+toàn thực phẩm BNN- QLCL
+Luật an toàn thực Luật số 55/2010/
+7. 2012 Luật TP
+phẩm QH 2012
+S. Suzanne
+8. Food Analysis Springer 2009 Phân tích TP
+Nielsen
+Chemistry and
+Technology of Philip R. Ashurst CNCB rau quả và
+9. Blackwell 2005
+Soft Drinks & and Associates nước giải khát
+Fruit Juices
+Fruit juice Steven Nagy Chin
+Ag. Science CNCB rau quả và
+10. processing Shi Chen, Philip E. 1999
+Inc nước giải khát
+technology Shaw
+Beverage Quality
+Tammy Foster &
+and Safety, CRC Press CNCB rau quả và
+11. Purnendu C. 2003
+Institute of Food LLC nước giải khát
+Vasavada
+Technologists
+Đại học
+Công nghệ chế Quốc gia CNCB rau quả và
+12. Lê Văn Việt Mẫn 2003
+biến đồ uống Tp. Hồ Chí nước giải khát
+Minh
+Công nghệ sau Nguyễn Văn Tiếp,
+Khoa học & CNCB rau quả và
+13. thu hoạch và chế Quách Đĩnh, 2000
+Kỹ thuật nước giải khát
+biến rau quả Nguyễn Văn Thoa
+Dairy Science Walstra, P., Taylor and CNCB sữa và các
+14. 2006
+and technology, Wouters, J.T.M., Francis sản phẩm từ sữa
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+1.	Food Chemistry	H.-D. Belitz, W.
+Grosch, P.
+Schieberle	Springer	2009		Anh văn chuyên
+ngành
+2.	Oils and Fats in
+the Food Industry	Frank D. Gunstone	Wiley-
+Blackwell	2008		CNCB dầu mỡ TP
+3.	Kỹ thuật ép dầu
+và chế biến dầu
+mỡ thực phẩm	Nguyễn Quang
+Lộc và ctv	Khoa học kỹ
+thuật	1993		CNCB dầu mỡ TP
+4.	The chemistry
+and technology
+of edible oils and
+fats and their
+high fat products	Hoffmann, G.	Academic
+press	1989		CNCB dầu mỡ TP
+5.	Quản lý chất
+lượng tòan diện	Vũ Quốc Bình	Đại học
+Quốc gia Hà
+nội	2003		Luật TP
+6.	Triển khai luật an
+toàn thực phẩm	QĐ 2194/QĐ -
+BNN- QLCL		2010		Luật TP
+7.	Luật an toàn thực
+phẩm	Luật số 55/2010/
+QH 2012		2012		Luật TP
+8.	Food Analysis	S. Suzanne
+Nielsen	Springer	2009		Phân tích TP
+9.	Chemistry and
+Technology of
+Soft Drinks &
+Fruit Juices	Philip R. Ashurst
+and Associates	Blackwell	2005		CNCB rau quả và
+nước giải khát
+10.	Fruit juice
+processing
+technology	Steven Nagy Chin
+Shi Chen, Philip E.
+Shaw	Ag. Science
+Inc	1999		CNCB rau quả và
+nước giải khát
+11.	Beverage Quality
+and Safety,
+Institute of Food
+Technologists	Tammy Foster &
+Purnendu C.
+Vasavada	CRC Press
+LLC	2003		CNCB rau quả và
+nước giải khát
+12.	Công nghệ chế
+biến đồ uống	Lê Văn Việt Mẫn	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2003		CNCB rau quả và
+nước giải khát
+13.	Công nghệ sau
+thu hoạch và chế
+biến rau quả	Nguyễn Văn Tiếp,
+Quách Đĩnh,
+Nguyễn Văn Thoa	Khoa học &
+Kỹ thuật	2000		CNCB rau quả và
+nước giải khát
+14.	Dairy Science
+and technology,	Walstra, P.,
+Wouters, J.T.M.,	Taylor and
+Francis	2006		CNCB sữa và các
+sản phẩm từ sữa
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+2ed Geurts, T.J.
+Công nghệ sản
+xuất các sản
+Đại học
+phẩm từ sữa và
+quốc gia TP. CNCB sữa và các
+15. thức uống. Tập 1: Lê Văn Việt Mẫn 2004
+Hồ Chí sản phẩm từ sữa
+Công nghệ sản
+Minh
+xuất các sản
+phẩm từ sữa
+giáo trình công Khoa Học
+CNCB sữa và các
+16. nghệ các sản Lâm Xuân Thanh và Kỹ thuật 2006
+sản phẩm từ sữa
+phẩm sữa Hà Nội
+Belitz H.D.,
+17. Food Chemistry 1999 Hóa học TP
+Grosch W.
+Jeremy M.Berg, Hóa học TP
+Biochemistry,
+18. John L.Tymoczko, 2002
+5th ed
+Lubert Stryer
+The Hóa học TP
+Benjamin
+Mathews C.K,
+19. Biochemistry Cumming 1996
+Van Holde K.E
+Publishing
+Company
+Phạm Thị Trân Giáo dục Hóa học TP, Hóa
+20. Hóa sinh học 2011
+Châu Việt Nam sinh TP
+Protein in food CN Enzyme và
+21. R.Y. Yada CRC Press 2004
+processing Protein
+Isolation and CN Enzyme và
+Rajni Hatti Kaul,
+22. purification of 2003 Protein
+Bo Mattiasson
+proteins
+Meat Processing: CNCB thịt và thủy
+Kerry J., Kerry J.,
+23. Improving CRC Press 2002 sản
+Ledward D.
+Quality
+Food processing CNCB thịt và thủy
+technology. sản
+24. Fellows P J. CRC Press 2000
+Principles and
+practice
+Woodhead CNCB thịt và thủy
+Lawrie’s meat
+25. R. A. LAWRIE Publishing 1998 sản
+science
+limited
+Đại học CNCB thịt và thủy
+Công nghệ chế Quốc gia TP sản
+26. Lê Văn Việt Mẫn 2008
+biến thực phẩm Hồ Chí
+Minh
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+	2ed	Geurts, T.J.				
+15.	Công nghệ sản
+xuất các sản
+phẩm từ sữa và
+thức uống. Tập 1:
+Công nghệ sản
+xuất các sản
+phẩm từ sữa	Lê Văn Việt Mẫn	Đại học
+quốc gia TP.
+Hồ Chí
+Minh	2004		CNCB sữa và các
+sản phẩm từ sữa
+16.	giáo trình công
+nghệ các sản
+phẩm sữa	Lâm Xuân Thanh	Khoa Học
+và Kỹ thuật
+Hà Nội	2006		CNCB sữa và các
+sản phẩm từ sữa
+17.	Food Chemistry	Belitz H.D.,
+Grosch W.		1999		Hóa học TP
+18.	Biochemistry,
+5th ed	Jeremy M.Berg,
+John L.Tymoczko,
+Lubert Stryer		2002		Hóa học TP
+19.	Biochemistry	Mathews C.K,
+Van Holde K.E	The
+Benjamin
+Cumming
+Publishing
+Company	1996		Hóa học TP
+20.	Hóa sinh học	Phạm Thị Trân
+Châu	Giáo dục
+Việt Nam	2011		Hóa học TP, Hóa
+sinh TP
+21.	Protein in food
+processing	R.Y. Yada	CRC Press	2004		CN Enzyme và
+Protein
+22.	Isolation and
+purification of
+proteins	Rajni Hatti Kaul,
+Bo Mattiasson		2003		CN Enzyme và
+Protein
+23.	Meat Processing:
+Improving
+Quality	Kerry J., Kerry J.,
+Ledward D.	CRC Press	2002		CNCB thịt và thủy
+sản
+24.	Food processing
+technology.
+Principles and
+practice	Fellows P J.	CRC Press	2000		CNCB thịt và thủy
+sản
+25.	Lawrie’s meat
+science	R. A. LAWRIE	Woodhead
+Publishing
+limited	1998		CNCB thịt và thủy
+sản
+26.	Công nghệ chế
+biến thực phẩm	Lê Văn Việt Mẫn	Đại học
+Quốc gia TP
+Hồ Chí
+Minh	2008		CNCB thịt và thủy
+sản
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Công nghệ chế Khoa học và CNCB thịt và thủy
+27. Nguyễn Trọng Cẩn 2006
+biến thủy sản kỹ thuật sản
+Technology of Woodhead CNCB đường và
+28. biscuits, crackers Duncan Manley Publishing 2000 bánh kẹo
+and cookies limited
+Sugar CNCB đường và
+Blackie
+Confectionary R. Lees, E. B. bánh kẹo
+29. Academic & 2000
+and chocolate Jackson
+Professional
+manufacture
+Bakery Products CNCB đường và
+Blackwell
+30. Science and Y. H. Hui et al 2006 bánh kẹo
+Publishing
+Technology
+Các kỹ thuật hiện
+Các quá trình và đại trong CNTP,
+CN sấy TP, Máy
+thiết bị thủy lực – ĐHQG
+31. Nguyễn Tấn Dũng 2013 chế biến TP, Các
+khí nén và cơ học TpHCM
+quá trình và thiết
+trong CNTP
+bị truyền khối
+trong CNTP
+Các kỹ thuật hiện
+Các quá trình và đại trong CNTP,
+CN sấy TP, Máy
+thiết bị truyền ĐHQG
+32. Nguyễn Tấn Dũng 2013 chế biến TP, Các
+nhiệt trong TpHCM
+quá trình và thiết
+CNTP
+bị truyền khối
+trong CNTP
+Quá trình và Các kỹ thuật hiện
+Thiết bị Công Đại học đại trong CNTP,
+CN sấy TP,
+nghệ Hóa học và Quốc gia
+33. Phạm Văn Bôn 2004 Máy chế biến TP,
+Thực phẩm – Bài Tp. Hồ Chí
+Các quá trình và
+tập Truyền Minh
+thiết bị truyền
+Nhiệt khối trong CNTP
+Quá trình & Các kỹ thuật hiện
+Thiết bị Công đại trong CNTP,
+CN sấy TP, Các
+nghệ Hóa học và Đại học
+quá trình và thiết
+Thực phẩm – Tập Quốc gia
+34. Phạm Văn Bôn 2002 bị truyền khối
+5: Tp. Hồ Chí
+trong CNTP
+Quá trình và Minh
+Thiết bị Truyền
+nhiệt
+Đại học Các kỹ thuật hiện
+đại trong CNTP,
+Quốc gia
+35. Công nghệ lạnh Nguyễn Tấn Dũng 2008 Các quá trình và
+Tp. Hồ Chí
+thiết bị truyền
+Minh
+khối trong CNTP
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+27.	Công nghệ chế
+biến thủy sản	Nguyễn Trọng Cẩn	Khoa học và
+kỹ thuật	2006		CNCB thịt và thủy
+sản
+28.	Technology of
+biscuits, crackers
+and cookies	Duncan Manley	Woodhead
+Publishing
+limited	2000		CNCB đường và
+bánh kẹo
+29.	Sugar
+Confectionary
+and chocolate
+manufacture	R. Lees, E. B.
+Jackson	Blackie
+Academic &
+Professional	2000		CNCB đường và
+bánh kẹo
+30.	Bakery Products
+Science and
+Technology	Y. H. Hui et al	Blackwell
+Publishing	2006		CNCB đường và
+bánh kẹo
+31.	Các quá trình và
+thiết bị thủy lực –
+khí nén và cơ học
+trong CNTP	Nguyễn Tấn Dũng	ĐHQG
+TpHCM	2013		Các kỹ thuật hiện
+đại trong CNTP,
+CN sấy TP, Máy
+chế biến TP, Các
+quá trình và thiết
+bị truyền khối
+trong CNTP
+32.	Các quá trình và
+thiết bị truyền
+nhiệt trong
+CNTP	Nguyễn Tấn Dũng	ĐHQG
+TpHCM	2013		Các kỹ thuật hiện
+đại trong CNTP,
+CN sấy TP, Máy
+chế biến TP, Các
+quá trình và thiết
+bị truyền khối
+trong CNTP
+33.	Quá trình và
+Thiết bị Công
+nghệ Hóa học và
+Thực phẩm – Bài
+tập Truyền
+Nhiệt	Phạm Văn Bôn	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2004		Các kỹ thuật hiện
+đại trong CNTP,
+CN sấy TP,
+Máy chế biến TP,
+Các quá trình và
+thiết bị truyền
+khối trong CNTP
+34.	Quá trình &
+Thiết bị Công
+nghệ Hóa học và
+Thực phẩm – Tập
+5:
+Quá trình và
+Thiết bị Truyền
+nhiệt	Phạm Văn Bôn	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2002		Các kỹ thuật hiện
+đại trong CNTP,
+CN sấy TP, Các
+quá trình và thiết
+bị truyền khối
+trong CNTP
+35.	Công nghệ lạnh	Nguyễn Tấn Dũng	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2008		Các kỹ thuật hiện
+đại trong CNTP,
+Các quá trình và
+thiết bị truyền
+khối trong CNTP
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Máy chế biến TP,
+Unit Operation in Albert Ibarz,
+Các quá trình và
+36. Food Gustavo V. CRC Press 2003
+thiết bị truyền
+Engineering Barbosa- Canovas
+khối trong CNTP
+Sổ tay Quá trình Các quá trình và
+Khoa học và
+và Thiết bị Công Nguyễn Bin và các thiết bị cơ học -
+37. Kỹ thuật Hà 2004
+thủy lực - khí nén
+Nghệ Hóa Chất – cộng sự
+Nội trong CNTP
+Tập 1 & 2
+Các quá trình và Các quá trình và
+thiết bị trong thiết bị cơ học -
+thủy lực - khí nén
+công nghệ hóa
+Đại học trong CNTP
+học và thực
+Quốc gia
+38. phẩm, Tập 1 - Nguyễn Văn Lụa 2005
+Tp. Hồ Chí
+Các quá trình và
+Minh
+thiết bị cơ học,
+Quyển 1 : Khuấy
+- Lắng Lọc
+Quá trình và Các quá trình và
+Thiết bị thiết bị cơ học -
+thủy lực - khí nén
+Công nghệ Hóa
+trong CNTP
+học và Thực
+phẩm – Tập 1:
+Trần Hùng Dũng,
+Đại học
+Các quá trình Cơ
+Nguyễn Văn Lục, Quốc gia
+39. học – Quyển 2: 2005
+Vũ Bá Minh, Tp. Hồ Chí
+Phân riêng
+Hoàng Minh Nam Minh
+bằng khí động,
+lực ly tâm, bơm
+quạt, máy nén,
+tính hệ thống
+đường ống,
+The Đánh giá cảm
+Sensory
+University quan TP
+40. Evaluation Mason R. 2002
+of
+Manual
+Queensland
+Tổng cục Đánh giá cảm
+tiêu chuẩn- quan TP
+Kỹ thuật phân
+41. Hà Duyên Tư đo lường 1991
+tích cảm quan
+chất lượng
+Hà Nội
+Đánh giá cảm Đánh giá cảm
+quan thực phẩm: Nguyễn Hoàng Đại học quan TP
+42. 2007
+Nguyên tắc và Dũng (biên dịch) Quốc gia
+thực hành
+43. Sensory O’Mahony Marcel 1986 Đánh giá cảm
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+36.	Unit Operation in
+Food
+Engineering	Albert Ibarz,
+Gustavo V.
+Barbosa- Canovas	CRC Press	2003		Máy chế biến TP,
+Các quá trình và
+thiết bị truyền
+khối trong CNTP
+37.	Sổ tay Quá trình
+và Thiết bị Công
+Nghệ Hóa Chất –
+Tập 1 & 2	Nguyễn Bin và các
+cộng sự	Khoa học và
+Kỹ thuật Hà
+Nội	2004		Các quá trình và
+thiết bị cơ học -
+thủy lực - khí nén
+trong CNTP
+38.	Các quá trình và
+thiết bị trong
+công nghệ hóa
+học và thực
+phẩm, Tập 1 -
+Các quá trình và
+thiết bị cơ học,
+Quyển 1 : Khuấy
+- Lắng Lọc	Nguyễn Văn Lụa	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2005		Các quá trình và
+thiết bị cơ học -
+thủy lực - khí nén
+trong CNTP
+39.	Quá trình và
+Thiết bị
+Công nghệ Hóa
+học và Thực
+phẩm – Tập 1:
+Các quá trình Cơ
+học – Quyển 2:
+Phân riêng
+bằng khí động,
+lực ly tâm, bơm
+quạt, máy nén,
+tính hệ thống
+đường ống,	Trần Hùng Dũng,
+Nguyễn Văn Lục,
+Vũ Bá Minh,
+Hoàng Minh Nam	Đại học
+Quốc gia
+Tp. Hồ Chí
+Minh	2005		Các quá trình và
+thiết bị cơ học -
+thủy lực - khí nén
+trong CNTP
+40.	Sensory
+Evaluation
+Manual	Mason R.	The
+University
+of
+Queensland	2002		Đánh giá cảm
+quan TP
+41.	Kỹ thuật phân
+tích cảm quan	Hà Duyên Tư	Tổng cục
+tiêu chuẩn-
+đo lường
+chất lượng
+Hà Nội	1991		Đánh giá cảm
+quan TP
+42.	Đánh giá cảm
+quan thực phẩm:
+Nguyên tắc và
+thực hành	Nguyễn Hoàng
+Dũng (biên dịch)	Đại học
+Quốc gia	2007		Đánh giá cảm
+quan TP
+43.	Sensory	O’Mahony	Marcel	1986		Đánh giá cảm
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Evaluation of Michael Dekker quan TP
+Food: Statistical
+Methods and
+Procedures Food
+Science and
+Technology
+Sensory Đánh giá cảm
+44. Evaluation Morten Meilgaard CRC Press 1999 quan TP
+Techniques
+Functional foods: Glenn R. Gibson Thực phẩm chức
+45. concept to và Christine M. CRC Press 2000 năng
+product Williams
+Phytochemical Ian Johnson và Thực phẩm chức
+46. CRC Press 2003
+Functional Foods Gary Williamson năng
+Green tea: Health Thực phẩm chức
+Marcel
+47. benefits and Yukihiko Hara 2001 năng
+Dekker
+applications
+Thực phẩm chức
+48. Caffeine Gene A. Spiller CRC Press 1998
+năng
+Lehnigher Hóa sinh TP
+W. H.
+David L. Nelson
+Principles of Freeman
+49. and Michael 2008
+Biochemistry – and
+M.Cox
+5th Edition Company
+Hóa sinh học Khoa học và Hóa sinh TP
+50. Lê Ngọc Tú 1998
+công nghiệp kỹ thuật
+Hóa học thực Khoa học và Hóa sinh TP
+51. Hoàng Kim Anh 2005
+phẩm kỹ thuật
+Handbook of Độc tố học TP
+52. Deshpande, S.S. CRC Press 2005
+Food Toxicology
+Helferich, W., Độc tố học TP
+53. Food Toxicology CRC Press 2001
+Winter, C.K.
+Độc tố học và an Khoa học kỹ Độc tố học TP
+54. Lê Ngọc Tú 2006
+toàn thực phẩm thuật Hà Nội
+Công nghệ chế Đại học Độc tố học TP
+55. Lê Văn Việt Mẫn 2009
+biến thực phẩm Quốc Gia
+Vi sinh vật học Độc tố học TP
+Nông
+56. và an toàn vệ Lương Đức Phẩm 2000
+nghiệp
+sinh thực phẩm
+Food Taylor & CN sinh học TP
+Kalidas Shetty et
+57. Biotechnology Francis 2006
+al
+(Second edition) Group
+JohnWiley CN sinh học TP
+58. Fundamentals of Byong H. Lee 2015
+& Sons
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+	Evaluation of
+Food: Statistical
+Methods and
+Procedures Food
+Science and
+Technology	Michael	Dekker			quan TP
+44.	Sensory
+Evaluation
+Techniques	Morten Meilgaard	CRC Press	1999		Đánh giá cảm
+quan TP
+45.	Functional foods:
+concept to
+product	Glenn R. Gibson
+và Christine M.
+Williams	CRC Press	2000		Thực phẩm chức
+năng
+46.	Phytochemical
+Functional Foods	Ian Johnson và
+Gary Williamson	CRC Press	2003		Thực phẩm chức
+năng
+47.	Green tea: Health
+benefits and
+applications	Yukihiko Hara	Marcel
+Dekker	2001		Thực phẩm chức
+năng
+48.	Caffeine	Gene A. Spiller	CRC Press	1998		Thực phẩm chức
+năng
+49.	Lehnigher
+Principles of
+Biochemistry –
+5th Edition	David L. Nelson
+and Michael
+M.Cox	W. H.
+Freeman
+and
+Company	2008		Hóa sinh TP
+50.	Hóa sinh học
+công nghiệp	Lê Ngọc Tú	Khoa học và
+kỹ thuật	1998		Hóa sinh TP
+51.	Hóa học thực
+phẩm	Hoàng Kim Anh	Khoa học và
+kỹ thuật	2005		Hóa sinh TP
+52.	Handbook of
+Food Toxicology	Deshpande, S.S.	CRC Press	2005		Độc tố học TP
+53.	Food Toxicology	Helferich, W.,
+Winter, C.K.	CRC Press	2001		Độc tố học TP
+54.	Độc tố học và an
+toàn thực phẩm	Lê Ngọc Tú	Khoa học kỹ
+thuật Hà Nội	2006		Độc tố học TP
+55.	Công nghệ chế
+biến thực phẩm	Lê Văn Việt Mẫn	Đại học
+Quốc Gia	2009		Độc tố học TP
+56.	Vi sinh vật học
+và an toàn vệ
+sinh thực phẩm	Lương Đức Phẩm	Nông
+nghiệp	2000		Độc tố học TP
+57.	Food
+Biotechnology
+(Second edition)	Kalidas Shetty et
+al	Taylor &
+Francis
+Group	2006		CN sinh học TP
+58.	Fundamentals of	Byong H. Lee	JohnWiley
+& Sons	2015		CN sinh học TP
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Food
+Biotechnology,
+(Second edition)
+Công nghệ sinh Nguyễn Đức ĐHQG CN sinh học TP
+59.
+học Lượng TPHCM
+Application of CN sinh học TP
+Biotechnology to Elmer L. Gaden, Marcel
+60. 1992
+Traditional JR et al Dekker
+fermented food
+Plant CN sinh học TP
+National
+Biotechnology Kirsi-Marja
+61. Academy 2002
+and transgenic Oksman-Caldentay
+Press
+plants
+Animal cell CN sinh học TP
+Kluwer
+technology:
+62. Kouji Ikura et al Academic 2002
+challenges for the
+Publishers
+21st century
+Blackie CNCB đồ hộp
+The canning of Footitt RJ, Lewis academic
+63. 1995
+fish and meat. AS. and
+professional
+Nguyên lý sản Nguyễn Trọng CNCB đồ hộp
+Khoa học và
+64. xuất đồ hộp thực Cẩn, Nguyễn Lệ 2009
+Kỹ thuật
+phẩm Hà
+Công nghệ đồ CNCB đồ hộp
+Khoa học và
+65. hộp thủy sản và Nguyễn trọng Cẩn 2008
+Kỹ thuật
+gia súc gia cầm
+Đại học CNCB đồ hộp
+Kỹ thuật bao bì Đống Thị Anh Quốc gia
+66. 2005
+thực phẩm Đào TP. Hồ Chí
+minh
+Các quá trình CNCB đồ hộp
+công nghệ trong Nông
+67. Trần Minh Tâm 1994
+chế biến nông nghiệp
+sản thực phẩm
+Physical CN bảo quản lạnh
+Karel M, Lund D Marcel
+68. principles of food 2003 TP
+B dekker
+preservation
+Technilogical Dzung N.T, Ba VNU CN bảo quản lạnh
+69. 2007
+Freezing Food T.D. HCMC TP
+Coffee, Tea, CNCB trà, cà phê,
+70. Chocolate and Nehlig A. CRC Press 2004 cacao
+brain
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+	Food
+Biotechnology,
+(Second edition)					
+59.	Công nghệ sinh
+học	Nguyễn Đức
+Lượng	ĐHQG
+TPHCM			CN sinh học TP
+60.	Application of
+Biotechnology to
+Traditional
+fermented food	Elmer L. Gaden,
+JR et al	Marcel
+Dekker	1992		CN sinh học TP
+61.	Plant
+Biotechnology
+and transgenic
+plants	Kirsi-Marja
+Oksman-Caldentay	National
+Academy
+Press	2002		CN sinh học TP
+62.	Animal cell
+technology:
+challenges for the
+21st century	Kouji Ikura et al	Kluwer
+Academic
+Publishers	2002		CN sinh học TP
+63.	The canning of
+fish and meat.	Footitt RJ, Lewis
+AS.	Blackie
+academic
+and
+professional	1995		CNCB đồ hộp
+64.	Nguyên lý sản
+xuất đồ hộp thực
+phẩm	Nguyễn Trọng
+Cẩn, Nguyễn Lệ
+Hà	Khoa học và
+Kỹ thuật	2009		CNCB đồ hộp
+65.	Công nghệ đồ
+hộp thủy sản và
+gia súc gia cầm	Nguyễn trọng Cẩn	Khoa học và
+Kỹ thuật	2008		CNCB đồ hộp
+66.	Kỹ thuật bao bì
+thực phẩm	Đống Thị Anh
+Đào	Đại học
+Quốc gia
+TP. Hồ Chí
+minh	2005		CNCB đồ hộp
+67.	Các quá trình
+công nghệ trong
+chế biến nông
+sản thực phẩm	Trần Minh Tâm	Nông
+nghiệp	1994		CNCB đồ hộp
+68.	Physical
+principles of food
+preservation	Karel M, Lund D
+B	Marcel
+dekker	2003		CN bảo quản lạnh
+TP
+69.	Technilogical
+Freezing Food	Dzung N.T, Ba
+T.D.	VNU
+HCMC	2007		CN bảo quản lạnh
+TP
+70.	Coffee, Tea,
+Chocolate and
+brain	Nehlig A.	CRC Press	2004		CNCB trà, cà phê,
+cacao
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Elsevier CNCB trà, cà phê,
+Coffee. Volume Clarke R J, Macrae
+71. Applied 1997 cacao
+2. Technology R.
+science
+The Science of RSC CNCB trà, cà phê,
+72. Beckett, S., T. 2008
+Chocolate publishing cacao
+Industrial CNCB trà, cà phê,
+Chocolate cacao
+73. Beckett, S., T. Blackwell 2009
+Manufacture and
+Use
+Belitz, H. D., CNCB trà, cà phê,
+74. Food Chemistry Grosch, W., Springer cacao
+Schieberle
+Developing New Nghiên cứu phát
+Food Products Aaron L. Brody, Technomic triển sản phẩm
+75. Publishing 2000
+for Changing John B. Lord
+Company
+Marketplace
+Woodhead
+Food Product Earle M, Earle R
+76. Publishing 2001 Nghiên cứu phát
+Development and Anderson A.
+Limited triển sản phẩm
+John Wiley Vi sinh vật TP
+Essential
+77. Hogg, S. and Sons 2005
+Microbiology
+Ltd
+Food The Royal Vi sinh vật TP
+M.R.Adams and
+78. Microbiology , Society of 2000
+M.O.Moss
+2nd edition Chemistry
+Nguyễn Lân Dũng, Vi sinh vật TP
+Nguyễn Đình
+79. Vi sinh vật học Giáo Dục 2002
+Quyến, Phạm Văn
+Ty
+Vi sinh vật học Vi sinh vật TP
+Nông
+80. và an toàn vệ Lương Đức Phẩm 2000
+nghiệp
+sinh thực phẩm
+Vi sinh vật công Vi sinh vật TP
+81. Lê Xuân Phương Xây Dựng 2001
+nghiệp
+Richard Coles, Kỹ thuật bao bì
+Food Packaging
+82. Derek McDowell CRC Press 2003 TP
+Technology
+and Mark J.Kirwan
+Principles of Công nghệ lên
+Butterworth-
+P.F.Stanbury,
+Fermentation Heinemann, men
+83. A.Whitaker, 2003
+Technology, 2nd Elservier
+S.J.Hall
+edition Science
+Microbial Chapman & Công nghệ lên
+84. Nicolai S. Panikov 1995
+Growth Kinetics Hall men
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+71.	Coffee. Volume
+2. Technology	Clarke R J, Macrae
+R.	Elsevier
+Applied
+science	1997		CNCB trà, cà phê,
+cacao
+72.	The Science of
+Chocolate	Beckett, S., T.	RSC
+publishing	2008		CNCB trà, cà phê,
+cacao
+73.	Industrial
+Chocolate
+Manufacture and
+Use	Beckett, S., T.	Blackwell	2009		CNCB trà, cà phê,
+cacao
+74.	Food Chemistry	Belitz, H. D.,
+Grosch, W.,
+Schieberle	Springer			CNCB trà, cà phê,
+cacao
+75.	Developing New
+Food Products
+for Changing
+Marketplace	Aaron L. Brody,
+John B. Lord	Technomic
+Publishing
+Company	2000		Nghiên cứu phát
+triển sản phẩm
+76.	Food Product
+Development	Earle M, Earle R
+and Anderson A.	Woodhead
+Publishing
+Limited	2001		Nghiên cứu phát
+triển sản phẩm
+77.	Essential
+Microbiology	Hogg, S.	John Wiley
+and Sons
+Ltd	2005		Vi sinh vật TP
+78.	Food
+Microbiology ,
+2nd edition	M.R.Adams and
+M.O.Moss	The Royal
+Society of
+Chemistry	2000		Vi sinh vật TP
+79.	Vi sinh vật học	Nguyễn Lân Dũng,
+Nguyễn Đình
+Quyến, Phạm Văn
+Ty	Giáo Dục	2002		Vi sinh vật TP
+80.	Vi sinh vật học
+và an toàn vệ
+sinh thực phẩm	Lương Đức Phẩm	Nông
+nghiệp	2000		Vi sinh vật TP
+81.	Vi sinh vật công
+nghiệp	Lê Xuân Phương	Xây Dựng	2001		Vi sinh vật TP
+82.	Food Packaging
+Technology	Richard Coles,
+Derek McDowell
+and Mark J.Kirwan	CRC Press	2003		Kỹ thuật bao bì
+TP
+83.	Principles of
+Fermentation
+Technology, 2nd
+edition	P.F.Stanbury,
+A.Whitaker,
+S.J.Hall	Butterworth-
+Heinemann,
+Elservier
+Science	2003		Công nghệ lên
+men
+84.	Microbial
+Growth Kinetics	Nicolai S. Panikov	Chapman &
+Hall	1995		Công nghệ lên
+men
+Năm
+Số Nhà xuất Số Sử dụng cho học
+Tên giáo trình Tên tác giả xuất
+TT bản bản phần
+bản
+Practical Công nghệ lên
+Brian Mcneil, John Wiley
+85. Fermentation 2008 men
+LinDa M.Harvey & Sons
+Technology
+Bảng 3.2.2b. Danh mục sách chuyên khảo, tạp chí của ngành đào tạo
+Nhà xuất bản số, Số
+Số Tên sách chuyên Sử dụng cho học
+Tên tác giả tập, năm xuất bản
+TT khảo/tạp chí phần
+bản
+Tạp chí Khoa ĐH SPKT TP. Tài liệu tham
+học Giáo dục Kỹ HCM khảo cho các môn
+thuật học cơ sở ngành
+và chuyên ngành
+11. Hướng dẫn thực hiện chương trình
+a. Chương trình đào tạo được triển khai theo quy chế đào tạo đại học hệ chính quy theo hệ
+thống tín chỉ hiện hành của Bộ GD&ĐT và của trường ĐH SPKT Tp.HCM.
+Giờ quy định tính như sau:
+1 tín chỉ = 15 tiết giảng dạy lý thuyết hoặc thảo luận trên lớp
+= 30 giờ thí nghiệm hoặc thực hành
+= 45 giờ tự học
+= 45  90 giờ thực tập tại cơ sở.
+= 45  60 giờ thực hiện đồ án, khoá luận tốt nghiệp.
+Số giờ của môn học là bội số của 15.
+b. Chuẩn đầu ra ngoại ngữ được Hội đồng Khoa học Đào tạo trường quyết định vào đầu
+các khóa tuyển sinh. Trong thời gian học tập, Nhà trường sẽ kiểm soát sự phát triển
+trình độ ngoại ngữ của sinh viên qua từng năm học để quyết định số tín chỉ các môn học
+trong học kỳ mà SV được phép đăng ký. SV có thể tự học hoặc đăng ký theo học
+chương trình phát triển năng lực ngoại ngữ theo đề án của Nhà trường.
+Hiệu trưởng Trưởng khoa
+Số
+TT	Tên giáo trình	Tên tác giả	Nhà xuất
+bản	Năm
+xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+85.	Practical
+Fermentation
+Technology	Brian Mcneil,
+LinDa M.Harvey	John Wiley
+& Sons	2008		Công nghệ lên
+men
+Số
+TT	Tên sách chuyên
+khảo/tạp chí	Tên tác giả	Nhà xuất bản số,
+tập, năm xuất
+bản	Số
+bản	Sử dụng cho học
+phần
+1	Tạp chí Khoa
+học Giáo dục Kỹ
+thuật		ĐH SPKT TP.
+HCM		Tài liệu tham
+khảo cho các môn
+học cơ sở ngành
+và chuyên ngành

@@ -1,0 +1,300 @@
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên tốt nghiệp ngành công nghệ kỹ thuật Điện-Điện Tử (Điện công nghiệp) có thể làm những công việc gì?
+<|assistant|>
+Các em có thể tham khảo chuẩn đầu ra trên trang web của trường: http://hcmute.edu.vn/ArticleId/27d1787d-2646-4042-865a 6c37bd838e79/khoa-dien-dien-tu
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên học ngành công nghệ kỹ thuật Điện-Điện Tử (Điện công nghiệp) muốn về làm công tác ở các công ty điện lực, các nhà máy điện, trạm biến áp thì phải học và bổ sung những môn học và kiến thức gì?
+<|assistant|>
+Các em nên học chuyên sâu hơn các kiến thức về: Máy điện, an toàn điện, Hệ thống điện, Cung cấp điện, hệ thống thu thập dữ liệu và điều khiển, CAD trong kỹ thuật điện nâng cao, giải tích mạng điện và mô phỏng trên máy tính,  Ngoài ra, các em có thể tìm hiểu thêm các thông tin: Quy phạm trang  bị điện, Quy trình kỹ thuật an toàn điện, Luật điện lực 2012, thông tư 32 BCT,.... http://dien-congnghiep.com/tai-lieu-ky-thuat.html hoặc http://dien congnghiep.com/ho-tro-ky-thuat.html
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên học ngành công nghệ kỹ thuật Điện-Điện Tử (Điện công nghiệp) muốn về làm công tác ở các công ty tư vấn thiết kế điện thì phải học và bổ sung những môn học và kiến thức gì?
+<|assistant|>
+Các em nên học chuyên sâu hơn các kiến thức về: Máy điện, an toàn điện, Hệ thống điện, Cung cấp điện, hệ thống thu thập dữ liệu và điều khiển, CAD trong kỹ thuật điện nâng cao, giải tích mạng điện và mô phỏng trên máy tính,  Ngoài ra, các em có thể tìm hiểu thêm các thông tin: Quy phạm trang  bị điện, Quy trình kỹ thuật an toàn điện, Luật điện lực 2012, thông tư 32 BCT, các tiêu chuẩn về thiết kế mạng điện động lực, hệ thống điện, PCCC, Auto CAD, đọc nhiều thêm các Catalog thiết bị điện, đóng cắt và bảo vệ của các công ty ABB, Schneider, LS, Mitsubishi, … Các em có thể tham khảo trang web: http://dien-congnghiep.com/tai-lieu-ky thuat.html hoặc http://dien-congnghiep.com/ho-tro-ky-thuat.html
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên ngành Công nghệ kỹ thuật điều khiển và tự động hóa có thi tốt nghiệp để ra trường không?
+<|assistant|>
+Hiện nay, chủ trương của bộ môn các sinh viên ngành CNKTĐK và Tự động hóa đều phải thực hiện đồ án tốt nghiệp để cũng cố lại kiến thức, nâng cao kỹ năng nghề nghiệp, kỹ năng mềm, kinh nghiệm để khi ra trường có thể làm việc được ngay. Tuy nhiên nếu sinh viên có nguyện vọng được thi để ra trường đúng tiến độ thì sinh viên có thể làm thủ tục mở lớp như các môn học bình thường và nếu đảm bảo đủ sỉ số theo yêu cầu của nhà trường thì bộ môn sẽ mở lớp cho sinh viên học tốt nghiệp.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên ngành  Công nghệ kỹ thuật điều khiển và tự động hóa phải đạt tối thiểu bao nhiêu tín chỉ thì mới được xét làm đồ án tốt nghiệp?
+<|assistant|>
+Số lượng tín chỉ tích lũy không cố định trong từng học kỳ, điều này tùy thuộc vào số lượng giảng viên tham gia hướng dẫn và số sinh viên của học kỳ đó. Thông thường thì số tín chỉ tích lũy để được làm đề tài tốt nghiệp bằng tổng số tín chỉ trong chương trình học trừ đi số tín chỉ của học kỳ cuối và dao động từ 5 đến 10%.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Môn điện tử cơ bản nội dung quá dài, GV dạy nhanh nên chúng em không kịp tiếp thu hết nội dung bài giảng.
+<|assistant|>
+Chương trình 150 tín chỉ đã rút ngắn thời gian đào tạo, các môn học cần phải tích hợp. Để đảm bảo nội dung giảng dạy, các thầy cô đã rất cố gắng truyền đạt đầy đủ kiến thức cho các em, mặc khác cũng yêu cầu SV phải chủ động chuẩn bị bài và làm bài tập. Từ HKI/2014-2015 GV viên đã sử dung trợ giảng (TA)  để hỗ trợ SV giải bải tập, giải đáp thắc mắc và hướng dẫn SV mô phỏng mạch điện tử ngoài giờ lên lớp.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em rất thích học môn Điện tử công suất và Điện tử cơ bản vì nó có nhiều ứng dụng thực tế, em có nguyện vọng làm TA cho các thầy cô dạy hai môn này
+<|assistant|>
+Cảm ơn em đã quan tâm đến vấn đề này. Nếu em có điểm trung bình hai môn học ĐTCS và ĐTCB lớn hơn 8.0 và điểm trung bình tích luỹ trên 7.0, thì đầu HK mới em liên hệ Bộ môn để được giới thiệu làm TA.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên học chưa đậu môn mạch điện 1 & 2 sẽ học thay thế như thế nào trong chương trình mới 150TC
+<|assistant|>
+Những SV chưa đậu môn Mạch điện 1&2 có thể học tương đương bằng môn Mạch Điện (4 TC) trong chương trình mới 150 TC.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Điều kiện để học môn thay thế khi không có trong danh mục các môn học tương đương?
+<|assistant|>
+Điều kiện để SV được học môn thay thế:SV thuộc HK kéo dài mà môn học trả nợ đã được thay thế bằng môn khác (do CTĐT các khóa sau không còn môn học này). SV thuộc HK kéo dài chỉ còn nợ 1 môn học mà trong HK học trả nợ không mở môn học này. SV ở HK cuối kéo dài mà trong HK học trả nợ không mở môn này. SV làm Đơn xin học môn thay thế (theo mẫu của P.Đào tạo), có xác nhận của chủ nhiệm bộ môn, khoa quản môn học, Phòng đào tạo.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Để biết môn tương đương/thay thế của bộ môn (BM) Điện tử Công nghiệp (ĐTCN) ở đâu?
+<|assistant|>
+Thông tin trên phòng Đào tạo/website BM ĐTCN/liên lạc Trưởng bộ môn bằng email/facebook hay gặp trực tiếp.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Trong nhiều môn tự chọn thì nên chọn những môn nào để học?
+<|assistant|>
+Liên lạc Trưởng/Phó bộ môn, tư vấn viên bằng email/facebook.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Làm sao để sử dụng được Learning Management System của Pearson?
+<|assistant|>
+Xem hướng dẫn trên website Bộ môn Điện tử công nghiệp, nếu vẫn không sử dụng được thì liên hệ theo địa chỉ email kèm theo để được hướng dẫn.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Chương trình đào tạo sinh viên chuyên ngành Kỹ Thuật Máy Tính chia ra các hướng chính nào?
+<|assistant|>
+Chuyên ngành chia thành 2 lĩnh vực chính là: Hệ thống nhúng: khảo sát về các họ vi điều khiển 8-32bit của (Atmel, ARM, ST…) các dòng FPGA của Altera và Xilinx. Lập trình firmware và software cho hệ thống nhúng, xây dựng các giao diện người dùng (HMI-GUI) sử dụng ngôn ngữ lập trình C, C# và Qt. Thiết kế vi mạch (tương tự và mạch số) sử dụng ngôn ngữ mô tả Verilog, VHDL trên các công cụ thiết kế như: Quartus, ModelSim (edu) hoặc Synopsys (industrial) hoặc các công cụ layout mạch tương tự như Cadence, L-Edit…Môi trường khảo sát thiết kế trên Windows hoặc Linux.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Một số công ty tuyển dụng sinh viên chuyên ngành Kỹ thuật máy tính là gì?
+<|assistant|>
+- Về lĩnh vực hệ thống nhúng sử  dụng vi điều khiển và FPGA: Datalogic, DataSystem, Sonion, Renesas, National Instrument, FPT software,… - Về lĩnh vực thiết kế vi mạch: ICDREC, Renesas, Arrive Technology,…
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Chúng em học ngành Điện tử nhưng tại sao Khoa mình lại lấy tên ngành là CN Kỹ thuật Điện tử - Truyền thông?
+<|assistant|>
+Tên ngành CN Kỹ thuật Điện tử - Truyền thông chọn theo qui định của Bộ GD-ĐT. Hiện nay ngành này ở Khoa ĐĐT có 2 hướng: Điện tử viễn thông và Điện tử công nghiệp. SV sẽ được chọn khi chuyển sang học chuyên ngành (HK3).
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Chúng em học ngành CN Kỹ thuật điện tử truyền thông năm 3, muốn chuẩn bị làm đồ án tốt nghiệp trước, vậy chúng em có thể liên hệ với thầy cô nào để đăng ký đề tài?
+<|assistant|>
+Thông thường, đầu HK cuối cùng SV sẽ được Bộ môn chọn làm ĐATN theo điểm số tích lũy. Tuy nhiên, SV có thể chuẩn bị trước 1 HK để có thời gian và đề tài đạt chất lượng tốt hơn. Ngoài ra SV có thể gặp trực tiếp GV giảng dạy theo chuyên  ngành mình yêu thích để đăng ký đề tài. Những trường hợp này SV nên gặp trực tiếp Trưởng Bộ môn để xin ý kiến trước khi gặp GV.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Ngành Công Nghệ Kỹ Thuật Máy Tính thuộc Bộ  Môn Điện Tử Viễn Thông khác với các ngành Khoa Học Máy Tính, Kỹ Thuật Phần Mềm bên Khoa CNTT như thế nào?
+<|assistant|>
+Ngành CN Kỹ Thuật Máy Tính  tập trung vào sự kết hợp giữa phần cứng và phần mềm. Trong cuộc sống hiện đại, chúng ta được bao quanh bởi hệ thống và thiết bị điện tử và hầu hết chúng dựa trên phần mềm để làm vệc. Trong vài trường hợp, đó là hình thức của firmwave, được nhúng vào bên trong thiết bị như hệ điều hành của điện thoại thông minh hoặc tablet. Ngành KTMT là chương trình tương tác giữa điện tử (hardware) và phần mềm (software). Thông thường, chúng ta cần một kỹ sư điện tử để thiết kế phần cứng máy tính và một kỹ sư phần mềm để viết chương trình phần mềm. Tuy nhiên, sinh viên ngành KTMT sau khi ra trường có thể thiết kế toàn bộ một điện thoại di động bao gồm cả phần cứng và phần mềm để làm thiết bị phần cứng hoạt động. Đây là chương trình đổi mới kết hợp cả phần cứng và phần mềm, nó đáp ứng nhu cầu của doanh nghiệp, nhà nghiên cứu, chuyên gia  kỹ thuật những người sẽ sáng tạo, khám phá và thực hiện những thế hệ tiếp theo của sản phẩm và hệ thống vì sự thay đổi nhanh chóng của thế giới. Ngành Khoa Học Máy Tính Và Công Nghệ Phần Mềm tập trung nghiên cứu cách những máy tính được lập trình để có thể làm việc trong môi trường mới. Ngành Khoa Học Máy Tính liên quan cơ sở lý thuyết thông tin có thể thực thi và triển khai các ứng dụng như các vấn đề về trí tuệ nhân tạo, tính toán tốc độ cao, hệ thống thị giác máy tính. Ngành  Công Nghệ Phần Mềm phù hợp cho những sinh viên yêu thích phát triển phần mềm như Java, C#.NET, tới C++.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+SV chưa có chứng chỉ GDQP có được thi tốt nghiệp không?
+<|assistant|>
+Đối với trình độ đại học, SV vẫn có thể thi tốt nghiệp với điều kiện: a.Đã tích lũy đủ số học phần quy định theo CTĐT; b.Không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập có thời hạn trở lên hoặc đăng trong thời gian truy cứu trách nhiệm hình sự, tính ở thời điểm xét điều kiện dự thi tốt nghiệp Nhưng khi SV có điểm tốt nghiệp đạt thì SV vẫn chưa được tốt nghiệp vì theo điều 27, Quy chế 43 thì điều kiện tốt nghiệp: tích lũy đủ số học phần quy định cho CTĐT, có chứng chì GDQP, GDTC. Ngoài ra, SV không nợ học phí.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên có được mượn thiết bị của nhà trường để làm đồ án tốt nghiệp không?
+<|assistant|>
+Tất cả sinh viên của khoa điện đều có thể sử dụng cơ sở vật chất tại các phòng thí nghiệm của khoa để thực hành, nâng cao kỹ năng nghề nghiệp nếu đáp ứng được các yêu cầu sau; • Khi vào phòng thí nghiệm phải trang phục đúng quy định của phòng. • Phải có giảng viên đảm bảo về thiết bị được sử dụng.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Làm thế nào để học cho qua được những môn học khó hoặc các anh chị khóa trước bị “rớt nhiều”?
+<|assistant|>
+Các em nên đầu đầu tư nhiều thời gian hơn cho các môn học khó, nên đọc bài ở nhà trước khi lên lớp (1 tiết học trên lớp cần ít nhất 2 tiết chuẩn bị bài trước ở nhà), mạnh dạn phát biểu ý kiến xây dựng bài, làm bài tập đầy đủ, hỏi GV hoặc trợ giảng, trao đổi kinh nghiệm với các anh chị khóa trước để học tốt hơn,…
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Những kỹ năng mềm cần thiết khi ra trường đi làm?
+<|assistant|>
+Các kỹ năng mềm các em nên học hỏi và hoàn thiện: kỹ năng làm việc nhóm, kỹ năng trình bày, kỹ năng sử dụng vi tính, ngoại ngữ, kỹ năng giải quyết vấn đề, kiến thức phổ thông, tổng quan về cuộc sống,...
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Làm sao sinh viên có thể lựa chọn được môn học tự chọn phù hợp với yêu cầu công việc sau này?
+<|assistant|>
+Bạn cần được định hướng công việc cụ thể sau này mình theo đuổi. Một chuyên ngành được thiết kế đào tạo tại trường Đại Học để thỏa mãn nhiều tiêu chí. Tuy nhiên, bạn cần tự định hướng cho mình sau này sẽ làm việc trong môi trường thế nào (tư vấn giải pháp, triển khai giải pháp, vận hành giải pháp,..); từ đó tìm hiểu yêu cầu cụ thể của nhà tuyển dụng trong từng  môi trường và chọn cụ thể từng môn học. Bạn cần nói chuyện thêm với trưởng ngành đào tạo để có định hướng tốt hơn.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em đăng ký học môn tự chọn, nhưng kết quả học không đạt vậy em có thể học môn tự chọn khác thay cho môn học đó không và có ảnh hưởng đến kết quả xét tốt nghiệp hay không?
+<|assistant|>
+Sinh viên có thể đăng ký tự do học các môn tự chọn, nếu kết quả học không đạt sinh viên có thể đăng ký học một môn tự chọn khác nhưng phải đảm bảo đủ số lượng tín chỉ cho các môn tự chọn. Đối với môn tự chọn, có kết quả không đạt vẫn được tính vào điểm trung bình học kỳ và không được xét cấp học bổng khuyến khích như các môn học bình thường. Khi sinh viên đã tích lũy đủ số tín chỉ cho các môn học tự chọn, thì kết quả môn học tự chọn không đạt sẽ được hủy và không ảnh hưởng đến kết quả xét tốt nghiệp.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Trong cả học kỳ, em tham gia học đầy đủ, có cả điểm quá trình nhưng cuối kỳ vì bị bệnh em không thể tham gia thi, em có giấy chứng nhận của Bệnh viện, vậy liệu em có thể thi lại đợt sau không?
+<|assistant|>
+SV làm thủ tục xin điểm I gồm: Đơn xin nhận điểm I,  giấy tờ xác nhận lý do hợp lệ, lịch thi cá nhân nộp tại văn phòng Khoa quản Sinh viên. Nếu đơn được sự đồng ý của Khoa và Phòng Đào tạo, SV mang Đơn xin nhận điểm I (đã có chữ ký của khoa, phòng đào tạo) đến khoa quản môn học để được xếp phòng thi trước ngày thi 1 tuần.  Thời gian SV được phép trả điểm I học phần này tối đa là 2 học kỳ sau đó.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Trong khóa học của mình em có được đi  tham quan nhà máy hoặc tiếp xúc công việc thực tế để trao dồi kinh nghiệm và học tập hay không ?
+<|assistant|>
+Trong toàn khóa học em sẽ được đi thực tế ngay trong môn học, ví dụ : Thực tập tốt nghiệp,Thực tập sư phạm, TT cung cấp điện… Ngoài ra em còn được đi các buổi tham quan tại nhà máy do Đoàn khoa Điện-điện tử kết hợp với các công ty bên ngoài trường tổ chức. Bên cạnh đó các công ty cũng thường xuyên tổ chức gặp gỡ sinh viên tại trường, tại khoa và giới thiệu về công ty hay những sản phẩm của chính họ. Đây là 1 điều rất thuận lợi cho SV.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Các anh chị báo cáo tốt nghiệp, em là sinh viên năm 1 có được tham gia nghe hay ko ?
+<|assistant|>
+Rất khuyến khích tinh thần ham học tập của em. Việc này hoàn toàn được. Em có thể tham khảo thêm lịch báo cáo tốt nghiệp tại văn phòng khoa.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Khi muốn nâng cao năng lực làm việc thực tế, sinh viên phải làm sao?
+<|assistant|>
+Sinh viên có thể tham gia các câu lạc bộ chuyên ngành, các cuộc thi sáng tạo do khoa, hoặc trường tổ chức, tham gia NCKH SV,
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em là sinh viên năm nhất, điểm trung bình học kì 2 của em trên 8 chấm. Nhưng khi em học GDQP học kì hè vừa rồi, em bị rớt học phần 2 nhưng thi lại thì em đã qua, nhưng khi có danh sách học bổng KKHT mà em lại không có tên trong danh sách mặc dù điểm trung bình của em cao hơn các bạn có tên trong danh sách học bổng?
+<|assistant|>
+Khi SV thi không đạt 1 trong 4 học phần GDQP  (thi lần đầu), thì SV không được xét học bổng khuyến khích học tập của học kì tới mặc dù điểm trung bình môn của SV cao hơn các SV khác.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Từ khoá 2012 áp dụng chương trình 150 tín chỉ, em còn nợ môn Điện tử cơ bản 2 (3TC) thì phải học môn nào thay thế?
+<|assistant|>
+Môn học thay thế là Điện tử cơ bản (4TC).Danh sách các môn học tương đương bộ môn đã gửi lên PĐT cập nhật.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Điểm bảo lưu môn học được tính như thế nào? Có tính vào điểm học kỳ hay không?
+<|assistant|>
+Điểm bảo lưu không tính vào điểm trung bình tích luỹ hay điểm trung bình chung.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Những môn tự chọn, nếu rớt có cần học lại môn đó không? Có thể học môn tự chọn khác cho đủ 10 tín chỉ được hay không?
+<|assistant|>
+SV rớt môn tự chọn, có thể đăng ký lại môn đó hoặc 1 môn tự chọn khác trong các môn tự chọn thuộc chương trình đào tạo của mình, cho đủ số tín chỉ quy định
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Công bố điều kiện SV thuộc diện thôi học
+<|assistant|>
+SV bị buộc thôi học vì nhiều lý do: -SV không đủ điều kiện đầu vào -SV nghỉ học tự do -Vì lý do học lực. Việc xét buộc thôi học vì lý do học lực được tiến hành theo năm học: +Điểm TBC năm học dưới 3.0 đối với SV năm thứ nhất (khối lượng kiến thức (KLKT) tích lũy dưới 30 tín chỉ) +Điểm TBC năm học dưới 3.5 đối với SV năm thứ hai (KLKT tích lũy từ 30 đến 60 tín chỉ) +Điểm TBC năm học dưới 4.0 đối với SV năm thứ ba (KLKT tích lũy từ 60 đến 90 tín chỉ) +Điểm TBC năm học dưới 4.5 đối với SV các năm tiếp theo và cuối khóa
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Muốn thi cải thiện điểm phải làm sao? Và trường sẽ lấy điểm nào? Các môn học của mỗi học kỳ có thể xem ở đâu? Đáp án: SV có thể đăng ký học lại môn học muốn cải thiện điểm, điểm trung bình tích lũy sẽ được tính theo điểm cao nhất. Điều kiện để làm đồ án tốt nghiệp hoặc thi tốt nghiệp?
+<|assistant|>
+Tiêu chuẩn làm đồ án tốt nghiệp tùy vào tình hình cụ thể của từng bộ môn . Tuy nhiên, có các nguyên tắc chung như sau: ưu tiên SV có điểm tích lũy cao, SV có số tín chỉ tích lũy đạt yêu cầu (thường là tổng số tín chỉ của ngành học trừ đi số tín chỉ trong học kỳ cuối), SV không nợ hay nợ không quá 5 tín chỉ. Thường số SV làm đồ án chiếm khoảng 30-50% tồng số SV của khóa học. Các trường hợp riêng có đơn trình bày và được xem xét cụ thể.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Việc đăng kí và thực hiện vệ sinh môi trường dành cho SV khoa Điện - Điện tử như thế nào?
+<|assistant|>
+Hình thức đăng kí: -    Ban cán sự lớp lập danh sách sinh viên tham gia, thời gian thực hiện (kèm số điện thoại,email người phụ trách) nộp về văn phòng Đoàn Khoa Điện-Điện Tử (Lầu 2 Khu C). -    Thời gian:10h đến 11h30 từ thứ 2 đến thứ 5 hàng tuần. -    Yêu cầu: Đăng kí trước 1 tuần,đăng kí làm liên tiếp trong 4 tuần tiếp theo. Buổi sáng tối đa 16 người, buổi chiều tối đa 20 người. Sau khi đăng kí Ban Quản Lý sẽ thông báo lịch làm việc qua kênh thông tin facebook: Công Tác Xã Hội_Điện Điện tử_SPKT hoặc qua email người phụ trách. -    Khi có ngày trống Ban Quản Lý sẽ thông báo và cho các bạn đăng kí tự do qua mạng. Thời gian và địa điểm: -    Thời gian: Sáng từ 7h00-8h30 , Chiều từ 16h30 đến 18h. - Địa điểm thực hiện: Xung quanh khu C, Khu D và phần sân cỏ giữa khu A trường ĐH Sư Phạm Kỹ Thuật TP.Hồ Chí Minh. - Địa điểm lấy dụng cụ: Tập trung đúng giờ tại sảnh khu D gần cầu thang (gần khu ghế đá) Lúc này có Ban Quản Lý giao công cụ. Công việc: Buổi sáng: +Khuôn viên ngoài trời quanh khu C, khu D và phần sân cỏ giữa khu A. +Quét và giữ sạch đường đi, bãi cỏ , bồn hoa, tiêu cảnh, vườn cây hằng ngày. (Quét rác, nhặt bao nylon, cành và lá cây…) +Rác đổ vào thùng hằng ngày đúng nơi quy định đảm bảo về quy định phòng cháy chữa cháy ( Không đốt rác). Buổi chiều: +Cầu thang, hành lang, sảnh của các tòa nhà Khu C , Khu D và Khu A +Vệ sinh hàng ngày đảm bảo khô ráo sạch sẽ ( Quét dọn đất cát và rác; lau chùi các vết bẩn dưới sàn, mép tường, trên tay vịn). *Làm tốt công việc mỗi buổi các bạn được cộng 2.5đ CTXH. *SV  đăng kí mà không tham gia sẽ bị trừ điểm. *Thông tin chi tiết: liên hệ Facebook: Công Tác Xã Hội_Điện Điện tử_SPKT *Người Phụ trách: Nguyễn Thanh Thảo, ĐT: 0967355406.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Văn Phòng Đoàn Khoa Điện - Điện tử ở đâu? Đoàn Khoa giúp gì cho Sinh viên?
+<|assistant|>
+Phòng Đoàn Khoa Điện - Điện tử tại Tầng 2, Khu C, kế bên phòng C102. Đoàn Khoa Điện - Điện tử thực hiện Công tác Đoàn và Phong Trào Thanh niên trong Khoa cũng như cho SV toàn trường như Công tác phát triển Đoàn, Đảng; tổ chức các buổi sinh hoạt chính trị, xã hội, hoạt động cộng đồng như thời sự chính trị xã hội, thể thao, văn nghệ, cuộc thi học thuật, hội thảo, tham quan công ty, câu lạc bộ Điện - Điện tử, câu lạc bộ anh văn, lớp kỹ năng, vệ sinh môi trường hiến máu nhân đạo,  hoạt động tình nguyện khác,...
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Các địa chỉ Facebook của Đoàn Khoa?
+<|assistant|>
+Đoàn Khoa sử dụng các Facebook sau để đăng thông báo, trao đổi học thuật và công tác Đoàn: Đoàn TN Hội SV Khoa Điện - Điện Tử SPKT, Đoàn- Hội Khoa Điện-Điện Tử, Câu lạc bộ Điện - Điện tử SPKT, "Robot tìm đường trong mê cung" - Khoa Dien - Dien Tu - DHSPKT Tp.HCM, Nhóm trung kiên ĐH SPKT, Sinh viên Khoa Điện - Điện tử (ĐH SPKT TPHCM)
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em đăng ký sư phạm, em được miễn học phí, vậy nếu em bị học lại thì em có phải đóng học phí không?
+<|assistant|>
+Nếu SV học CTĐT đại học chính qui có sư phạm thì các môn học lần thứ nhất sẽ không phải đóng học phí, nhưng các lần học sau (do thi không đạt yêu cầu tín chỉ theo học hoặc cải thiện điểm) thì phải đóng tiền học phí
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Đăng ký ngành Sư phạm thì đăng ký như thế nào? Nếu đăng ký được thì sau đó phân chia lớp và học như thế nào?
+<|assistant|>
+Theo thông báo số 383/TB/ĐHSPKT/CTHSSV ngày 10/09/2014 thì: hiện tại, khoa Điện-Điện tử có 2 ngành mà SV có thể đăng ký học sư phạm: -Sư phạm kỹ thuật điện tử truyền thông thuộc ngành CNKT điện  tử truyền thông -Sư phạm kỹ thuật điện – điện tử thuộc ngành CNKT điện, điện tử SV khóa mới trúng tuyển vào trường, nếu có nguyện vọng học chương trình sư phạm thì làm đơn Đăng ký cam kết phục vụ sư phạm (SV có thể download mẫu trên web hoặc đến vpk nhận mẫu đơn). SV điền đầy đủ thông tin và nộp đơn tại VPK. Nhà trường sẽ xét tuyển và ra quyết định công nhận, phân lớp SV đủ điều kiện đăng ký học chương trình SPKT. SV ngành sư phạm sẽ học chương trình đào tạo 4,5 năm (3,5 năm đầu do khoa quản ngành quản lý & tổ chức đào tạo; 1 năm cuối do Viện sư phạm kỹ thuật quản lý & tổ chức. Khi SV tốt nghiệp được cấp bằng kỹ sư (hoặc cử nhân) theo mã ngành học & chứng chỉ sư phạm kỹ thuật
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Việc xét học bổng cho học kỳ 2 kỳ rồi có cần dựa vào điểm học kỳ hè không?
+<|assistant|>
+Học bổng khuyến khích học tập học kỳ 1/2014-2015 sẽ lấy kết quả học tập, rèn luyện .. ở học kỳ 2/2013-2014 của SV (nếu SV có đăng ký học hè, kết quả học hè sẽ tính vào học kỳ 2/2013-2014)
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Điểm rèn luyện quan trọng như thế nào đối với mỗi SV?
+<|assistant|>
+Đánh giá kết quả rèn luyện của SV được tiến hành theo từng học kỳ, điểm rèn luyện của học kỳ là tổng điểm đạt được của 5 nội dung đánh giá: -Ý thức và kết quả học tập; -Ý thức và kết quả chấp hành nội quy, quy chế trong nhà trường; -Ý thức và kết quả tham gia các hoạt động chính trị – xã hội, văn hóa, văn nghệ, thể thao, phòng chống các tệ nạn xã hội; -Phẩm chất công dân và quan hệ với cộng đồng; -Ý thức và kết quả tham gia công tác của lớp, các đoàn thể, tổ chức khác trong Nhà trường hoặc các thành tích đặc biệt trong học tập, rèn luyện của SV. Việc đánh giá kết quả rèn luyện của SV nhằm góp phần thực hiện mục tiêu giáo dục là đào tạo SV phát triển toàn diện, có đạo đức, tri thức, sức khoẻ, thẩm mỹ và nghề nghiệp…
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Ban đại diện lớp làm tốt nhiệm vụ được ưu đãi những gì?
+<|assistant|>
+Ban đại diện lớp hoàn thành nhiệm vụ của năm học sẽ được cộng điểm rèn luyện, được nhà trường khen thưởng, riêng với khóa 2012 trở về sau, ban đại diện lớp sẽ được tính ngày CTXH (từ 1 đến 2 ngày CTXH) tùy theo mức độ hoàn thành nhiệm vụ.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em là con chế độ chính sách, vậy nếu học lại em có phải đóng học phí không? Nếu em không ra trường đúng tiến độ, thì thời gian kéo dài tối đa của em là mấy học kỳ?
+<|assistant|>
+Nếu SV học lại, hoặc học các môn học ngoài chương trình đào tạo thì phải đóng tiền học phí. Thời gian kéo dài của SV sẽ bằng thời gian học chính thức của khóa học. Ví dụ: SV học CTĐT đại học chính quy khối A là 4 năm, thì sẽ được kéo dài tối đa là 4 năm (8 học kỳ)
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em ở vùng có điều kiện khó khăn, thôn nghèo, thì em được hưởng chính sách ưu tiên nào không? Nếu có thì làm ở đâu?
+<|assistant|>
+Theo TB 357 ngày 04/08/2014 của P.CTHSSV thì SV thuộc hộ nghèo, cận nghèo là người dân tộc thiểu số; hoặc SV ở vùng có điều kiện kinh tế - xã hội khó khăn, đặc biệt khó khăn là người dân tộc thiểu số rất ít người sẽ được miễn học phí. Hàng năm, vào HK 1 SV nộp hồ sơ xét miễn giảm học phí tại văn phòng khoa từ đầu HK 1 đến hết tháng 10; HK2 SV nộp hồ sơ từ đầu HK 2 đến hết tháng 4.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Khi gặp khó khăn về tài chính, sinh viên phải làm sao để vượt qua?
+<|assistant|>
+Có rất nhiều cách để vượt qua những khó khăn về tài chính trong quá trình học tại. Sinh viên thường có tâm lý e ngại hay mặc cảm khi hỏi về các chính sách về tài chính. Thật ra, điều này rất cởi mở ở nước ngoài. Nếu bạn gặp khó khăn về tài chính trong quá trình học hay chỉ vì đơn giản bạn muốn độc lập về tài chính để theo đuổi ước mơ của mình, bạn có thể tìm nguồn tài chính tại các khoản vay của Ngân Hàng Chính Sách Xã Hội. Bạn cũng có thể tận dụng các nguồn tài trợ, học bổng từ Quỹ học bổng Sư Phạm Kỹ Thuật. Nếu bản cần thêm chi phí để trang trải  sinh hoạt phí trong quá trình học tập, bạn có thể đề nghị Trung tâm Dịch vụ Sinh viên Sư phạm Kỹ Thuật tìm kiếm cho bạn một công việc làm thêm phù hợp với năng lực của mình. Nói tóm lại, tại Trường Đại Học Sư Phạm Kỹ Thuật Tp. Hồ Chí Minh cung cấp cho bạn rất nhiều cơ hội để theo đuổi ước mơ của mình.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Khi sinh viên bị quên mật khẩu truy cập tài khoản online thì phục hồi như thế nào?
+<|assistant|>
+Sinh viên phải liên hệ Trung Tâm Thông Tin để phục hồi mật khẩu.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Sinh viên có được nghỉ học các ngày nghỉ của quốc gia hay không (30/4, 1/5, 2/9,...)
+<|assistant|>
+Thông thường thì sinh viên được nghỉ các ngày lễ quốc gia (30/4, 1/5, 2/9,...) trừ các trường hợp ngoại lệ. Các trường hợp ngoại lệ như các yêu cầu tham gia các hoạt động mít tinh, chào mừng các ngày lễ lớn, hay đón các đoàn khách ngoại giao yêu cầu có sự tham gia của sinh viên… Các ngày nghỉ vào các ngày lễ, các dịp lễ trong năm được Hiệu trưởng quyết định và được thông báo rộng rãi. Sinh viên phải theo dõi các thông báo này để chủ động việc mua vé tàu/xe về quê cũng như trở lại trường học.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+học sinh có thể xin giấy xác nhận học sinh, sinh viên ở đâu?
+<|assistant|>
+Sinh viên có thể xin giấy xác nhận học sinh, sinh viên ở Phòng công tác học sinh sinh viên ở lầu 2 tòa nhà trung tâm.
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Nếu sinh viên có thắc mắc thì có thể liên lạc ở đâu?
+<|assistant|>
+Sinh viên có thể liên hệ ban tư vấn viên của Khoa trực thuộc hoặc của Trường thông qua email, facebook, hoặc gọi điện thoại trực tiếp…
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Trong học tập, nếu gặp các vấn đề khó, không giải được, sinh viên có thể hỏi ở đâu?
+<|assistant|>
+Sinh viên có thể nhờ các bạn trong lớp, hoặc liên hệ trực tiếp với Thầy(Cô) dạy môn đó, hoặc có thể liên hệ gặp Trợ giảng, hoặc liên hệ với Ban tư vấn SV của khoa,…
+<|system|>
+Bạn là một trợ lý AI hỗ trợ sinh viên trường Đại học Sư phạm kỹ thuật Thành Phố Hồ Chí Minh giải đáp các thắc mắc của họ. Hãy trả lời câu hỏi thật chính xác?
+<|user|>
+Em muốn tham gia phong trào để giúp ích cộng đồng và trao dồi kinh nghiệm sống như mùa hè xanh, tiếp sức mùa thi thì em liên hệ thế nào ?
+<|assistant|>
+Em có thể  liên hệ văn phòng Đoàn khoa để biết thông tin, kế hoạch tổ chức và đăng ký.
