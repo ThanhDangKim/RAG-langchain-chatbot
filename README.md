@@ -58,7 +58,7 @@ Sử dụng một cơ sở dữ liệu vector để lưu trữ và truy xuất t
 
 Triển khai mô hình chatbot để trả lời câu hỏi từ người dùng.
 
-- Chạy file `qabot.py` để:
+- Chạy file `qabot.ipynb` để:
   - Tải mô hình đã tinh chỉnh và cơ sở dữ liệu vector.
   - Triển khai mô hình để trả lời các câu hỏi từ người dùng dựa trên truy vấn vector và kiến thức của mô hình.
 
@@ -67,7 +67,7 @@ Triển khai mô hình chatbot để trả lời câu hỏi từ người dùng.
 1. **Chuẩn bị dữ liệu:** Chạy file `prepare_data.ipynb` để xử lý và chuẩn bị dữ liệu.
 2. **Tinh chỉnh mô hình:** Chạy file `finetune_model.ipynb` để huấn luyện mô hình.
 3. **Thiết lập cơ sở dữ liệu vector:** Chạy `vectorquery.py` để thiết lập cơ sở dữ liệu.
-4. **Triển khai chatbot:** Chạy `qabot.py` để bắt đầu trả lời câu hỏi từ người dùng.
+4. **Triển khai chatbot:** Chạy `qabot.ipynb` để bắt đầu trả lời câu hỏi từ người dùng.
 
 ## Kết Luận
 
